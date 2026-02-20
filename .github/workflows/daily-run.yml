@@ -35,11 +35,22 @@ jobs:
       - name: Run Dashboard Generator
         run: python scripts/generate_dashboard.py
 
-      - name: Commit and Push changes
+      - name: Create 100 Daily Commits and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*.json README.md
-          git diff-index --quiet HEAD || git commit -m "Auto Update: $(date -u)"
-          git push
 
+          mkdir -p data
+          TODAY=$(date -u +"%Y-%m-%d")
+
+          for i in $(seq 1 100); do
+            if [ "$i" -eq 1 ]; then
+              git add data/*.json README.md
+            fi
+
+            echo "$TODAY | commit $i | $(date -u +"%H:%M:%S")" >> data/daily-commits.log
+            git add data/daily-commits.log
+            git commit -m "Daily contribution $TODAY #$i"
+          done
+
+          git push
