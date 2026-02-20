@@ -1,0 +1,50 @@
+[
+    {
+        "name": "obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_today": "889 stars today"
+    },
+    {
+        "name": "RichardAtCT/claude-code-telegram",
+        "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+        "language": "Python",
+        "stars_today": "174 stars today"
+    },
+    {
+        "name": "open-mercato/open-mercato",
+        "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+        "language": "TypeScript",
+        "stars_today": "56 stars today"
+    },
+    {
+        "name": "harvard-edge/cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "JavaScript",
+        "stars_today": "663 stars today"
+    },
+    {
+        "name": "HailToDodongo/pyrite64",
+        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+        "language": "C++",
+        "stars_today": "608 stars today"
+    },
+    {
+        "name": "openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars_today": "3,390 stars today"
+    },
+    {
+        "name": "freemocap/freemocap",
+        "description": "Free Motion Capture for Everyone 💀✨",
+        "language": "Python",
+        "stars_today": "141 stars today"
+    },
+    {
+        "name": "p-e-w/heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars_today": "652 stars today"
+    }
+]
