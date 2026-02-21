@@ -1,0 +1,49 @@
+import json
+import os
+from datetime import datetime, UTC
+from zoneinfo import ZoneInfo
+
+
+DATA_DIR = "data"
+LOG_PATH = os.path.join(DATA_DIR, "auto-commits.log")
+OUTPUT_PATH = os.path.join(DATA_DIR, "run_health.json")
+TARGET_PER_DAY = 100
+
+
+def count_today_commits(today_ist: str) -> int:
+    if not os.path.exists(LOG_PATH):
+        return 0
+
+    count = 0
+    with open(LOG_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.startswith(f"{today_ist} |"):
+                count += 1
+    return count
+
+
+def update_run_health() -> None:
+    now_utc = datetime.now(UTC)
+    now_ist = now_utc.astimezone(ZoneInfo("Asia/Kolkata"))
+    today_ist = now_ist.strftime("%Y-%m-%d")
+    commits_today = count_today_commits(today_ist)
+
+    payload = {
+        "last_run_utc": now_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
+        "last_run_ist": now_ist.strftime("%Y-%m-%d %H:%M:%S IST"),
+        "date_ist": today_ist,
+        "target_commits_per_day": TARGET_PER_DAY,
+        "commits_today": commits_today,
+        "remaining_today": max(TARGET_PER_DAY - commits_today, 0),
+        "status": "on-track" if commits_today < TARGET_PER_DAY else "target-reached",
+    }
+
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=4)
+
+    print("Run health updated.")
+
+
+if __name__ == "__main__":
+    update_run_health()

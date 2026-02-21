@@ -5,8 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '5 2 * * *'   # 07:35 AM IST primary
-    - cron: '35 14 * * *' # 08:05 PM IST fallback
+    - cron: '*/10 * * * *' # every 10 minutes
   workflow_dispatch:
 
 concurrency:
@@ -32,17 +31,28 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Decide Feed Refresh Window
+        id: feed_window
+        run: |
+          MINUTE_UTC=$(date -u +"%M")
+          HOUR_UTC=$(date -u +"%H")
+          if [ "$MINUTE_UTC" = "00" ] && { [ "$HOUR_UTC" = "00" ] || [ "$HOUR_UTC" = "06" ] || [ "$HOUR_UTC" = "12" ] || [ "$HOUR_UTC" = "18" ]; }; then
+            echo "refresh=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "refresh=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run GitHub Trending Fetcher
+        if: steps.feed_window.outputs.refresh == 'true'
         run: python scripts/fetch_github_trending.py
 
       - name: Run Crypto Data Fetcher
+        if: steps.feed_window.outputs.refresh == 'true'
         run: python scripts/fetch_crypto_data.py
 
       - name: Run Hacker News Fetcher
+        if: steps.feed_window.outputs.refresh == 'true'
         run: python scripts/fetch_hacker_news.py
-
-      - name: Run Dashboard Generator
-        run: python scripts/generate_dashboard.py
 
       - name: Create Auto Commit and Push
         run: |
@@ -53,14 +63,23 @@ jobs:
           mkdir -p data
           TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
           NOW_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d %H:%M:%S IST")
+          CURRENT_COUNT=0
 
-          if [ -f data/auto-commits.log ] && grep -q "^$TODAY_IST | daily heartbeat commit$" data/auto-commits.log; then
-            echo "Daily commit already created for $TODAY_IST (IST)."
+          if [ -f data/auto-commits.log ]; then
+            CURRENT_COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log || true)
+          fi
+
+          if [ "$CURRENT_COUNT" -ge 100 ]; then
+            echo "Daily target already reached for $TODAY_IST (IST): $CURRENT_COUNT commits."
             exit 0
           fi
 
-          echo "$TODAY_IST | daily heartbeat commit" >> data/auto-commits.log
+          NEXT_COUNT=$((CURRENT_COUNT + 1))
+          echo "$TODAY_IST | commit $NEXT_COUNT | $NOW_IST" >> data/auto-commits.log
+
+          python scripts/update_run_health.py
+          python scripts/generate_dashboard.py
 
           git add data/*.json README.md data/auto-commits.log
-          git commit -m "Daily auto update $NOW_IST"
+          git commit -m "Auto contribution $TODAY_IST #$NEXT_COUNT at $(TZ=Asia/Kolkata date +"%H:%M")"
           git push

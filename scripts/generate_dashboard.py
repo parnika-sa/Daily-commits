@@ -6,6 +6,7 @@ def generate_dashboard():
     github_data_path = os.path.join('data', 'github_trending.json')
     crypto_data_path = os.path.join('data', 'crypto.json')
     hacker_news_data_path = os.path.join('data', 'hacker_news.json')
+    run_health_data_path = os.path.join('data', 'run_health.json')
     
     # Load Data
     github_repos = []
@@ -22,6 +23,11 @@ def generate_dashboard():
     if os.path.exists(hacker_news_data_path):
         with open(hacker_news_data_path, 'r', encoding='utf-8') as f:
             hacker_news = json.load(f)
+
+    run_health = {}
+    if os.path.exists(run_health_data_path):
+        with open(run_health_data_path, 'r', encoding='utf-8') as f:
+            run_health = json.load(f)
             
     # Prepare Content
     now_utc = datetime.now(UTC).strftime('%Y-%m-%d %H:%M:%S UTC')
@@ -42,6 +48,20 @@ def generate_dashboard():
         summary += f" Top Hacker News story: **{hacker_news[0]['title']}**."
     
     content += f"## 🤖 Automated Summary\n{summary}\n\n"
+
+    content += "## 🩺 Run Health\n"
+    if run_health:
+        content += "| Metric | Value |\n"
+        content += "| :--- | :--- |\n"
+        content += f"| Last Run (UTC) | {run_health.get('last_run_utc', 'N/A')} |\n"
+        content += f"| Last Run (IST) | {run_health.get('last_run_ist', 'N/A')} |\n"
+        content += f"| Daily Target | {run_health.get('target_commits_per_day', 'N/A')} |\n"
+        content += f"| Commits Today (IST) | {run_health.get('commits_today', 'N/A')} |\n"
+        content += f"| Remaining Today | {run_health.get('remaining_today', 'N/A')} |\n"
+        content += f"| Status | {run_health.get('status', 'N/A')} |\n"
+    else:
+        content += "_Run health data unavailable._\n"
+    content += "\n"
     
     # Crypto Section
     content += "## 💰 Crypto Snapshot\n"
