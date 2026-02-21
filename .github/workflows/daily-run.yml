@@ -5,8 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '5 1 * * *'   # 06:35 AM IST (primary daily run)
-    - cron: '35 13 * * *' # 07:05 PM IST (fallback run)
+    - cron: '*/15 * * * *' # every 15 minutes (UTC)
   workflow_dispatch:
 
 jobs:
@@ -36,29 +35,16 @@ jobs:
       - name: Run Dashboard Generator
         run: python scripts/generate_dashboard.py
 
-      - name: Create 100 Daily Commits and Push
+      - name: Create Auto Commit and Push
         run: |
           set -e
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
 
           mkdir -p data
-          TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
+          NOW_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d %H:%M:%S IST")
+          echo "$NOW_IST | heartbeat commit" >> data/auto-commits.log
 
-          # Prevent duplicate 100-commit batches if fallback/manual run happens same day.
-          if [ -f data/daily-commits.log ] && grep -q "^$TODAY_IST | commit 100 |" data/daily-commits.log; then
-            echo "Daily batch already completed for $TODAY_IST (IST)."
-            exit 0
-          fi
-
-          for i in $(seq 1 100); do
-            if [ "$i" -eq 1 ]; then
-              git add data/*.json README.md || true
-            fi
-
-            echo "$TODAY_IST | commit $i | $(TZ=Asia/Kolkata date +"%H:%M:%S IST")" >> data/daily-commits.log
-            git add data/daily-commits.log
-            git commit -m "Daily contribution $TODAY_IST #$i"
-          done
-
+          git add data/*.json README.md data/auto-commits.log
+          git commit -m "Auto contribution $NOW_IST"
           git push
