@@ -5,8 +5,9 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 8 * * *' # 8 AM UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: '5 1 * * *'   # 06:35 AM IST (primary daily run)
+    - cron: '35 13 * * *' # 07:05 PM IST (fallback run)
+  workflow_dispatch:
 
 jobs:
   run-automation:
@@ -37,21 +38,27 @@ jobs:
 
       - name: Create 100 Daily Commits and Push
         run: |
+          set -e
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
 
           mkdir -p data
-          TODAY=$(date -u +"%Y-%m-%d")
+          TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
+
+          # Prevent duplicate 100-commit batches if fallback/manual run happens same day.
+          if [ -f data/daily-commits.log ] && grep -q "^$TODAY_IST | commit 100 |" data/daily-commits.log; then
+            echo "Daily batch already completed for $TODAY_IST (IST)."
+            exit 0
+          fi
 
           for i in $(seq 1 100); do
             if [ "$i" -eq 1 ]; then
-              git add data/*.json README.md
+              git add data/*.json README.md || true
             fi
 
-            echo "$TODAY | commit $i | $(date -u +"%H:%M:%S")" >> data/daily-commits.log
+            echo "$TODAY_IST | commit $i | $(TZ=Asia/Kolkata date +"%H:%M:%S IST")" >> data/daily-commits.log
             git add data/daily-commits.log
-            git commit -m "Daily contribution $TODAY #$i"
+            git commit -m "Daily contribution $TODAY_IST #$i"
           done
 
           git push
-
