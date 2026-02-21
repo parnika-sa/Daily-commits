@@ -1,11 +1,11 @@
 import json
 import os
-from datetime import datetime
-import pandas as pd
+from datetime import datetime, UTC
 
 def generate_dashboard():
     github_data_path = os.path.join('data', 'github_trending.json')
     crypto_data_path = os.path.join('data', 'crypto.json')
+    hacker_news_data_path = os.path.join('data', 'hacker_news.json')
     
     # Load Data
     github_repos = []
@@ -17,9 +17,14 @@ def generate_dashboard():
     if os.path.exists(crypto_data_path):
         with open(crypto_data_path, 'r', encoding='utf-8') as f:
             crypto_data = json.load(f)
+
+    hacker_news = []
+    if os.path.exists(hacker_news_data_path):
+        with open(hacker_news_data_path, 'r', encoding='utf-8') as f:
+            hacker_news = json.load(f)
             
     # Prepare Content
-    now_utc = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+    now_utc = datetime.now(UTC).strftime('%Y-%m-%d %H:%M:%S UTC')
     
     # Header
     content = f"# Daily Automation Intelligence Engine\n\n"
@@ -33,17 +38,21 @@ def generate_dashboard():
     if crypto_data:
         btc_price = crypto_data.get('bitcoin', {}).get('price_usd', 'N/A')
         summary += f"Bitcoin is currently trading at **${btc_price:,} USD**."
+    if hacker_news:
+        summary += f" Top Hacker News story: **{hacker_news[0]['title']}**."
     
     content += f"## 🤖 Automated Summary\n{summary}\n\n"
     
     # Crypto Section
     content += "## 💰 Crypto Snapshot\n"
     if crypto_data:
-        content += "| Asset | Price (USD) |\n"
-        content += "| :--- | :--- |\n"
+        content += "| Asset | Price (USD) | 24h Change |\n"
+        content += "| :--- | :--- | :--- |\n"
         for asset, stats in crypto_data.items():
             price = f"${stats['price_usd']:,}"
-            content += f"| {asset.capitalize()} | {price} |\n"
+            change_24h = stats.get('change_24h', 0.0)
+            change_str = f"{change_24h:+.2f}%"
+            content += f"| {asset.capitalize()} | {price} | {change_str} |\n"
     else:
         content += "_Crypto data unavailable._\n"
     content += "\n"
@@ -61,6 +70,19 @@ def generate_dashboard():
             content += f"| [{name}]({link}) | {repo['language']} | {repo['stars_today']} | {desc} |\n"
     else:
         content += "_GitHub trending data unavailable._\n"
+
+    content += "\n## 📰 Top Hacker News Stories\n"
+    if hacker_news:
+        content += "| Story | Score | Comments |\n"
+        content += "| :--- | :--- | :--- |\n"
+        for story in hacker_news[:5]:
+            title = story.get('title', 'Untitled')
+            url = story.get('url', '#')
+            score = story.get('score', 0)
+            comments = story.get('comments', 0)
+            content += f"| [{title}]({url}) | {score} | {comments} |\n"
+    else:
+        content += "_Hacker News data unavailable._\n"
         
     # Write to README.md
     with open('README.md', 'w', encoding='utf-8') as f:

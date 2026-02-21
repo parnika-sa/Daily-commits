@@ -5,12 +5,18 @@ permissions:
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # every 15 minutes (UTC)
+    - cron: '5 2 * * *'   # 07:35 AM IST primary
+    - cron: '35 14 * * *' # 08:05 PM IST fallback
   workflow_dispatch:
+
+concurrency:
+  group: daily-automation-intelligence
+  cancel-in-progress: false
 
 jobs:
   run-automation:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -32,6 +38,9 @@ jobs:
       - name: Run Crypto Data Fetcher
         run: python scripts/fetch_crypto_data.py
 
+      - name: Run Hacker News Fetcher
+        run: python scripts/fetch_hacker_news.py
+
       - name: Run Dashboard Generator
         run: python scripts/generate_dashboard.py
 
@@ -42,9 +51,16 @@ jobs:
           git config --local user.name "${{ github.actor }}"
 
           mkdir -p data
+          TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
           NOW_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d %H:%M:%S IST")
-          echo "$NOW_IST | heartbeat commit" >> data/auto-commits.log
+
+          if [ -f data/auto-commits.log ] && grep -q "^$TODAY_IST | daily heartbeat commit$" data/auto-commits.log; then
+            echo "Daily commit already created for $TODAY_IST (IST)."
+            exit 0
+          fi
+
+          echo "$TODAY_IST | daily heartbeat commit" >> data/auto-commits.log
 
           git add data/*.json README.md data/auto-commits.log
-          git commit -m "Auto contribution $NOW_IST"
+          git commit -m "Daily auto update $NOW_IST"
           git push
