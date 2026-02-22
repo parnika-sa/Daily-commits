@@ -1,32 +1,32 @@
 [
     {
-        "title": "Keep Android Open",
-        "url": "https://f-droid.org/2026/02/20/twif.html",
-        "score": 1385,
-        "comments": 522
+        "title": "Back to FreeBSD: Part 1",
+        "url": "https://hypha.pub/back-to-freebsd-part-1",
+        "score": 53,
+        "comments": 10
     },
     {
-        "title": "Turn Dependabot off",
-        "url": "https://words.filippo.io/dependabot/",
-        "score": 414,
-        "comments": 109
+        "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
+        "url": "https://github.com/kurouna/elecxzy",
+        "score": 13,
+        "comments": 15
     },
     {
-        "title": "Facebook is cooked",
-        "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-        "score": 1005,
-        "comments": 547
+        "title": "How I use Claude Code: Separation of planning and execution",
+        "url": "https://boristane.com/blog/how-i-use-claude-code/",
+        "score": 609,
+        "comments": 375
     },
     {
-        "title": "I found a Vulnerability. They found a Lawyer",
-        "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-        "score": 522,
-        "comments": 223
+        "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+        "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+        "score": 122,
+        "comments": 19
     },
     {
-        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-        "score": 723,
-        "comments": 180
+        "title": "Japanese Woodblock Print Search",
+        "url": "https://ukiyo-e.org/",
+        "score": 116,
+        "comments": 20
     }
 ]
