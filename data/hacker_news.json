@@ -1,32 +1,32 @@
 [
     {
-        "title": "Back to FreeBSD: Part 1",
-        "url": "https://hypha.pub/back-to-freebsd-part-1",
-        "score": 53,
-        "comments": 10
+        "title": "Attention Media ≠ Social Networks",
+        "url": "https://susam.net/attention-media-vs-social-networks.html",
+        "score": 306,
+        "comments": 137
     },
     {
-        "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
-        "url": "https://github.com/kurouna/elecxzy",
-        "score": 13,
+        "title": "Fix Your Tools",
+        "url": "https://ochagavia.nl/blog/fix-your-tools/",
+        "score": 58,
+        "comments": 25
+    },
+    {
+        "title": "What Is a Database Transaction?",
+        "url": "https://planetscale.com/blog/database-transactions",
+        "score": 139,
+        "comments": 21
+    },
+    {
+        "title": "Show HN: 3D Mahjong, Built in CSS",
+        "url": "https://voxjong.com",
+        "score": 29,
         "comments": 15
     },
     {
-        "title": "How I use Claude Code: Separation of planning and execution",
-        "url": "https://boristane.com/blog/how-i-use-claude-code/",
-        "score": 609,
-        "comments": 375
-    },
-    {
-        "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-        "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-        "score": 122,
-        "comments": 19
-    },
-    {
-        "title": "Japanese Woodblock Print Search",
-        "url": "https://ukiyo-e.org/",
-        "score": 116,
-        "comments": 20
+        "title": "Xweather Live – Interactive global vector weather map",
+        "url": "https://live.xweather.com/",
+        "score": 50,
+        "comments": 15
     }
 ]
