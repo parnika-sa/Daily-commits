@@ -1,32 +1,32 @@
 [
     {
-        "title": "I built Timeframe, our family e-paper dashboard",
-        "url": "https://hawksley.org/2026/02/17/timeframe.html",
-        "score": 463,
-        "comments": 134
+        "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+        "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "score": 127,
+        "comments": 40
     },
     {
-        "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-        "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-        "score": 40,
-        "comments": 15
+        "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+        "url": "https://spectrum.ieee.org/age-verification",
+        "score": 1130,
+        "comments": 906
     },
     {
-        "title": "Loops is a federated, open-source TikTok",
-        "url": "https://joinloops.org/",
-        "score": 159,
-        "comments": 90
+        "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+        "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+        "score": 160,
+        "comments": 125
     },
     {
-        "title": "Using New Bridges of FreeBSD 15",
-        "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
-        "score": 20,
-        "comments": 4
+        "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
+        "url": "https://jamesoswald.dev/posts/bigoinequality/",
+        "score": 18,
+        "comments": 3
     },
     {
-        "title": "Algolia Hacker News Search GitHub Project Archived",
-        "url": "https://github.com/algolia/hn-search",
-        "score": 47,
-        "comments": 12
+        "title": "Ladybird adopts Rust",
+        "url": "https://ladybird.org/posts/adopting-rust/",
+        "score": 1023,
+        "comments": 565
     }
 ]
