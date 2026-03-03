@@ -1,18 +1,18 @@
 {
     "bitcoin": {
-        "price_usd": 67753,
-        "change_24h": -0.8581287014694445
+        "price_usd": 68816,
+        "change_24h": 4.455692427703364
     },
     "ethereum": {
-        "price_usd": 2042.21,
-        "change_24h": -0.9828151000061202
+        "price_usd": 2027.46,
+        "change_24h": 4.483218996208863
     },
     "solana": {
-        "price_usd": 87.55,
-        "change_24h": -0.09224933862941789
+        "price_usd": 86.63,
+        "change_24h": 3.6035367079432827
     },
     "bnb": {
-        "price_usd": 631.54,
-        "change_24h": 0.496703537585101
+        "price_usd": 637.64,
+        "change_24h": 3.0220644384549735
     }
 }
