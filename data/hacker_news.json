@@ -1,32 +1,32 @@
 [
     {
-        "title": "I put my whole life into a single database",
-        "url": "https://howisfelix.today/",
-        "score": 67,
-        "comments": 18
+        "title": "Tony Hoare has died",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "score": 753,
+        "comments": 78
     },
     {
-        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-        "score": 174,
-        "comments": 144
-    },
-    {
-        "title": "The Gervais Principle, or the Office According to \"The Office\"",
-        "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-        "score": 64,
+        "title": "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
+        "score": 61,
         "comments": 12
     },
     {
-        "title": "Two Years of Emacs Solo",
-        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-        "score": 275,
-        "comments": 84
+        "title": "I built a programming language using Claude Code",
+        "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+        "score": 31,
+        "comments": 34
     },
     {
-        "title": "Lotus 1-2-3 on the PC with DOS",
-        "url": "https://stonetools.ghost.io/lotus123-dos/",
-        "score": 113,
-        "comments": 38
+        "title": "Debian decides not to decide on AI-generated contributions",
+        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "score": 147,
+        "comments": 113
+    },
+    {
+        "title": "Intel Demos Chip to Compute with Encrypted Data",
+        "url": "https://spectrum.ieee.org/fhe-intel",
+        "score": 154,
+        "comments": 50
     }
 ]
