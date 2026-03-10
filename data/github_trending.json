@@ -1,68 +1,80 @@
 [
     {
-        "name": "moeru-ai/airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "name": "msitarzewski/agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars_today": "6,235 stars today"
+    },
+    {
+        "name": "666ghj/MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars_today": "4,469 stars today"
+    },
+    {
+        "name": "NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars_today": "776 stars today"
+    },
+    {
+        "name": "promptfoo/promptfoo",
+        "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
         "language": "TypeScript",
-        "stars_today": "2,544 stars today"
+        "stars_today": "632 stars today"
     },
     {
-        "name": "QwenLM/Qwen-Agent",
-        "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-        "language": "Python",
-        "stars_today": "684 stars today"
-    },
-    {
-        "name": "microsoft/hve-core",
-        "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-        "language": "PowerShell",
-        "stars_today": "275 stars today"
-    },
-    {
-        "name": "Ed1s0nZ/CyberStrikeAI",
-        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-        "language": "Go",
-        "stars_today": "138 stars today"
-    },
-    {
-        "name": "inclusionAI/AReaL",
-        "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-        "language": "Python",
-        "stars_today": "348 stars today"
-    },
-    {
-        "name": "lingfengQAQ/webnovel-writer",
-        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-        "language": "Python",
-        "stars_today": "84 stars today"
-    },
-    {
-        "name": "openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars_today": "582 stars today"
-    },
-    {
-        "name": "TheCraigHewitt/seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars_today": "675 stars today"
+        "name": "GoogleCloudPlatform/generative-ai",
+        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "language": "Jupyter Notebook",
+        "stars_today": "534 stars today"
     },
     {
         "name": "virattt/ai-hedge-fund",
         "description": "An AI Hedge Fund Team",
         "language": "Python",
-        "stars_today": "82 stars today"
+        "stars_today": "316 stars today"
     },
     {
-        "name": "aidenybai/react-grab",
-        "description": "Select context for coding agents directly from your website",
+        "name": "karpathy/nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars_today": "709 stars today"
+    },
+    {
+        "name": "obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_today": "1,387 stars today"
+    },
+    {
+        "name": "alibaba/page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
         "language": "TypeScript",
-        "stars_today": "442 stars today"
+        "stars_today": "895 stars today"
     },
     {
-        "name": "msitarzewski/agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Unknown",
-        "stars_today": "2,857 stars today"
+        "name": "sepinf-inc/IPED",
+        "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+        "language": "Java",
+        "stars_today": "237 stars today"
+    },
+    {
+        "name": "openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars_today": "9,074 stars today"
+    },
+    {
+        "name": "pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "stars_today": "932 stars today"
+    },
+    {
+        "name": "bytedance/deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars_today": "1,443 stars today"
     }
 ]
