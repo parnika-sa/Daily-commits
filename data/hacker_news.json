@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-11 18:02:37 UTC",
-    "fetched_at_ist": "2026-03-11 23:32:37 IST",
+    "fetched_at_utc": "2026-03-12 03:39:53 UTC",
+    "fetched_at_ist": "2026-03-12 09:09:53 IST",
     "item_count": 5,
-    "content_hash": "bd5ccc3967433b76ecb2a399ba4a8bc9aace1f85e3f59baff6f322e1f504d0dd",
-    "previous_hash": "447d2f2520b2c25370ea518fb2355bbd6330524f4d9ebcd2308dd968ec28ab2f",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "903339db363718308b22f2d3fd7da6735575358e3bb90c0536db14ce20a0f89a",
+    "previous_hash": "bd5ccc3967433b76ecb2a399ba4a8bc9aace1f85e3f59baff6f322e1f504d0dd",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47344548,
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
+      "score": 82,
+      "comments": 22
+    },
+    {
       "id": 47336989,
-      "title": "Temporal: A nine-year journey to fix time in JavaScript",
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 185,
-      "comments": 77
+      "score": 561,
+      "comments": 184
     },
     {
-      "id": 47331811,
-      "title": "Making WebAssembly a first-class language on the Web",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 123,
-      "comments": 45
+      "id": 47341645,
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "score": 170,
+      "comments": 57
     },
     {
-      "id": 47335349,
-      "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "score": 179,
-      "comments": 84
+      "id": 47296568,
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "score": 58,
+      "comments": 4
     },
     {
-      "id": 47334694,
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "score": 215,
-      "comments": 112
-    },
-    {
-      "id": 47337177,
-      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
-      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "score": 52,
-      "comments": 3
+      "id": 47340079,
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "score": 2982,
+      "comments": 1110
     }
   ]
 }

@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-12 (last updated: 04:48 IST)
+
+## 📅 2026-03-12 (last updated: 09:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-11 23:32:36 IST | 2ae83494f551 | +2 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-11 23:32:37 IST | bd5ccc396743 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-12 09:09:53 IST | 903339db3637 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-12 04:48:10 IST | b86e4a3e6f1b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +2 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 277 stars today
 
 ### 📰 Hacker News Stories
-- [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) — Score: 185
-- [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) — Score: 123
-- [Entities enabling scientific fraud at scale are large, resilient, growing (2025)](https://doi.org/10.1073/pnas.2420092122) — Score: 179
-- [BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet) — Score: 215
-- [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/) — Score: 52
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) — Score: 82
+- [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) — Score: 561
+- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/) — Score: 170
+- [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/) — Score: 58
+- [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated) — Score: 2982
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,420.0 🟢 +0.82%
