@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-12 18:00:25 UTC",
-    "fetched_at_ist": "2026-03-12 23:30:25 IST",
+    "fetched_at_utc": "2026-03-12 21:35:09 UTC",
+    "fetched_at_ist": "2026-03-13 03:05:09 IST",
     "item_count": 5,
-    "content_hash": "b68d4457f774fa4e7c726362fb06add3f7d557555b01ab40a50d5a08fe3b43ba",
-    "previous_hash": "01a64d5a84aab15887029fd22d3a3125019bef4e28ad0277f4754fbf0f0a4ea7",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "73335561ece0ce54330be45191ac2b9782dffd51018a451084402813463b8a00",
+    "previous_hash": "b68d4457f774fa4e7c726362fb06add3f7d557555b01ab40a50d5a08fe3b43ba",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47356968,
+      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "score": 102,
+      "comments": 45
+    },
+    {
+      "id": 47357042,
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "score": 36,
+      "comments": 2
+    },
+    {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 545,
-      "comments": 197
+      "score": 879,
+      "comments": 347
     },
     {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 37,
-      "comments": 15
+      "score": 196,
+      "comments": 67
     },
     {
-      "id": 47352459,
-      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 93,
-      "comments": 21
-    },
-    {
-      "id": 47353558,
-      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-      "url": "https://github.com/onecli/onecli",
-      "score": 42,
-      "comments": 14
-    },
-    {
-      "id": 47353533,
-      "title": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 38,
-      "comments": 7
+      "id": 47357294,
+      "title": "Illinois introduces OS-level age verification law",
+      "url": "https://legiscan.com/IL/bill/SB3977/2025",
+      "score": 17,
+      "comments": 3
     }
   ]
 }
