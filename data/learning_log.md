@@ -30,44 +30,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-12 (last updated: 17:03 IST)
+
+## 📅 2026-03-12 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-12 11:35:24 IST | 59319d3182aa | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-12 17:03:12 IST | 01a64d5a84aa | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-12 14:56:43 IST | 1b5d2678d8b3 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-03-12 23:30:24 IST | 0951bc812963 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-12 23:30:25 IST | b68d4457f774 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-12 23:30:24 IST | 47e4456686d0 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** (Shell) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun  
-  ⭐ 6,167 stars today
-- **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** (Python) — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能  
-  ⭐ 2,907 stars today
-- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** (TypeScript) — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni  
-  ⭐ 718 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,483 stars today
+- **[microsoft/BitNet](https://github.com/microsoft/BitNet)** (Python) — Official inference framework for 1-bit LLMs  
+  ⭐ 2,149 stars today
 - **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** (Python) — SOTA Open Source TTS  
-  ⭐ 313 stars today
+  ⭐ 630 stars today
+- **[langflow-ai/openrag](https://github.com/langflow-ai/openrag)** (Python) — OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo  
+  ⭐ 491 stars today
+- **[InsForge/InsForge](https://github.com/InsForge/InsForge)** (TypeScript) — Give agents everything they need to ship fullstack apps. The backend built for a  
+  ⭐ 260 stars today
+- **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** (Python) — Hindsight: Agent Memory That Learns  
+  ⭐ 300 stars today
 
 ### 📰 Hacker News Stories
-- [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting) — Score: 85
-- [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/) — Score: 39
-- [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/) — Score: 160
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) — Score: 306
-- [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf) — Score: 60
+- [Malus – Clean Room as a Service](https://malus.sh) — Score: 545
+- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) — Score: 37
+- [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) — Score: 93
+- [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli) — Score: 42
+- [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html) — Score: 38
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $69,659.0 🟢 +0.04%
-- Ethereum: $2,040.66 🟢 +0.97%
-- Solana: $85.56 🟢 +0.21%
-- Bnb: $646.45 🟢 +0.70%
+- Bitcoin: $70,250.0 🔴 -0.74%
+- Ethereum: $2,059.86 🔴 -0.40%
+- Solana: $86.77 🔴 -0.55%
+- Bnb: $650.8 🔴 -0.16%
 
 ---
 ## 📅 2026-03-11 (last updated: 23:32 IST)

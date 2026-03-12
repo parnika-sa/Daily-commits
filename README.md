@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-12 11:33:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-12 18:00:25 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$69,659.0** ↑ (+0.04%)
-- HN top story: **3D-Knitting: The Ultimate Guide**
+- Top GitHub repo: **microsoft/BitNet**
+- BTC: **$70,250.0** ↓ (-0.74%)
+- HN top story: **Malus – Clean Room as a Service**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-12 06:05:24 UTC | `59319d3182aa` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-12 11:33:12 UTC | `01a64d5a84aa` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-12 09:26:43 UTC | `1b5d2678d8b3` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-03-12 18:00:24 UTC | `0951bc812963` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-12 18:00:25 UTC | `b68d4457f774` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-12 18:00:24 UTC | `47e4456686d0` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-12` |
-| Commits Today | `27` / `100` |
-| Remaining Today | `73` |
-| Progress | `█████░░░░░░░░░░░░░░░` 27% |
+| Commits Today | `28` / `100` |
+| Remaining Today | `72` |
+| Progress | `█████░░░░░░░░░░░░░░░` 28% |
 | Streak | `21` day(s) |
-| Last Commit (IST) | `2026-03-12 21:43:00 IST` |
+| Last Commit (IST) | `2026-03-12 22:40:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-09 | 30 | `██████░░░░░░░░░░░░░░` 30% |
 | 2026-03-10 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-03-11 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-12 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
+| 2026-03-12 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $69,659.0 | +0.04% | 🟢 |
-| Ethereum | $2,040.66 | +0.97% | 🟢 |
-| Solana | $85.56 | +0.21% | 🟢 |
-| Bnb | $646.45 | +0.70% | 🟢 |
+| Bitcoin | $70,250.0 | -0.74% | 🔴 |
+| Ethereum | $2,059.86 | -0.40% | 🔴 |
+| Solana | $86.77 | -0.55% | 🔴 |
+| Bnb | $650.8 | -0.16% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 6,167 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,907 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 718 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,483 stars today | An agentic skills framework & software development methodology that works. |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 313 stars today | SOTA Open Source TTS |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 636 stars today | An AI Hedge Fund Team |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,215 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,234 stars today | The agent that grows with you |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,149 stars today | Official inference framework for 1-bit LLMs |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 630 stars today | SOTA Open Source TTS |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 491 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 260 stars today | Give agents everything they need to ship fullstack apps. The backend built for a… |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 300 stars today | Hindsight: Agent Memory That Learns |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,196 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,708 stars today | An agentic skills framework & software development methodology that works. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,235 stars today | The agent that grows with you |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting) | 85 | 28 |
-| [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/) | 39 | 6 |
-| [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/) | 160 | 87 |
-| [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) | 306 | 128 |
-| [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf) | 60 | 32 |
+| [Malus – Clean Room as a Service](https://malus.sh) | 545 | 197 |
+| [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) | 37 | 15 |
+| [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) | 93 | 21 |
+| [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli) | 42 | 14 |
+| [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html) | 38 | 7 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

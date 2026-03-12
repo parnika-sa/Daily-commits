@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-12 11:33:12 UTC",
-    "fetched_at_ist": "2026-03-12 17:03:12 IST",
+    "fetched_at_utc": "2026-03-12 18:00:25 UTC",
+    "fetched_at_ist": "2026-03-12 23:30:25 IST",
     "item_count": 5,
-    "content_hash": "01a64d5a84aab15887029fd22d3a3125019bef4e28ad0277f4754fbf0f0a4ea7",
-    "previous_hash": "009ce05938f80a2e136080efad25181ba4c512d50c70e9dc39e37b301c153a86",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b68d4457f774fa4e7c726362fb06add3f7d557555b01ab40a50d5a08fe3b43ba",
+    "previous_hash": "01a64d5a84aab15887029fd22d3a3125019bef4e28ad0277f4754fbf0f0a4ea7",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47347945,
-      "title": "3D-Knitting: The Ultimate Guide",
-      "url": "https://www.oliver-charles.com/pages/3d-knitting",
-      "score": 85,
-      "comments": 28
+      "id": 47350424,
+      "title": "Malus – Clean Room as a Service",
+      "url": "https://malus.sh",
+      "score": 545,
+      "comments": 197
     },
     {
-      "id": 47348192,
-      "title": "Avoiding Trigonometry (2013)",
-      "url": "https://iquilezles.org/articles/noacos/",
-      "score": 39,
-      "comments": 6
+      "id": 47354098,
+      "title": "Bubble Sorted Amen Break",
+      "url": "https://parametricavocado.itch.io/amen-sorting",
+      "score": 37,
+      "comments": 15
     },
     {
-      "id": 47347064,
-      "title": "Returning to Rails in 2026",
-      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "score": 160,
-      "comments": 87
+      "id": 47352459,
+      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "score": 93,
+      "comments": 21
     },
     {
-      "id": 47344548,
-      "title": "Show HN: s@: decentralized social networking over static sites",
-      "url": "http://satproto.org/",
-      "score": 306,
-      "comments": 128
+      "id": 47353558,
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "url": "https://github.com/onecli/onecli",
+      "score": 42,
+      "comments": 14
     },
     {
-      "id": 47347362,
-      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
-      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "score": 60,
-      "comments": 32
+      "id": 47353533,
+      "title": "Reversing memory loss via gut-brain communication",
+      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "score": 38,
+      "comments": 7
     }
   ]
 }
