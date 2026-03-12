@@ -19,13 +19,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-12 (last updated: 11:35 IST)
+
+## 📅 2026-03-12 (last updated: 14:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-12 11:35:24 IST | 59319d3182aa | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-12 11:35:25 IST | 27ba61aed194 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-12 14:02:58 IST | 009ce05938f8 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-12 11:35:25 IST | 315fefb5290f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 313 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) — Score: 172
-- [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html) — Score: 26
-- [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) — Score: 600
-- [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/) — Score: 103
-- [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) — Score: 484
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) — Score: 243
+- [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf) — Score: 15
+- [Datahäxan](https://0dd.company/galleries/witches/7.html) — Score: 50
+- [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) — Score: 656
+- [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) — Score: 534
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,398.0 🔴 -0.31%
