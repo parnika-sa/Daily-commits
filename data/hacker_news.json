@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 08:30:39 UTC",
-    "fetched_at_ist": "2026-03-13 14:00:39 IST",
+    "fetched_at_utc": "2026-03-13 12:38:03 UTC",
+    "fetched_at_ist": "2026-03-13 18:08:03 IST",
     "item_count": 5,
-    "content_hash": "4871d08ed0d4d99bb848d9f4f599eb8af9a7064cb493d9dcd7b8f29127efec04",
-    "previous_hash": "52e281dcfb0aae963b7fd56530d6fb33b5344418b3c515887f29bef2ea3753c9",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "1abc40ccf6dd5cd240faaea05595d78e32952879a7dd34cc421b5ebfa3f4d33f",
+    "previous_hash": "4871d08ed0d4d99bb848d9f4f599eb8af9a7064cb493d9dcd7b8f29127efec04",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47361913,
+      "title": "Bucketsquatting is (finally) dead",
+      "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+      "score": 142,
+      "comments": 61
+    },
+    {
+      "id": 47362528,
+      "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+      "url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+      "score": 254,
+      "comments": 70
+    },
+    {
+      "id": 47363074,
+      "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+      "url": "https://prompt-caching.ai/",
+      "score": 21,
+      "comments": 8
+    },
     {
       "id": 47307124,
       "title": "Willingness to look stupid",
       "url": "https://sharif.io/looking-stupid",
-      "score": 258,
-      "comments": 97
+      "score": 430,
+      "comments": 152
     },
     {
-      "id": 47348275,
-      "title": "Executing programs inside transformers with exponentially faster inference",
-      "url": "https://www.percepta.ai/blog/can-llms-be-computers",
-      "score": 45,
-      "comments": 4
-    },
-    {
-      "id": 47350424,
-      "title": "Malus – Clean Room as a Service",
-      "url": "https://malus.sh",
-      "score": 1229,
-      "comments": 445
-    },
-    {
-      "id": 47360730,
-      "title": "Vite 8.0 Is Out",
-      "url": "https://vite.dev/blog/announcing-vite8",
-      "score": 219,
-      "comments": 46
-    },
-    {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 366,
-      "comments": 150
+      "id": 47362613,
+      "title": "TUI Studio – visual terminal UI design tool",
+      "url": "https://tui.studio/",
+      "score": 32,
+      "comments": 12
     }
   ]
 }

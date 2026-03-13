@@ -25,18 +25,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-13 (last updated: 16:55 IST)
+
+## 📅 2026-03-13 (last updated: 18:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-13 14:00:39 IST | 4871d08ed0d4 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-13 18:08:03 IST | 1abc40ccf6dd | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-13 16:55:54 IST | eaa32959e666 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 217 stars today
 
 ### 📰 Hacker News Stories
-- [Willingness to look stupid](https://sharif.io/looking-stupid) — Score: 258
-- [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers) — Score: 45
-- [Malus – Clean Room as a Service](https://malus.sh) — Score: 1229
-- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) — Score: 219
-- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/) — Score: 366
+- [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) — Score: 142
+- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/) — Score: 254
+- [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/) — Score: 21
+- [Willingness to look stupid](https://sharif.io/looking-stupid) — Score: 430
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 32
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,329.0 🟢 +2.53%
