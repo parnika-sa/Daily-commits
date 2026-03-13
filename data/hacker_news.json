@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 06:02:40 UTC",
-    "fetched_at_ist": "2026-03-13 11:32:40 IST",
+    "fetched_at_utc": "2026-03-13 08:30:39 UTC",
+    "fetched_at_ist": "2026-03-13 14:00:39 IST",
     "item_count": 5,
-    "content_hash": "52e281dcfb0aae963b7fd56530d6fb33b5344418b3c515887f29bef2ea3753c9",
-    "previous_hash": "2d7bf97b55f243e2a765bbf8c064b9dd409bd23b4fe3c9acebba19d83d396e96",
+    "content_hash": "4871d08ed0d4d99bb848d9f4f599eb8af9a7064cb493d9dcd7b8f29127efec04",
+    "previous_hash": "52e281dcfb0aae963b7fd56530d6fb33b5344418b3c515887f29bef2ea3753c9",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47307124,
       "title": "Willingness to look stupid",
       "url": "https://sharif.io/looking-stupid",
-      "score": 107,
-      "comments": 37
+      "score": 258,
+      "comments": 97
+    },
+    {
+      "id": 47348275,
+      "title": "Executing programs inside transformers with exponentially faster inference",
+      "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+      "score": 45,
+      "comments": 4
     },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 1150,
-      "comments": 424
+      "score": 1229,
+      "comments": 445
     },
     {
       "id": 47360730,
       "title": "Vite 8.0 Is Out",
       "url": "https://vite.dev/blog/announcing-vite8",
-      "score": 68,
-      "comments": 3
+      "score": 219,
+      "comments": 46
     },
     {
-      "id": 47354098,
-      "title": "Bubble Sorted Amen Break",
-      "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 299,
-      "comments": 91
-    },
-    {
-      "id": 47357042,
-      "title": "Shall I implement it? No",
-      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 1094,
-      "comments": 417
+      "id": 47359744,
+      "title": "“This is not the computer for you”",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "score": 366,
+      "comments": 150
     }
   ]
 }
