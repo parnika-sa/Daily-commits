@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 18:39:28 UTC",
-    "fetched_at_ist": "2026-03-14 00:09:28 IST",
+    "fetched_at_utc": "2026-03-13 21:35:04 UTC",
+    "fetched_at_ist": "2026-03-14 03:05:04 IST",
     "item_count": 5,
-    "content_hash": "ce4db15fc20bc553a484fa4d969aa0f109ba6dc052b7fc97358c1c039de7fafb",
-    "previous_hash": "86ed6672853765235b216d83221d4934ca6132d0b9d6f5fe1e4cf6ef77e26da6",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "5f1106a7ac56147017afe865d2e829cce7ff7cf769b6099d9096b2497104d067",
+    "previous_hash": "ce4db15fc20bc553a484fa4d969aa0f109ba6dc052b7fc97358c1c039de7fafb",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 120,
-      "comments": 64
-    },
-    {
-      "id": 47367568,
-      "title": "Your Phone Is an Entire Computer",
-      "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-      "score": 43,
-      "comments": 33
+      "score": 283,
+      "comments": 111
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 335,
-      "comments": 84
+      "score": 643,
+      "comments": 182
     },
     {
-      "id": 47367526,
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "score": 11,
-      "comments": 3
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 121,
+      "comments": 45
     },
     {
-      "id": 47362613,
-      "title": "TUI Studio – visual terminal UI design tool",
-      "url": "https://tui.studio/",
-      "score": 419,
-      "comments": 236
+      "id": 47368033,
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
+      "score": 60,
+      "comments": 20
+    },
+    {
+      "id": 47363584,
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 258,
+      "comments": 258
     }
   ]
 }

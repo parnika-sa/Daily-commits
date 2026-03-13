@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 01:54 IST)
+
+## 📅 2026-03-14 (last updated: 03:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 00:09:28 IST | ce4db15fc20b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-14 03:05:04 IST | 5f1106a7ac56 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-14 01:54:49 IST | 9dd7d00d4322 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 217 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 120
-- [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer) — Score: 43
-- [Can I run AI locally?](https://www.canirun.ai/) — Score: 335
-- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway) — Score: 11
-- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 419
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 283
+- [Can I run AI locally?](https://www.canirun.ai/) — Score: 643
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) — Score: 121
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) — Score: 60
+- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) — Score: 258
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,423.0 🟢 +1.57%
