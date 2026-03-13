@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 04:14 IST)
+
+## 📅 2026-03-14 (last updated: 05:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 04:14:27 IST | 516d8722b5b2 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-14 05:12:28 IST | 8c9d1f52ef61 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-14 01:54:49 IST | 9dd7d00d4322 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 217 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 347
-- [Can I run AI locally?](https://www.canirun.ai/) — Score: 738
-- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) — Score: 107
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) — Score: 154
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) — Score: 315
+- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) — Score: 27
+- [Can I run AI locally?](https://www.canirun.ai/) — Score: 823
+- [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) — Score: 43
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 376
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) — Score: 139
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,423.0 🟢 +1.57%
