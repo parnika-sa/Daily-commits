@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-13 03:40:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-13 06:02:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/BitNet**
-- BTC: **$71,627.0** ↑ (+2.44%)
-- HN top story: **Shall I implement it? No**
+- BTC: **$71,581.0** ↑ (+3.06%)
+- HN top story: **Willingness to look stupid**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-12 18:00:24 UTC | `0951bc812963` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-13 03:40:49 UTC | `2d7bf97b55f2` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-13 01:17:17 UTC | `750542b8cf55` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-03-13 06:02:39 UTC | `525c1690e7ef` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-13 06:02:40 UTC | `52e281dcfb0a` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-13 06:02:39 UTC | `a829fe736faf` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-13` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `22` day(s) |
-| Last Commit (IST) | `2026-03-13 09:10:49 IST` |
+| Last Commit (IST) | `2026-03-13 10:34:36 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-10 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-03-11 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-12 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-13 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-03-13 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,627.0 | +2.44% | 🟢 |
-| Ethereum | $2,127.21 | +3.79% | 🟢 |
-| Solana | $90.09 | +4.37% | 🟢 |
-| Bnb | $660.59 | +1.70% | 🟢 |
+| Bitcoin | $71,581.0 | +3.06% | 🟢 |
+| Ethereum | $2,110.71 | +4.16% | 🟢 |
+| Solana | $89.09 | +4.68% | 🟢 |
+| Bnb | $660.83 | +2.58% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,149 stars today | Official inference framework for 1-bit LLMs |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 630 stars today | SOTA Open Source TTS |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 491 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 260 stars today | Give agents everything they need to ship fullstack apps. The backend built for a… |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 300 stars today | Hindsight: Agent Memory That Learns |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,196 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,708 stars today | An agentic skills framework & software development methodology that works. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,235 stars today | The agent that grows with you |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 637 stars today | SOTA Open Source TTS |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 322 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 263 stars today | Give agents everything they need to ship fullstack apps. The backend built for a… |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 217 stars today | Hindsight: Agent Memory That Learns |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,205 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,706 stars today | An agentic skills framework & software development methodology that works. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,264 stars today | The agent that grows with you |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) | 963 | 354 |
-| [Malus – Clean Room as a Service](https://malus.sh) | 1093 | 415 |
-| [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/) | 93 | 41 |
-| [Can You Instruct a Robot to Make a PBJ Sandwich?](https://pbj.deliberateinc.com/) | 5 | 3 |
-| [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) | 275 | 87 |
+| [Willingness to look stupid](https://sharif.io/looking-stupid) | 107 | 37 |
+| [Malus – Clean Room as a Service](https://malus.sh) | 1150 | 424 |
+| [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) | 68 | 3 |
+| [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) | 299 | 91 |
+| [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) | 1094 | 417 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

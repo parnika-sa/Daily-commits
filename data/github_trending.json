@@ -2,13 +2,13 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-12 18:00:24 UTC",
-    "fetched_at_ist": "2026-03-12 23:30:24 IST",
+    "fetched_at_utc": "2026-03-13 06:02:39 UTC",
+    "fetched_at_ist": "2026-03-13 11:32:39 IST",
     "item_count": 13,
-    "content_hash": "0951bc8129638487b961684d973f97c3ae356a78bfc347e856cb2d6d470fde56",
-    "previous_hash": "59319d3182aa743114e50182497ca2133953c659cac4fd531f853f4c476f26fe",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": true
+    "content_hash": "525c1690e7efff5036506dbc3ef96b2638d5970c72c3fc9378fca990a6c726aa",
+    "previous_hash": "0951bc8129638487b961684d973f97c3ae356a78bfc347e856cb2d6d470fde56",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
@@ -21,73 +21,73 @@
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
       "language": "Python",
-      "stars_today": "630 stars today"
+      "stars_today": "637 stars today"
     },
     {
       "name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
       "language": "Python",
-      "stars_today": "491 stars today"
+      "stars_today": "322 stars today"
     },
     {
       "name": "InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "language": "TypeScript",
-      "stars_today": "260 stars today"
+      "stars_today": "263 stars today"
     },
     {
       "name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "stars_today": "300 stars today"
+      "stars_today": "217 stars today"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "1,196 stars today"
+      "stars_today": "1,205 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,708 stars today"
+      "stars_today": "1,706 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,235 stars today"
+      "stars_today": "1,264 stars today"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "1,809 stars today"
+      "stars_today": "1,857 stars today"
     },
     {
       "name": "google-ai-edge/LiteRT",
       "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
       "language": "C++",
-      "stars_today": "6 stars today"
+      "stars_today": "13 stars today"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "4,086 stars today"
+      "stars_today": "4,168 stars today"
     },
     {
       "name": "google/A2UI",
       "description": "No description",
       "language": "TypeScript",
-      "stars_today": "220 stars today"
+      "stars_today": "225 stars today"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "144 stars today"
+      "stars_today": "150 stars today"
     }
   ]
 }
