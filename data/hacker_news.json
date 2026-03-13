@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-12 21:35:09 UTC",
-    "fetched_at_ist": "2026-03-13 03:05:09 IST",
+    "fetched_at_utc": "2026-03-13 03:40:49 UTC",
+    "fetched_at_ist": "2026-03-13 09:10:49 IST",
     "item_count": 5,
-    "content_hash": "73335561ece0ce54330be45191ac2b9782dffd51018a451084402813463b8a00",
-    "previous_hash": "b68d4457f774fa4e7c726362fb06add3f7d557555b01ab40a50d5a08fe3b43ba",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "2d7bf97b55f243e2a765bbf8c064b9dd409bd23b4fe3c9acebba19d83d396e96",
+    "previous_hash": "73335561ece0ce54330be45191ac2b9782dffd51018a451084402813463b8a00",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47356968,
-      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 102,
-      "comments": 45
-    },
-    {
       "id": 47357042,
       "title": "Shall I implement it? No",
       "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 36,
-      "comments": 2
+      "score": 963,
+      "comments": 354
     },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 879,
-      "comments": 347
+      "score": 1093,
+      "comments": 415
+    },
+    {
+      "id": 47359744,
+      "title": "“This is not the computer for you”",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "score": 93,
+      "comments": 41
+    },
+    {
+      "id": 47360243,
+      "title": "Can You Instruct a Robot to Make a PBJ Sandwich?",
+      "url": "https://pbj.deliberateinc.com/",
+      "score": 5,
+      "comments": 3
     },
     {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 196,
-      "comments": 67
-    },
-    {
-      "id": 47357294,
-      "title": "Illinois introduces OS-level age verification law",
-      "url": "https://legiscan.com/IL/bill/SB3977/2025",
-      "score": 17,
-      "comments": 3
+      "score": 275,
+      "comments": 87
     }
   ]
 }
