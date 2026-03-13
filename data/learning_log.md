@@ -30,18 +30,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-13 (last updated: 19:59 IST)
+
+## 📅 2026-03-13 (last updated: 22:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-13 18:08:03 IST | 1abc40ccf6dd | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-13 22:06:05 IST | 86ed66728537 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-13 19:59:33 IST | 2ed0a2269857 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -57,11 +58,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 217 stars today
 
 ### 📰 Hacker News Stories
-- [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) — Score: 142
-- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/) — Score: 254
-- [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/) — Score: 21
-- [Willingness to look stupid](https://sharif.io/looking-stupid) — Score: 430
-- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 32
+- [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings) — Score: 105
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 343
+- [Channel Surfer – Watch YouTube Like It's Cable TV](https://channelsurfer.tv/) — Score: 10
+- [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/) — Score: 14
+- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/) — Score: 830
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,764.0 🟢 +5.12%
