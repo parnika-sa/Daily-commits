@@ -28,18 +28,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 16:58 IST)
+
+## 📅 2026-03-14 (last updated: 18:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:30:18 IST | e266611faf58 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 16:03:08 IST | 9b89aeb3eb93 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-14 18:02:14 IST | 2d14cde60a12 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-14 16:58:20 IST | 816ca737913e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -55,11 +56,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 724
-- [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/) — Score: 92
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) — Score: 571
-- [You gotta think outside the hypercube](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube) — Score: 56
-- [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/) — Score: 144
+- [Claude Code's binary reveals silent A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/) — Score: 74
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 811
+- [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about) — Score: 54
+- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) — Score: 10
+- [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,687.0 🔴 -2.32%
