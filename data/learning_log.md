@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-15 (last updated: 23:56 IST)
+
+## 📅 2026-03-15 (last updated: 01:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:30:18 IST | e266611faf58 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 19:02:04 IST | 92611c78abd6 | +0 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-15 01:08:47 IST | d07987fe14ed | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-14 23:56:11 IST | c9516b7f2c12 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) — Score: 65
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 848
-- [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about) — Score: 86
-- [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev) — Score: 40
-- [Please Do Not A/B Test My Workflow](https://backnotprop.com/blog/do-not-ab-test-my-workflow/) — Score: 110
+- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband) — Score: 68
+- [Montana passes Right to Compute act (2025)](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/) — Score: 195
+- [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable) — Score: 238
+- [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/) — Score: 15
+- [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/) — Score: 48
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,594.0 🔴 -0.73%
@@ -44,41 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $652.47 🔴 -0.54%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-14 (last updated: 23:56 IST)
 
 ### 🧪 Source Integrity Snapshot
