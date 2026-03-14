@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 00:00:19 UTC",
-    "fetched_at_ist": "2026-03-14 05:30:19 IST",
+    "fetched_at_utc": "2026-03-14 05:30:24 UTC",
+    "fetched_at_ist": "2026-03-14 11:00:24 IST",
     "item_count": 5,
-    "content_hash": "d7e3c824f68d974664caa2c3b0f5d79dd6a5a3f9167f531dfeab83cddc733151",
-    "previous_hash": "8c9d1f52ef61c637aef4eea3eaac66cb427dbcda51767fb5324ce3bfd9c2eef6",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "d22942c624ef59862c99d3913ff8b954081bf850176cead54cf86675a96bb5b7",
+    "previous_hash": "d7e3c824f68d974664caa2c3b0f5d79dd6a5a3f9167f531dfeab83cddc733151",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47371064,
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 32,
-      "comments": 9
-    },
-    {
-      "id": 47370822,
-      "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
-      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "score": 68,
-      "comments": 9
+      "id": 47367129,
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "score": 485,
+      "comments": 186
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 851,
-      "comments": 226
+      "score": 1079,
+      "comments": 274
+    },
+    {
+      "id": 47371064,
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 104,
+      "comments": 23
+    },
+    {
+      "id": 47319071,
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "score": 38,
+      "comments": 5
     },
     {
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 386,
-      "comments": 132
-    },
-    {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 147,
-      "comments": 52
+      "score": 451,
+      "comments": 143
     }
   ]
 }
