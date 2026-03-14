@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 05:12 IST)
+
+## 📅 2026-03-14 (last updated: 05:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 05:12:28 IST | 8c9d1f52ef61 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-14 01:54:49 IST | 9dd7d00d4322 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-03-14 05:30:18 IST | e266611faf58 | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-14 05:30:19 IST | d7e3c824f68d | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-03-14 05:30:18 IST | 7fcb7321c7b8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/BitNet](https://github.com/microsoft/BitNet)** (Python) — Official inference framework for 1-bit LLMs  
-  ⭐ 2,149 stars today
-- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** (Python) — SOTA Open Source TTS  
-  ⭐ 637 stars today
+  ⭐ 2,227 stars today
 - **[langflow-ai/openrag](https://github.com/langflow-ai/openrag)** (Python) — OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo  
-  ⭐ 322 stars today
-- **[InsForge/InsForge](https://github.com/InsForge/InsForge)** (TypeScript) — Give agents everything they need to ship fullstack apps. The backend built for a  
-  ⭐ 263 stars today
-- **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** (Python) — Hindsight: Agent Memory That Learns  
-  ⭐ 217 stars today
+  ⭐ 905 stars today
+- **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** (Zig) — Lightpanda: the headless browser designed for AI and automation  
+  ⭐ 2,093 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 2,106 stars today
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** (Python) — A collective list of free APIs  
+  ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) — Score: 27
-- [Can I run AI locally?](https://www.canirun.ai/) — Score: 823
-- [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) — Score: 43
-- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 376
-- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) — Score: 139
+- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) — Score: 32
+- [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) — Score: 68
+- [Can I run AI locally?](https://www.canirun.ai/) — Score: 851
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 386
+- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) — Score: 147
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,423.0 🟢 +1.57%
-- Ethereum: $2,111.79 🟢 +2.20%
-- Solana: $89.0 🟢 +2.72%
-- Bnb: $657.93 🟢 +1.21%
+- Bitcoin: $70,965.0 🟢 +0.60%
+- Ethereum: $2,093.01 🟢 +0.79%
+- Solana: $88.15 🟢 +1.46%
+- Bnb: $656.01 🟢 +0.57%
 
 ---
 ## 📅 2026-03-13 (last updated: 22:51 IST)

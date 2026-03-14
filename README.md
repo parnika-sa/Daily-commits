@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-13 23:42:28 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-14 00:00:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/BitNet**
-- BTC: **$71,423.0** ↑ (+1.57%)
+- BTC: **$70,965.0** ↑ (+0.60%)
 - HN top story: **I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-13 06:02:39 UTC | `525c1690e7ef` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-13 23:42:28 UTC | `8c9d1f52ef61` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-13 20:24:49 UTC | `9dd7d00d4322` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-03-14 00:00:18 UTC | `e266611faf58` | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-14 00:00:19 UTC | `d7e3c824f68d` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-03-14 00:00:18 UTC | `7fcb7321c7b8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-14` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `23` day(s) |
-| Last Commit (IST) | `2026-03-14 04:31:16 IST` |
+| Last Commit (IST) | `2026-03-14 05:12:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-11 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-12 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-13 | 30 | `██████░░░░░░░░░░░░░░` 30% |
-| 2026-03-14 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-03-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,423.0 | +1.57% | 🟢 |
-| Ethereum | $2,111.79 | +2.20% | 🟢 |
-| Solana | $89.0 | +2.72% | 🟢 |
-| Bnb | $657.93 | +1.21% | 🟢 |
+| Bitcoin | $70,965.0 | +0.60% | 🟢 |
+| Ethereum | $2,093.01 | +0.79% | 🟢 |
+| Solana | $88.15 | +1.46% | 🟢 |
+| Bnb | $656.01 | +0.57% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,149 stars today | Official inference framework for 1-bit LLMs |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 637 stars today | SOTA Open Source TTS |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 322 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 263 stars today | Give agents everything they need to ship fullstack apps. The backend built for a… |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 217 stars today | Hindsight: Agent Memory That Learns |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,205 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,706 stars today | An agentic skills framework & software development methodology that works. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,264 stars today | The agent that grows with you |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,227 stars today | Official inference framework for 1-bit LLMs |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 905 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,093 stars today | Lightpanda: the headless browser designed for AI and automation |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,106 stars today | An agentic skills framework & software development methodology that works. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 892 stars today | A collective list of free APIs |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 1,668 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 5,745 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | Go | 60 stars today | Dolt – Git for Data |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) | 27 | 9 |
-| [Can I run AI locally?](https://www.canirun.ai/) | 823 | 225 |
-| [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) | 43 | 4 |
-| [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) | 376 | 131 |
-| [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) | 139 | 49 |
+| [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) | 32 | 9 |
+| [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) | 68 | 9 |
+| [Can I run AI locally?](https://www.canirun.ai/) | 851 | 226 |
+| [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) | 386 | 132 |
+| [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) | 147 | 52 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
