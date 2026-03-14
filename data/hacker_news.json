@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 09:35:28 UTC",
-    "fetched_at_ist": "2026-03-14 15:05:28 IST",
+    "fetched_at_utc": "2026-03-14 10:33:08 UTC",
+    "fetched_at_ist": "2026-03-14 16:03:08 IST",
     "item_count": 5,
-    "content_hash": "e3f335f07607a7aa130172bfd02662a101211a5b00a3e8a2156f4fd49b1c8344",
-    "previous_hash": "d22942c624ef59862c99d3913ff8b954081bf850176cead54cf86675a96bb5b7",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "9b89aeb3eb930d9022665ca8f4eaae0a058702ce4c5aea8cfd7c96feb5252fa7",
+    "previous_hash": "e3f335f07607a7aa130172bfd02662a101211a5b00a3e8a2156f4fd49b1c8344",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47374676,
-      "title": "Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture",
-      "url": "https://tboteproject.com",
-      "score": 31,
-      "comments": 3
-    },
-    {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
-      "score": 678,
-      "comments": 268
+      "score": 724,
+      "comments": 285
     },
     {
       "id": 47318386,
       "title": "A Survival Guide to a PhD (2016)",
       "url": "http://karpathy.github.io/2016/09/07/phd/",
-      "score": 79,
-      "comments": 35
+      "score": 92,
+      "comments": 42
+    },
+    {
+      "id": 47363584,
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 571,
+      "comments": 501
     },
     {
       "id": 47323625,
       "title": "You gotta think outside the hypercube",
       "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "score": 49,
-      "comments": 7
+      "score": 56,
+      "comments": 13
     },
     {
       "id": 47319071,
       "title": "Emacs and Vim in the Age of AI",
       "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "score": 126,
-      "comments": 65
+      "score": 144,
+      "comments": 78
     }
   ]
 }
