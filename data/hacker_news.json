@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 19:38:47 UTC",
-    "fetched_at_ist": "2026-03-15 01:08:47 IST",
+    "fetched_at_utc": "2026-03-15 07:34:41 UTC",
+    "fetched_at_ist": "2026-03-15 13:04:41 IST",
     "item_count": 5,
-    "content_hash": "d07987fe14ed40b7c882f09ecaeccbeda5a91af25a2e14d93c30588b598e384b",
-    "previous_hash": "92611c78abd620440de2be659eed08892ed74f9700010342567918587daec45a",
+    "content_hash": "3324d10a369a8c10c81cc337ff53397df879d6c082f1e993c10a582ba3389824",
+    "previous_hash": "d07987fe14ed40b7c882f09ecaeccbeda5a91af25a2e14d93c30588b598e384b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47379067,
-      "title": "Sunsetting Jazzband",
-      "url": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
-      "score": 68,
-      "comments": 16
+      "id": 47384352,
+      "title": "Rack-mount hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 96,
+      "comments": 22
     },
     {
-      "id": 47376767,
-      "title": "Montana passes Right to Compute act (2025)",
-      "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-      "score": 195,
-      "comments": 139
+      "id": 47335325,
+      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
+      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+      "score": 21,
+      "comments": 1
     },
     {
-      "id": 47378638,
-      "title": "What happens when US economic data becomes unreliable",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "score": 238,
-      "comments": 205
+      "id": 47384032,
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "score": 50,
+      "comments": 8
     },
     {
-      "id": 47379712,
-      "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
-      "url": "https://hostilevolume.com/",
-      "score": 15,
-      "comments": 5
+      "id": 47383804,
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "score": 64,
+      "comments": 66
     },
     {
-      "id": 47377998,
-      "title": "An ode to bzip",
-      "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-      "score": 48,
-      "comments": 27
+      "id": 47382791,
+      "title": "How kernel anti-cheats work",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "score": 129,
+      "comments": 96
     }
   ]
 }
