@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 13:33:40 UTC",
-    "fetched_at_ist": "2026-03-15 19:03:40 IST",
+    "fetched_at_utc": "2026-03-15 19:41:34 UTC",
+    "fetched_at_ist": "2026-03-16 01:11:34 IST",
     "item_count": 5,
-    "content_hash": "46167bab0ea5f525420743f2197aec9ce5a80fd0a54a602a5834f9256279ac50",
-    "previous_hash": "182c47bed1fedf27def8f3c14d3f35351e9ec3e7b243f5d826dc4ecfb6f7dc72",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "ab6a6fdd72dd8fcd1f9fb628018f92751d21d4d72bd08b84cb39c5e2f15c170a",
+    "previous_hash": "46167bab0ea5f525420743f2197aec9ce5a80fd0a54a602a5834f9256279ac50",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47385935,
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 184,
-      "comments": 102
+      "id": 47390817,
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 18,
+      "comments": 1
     },
     {
-      "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 102,
-      "comments": 5
+      "id": 47388141,
+      "title": "What makes Intel Optane stand out (2023)",
+      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 118,
+      "comments": 93
     },
     {
-      "id": 47386908,
-      "title": "A Theory of the World as run by large adult children",
-      "url": "https://tomclancy.info/harold-and-george.html",
-      "score": 22,
+      "id": 47388137,
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 106,
+      "comments": 44
+    },
+    {
+      "id": 47388531,
+      "title": "In Memoriam: John W. Addison, my PhD advisor",
+      "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+      "score": 36,
       "comments": 4
     },
     {
-      "id": 47386581,
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "url": "https://signet.watch",
-      "score": 19,
-      "comments": 0
-    },
-    {
-      "id": 47386441,
-      "title": "Generating All 32-Bit Primes (Part I)",
-      "url": "https://hnlyman.github.io/pages/prime32_I.html",
-      "score": 25,
-      "comments": 5
+      "id": 47332593,
+      "title": "C++26: The Oxford Variadic Comma",
+      "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
+      "score": 50,
+      "comments": 19
     }
   ]
 }

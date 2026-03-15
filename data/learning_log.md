@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-16 (last updated: 23:57 IST)
+
+## 📅 2026-03-16 (last updated: 01:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:30:18 IST | e266611faf58 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-15 19:03:40 IST | 46167bab0ea5 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-16 01:11:34 IST | ab6a6fdd72dd | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-15 23:57:32 IST | 0a9e9b93514a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) — Score: 184
-- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/) — Score: 102
-- [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html) — Score: 22
-- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) — Score: 19
-- [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) — Score: 25
+- [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) — Score: 18
+- [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/) — Score: 118
+- [Separating the Wayland compositor and window manager](https://isaacfreund.com/blog/river-window-management/) — Score: 106
+- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/) — Score: 36
+- [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma) — Score: 50
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,732.0 🟢 +1.56%
@@ -44,40 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $661.66 🟢 +1.40%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-15 (last updated: 23:57 IST)
 
 ### 🧪 Source Integrity Snapshot
