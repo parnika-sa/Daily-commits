@@ -21,19 +21,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-15 (last updated: 13:04 IST)
+
+## 📅 2026-03-15 (last updated: 14:56 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:30:18 IST | e266611faf58 | +5 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-15 13:04:41 IST | 3324d10a369a | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-15 06:58:32 IST | cdb40bd64fd5 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-15 14:56:12 IST | ed40397cdda5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/BitNet](https://github.com/microsoft/BitNet)** (Python) — Official inference framework for 1-bit LLMs  
@@ -55,10 +56,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) — Score: 129
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $70,955.0 🟢 +0.23%
-- Ethereum: $2,086.72 🔴 -0.30%
-- Solana: $87.83 🔴 -0.32%
-- Bnb: $655.15 🟢 +0.01%
+- Bitcoin: $71,900.0 🟢 +1.73%
+- Ethereum: $2,120.52 🟢 +2.14%
+- Solana: $88.75 🟢 +1.79%
+- Bnb: $665.29 🟢 +1.94%
 
 ---
 ## 📅 2026-03-14 (last updated: 23:56 IST)
