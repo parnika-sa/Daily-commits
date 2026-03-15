@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 07:34:41 UTC",
-    "fetched_at_ist": "2026-03-15 13:04:41 IST",
+    "fetched_at_utc": "2026-03-15 12:33:47 UTC",
+    "fetched_at_ist": "2026-03-15 18:03:47 IST",
     "item_count": 5,
-    "content_hash": "3324d10a369a8c10c81cc337ff53397df879d6c082f1e993c10a582ba3389824",
-    "previous_hash": "d07987fe14ed40b7c882f09ecaeccbeda5a91af25a2e14d93c30588b598e384b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "182c47bed1fedf27def8f3c14d3f35351e9ec3e7b243f5d826dc4ecfb6f7dc72",
+    "previous_hash": "3324d10a369a8c10c81cc337ff53397df879d6c082f1e993c10a582ba3389824",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47384352,
-      "title": "Rack-mount hydroponics",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 96,
-      "comments": 22
+      "id": 47385935,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 109,
+      "comments": 46
     },
     {
-      "id": 47335325,
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 21,
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 74,
+      "comments": 4
+    },
+    {
+      "id": 47386441,
+      "title": "Generating All 32-Bit Primes (Part I)",
+      "url": "https://hnlyman.github.io/pages/prime32_I.html",
+      "score": 13,
       "comments": 1
     },
     {
-      "id": 47384032,
-      "title": "A most elegant TCP hole punching algorithm",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 50,
-      "comments": 8
+      "id": 47384352,
+      "title": "Rack-mount hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 204,
+      "comments": 45
     },
     {
-      "id": 47383804,
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 64,
-      "comments": 66
-    },
-    {
-      "id": 47382791,
-      "title": "How kernel anti-cheats work",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 129,
-      "comments": 96
+      "id": 47385272,
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "score": 185,
+      "comments": 163
     }
   ]
 }
