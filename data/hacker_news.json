@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 19:40:00 UTC",
-    "fetched_at_ist": "2026-03-17 01:10:00 IST",
+    "fetched_at_utc": "2026-03-16 21:35:18 UTC",
+    "fetched_at_ist": "2026-03-17 03:05:18 IST",
     "item_count": 5,
-    "content_hash": "2cc503be60820ef33cda38f25e14a21c38c8bc7efb70e166f4fea7452d465fb9",
-    "previous_hash": "922ce10e10bad6f730751acadd8209c902de18261376ae118e4483df47bb4948",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "de3a6768d320c6233193d7b7d86d8069c85012ccdb7b65969b03d6e4d5a8947e",
+    "previous_hash": "2cc503be60820ef33cda38f25e14a21c38c8bc7efb70e166f4fea7452d465fb9",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47402640,
-      "title": "Jemalloc un-abandoned by Meta",
+      "title": "Meta’s renewed commitment to jemalloc",
       "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 143,
-      "comments": 39
+      "score": 248,
+      "comments": 105
     },
     {
       "id": 47401879,
       "title": "The “small web” is bigger than you might think",
       "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 122,
-      "comments": 45
+      "score": 222,
+      "comments": 86
     },
     {
-      "id": 47341321,
-      "title": "Where does engineering go? Retreat findings and insights [pdf]",
-      "url": "https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf",
-      "score": 40,
-      "comments": 8
+      "id": 47404798,
+      "title": "Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand",
+      "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+      "score": 43,
+      "comments": 25
     },
     {
       "id": 47398534,
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 210,
-      "comments": 73
+      "score": 264,
+      "comments": 88
     },
     {
-      "id": 47400261,
-      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "score": 84,
-      "comments": 82
+      "id": 47401901,
+      "title": "Language Model Teams as Distrbuted Systems",
+      "url": "https://arxiv.org/abs/2603.12229",
+      "score": 49,
+      "comments": 13
     }
   ]
 }

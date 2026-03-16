@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 01:10 IST)
+
+## 📅 2026-03-17 (last updated: 03:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-16 11:32:17 IST | 065b7d7dd949 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 01:10:00 IST | 2cc503be6082 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-17 03:05:18 IST | de3a6768d320 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-16 20:51:10 IST | 73a3c18e3494 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 851 stars today
 
 ### 📰 Hacker News Stories
-- [Jemalloc un-abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 143
-- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) — Score: 122
-- [Where does engineering go? Retreat findings and insights [pdf]](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf) — Score: 40
-- [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 210
-- [Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative) — Score: 84
+- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 248
+- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) — Score: 222
+- [Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/) — Score: 43
+- [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 264
+- [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229) — Score: 49
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,739.0 🟢 +3.07%
