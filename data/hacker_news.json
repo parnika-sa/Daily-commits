@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 18:37:16 UTC",
-    "fetched_at_ist": "2026-03-17 00:07:16 IST",
+    "fetched_at_utc": "2026-03-16 19:40:00 UTC",
+    "fetched_at_ist": "2026-03-17 01:10:00 IST",
     "item_count": 5,
-    "content_hash": "922ce10e10bad6f730751acadd8209c902de18261376ae118e4483df47bb4948",
-    "previous_hash": "9a4ba3eec97ee5120084e26b2457a7a773ba9a1d204aefd8a7bd976742458915",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "2cc503be60820ef33cda38f25e14a21c38c8bc7efb70e166f4fea7452d465fb9",
+    "previous_hash": "922ce10e10bad6f730751acadd8209c902de18261376ae118e4483df47bb4948",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47402640,
+      "title": "Jemalloc un-abandoned by Meta",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "score": 143,
+      "comments": 39
+    },
+    {
       "id": 47401879,
       "title": "The “small web” is bigger than you might think",
       "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 88,
-      "comments": 16
+      "score": 122,
+      "comments": 45
     },
     {
-      "id": 47402640,
-      "title": "Jemalloc Un-Abandoned by Meta",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 39,
-      "comments": 3
+      "id": 47341321,
+      "title": "Where does engineering go? Retreat findings and insights [pdf]",
+      "url": "https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf",
+      "score": 40,
+      "comments": 8
     },
     {
       "id": 47398534,
       "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 191,
-      "comments": 61
+      "score": 210,
+      "comments": 73
     },
     {
       "id": 47400261,
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
       "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "score": 71,
-      "comments": 77
-    },
-    {
-      "id": 47401042,
-      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-      "url": "https://news.ycombinator.com/item?id=47401042",
-      "score": 33,
-      "comments": 15
+      "score": 84,
+      "comments": 82
     }
   ]
 }
