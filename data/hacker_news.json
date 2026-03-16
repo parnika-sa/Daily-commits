@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 16:35:21 UTC",
-    "fetched_at_ist": "2026-03-16 22:05:21 IST",
+    "fetched_at_utc": "2026-03-16 17:42:18 UTC",
+    "fetched_at_ist": "2026-03-16 23:12:18 IST",
     "item_count": 5,
-    "content_hash": "3a64a344bb0eefab30b10f0a6ecd295cdc458851cab9266e12c17c67e5e8674e",
-    "previous_hash": "2dda6a27c432ef8fa26a3a329c18c70d111826eac52fee4b1f14b5c18d7f783b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9a4ba3eec97ee5120084e26b2457a7a773ba9a1d204aefd8a7bd976742458915",
+    "previous_hash": "3a64a344bb0eefab30b10f0a6ecd295cdc458851cab9266e12c17c67e5e8674e",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47397593,
       "title": "Corruption erodes social trust more in democracies than in autocracies",
       "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "score": 439,
-      "comments": 194
+      "score": 517,
+      "comments": 232
     },
     {
       "id": 47397797,
       "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
       "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "score": 332,
-      "comments": 108
+      "score": 427,
+      "comments": 149
     },
     {
       "id": 47398534,
       "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 117,
-      "comments": 36
+      "score": 162,
+      "comments": 46
     },
     {
-      "id": 47400060,
-      "title": "US Job Market Visualizer – Andrej Karpathy",
-      "url": "https://karpathy.ai/jobs/",
-      "score": 83,
-      "comments": 35
+      "id": 47401042,
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "url": "https://news.ycombinator.com/item?id=47401042",
+      "score": 23,
+      "comments": 9
     },
     {
       "id": 47397574,
       "title": "I Love FreeBSD",
       "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-      "score": 125,
-      "comments": 52
+      "score": 181,
+      "comments": 65
     }
   ]
 }
