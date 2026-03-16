@@ -25,18 +25,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-16 (last updated: 20:51 IST)
+
+## 📅 2026-03-16 (last updated: 22:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-16 11:32:17 IST | 065b7d7dd949 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-16 18:05:40 IST | 2dda6a27c432 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-16 22:05:21 IST | 3a64a344bb0e | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-03-16 20:51:10 IST | 73a3c18e3494 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 851 stars today
 
 ### 📰 Hacker News Stories
-- [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full) — Score: 22
-- [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/) — Score: 101
-- [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) — Score: 796
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) — Score: 281
-- [The 49MB web page](https://thatshubham.com/blog/news-audit) — Score: 623
+- [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full) — Score: 439
+- [MoD sources warn Palantir role at heart of government is threat to UK security](https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets) — Score: 332
+- [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 117
+- [US Job Market Visualizer – Andrej Karpathy](https://karpathy.ai/jobs/) — Score: 83
+- [I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) — Score: 125
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,739.0 🟢 +3.07%
