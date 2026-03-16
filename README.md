@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-16 04:20:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-16 06:02:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/BitNet**
-- BTC: **$73,792.0** ↑ (+3.03%)
-- HN top story: **Let your Coding Agent debug the browser session with Chrome DevTools MCP**
+- Top GitHub repo: **lightpanda-io/browser**
+- BTC: **$74,174.0** ↑ (+3.63%)
+- HN top story: **Canada's bill C-22 mandates mass metadata surveillance**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-03-14 00:00:18 UTC | `e266611faf58` | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-15 19:41:34 UTC | `ab6a6fdd72dd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-16 04:20:14 UTC | `a61859c77929` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-03-16 06:02:17 UTC | `065b7d7dd949` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-16 06:02:18 UTC | `a8b5246fdfe8` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-16 06:02:18 UTC | `f366dc8984f4` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-16` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `25` day(s) |
-| Last Commit (IST) | `2026-03-16 06:57:57 IST` |
+| Last Commit (IST) | `2026-03-16 09:50:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-13 | 30 | `██████░░░░░░░░░░░░░░` 30% |
 | 2026-03-14 | 36 | `███████░░░░░░░░░░░░░` 36% |
 | 2026-03-15 | 35 | `███████░░░░░░░░░░░░░` 35% |
-| 2026-03-16 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-03-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,792.0 | +3.03% | 🟢 |
-| Ethereum | $2,245.01 | +6.79% | 🟢 |
-| Solana | $93.43 | +5.97% | 🟢 |
-| Bnb | $683.31 | +3.47% | 🟢 |
+| Bitcoin | $74,174.0 | +3.63% | 🟢 |
+| Ethereum | $2,280.54 | +8.06% | 🟢 |
+| Solana | $94.06 | +6.37% | 🟢 |
+| Bnb | $685.49 | +3.87% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,227 stars today | Official inference framework for 1-bit LLMs |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 905 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,093 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,106 stars today | An agentic skills framework & software development methodology that works. |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 892 stars today | A collective list of free APIs |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 1,668 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 5,745 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | Go | 60 stars today | Dolt – Git for Data |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1,335 stars today | Lightpanda: the headless browser designed for AI and automation |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 205 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,870 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 872 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 851 stars today | practice made claude perfect |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,867 stars today | An agentic skills framework & software development methodology that works. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 1,062 stars today | Fully automatic censorship removal for language models |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,782 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) | 18 | 1 |
-| [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/) | 118 | 93 |
-| [Separating the Wayland compositor and window manager](https://isaacfreund.com/blog/river-window-management/) | 106 | 44 |
-| [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/) | 36 | 4 |
-| [C++26: The Oxford Variadic Comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma) | 50 | 19 |
+| [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) | 568 | 154 |
+| [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/) | 40 | 5 |
+| [The 49MB web page](https://thatshubham.com/blog/news-audit) | 409 | 201 |
+| [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) | 422 | 181 |
+| [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) | 71 | 17 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
