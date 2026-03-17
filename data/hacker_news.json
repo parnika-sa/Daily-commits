@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 16:44:27 UTC",
-    "fetched_at_ist": "2026-03-17 22:14:27 IST",
+    "fetched_at_utc": "2026-03-17 17:42:57 UTC",
+    "fetched_at_ist": "2026-03-17 23:12:57 IST",
     "item_count": 5,
-    "content_hash": "98bf2700422448ae53c64c04cb6e2f93f4e28e6ef5de3a794c6b09b90507b568",
-    "previous_hash": "c5bf81c97c1747a1818f8bbca9cc7466055317e5d4dba7b3d2f355d59273ea2a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "fcab5f8812df0035500498b95773723452a5e97246852a5ee9c0afada1ece62f",
+    "previous_hash": "98bf2700422448ae53c64c04cb6e2f93f4e28e6ef5de3a794c6b09b90507b568",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47400089,
-      "title": "Give Django your time and money, not your tokens",
-      "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "score": 199,
-      "comments": 63
+      "id": 47413876,
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 148,
+      "comments": 66
     },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 512,
-      "comments": 144
+      "score": 551,
+      "comments": 150
+    },
+    {
+      "id": 47413195,
+      "title": "Node.js needs a virtual file system",
+      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "score": 90,
+      "comments": 82
     },
     {
       "id": 47412726,
       "title": "OpenSUSE Kalpa",
       "url": "https://kalpadesktop.org/",
-      "score": 61,
-      "comments": 27
+      "score": 76,
+      "comments": 42
     },
     {
       "id": 47413525,
       "title": "FFmpeg 8.1",
       "url": "https://ffmpeg.org/index.html#pr8.1",
-      "score": 129,
-      "comments": 17
-    },
-    {
-      "id": 47364337,
-      "title": "Finding a CPU Design Bug in the Xbox 360",
-      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-      "score": 86,
-      "comments": 18
+      "score": 181,
+      "comments": 29
     }
   ]
 }
