@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 21:35:18 UTC",
-    "fetched_at_ist": "2026-03-17 03:05:18 IST",
+    "fetched_at_utc": "2026-03-17 06:37:19 UTC",
+    "fetched_at_ist": "2026-03-17 12:07:19 IST",
     "item_count": 5,
-    "content_hash": "de3a6768d320c6233193d7b7d86d8069c85012ccdb7b65969b03d6e4d5a8947e",
-    "previous_hash": "2cc503be60820ef33cda38f25e14a21c38c8bc7efb70e166f4fea7452d465fb9",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "1d4f1677082b8b67beccfcf48a9875a6de9d9eea603eaf061ae1a988f827023d",
+    "previous_hash": "de3a6768d320c6233193d7b7d86d8069c85012ccdb7b65969b03d6e4d5a8947e",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47402640,
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 248,
-      "comments": 105
+      "id": 47408703,
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "score": 223,
+      "comments": 39
     },
     {
-      "id": 47401879,
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 222,
-      "comments": 86
+      "id": 47406779,
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "score": 510,
+      "comments": 269
     },
     {
-      "id": 47404798,
-      "title": "Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand",
-      "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
-      "score": 43,
-      "comments": 25
+      "id": 47408441,
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "url": "https://pixeldust.se/monkey-island-project",
+      "score": 66,
+      "comments": 15
     },
     {
-      "id": 47398534,
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 264,
-      "comments": 88
+      "id": 47408205,
+      "title": "Every layer of review makes you 10x slower",
+      "url": "https://apenwarr.ca/log/20260316",
+      "score": 111,
+      "comments": 44
     },
     {
-      "id": 47401901,
-      "title": "Language Model Teams as Distrbuted Systems",
-      "url": "https://arxiv.org/abs/2603.12229",
-      "score": 49,
-      "comments": 13
+      "id": 47404796,
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral",
+      "score": 421,
+      "comments": 85
     }
   ]
 }
