@@ -25,18 +25,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 21:06 IST)
+
+## 📅 2026-03-17 (last updated: 22:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-16 11:32:17 IST | 065b7d7dd949 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 21:06:21 IST | c5bf81c97c17 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-17 22:14:27 IST | 98bf27004224 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-17 19:45:16 IST | cad647b45d9c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 851 stars today
 
 ### 📰 Hacker News Stories
-- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 461
-- [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/) — Score: 62
-- [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system) — Score: 44
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) — Score: 1096
-- [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech) — Score: 741
+- [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/) — Score: 199
+- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 512
+- [OpenSUSE Kalpa](https://kalpadesktop.org/) — Score: 61
+- [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1) — Score: 129
+- [Finding a CPU Design Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/) — Score: 86
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,706.0 🔴 -0.82%

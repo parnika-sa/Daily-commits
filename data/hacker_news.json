@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 15:36:21 UTC",
-    "fetched_at_ist": "2026-03-17 21:06:21 IST",
+    "fetched_at_utc": "2026-03-17 16:44:27 UTC",
+    "fetched_at_ist": "2026-03-17 22:14:27 IST",
     "item_count": 5,
-    "content_hash": "c5bf81c97c1747a1818f8bbca9cc7466055317e5d4dba7b3d2f355d59273ea2a",
-    "previous_hash": "ad4fa1b12df7976a39a415b07657b2376658b191df7d386ca264a30689949051",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "98bf2700422448ae53c64c04cb6e2f93f4e28e6ef5de3a794c6b09b90507b568",
+    "previous_hash": "c5bf81c97c1747a1818f8bbca9cc7466055317e5d4dba7b3d2f355d59273ea2a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47410542,
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "score": 461,
-      "comments": 121
-    },
-    {
       "id": 47400089,
       "title": "Give Django your time and money, not your tokens",
       "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "score": 62,
-      "comments": 4
+      "score": 199,
+      "comments": 63
     },
     {
-      "id": 47413195,
-      "title": "Why Node.js needs a virtual file system",
-      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 44,
-      "comments": 15
+      "id": 47410542,
+      "title": "Kagi Small Web",
+      "url": "https://kagi.com/smallweb/",
+      "score": 512,
+      "comments": 144
     },
     {
-      "id": 47408703,
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 1096,
-      "comments": 256
+      "id": 47412726,
+      "title": "OpenSUSE Kalpa",
+      "url": "https://kalpadesktop.org/",
+      "score": 61,
+      "comments": 27
     },
     {
-      "id": 47410870,
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "score": 741,
-      "comments": 368
+      "id": 47413525,
+      "title": "FFmpeg 8.1",
+      "url": "https://ffmpeg.org/index.html#pr8.1",
+      "score": 129,
+      "comments": 17
+    },
+    {
+      "id": 47364337,
+      "title": "Finding a CPU Design Bug in the Xbox 360",
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "score": 86,
+      "comments": 18
     }
   ]
 }
