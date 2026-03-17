@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 17:42:57 UTC",
-    "fetched_at_ist": "2026-03-17 23:12:57 IST",
+    "fetched_at_utc": "2026-03-17 18:37:07 UTC",
+    "fetched_at_ist": "2026-03-18 00:07:07 IST",
     "item_count": 5,
-    "content_hash": "fcab5f8812df0035500498b95773723452a5e97246852a5ee9c0afada1ece62f",
-    "previous_hash": "98bf2700422448ae53c64c04cb6e2f93f4e28e6ef5de3a794c6b09b90507b568",
+    "content_hash": "e49c872661c257175b744470e1dcbc924b45adc9e442ec16f81360147c5914ef",
+    "previous_hash": "fcab5f8812df0035500498b95773723452a5e97246852a5ee9c0afada1ece62f",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47416131,
+      "title": "Illinois Introducing Operating System Account Age Bill",
+      "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
+      "score": 64,
+      "comments": 36
+    },
+    {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 148,
-      "comments": 66
+      "score": 249,
+      "comments": 106
     },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 551,
-      "comments": 150
+      "score": 583,
+      "comments": 162
     },
     {
       "id": 47413195,
       "title": "Node.js needs a virtual file system",
       "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 90,
-      "comments": 82
+      "score": 115,
+      "comments": 104
     },
     {
-      "id": 47412726,
-      "title": "OpenSUSE Kalpa",
-      "url": "https://kalpadesktop.org/",
-      "score": 76,
-      "comments": 42
-    },
-    {
-      "id": 47413525,
-      "title": "FFmpeg 8.1",
-      "url": "https://ffmpeg.org/index.html#pr8.1",
-      "score": 181,
-      "comments": 29
+      "id": 47414440,
+      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
+      "url": "https://theasc.com/articles/the-secret-agent-cinematography",
+      "score": 30,
+      "comments": 3
     }
   ]
 }
