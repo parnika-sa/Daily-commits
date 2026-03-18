@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 21:31:40 UTC",
-    "fetched_at_ist": "2026-03-18 03:01:40 IST",
+    "fetched_at_utc": "2026-03-18 05:40:35 UTC",
+    "fetched_at_ist": "2026-03-18 11:10:35 IST",
     "item_count": 5,
-    "content_hash": "308449f07faf47d46bb1f41299a0d72bc994b6f7796dd5516e5da36ee0600fff",
-    "previous_hash": "459e725fa69f3d2e9258c0c061bb17d2323926d54c6b1fc63324a2ec21e79e36",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "7d4de19c8a0288789ffed794c5ef89ccf45fde33f0fe6ed783032655933cbcde",
+    "previous_hash": "308449f07faf47d46bb1f41299a0d72bc994b6f7796dd5516e5da36ee0600fff",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47421828,
+      "title": "SSH has no Host header",
+      "url": "https://blog.exe.dev/ssh-host-header",
+      "score": 11,
+      "comments": 2
+    },
+    {
+      "id": 47369883,
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory",
+      "score": 130,
+      "comments": 10
+    },
+    {
+      "id": 47421442,
+      "title": "Have a Fucking Website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "score": 53,
+      "comments": 20
+    },
+    {
       "id": 47416736,
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 216,
-      "comments": 15
-    },
-    {
-      "id": 47416486,
-      "title": "Python 3.15's JIT is now back on track",
-      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 122,
-      "comments": 30
+      "score": 520,
+      "comments": 45
     },
     {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 409,
-      "comments": 166
-    },
-    {
-      "id": 47417804,
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 50,
-      "comments": 19
-    },
-    {
-      "id": 47410542,
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "score": 641,
-      "comments": 183
+      "score": 609,
+      "comments": 218
     }
   ]
 }
