@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 06:33:15 UTC",
-    "fetched_at_ist": "2026-03-19 12:03:15 IST",
+    "fetched_at_utc": "2026-03-19 07:35:30 UTC",
+    "fetched_at_ist": "2026-03-19 13:05:30 IST",
     "item_count": 5,
-    "content_hash": "5633461d69f97f5406e6b1642906a6f2655815682cd197eed25e5d141c9cfa17",
-    "previous_hash": "0578e4d2db270c23d48fe00e1e79da0bfb1c45733b94a68d6904b1cba4951a5e",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "d363249065a5169535d3bd392582b122cf8b95f350b4c5303b51bf850cd6da62",
+    "previous_hash": "5633461d69f97f5406e6b1642906a6f2655815682cd197eed25e5d141c9cfa17",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47434047,
       "title": "A sufficiently detailed spec is code",
       "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 163,
-      "comments": 64
+      "score": 239,
+      "comments": 116
     },
     {
       "id": 47434024,
       "title": "Cook: A simple CLI for orchestrating Claude Code",
       "url": "https://rjcorwin.github.io/cook/",
-      "score": 123,
-      "comments": 27
-    },
-    {
-      "id": 47435156,
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "score": 47,
+      "score": 148,
       "comments": 34
     },
     {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 247,
-      "comments": 48
+      "score": 270,
+      "comments": 55
     },
     {
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 273,
-      "comments": 157
+      "score": 292,
+      "comments": 163
+    },
+    {
+      "id": 47434732,
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "score": 43,
+      "comments": 7
     }
   ]
 }
