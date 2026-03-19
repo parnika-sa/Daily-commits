@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-19 11:29:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-19 18:05:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **lightpanda-io/browser**
-- BTC: **$70,199.0** ↓ (-4.86%)
-- HN top story: **A sufficiently detailed spec is code**
+- Top GitHub repo: **opendataloader-project/opendataloader-pdf**
+- BTC: **$69,762.0** ↓ (-2.91%)
+- HN top story: **Astral to Join OpenAI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-16 06:02:17 UTC | `065b7d7dd949` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-19 07:35:30 UTC | `d363249065a5` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-19 11:29:20 UTC | `f976b3a57aed` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-03-19 18:05:24 UTC | `efc0d73f0641` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-19 18:05:26 UTC | `94ec62fbc4fd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-19 18:05:25 UTC | `be5d946d0ab8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-19` |
-| Commits Today | `25` / `100` |
-| Remaining Today | `75` |
-| Progress | `█████░░░░░░░░░░░░░░░` 25% |
+| Commits Today | `26` / `100` |
+| Remaining Today | `74` |
+| Progress | `█████░░░░░░░░░░░░░░░` 26% |
 | Streak | `28` day(s) |
-| Last Commit (IST) | `2026-03-19 21:36:48 IST` |
+| Last Commit (IST) | `2026-03-19 22:43:04 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-16 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-17 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-18 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
-| 2026-03-19 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
+| 2026-03-19 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,199.0 | -4.86% | 🔴 |
-| Ethereum | $2,174.17 | -5.72% | 🔴 |
-| Solana | $89.91 | -4.06% | 🔴 |
-| Bnb | $645.49 | -3.72% | 🔴 |
+| Bitcoin | $69,762.0 | -2.91% | 🔴 |
+| Ethereum | $2,124.41 | -4.07% | 🔴 |
+| Solana | $88.13 | -2.45% | 🔴 |
+| Bnb | $637.88 | -2.10% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1,335 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 205 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,870 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 872 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 851 stars today | practice made claude perfect |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,867 stars today | An agentic skills framework & software development methodology that works. |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 1,062 stars today | Fully automatic censorship removal for language models |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,782 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,394 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 955 stars today | An Open-Source Asynchronous Coding Agent |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,476 stars today | An agentic skills framework & software development methodology that works. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,851 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 1,259 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss… |
+| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Kotlin | 468 stars today | Painless E2E Automation for Mobile and Web |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 345 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 918 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) | 239 | 116 |
-| [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/) | 148 | 34 |
-| [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost) | 270 | 55 |
-| [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) | 292 | 163 |
-| [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life) | 43 | 7 |
+| [Astral to Join OpenAI](https://astral.sh/blog/openai) | 815 | 504 |
+| [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update) | 41 | 11 |
+| [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) | 103 | 24 |
+| [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/) | 44 | 25 |
+| [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859) | 126 | 38 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

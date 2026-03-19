@@ -2,92 +2,80 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-16 06:02:17 UTC",
-    "fetched_at_ist": "2026-03-16 11:32:17 IST",
-    "item_count": 13,
-    "content_hash": "065b7d7dd94911e6d4ca77c386005d86a58e27a35837647f3625c90a82dd3c29",
-    "previous_hash": "e266611faf58a84a98ad0c8a506dd22faf78d933c67f8f2fd43bcb9333ae69ef",
+    "fetched_at_utc": "2026-03-19 18:05:24 UTC",
+    "fetched_at_ist": "2026-03-19 23:35:24 IST",
+    "item_count": 11,
+    "content_hash": "efc0d73f06414cf6374218d5e355e647b549cf3215ac6cdab27c839b2199d507",
+    "previous_hash": "065b7d7dd94911e6d4ca77c386005d86a58e27a35837647f3625c90a82dd3c29",
     "new_repos_vs_previous": 9,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "stars_today": "1,335 stars today"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "1,394 stars today"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "205 stars today"
-    },
-    {
-      "name": "volcengine/OpenViking",
-      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "name": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars_today": "1,870 stars today"
-    },
-    {
-      "name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "language": "TypeScript",
-      "stars_today": "872 stars today"
-    },
-    {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "language": "HTML",
-      "stars_today": "851 stars today"
+      "stars_today": "955 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,867 stars today"
+      "stars_today": "3,476 stars today"
     },
     {
-      "name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
+      "name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars_today": "1,851 stars today"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
       "language": "Python",
-      "stars_today": "1,062 stars today"
+      "stars_today": "1,259 stars today"
     },
     {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "name": "mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "language": "Kotlin",
+      "stars_today": "468 stars today"
+    },
+    {
+      "name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars_today": "2,782 stars today"
+      "stars_today": "345 stars today"
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": "451 stars today"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "language": "Python",
-      "stars_today": "270 stars today"
-    },
-    {
-      "name": "InsForge/InsForge",
-      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "language": "TypeScript",
-      "stars_today": "515 stars today"
-    },
-    {
-      "name": "voidzero-dev/vite-plus",
-      "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+      "name": "louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
-      "stars_today": "300 stars today"
+      "stars_today": "918 stars today"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
       "language": "Python",
-      "stars_today": "604 stars today"
+      "stars_today": "257 stars today"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "language": "JavaScript",
+      "stars_today": "1,414 stars today"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars_today": "1,458 stars today"
     }
   ]
 }
