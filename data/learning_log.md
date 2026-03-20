@@ -26,18 +26,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-20 (last updated: 18:08 IST)
+
+## 📅 2026-03-20 (last updated: 20:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-20 11:36:10 IST | 7eb9b0354838 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-20 18:08:36 IST | 7316eb818995 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-20 20:08:19 IST | 98f8b29fd6f2 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-20 16:57:18 IST | 75decda22e96 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -53,11 +54,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,262 stars today
 
 ### 📰 Hacker News Stories
-- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 397
-- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/) — Score: 33
-- [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) — Score: 55
-- [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html) — Score: 41
-- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) — Score: 923
+- [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) — Score: 326
+- [Schizophrenia study finds new biomarker, drug candidate to treat symptoms](https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms) — Score: 49
+- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 505
+- [Chuck Norris Has Died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/) — Score: 95
+- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/) — Score: 84
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,666.0 🟢 +0.66%

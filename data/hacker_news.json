@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 12:38:36 UTC",
-    "fetched_at_ist": "2026-03-20 18:08:36 IST",
+    "fetched_at_utc": "2026-03-20 14:38:19 UTC",
+    "fetched_at_ist": "2026-03-20 20:08:19 IST",
     "item_count": 5,
-    "content_hash": "7316eb8189953d0c6d42b243f4ea112b0d1acb95bca53075d288bb050c38ea8a",
-    "previous_hash": "64f7b26cb4f0a4f2ece18bfd6e2f0703e7620b176eed706483fe204d1bd653dd",
+    "content_hash": "98f8b29fd6f25b7f1076e7002f567760a732ecec41cf6c7b0dad8d94818b2a31",
+    "previous_hash": "7316eb8189953d0c6d42b243f4ea112b0d1acb95bca53075d288bb050c38ea8a",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47454341,
+      "title": "I'm OK being left behind, thanks",
+      "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
+      "score": 326,
+      "comments": 185
+    },
+    {
+      "id": 47454091,
+      "title": "Schizophrenia study finds new biomarker, drug candidate to treat symptoms",
+      "url": "https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms",
+      "score": 49,
+      "comments": 9
+    },
     {
       "id": 47450478,
       "title": "ArXiv Declares Independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 397,
-      "comments": 121
+      "score": 505,
+      "comments": 179
+    },
+    {
+      "id": 47454782,
+      "title": "Chuck Norris Has Died",
+      "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
+      "score": 95,
+      "comments": 36
     },
     {
       "id": 47452955,
       "title": "Entso-E final report on Iberian 2025 blackout",
       "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 33,
-      "comments": 2
-    },
-    {
-      "id": 47409055,
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "url": "https://arxiv.org/abs/2603.09229",
-      "score": 55,
-      "comments": 4
-    },
-    {
-      "id": 47452399,
-      "title": "The Soul of a Pedicab Driver",
-      "url": "https://www.sheldonbrown.com/pedicab.html",
-      "score": 41,
-      "comments": 10
-    },
-    {
-      "id": 47442690,
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 923,
-      "comments": 993
+      "score": 84,
+      "comments": 18
     }
   ]
 }
