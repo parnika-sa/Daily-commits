@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 08:32:00 UTC",
-    "fetched_at_ist": "2026-03-20 14:02:00 IST",
+    "fetched_at_utc": "2026-03-20 12:38:36 UTC",
+    "fetched_at_ist": "2026-03-20 18:08:36 IST",
     "item_count": 5,
-    "content_hash": "64f7b26cb4f0a4f2ece18bfd6e2f0703e7620b176eed706483fe204d1bd653dd",
-    "previous_hash": "45793bf1d9abf63894615db90492e41e499c7cb67a30323bbf4fad8281c82456",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "7316eb8189953d0c6d42b243f4ea112b0d1acb95bca53075d288bb050c38ea8a",
+    "previous_hash": "64f7b26cb4f0a4f2ece18bfd6e2f0703e7620b176eed706483fe204d1bd653dd",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47450478,
       "title": "ArXiv Declares Independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 211,
-      "comments": 50
+      "score": 397,
+      "comments": 121
+    },
+    {
+      "id": 47452955,
+      "title": "Entso-E final report on Iberian 2025 blackout",
+      "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+      "score": 33,
+      "comments": 2
+    },
+    {
+      "id": 47409055,
+      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "url": "https://arxiv.org/abs/2603.09229",
+      "score": 55,
+      "comments": 4
+    },
+    {
+      "id": 47452399,
+      "title": "The Soul of a Pedicab Driver",
+      "url": "https://www.sheldonbrown.com/pedicab.html",
+      "score": 41,
+      "comments": 10
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 759,
-      "comments": 847
-    },
-    {
-      "id": 47403905,
-      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
-      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 69,
-      "comments": 39
-    },
-    {
-      "id": 47448524,
-      "title": "Push events into a running session with channels",
-      "url": "https://code.claude.com/docs/en/channels",
-      "score": 319,
-      "comments": 180
-    },
-    {
-      "id": 47448994,
-      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 128,
-      "comments": 26
+      "score": 923,
+      "comments": 993
     }
   ]
 }
