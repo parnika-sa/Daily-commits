@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 18:05:26 UTC",
-    "fetched_at_ist": "2026-03-19 23:35:26 IST",
+    "fetched_at_utc": "2026-03-20 03:42:07 UTC",
+    "fetched_at_ist": "2026-03-20 09:12:07 IST",
     "item_count": 5,
-    "content_hash": "94ec62fbc4fd53053df16b1aada98a5dfbd54e782b375ffcd8c452e393dc1b3d",
-    "previous_hash": "d363249065a5169535d3bd392582b122cf8b95f350b4c5303b51bf850cd6da62",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "1cfcdf76d9b0f82f8efe978185070f59fd0c93717ed4c03f8bf609dbd5caca56",
+    "previous_hash": "94ec62fbc4fd53053df16b1aada98a5dfbd54e782b375ffcd8c452e393dc1b3d",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47448524,
+      "title": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "score": 206,
+      "comments": 117
+    },
+    {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 815,
-      "comments": 504
+      "score": 1259,
+      "comments": 774
     },
     {
-      "id": 47442834,
-      "title": "An update on Steam / GOG changes for OpenTTD",
-      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "score": 41,
-      "comments": 11
+      "id": 47448566,
+      "title": "Drugwars for the TI-82/83/83 Calculators",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "score": 64,
+      "comments": 29
     },
     {
-      "id": 47441546,
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "score": 103,
-      "comments": 24
+      "id": 47442690,
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 575,
+      "comments": 672
     },
     {
-      "id": 47441784,
-      "title": "World Happiness Report 2026",
-      "url": "https://www.worldhappiness.report/ed/2026/",
-      "score": 44,
-      "comments": 25
-    },
-    {
-      "id": 47439320,
-      "title": "OpenBSD: PF queues break the 4 Gbps barrier",
-      "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-      "score": 126,
-      "comments": 38
+      "id": 47448994,
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "score": 36,
+      "comments": 2
     }
   ]
 }

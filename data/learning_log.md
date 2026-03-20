@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-20 (last updated: 06:48 IST)
+
+## 📅 2026-03-20 (last updated: 09:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-03-19 23:35:24 IST | efc0d73f0641 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-19 23:35:26 IST | 94ec62fbc4fd | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-20 09:12:07 IST | 1cfcdf76d9b0 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-20 06:48:36 IST | cc94ca34db41 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,259 stars today
 
 ### 📰 Hacker News Stories
-- [Astral to Join OpenAI](https://astral.sh/blog/openai) — Score: 815
-- [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update) — Score: 41
-- [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) — Score: 103
-- [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/) — Score: 44
-- [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859) — Score: 126
+- [Push events into a running session with channels](https://code.claude.com/docs/en/channels) — Score: 206
+- [Astral to Join OpenAI](https://astral.sh/blog/openai) — Score: 1259
+- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) — Score: 64
+- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) — Score: 575
+- [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found) — Score: 36
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,430.0 🔴 -0.86%
