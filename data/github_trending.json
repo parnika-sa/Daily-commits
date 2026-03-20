@@ -2,32 +2,32 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-19 18:05:24 UTC",
-    "fetched_at_ist": "2026-03-19 23:35:24 IST",
-    "item_count": 11,
-    "content_hash": "efc0d73f06414cf6374218d5e355e647b549cf3215ac6cdab27c839b2199d507",
-    "previous_hash": "065b7d7dd94911e6d4ca77c386005d86a58e27a35837647f3625c90a82dd3c29",
-    "new_repos_vs_previous": 9,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-03-20 06:06:10 UTC",
+    "fetched_at_ist": "2026-03-20 11:36:10 IST",
+    "item_count": 12,
+    "content_hash": "7eb9b0354838d43303dd4c25cb88d485367ea0bf00438eb68adad97ad0c57add",
+    "previous_hash": "efc0d73f06414cf6374218d5e355e647b549cf3215ac6cdab27c839b2199d507",
+    "new_repos_vs_previous": 1,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars_today": "1,394 stars today"
+      "stars_today": "1,416 stars today"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars_today": "955 stars today"
+      "stars_today": "965 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "3,476 stars today"
+      "stars_today": "3,494 stars today"
     },
     {
       "name": "jarrodwatts/claude-hud",
@@ -39,43 +39,49 @@
       "name": "unslothai/unsloth",
       "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
       "language": "Python",
-      "stars_today": "1,259 stars today"
+      "stars_today": "1,262 stars today"
     },
     {
       "name": "mobile-dev-inc/Maestro",
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
-      "stars_today": "468 stars today"
+      "stars_today": "492 stars today"
+    },
+    {
+      "name": "tw93/Mole",
+      "description": "🐹 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars_today": "399 stars today"
     },
     {
       "name": "newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars_today": "345 stars today"
+      "stars_today": "346 stars today"
     },
     {
       "name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
-      "stars_today": "918 stars today"
+      "stars_today": "946 stars today"
     },
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
       "language": "Python",
-      "stars_today": "257 stars today"
+      "stars_today": "146 stars today"
     },
     {
       "name": "gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
       "language": "JavaScript",
-      "stars_today": "1,414 stars today"
+      "stars_today": "1,491 stars today"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
       "language": "TypeScript",
-      "stars_today": "1,458 stars today"
+      "stars_today": "1,448 stars today"
     }
   ]
 }
