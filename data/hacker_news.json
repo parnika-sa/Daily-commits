@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 06:06:12 UTC",
-    "fetched_at_ist": "2026-03-20 11:36:12 IST",
+    "fetched_at_utc": "2026-03-20 08:32:00 UTC",
+    "fetched_at_ist": "2026-03-20 14:02:00 IST",
     "item_count": 5,
-    "content_hash": "45793bf1d9abf63894615db90492e41e499c7cb67a30323bbf4fad8281c82456",
-    "previous_hash": "1cfcdf76d9b0f82f8efe978185070f59fd0c93717ed4c03f8bf609dbd5caca56",
+    "content_hash": "64f7b26cb4f0a4f2ece18bfd6e2f0703e7620b176eed706483fe204d1bd653dd",
+    "previous_hash": "45793bf1d9abf63894615db90492e41e499c7cb67a30323bbf4fad8281c82456",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47450478,
       "title": "ArXiv Declares Independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 75,
-      "comments": 11
-    },
-    {
-      "id": 47448524,
-      "title": "Push events into a running session with channels",
-      "url": "https://code.claude.com/docs/en/channels",
-      "score": 280,
-      "comments": 152
+      "score": 211,
+      "comments": 50
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 652,
-      "comments": 730
+      "score": 759,
+      "comments": 847
+    },
+    {
+      "id": 47403905,
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 69,
+      "comments": 39
+    },
+    {
+      "id": 47448524,
+      "title": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "score": 319,
+      "comments": 180
     },
     {
       "id": 47448994,
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 88,
-      "comments": 15
-    },
-    {
-      "id": 47448566,
-      "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
-      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 106,
-      "comments": 44
+      "score": 128,
+      "comments": 26
     }
   ]
 }
