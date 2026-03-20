@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 14:38:19 UTC",
-    "fetched_at_ist": "2026-03-20 20:08:19 IST",
+    "fetched_at_utc": "2026-03-20 18:36:02 UTC",
+    "fetched_at_ist": "2026-03-21 00:06:02 IST",
     "item_count": 5,
-    "content_hash": "98f8b29fd6f25b7f1076e7002f567760a732ecec41cf6c7b0dad8d94818b2a31",
-    "previous_hash": "7316eb8189953d0c6d42b243f4ea112b0d1acb95bca53075d288bb050c38ea8a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "e795b482c569b2bb30ebf1d395c4e3800c8e44707d25d910e86387eb897edb4c",
+    "previous_hash": "98f8b29fd6f25b7f1076e7002f567760a732ecec41cf6c7b0dad8d94818b2a31",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47454341,
-      "title": "I'm OK being left behind, thanks",
-      "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
-      "score": 326,
-      "comments": 185
+      "id": 47453942,
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 166,
+      "comments": 186
     },
     {
-      "id": 47454091,
-      "title": "Schizophrenia study finds new biomarker, drug candidate to treat symptoms",
-      "url": "https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms",
-      "score": 49,
-      "comments": 9
+      "id": 47410871,
+      "title": "VisiCalc Reconstructed",
+      "url": "https://zserge.com/posts/visicalc/",
+      "score": 92,
+      "comments": 40
     },
     {
       "id": 47450478,
-      "title": "ArXiv Declares Independence from Cornell",
+      "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 505,
-      "comments": 179
+      "score": 635,
+      "comments": 215
     },
     {
-      "id": 47454782,
-      "title": "Chuck Norris Has Died",
-      "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-      "score": 95,
-      "comments": 36
+      "id": 47457472,
+      "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
+      "url": "https://news.ycombinator.com/item?id=47457472",
+      "score": 18,
+      "comments": 16
     },
     {
-      "id": 47452955,
-      "title": "Entso-E final report on Iberian 2025 blackout",
-      "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 84,
+      "id": 47424592,
+      "title": "Parallel Perl – autoparallelizing interpreter with JIT",
+      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+      "score": 40,
       "comments": 18
     }
   ]
