@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-20 18:36:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-20 19:25:01 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **opendataloader-project/opendataloader-pdf**
-- BTC: **$69,772.0** ↑ (+0.76%)
+- BTC: **$69,903.0** ↓ (-0.90%)
 - HN top story: **France's aircraft carrier located in real time by Le Monde through fitness app**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-20 06:06:10 UTC | `7eb9b0354838` | +1 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-20 18:36:02 UTC | `e795b482c569` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-20 15:27:01 UTC | `67b585248186` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-20 19:25:01 UTC | `23fc2f8316c8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +1 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-21` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-03-20 23:22:34 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `30` day(s) |
+| Last Commit (IST) | `2026-03-21 00:06:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-18 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-19 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-03-20 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-21 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-03-21 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $69,772.0 | +0.76% | 🟢 |
-| Ethereum | $2,130.45 | +0.83% | 🟢 |
-| Solana | $88.88 | +1.03% | 🟢 |
-| Bnb | $639.92 | +0.58% | 🟢 |
+| Bitcoin | $69,903.0 | -0.90% | 🔴 |
+| Ethereum | $2,125.86 | -1.27% | 🔴 |
+| Solana | $88.6 | -0.49% | 🔴 |
+| Bnb | $638.7 | -0.54% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
