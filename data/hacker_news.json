@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 19:44:10 UTC",
-    "fetched_at_ist": "2026-03-22 01:14:10 IST",
+    "fetched_at_utc": "2026-03-21 21:44:52 UTC",
+    "fetched_at_ist": "2026-03-22 03:14:52 IST",
     "item_count": 5,
-    "content_hash": "231b814dfb170524166743eaa5d7519c494036dc3487e9da2f1dc99a51eaabe1",
-    "previous_hash": "c857a36e845372284642f5f2956b29803ba4a7fb3b6c50146aa03753e425e8d1",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "b8106aa210ed74ccd651695eedc13122ab7b7578666088ca8ae93603ced57b46",
+    "previous_hash": "231b814dfb170524166743eaa5d7519c494036dc3487e9da2f1dc99a51eaabe1",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47470773,
+      "title": "Tinybox- offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 135,
+      "comments": 82
+    },
+    {
+      "id": 47470991,
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "score": 77,
+      "comments": 21
+    },
+    {
       "id": 47467537,
-      "title": "Some Things Just Take Time",
+      "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 280,
-      "comments": 105
+      "score": 391,
+      "comments": 133
+    },
+    {
+      "id": 47471213,
+      "title": "Revert \"userdb: add birthDate field to JSON user records",
+      "url": "https://github.com/systemd/systemd/pull/41179",
+      "score": 22,
+      "comments": 6
     },
     {
       "id": 47467567,
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 113,
-      "comments": 33
-    },
-    {
-      "id": 47435028,
-      "title": "Invisalign Became the Biggest User of 3D Printers",
-      "url": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-      "score": 63,
-      "comments": 35
-    },
-    {
-      "id": 47469417,
-      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
-      "url": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
-      "score": 157,
-      "comments": 150
-    },
-    {
-      "id": 47411110,
-      "title": "The seven hour explosion nobody could explain",
-      "url": "https://phys.org/news/2026-03-hour-explosion.html",
-      "score": 11,
-      "comments": 1
+      "score": 147,
+      "comments": 49
     }
   ]
 }

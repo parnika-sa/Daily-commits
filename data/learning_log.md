@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 02:47 IST)
+
+## 📅 2026-03-22 (last updated: 03:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 11:36:30 IST | 3723a6167f97 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 01:14:10 IST | 231b814dfb17 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 03:14:52 IST | b8106aa210ed | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 02:47:24 IST | 0976bc93f09f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 280
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 113
-- [Invisalign Became the Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/) — Score: 63
-- [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries) — Score: 157
-- [The seven hour explosion nobody could explain](https://phys.org/news/2026-03-hour-explosion.html) — Score: 11
+- [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox) — Score: 135
+- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) — Score: 77
+- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 391
+- [Revert "userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179) — Score: 22
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 147
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,385.0 🔴 -0.03%
