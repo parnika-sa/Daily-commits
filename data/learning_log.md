@@ -28,13 +28,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 16:46 IST)
+
+## 📅 2026-03-21 (last updated: 17:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 11:36:30 IST | 3723a6167f97 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-21 14:09:23 IST | 317332e34661 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-21 17:13:23 IST | da07e6fcb943 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-21 16:46:41 IST | fd2c22543fce | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -55,11 +56,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 732
-- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 93
-- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 60
-- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 90
-- [Fujifilm X RAW STUDIO webapp clone](https://github.com/eggricesoy/filmkit) — Score: 30
+- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 868
+- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 140
+- [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) — Score: 20
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 100
+- [A Japanese glossary of chopsticks faux pas (2022)](https://www.nippon.com/en/japan-data/h01362/) — Score: 291
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,561.0 🔴 -0.16%
