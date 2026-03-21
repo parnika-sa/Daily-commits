@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 03:30:10 UTC",
-    "fetched_at_ist": "2026-03-21 09:00:10 IST",
+    "fetched_at_utc": "2026-03-21 05:36:54 UTC",
+    "fetched_at_ist": "2026-03-21 11:06:54 IST",
     "item_count": 5,
-    "content_hash": "f836ec53b3fb3f61cf7aca6e6b266f2cb72a8be3c70688fef6b7ce846ec9ac0e",
-    "previous_hash": "e795b482c569b2bb30ebf1d395c4e3800c8e44707d25d910e86387eb897edb4c",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "0ff87901f8cd6c833ac55f546f3aa53471b9ab8e632ac513cc5d1d7d9769fa28",
+    "previous_hash": "f836ec53b3fb3f61cf7aca6e6b266f2cb72a8be3c70688fef6b7ce846ec9ac0e",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 507,
-      "comments": 231
+      "score": 596,
+      "comments": 265
     },
     {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 127,
-      "comments": 70
-    },
-    {
-      "id": 47461378,
-      "title": "Ghostling",
-      "url": "https://github.com/ghostty-org/ghostling",
-      "score": 124,
+      "id": 47455138,
+      "title": "Molly Guard",
+      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "score": 45,
       "comments": 17
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 489,
-      "comments": 402
+      "score": 520,
+      "comments": 411
     },
     {
-      "id": 47462483,
-      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 41,
-      "comments": 5
+      "id": 47460452,
+      "title": "A Japanese glossary of chopsticks faux pas",
+      "url": "https://www.nippon.com/en/japan-data/h01362/",
+      "score": 192,
+      "comments": 145
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 148,
+      "comments": 85
     }
   ]
 }
