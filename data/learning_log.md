@@ -18,44 +18,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 11:06 IST)
+
+## 📅 2026-03-21 (last updated: 11:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-20 11:36:10 IST | 7eb9b0354838 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 11:06:54 IST | 0ff87901f8cd | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-21 04:51:10 IST | e188f7e746b9 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 9 | 2026-03-21 11:36:30 IST | 3723a6167f97 | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-21 11:36:33 IST | 5b4efc81fea3 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-21 11:36:31 IST | 23fe47f018ab | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
-  ⭐ 1,416 stars today
-- **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** (Python) — An Open-Source Asynchronous Coding Agent  
-  ⭐ 965 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 3,494 stars today
 - **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** (JavaScript) — A Claude Code plugin that shows what's happening - context usage, active tools,   
-  ⭐ 1,851 stars today
-- **[unslothai/unsloth](https://github.com/unslothai/unsloth)** (Python) — Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss  
-  ⭐ 1,262 stars today
+  ⭐ 1,068 stars today
+- **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** (Python) — An Open-Source Asynchronous Coding Agent  
+  ⭐ 635 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 2,819 stars today
+- **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
+  ⭐ 1,812 stars today
+- **[louis-e/arnis](https://github.com/louis-e/arnis)** (Rust) — Generate any location from the real world in Minecraft with a high level of deta  
+  ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 596
-- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 45
-- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 520
-- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) — Score: 192
-- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser) — Score: 148
+- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 611
+- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 25
+- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 530
+- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 49
+- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) — Score: 199
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $70,515.0 🟢 +0.73%
-- Ethereum: $2,146.59 🟢 +0.41%
-- Solana: $89.89 🟢 +0.92%
-- Bnb: $642.17 🟢 +0.36%
+- Bitcoin: $70,711.0 🟢 +0.23%
+- Ethereum: $2,153.07 🟢 +0.68%
+- Solana: $90.06 🟢 +0.78%
+- Bnb: $642.29 🔴 -0.04%
 
 ---
 ## 📅 2026-03-20 (last updated: 20:57 IST)

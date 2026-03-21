@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 05:36:54 UTC",
-    "fetched_at_ist": "2026-03-21 11:06:54 IST",
+    "fetched_at_utc": "2026-03-21 06:06:33 UTC",
+    "fetched_at_ist": "2026-03-21 11:36:33 IST",
     "item_count": 5,
-    "content_hash": "0ff87901f8cd6c833ac55f546f3aa53471b9ab8e632ac513cc5d1d7d9769fa28",
-    "previous_hash": "f836ec53b3fb3f61cf7aca6e6b266f2cb72a8be3c70688fef6b7ce846ec9ac0e",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "5b4efc81fea3d064a844cb2f92e2aad89011f2b88e4c3e8fa7924ce760751248",
+    "previous_hash": "0ff87901f8cd6c833ac55f546f3aa53471b9ab8e632ac513cc5d1d7d9769fa28",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 596,
-      "comments": 265
+      "score": 611,
+      "comments": 271
     },
     {
-      "id": 47455138,
-      "title": "Molly Guard",
-      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 45,
-      "comments": 17
+      "id": 47419391,
+      "title": "Mamba-3",
+      "url": "https://www.together.ai/blog/mamba-3",
+      "score": 25,
+      "comments": 0
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 520,
-      "comments": 411
+      "score": 530,
+      "comments": 415
+    },
+    {
+      "id": 47455138,
+      "title": "Molly Guard",
+      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "score": 49,
+      "comments": 23
     },
     {
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 192,
+      "score": 199,
       "comments": 145
-    },
-    {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 148,
-      "comments": 85
     }
   ]
 }

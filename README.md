@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-21 05:36:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-21 06:06:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **opendataloader-project/opendataloader-pdf**
-- BTC: **$70,515.0** ↑ (+0.73%)
+- Top GitHub repo: **jarrodwatts/claude-hud**
+- BTC: **$70,711.0** ↑ (+0.23%)
 - HN top story: **OpenCode – Open source AI coding agent**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-20 06:06:10 UTC | `7eb9b0354838` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 05:36:54 UTC | `0ff87901f8cd` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-20 23:21:10 UTC | `e188f7e746b9` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 9 | 2026-03-21 06:06:30 UTC | `3723a6167f97` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-21 06:06:33 UTC | `5b4efc81fea3` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-21 06:06:31 UTC | `23fe47f018ab` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-21` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `30` day(s) |
-| Last Commit (IST) | `2026-03-21 10:26:17 IST` |
+| Last Commit (IST) | `2026-03-21 11:06:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-18 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-19 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-03-20 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-21 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-03-21 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,515.0 | +0.73% | 🟢 |
-| Ethereum | $2,146.59 | +0.41% | 🟢 |
-| Solana | $89.89 | +0.92% | 🟢 |
-| Bnb | $642.17 | +0.36% | 🟢 |
+| Bitcoin | $70,711.0 | +0.23% | 🟢 |
+| Ethereum | $2,153.07 | +0.68% | 🟢 |
+| Solana | $90.06 | +0.78% | 🟢 |
+| Bnb | $642.29 | -0.04% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,416 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 965 stars today | An Open-Source Asynchronous Coding Agent |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,494 stars today | An agentic skills framework & software development methodology that works. |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,851 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 1,262 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss… |
-| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Kotlin | 492 stars today | Painless E2E Automation for Mobile and Web |
-| [tw93/Mole](https://github.com/tw93/Mole) | Shell | 399 stars today | 🐹 Deep clean and optimize your Mac. |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 346 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,068 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 635 stars today | An Open-Source Asynchronous Coding Agent |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,819 stars today | An agentic skills framework & software development methodology that works. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,812 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 1,045 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 266 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | 137 stars today | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 433 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenCode – Open source AI coding agent](https://opencode.ai/) | 596 | 265 |
-| [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) | 45 | 17 |
-| [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) | 520 | 411 |
-| [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) | 192 | 145 |
-| [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser) | 148 | 85 |
+| [OpenCode – Open source AI coding agent](https://opencode.ai/) | 611 | 271 |
+| [Mamba-3](https://www.together.ai/blog/mamba-3) | 25 | 0 |
+| [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) | 530 | 415 |
+| [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) | 49 | 23 |
+| [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) | 199 | 145 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
