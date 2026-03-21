@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-03-22 (last updated: 00:56 IST)
+
+## 📅 2026-03-22 (last updated: 01:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 11:36:30 IST | 3723a6167f97 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-21 18:05:10 IST | c857a36e8453 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-22 01:14:10 IST | 231b814dfb17 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 00:56:09 IST | 3a763d004ba8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 895
-- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 160
-- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 115
-- [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) — Score: 36
-- [A Japanese glossary of chopsticks faux pas (2022)](https://www.nippon.com/en/japan-data/h01362/) — Score: 303
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 280
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 113
+- [Invisalign Became the Biggest User of 3D Printers](https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/) — Score: 63
+- [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries) — Score: 157
+- [The seven hour explosion nobody could explain](https://phys.org/news/2026-03-hour-explosion.html) — Score: 11
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,412.0 🟢 +0.79%

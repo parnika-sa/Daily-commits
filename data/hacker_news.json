@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 12:35:10 UTC",
-    "fetched_at_ist": "2026-03-21 18:05:10 IST",
+    "fetched_at_utc": "2026-03-21 19:44:10 UTC",
+    "fetched_at_ist": "2026-03-22 01:14:10 IST",
     "item_count": 5,
-    "content_hash": "c857a36e845372284642f5f2956b29803ba4a7fb3b6c50146aa03753e425e8d1",
-    "previous_hash": "da07e6fcb94309f6df74a423914f9b85170b4cfde4e7b31a80e3ac5c6eecf713",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "231b814dfb170524166743eaa5d7519c494036dc3487e9da2f1dc99a51eaabe1",
+    "previous_hash": "c857a36e845372284642f5f2956b29803ba4a7fb3b6c50146aa03753e425e8d1",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47460525,
-      "title": "OpenCode – Open source AI coding agent",
-      "url": "https://opencode.ai/",
-      "score": 895,
-      "comments": 416
+      "id": 47467537,
+      "title": "Some Things Just Take Time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 280,
+      "comments": 105
     },
     {
-      "id": 47419391,
-      "title": "Mamba-3",
-      "url": "https://www.together.ai/blog/mamba-3",
-      "score": 160,
-      "comments": 23
+      "id": 47467567,
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "url": "https://grafeo.dev/",
+      "score": 113,
+      "comments": 33
     },
     {
-      "id": 47463547,
-      "title": "FFmpeg 101 (2024)",
-      "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 115,
-      "comments": 2
+      "id": 47435028,
+      "title": "Invisalign Became the Biggest User of 3D Printers",
+      "url": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+      "score": 63,
+      "comments": 35
     },
     {
-      "id": 47465824,
-      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "url": "https://blog.atuin.sh/atuin-v18-13/",
-      "score": 36,
-      "comments": 10
+      "id": 47469417,
+      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
+      "url": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
+      "score": 157,
+      "comments": 150
     },
     {
-      "id": 47460452,
-      "title": "A Japanese glossary of chopsticks faux pas (2022)",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 303,
-      "comments": 240
+      "id": 47411110,
+      "title": "The seven hour explosion nobody could explain",
+      "url": "https://phys.org/news/2026-03-hour-explosion.html",
+      "score": 11,
+      "comments": 1
     }
   ]
 }
