@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 18:36:02 UTC",
-    "fetched_at_ist": "2026-03-21 00:06:02 IST",
+    "fetched_at_utc": "2026-03-21 03:30:10 UTC",
+    "fetched_at_ist": "2026-03-21 09:00:10 IST",
     "item_count": 5,
-    "content_hash": "e795b482c569b2bb30ebf1d395c4e3800c8e44707d25d910e86387eb897edb4c",
-    "previous_hash": "98f8b29fd6f25b7f1076e7002f567760a732ecec41cf6c7b0dad8d94818b2a31",
+    "content_hash": "f836ec53b3fb3f61cf7aca6e6b266f2cb72a8be3c70688fef6b7ce846ec9ac0e",
+    "previous_hash": "e795b482c569b2bb30ebf1d395c4e3800c8e44707d25d910e86387eb897edb4c",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47460525,
+      "title": "OpenCode – Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 507,
+      "comments": 231
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 127,
+      "comments": 70
+    },
+    {
+      "id": 47461378,
+      "title": "Ghostling",
+      "url": "https://github.com/ghostty-org/ghostling",
+      "score": 124,
+      "comments": 17
+    },
+    {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 166,
-      "comments": 186
+      "score": 489,
+      "comments": 402
     },
     {
-      "id": 47410871,
-      "title": "VisiCalc Reconstructed",
-      "url": "https://zserge.com/posts/visicalc/",
-      "score": 92,
-      "comments": 40
-    },
-    {
-      "id": 47450478,
-      "title": "ArXiv declares independence from Cornell",
-      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 635,
-      "comments": 215
-    },
-    {
-      "id": 47457472,
-      "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
-      "url": "https://news.ycombinator.com/item?id=47457472",
-      "score": 18,
-      "comments": 16
-    },
-    {
-      "id": 47424592,
-      "title": "Parallel Perl – autoparallelizing interpreter with JIT",
-      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 40,
-      "comments": 18
+      "id": 47462483,
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "score": 41,
+      "comments": 5
     }
   ]
 }
