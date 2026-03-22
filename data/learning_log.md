@@ -29,13 +29,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 16:47 IST)
+
+## 📅 2026-03-22 (last updated: 17:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 11:40:05 IST | 67f343203a6b | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 17:14:09 IST | b6f40c327db0 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 16:47:13 IST | e418d6e04b47 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 121
-- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) — Score: 418
-- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 598
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) — Score: 200
-- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) — Score: 65
+- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) — Score: 190
+- [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 333
+- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html) — Score: 47
+- [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/) — Score: 126
+- [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox) — Score: 506
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,644.0 🔴 -2.74%

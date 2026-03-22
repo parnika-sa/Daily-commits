@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 06:10:05 UTC",
-    "fetched_at_ist": "2026-03-22 11:40:05 IST",
+    "fetched_at_utc": "2026-03-22 11:44:09 UTC",
+    "fetched_at_ist": "2026-03-22 17:14:09 IST",
     "item_count": 5,
-    "content_hash": "67f343203a6b5173dcb86a0f39b24c8ec055454f5388c62b8d7ee46e1de2d391",
-    "previous_hash": "b8106aa210ed74ccd651695eedc13122ab7b7578666088ca8ae93603ced57b46",
+    "content_hash": "b6f40c327db0bd9c5c7d3207eb836c8115e97232ebdc79db17667d8a31028c63",
+    "previous_hash": "67f343203a6b5173dcb86a0f39b24c8ec055454f5388c62b8d7ee46e1de2d391",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47475686,
+      "title": "Hormuz Minesweeper – Are you tired of winning?",
+      "url": "https://hormuz.pythonic.ninja/",
+      "score": 190,
+      "comments": 54
+    },
+    {
       "id": 47473718,
-      "title": "The Three Pillars of JavaScript Bloat",
+      "title": "The three pillars of JavaScript bloat",
       "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 121,
-      "comments": 51
+      "score": 333,
+      "comments": 176
+    },
+    {
+      "id": 47427224,
+      "title": "25 Years of Eggs",
+      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+      "score": 47,
+      "comments": 11
+    },
+    {
+      "id": 47444909,
+      "title": "My first patch to the Linux kernel",
+      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "score": 126,
+      "comments": 14
     },
     {
       "id": 47470773,
-      "title": "Tinybox – Offline AI device 120B parameters",
+      "title": "Tinybox – A powerful computer for deep learning",
       "url": "https://tinygrad.org/#tinybox",
-      "score": 418,
-      "comments": 254
-    },
-    {
-      "id": 47467537,
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 598,
-      "comments": 192
-    },
-    {
-      "id": 47471601,
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "url": "https://tooscut.app/",
-      "score": 200,
-      "comments": 59
-    },
-    {
-      "id": 47473279,
-      "title": "Chest Fridge (2009)",
-      "url": "https://mtbest.net/chest-fridge/",
-      "score": 65,
-      "comments": 47
+      "score": 506,
+      "comments": 292
     }
   ]
 }
