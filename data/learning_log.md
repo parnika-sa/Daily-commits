@@ -36,18 +36,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 20:14 IST)
+
+## 📅 2026-03-22 (last updated: 21:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 20:14:47 IST | 3a569bfef404 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 21:08:42 IST | 5ee30337e37a | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-22 16:47:13 IST | e418d6e04b47 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -63,11 +64,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 105
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 137
-- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 21
-- [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html) — Score: 28
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 43
+- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 166
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 159
+- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 53
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 89
+- [Convincing Is Not Persuading](https://blog.alaindichiappari.dev/p/convincing-is-not-persuading) — Score: 27
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,644.0 🔴 -2.74%

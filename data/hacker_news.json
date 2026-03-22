@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 14:44:47 UTC",
-    "fetched_at_ist": "2026-03-22 20:14:47 IST",
+    "fetched_at_utc": "2026-03-22 15:38:42 UTC",
+    "fetched_at_ist": "2026-03-22 21:08:42 IST",
     "item_count": 5,
-    "content_hash": "3a569bfef40480a011decf2bb43fb25f9def54f41b6ded655e461680f2b9afd0",
-    "previous_hash": "5bbffb838da3b945abb72e6a49d3c8d33ce822daa4c353f8f45ba5bc5dbdaa44",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "5ee30337e37a53fa1cd3f431d2e617ab842e01b8043b140637f778b979c70c20",
+    "previous_hash": "3a569bfef40480a011decf2bb43fb25f9def54f41b6ded655e461680f2b9afd0",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47477158,
       "title": "Bored of eating your own dogfood? Try smelling your own farts",
       "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
-      "score": 105,
-      "comments": 29
+      "score": 166,
+      "comments": 76
     },
     {
       "id": 47476422,
       "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 137,
-      "comments": 48
+      "score": 159,
+      "comments": 54
     },
     {
       "id": 47477284,
       "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
       "url": "https://noquiche.fyi/voodoo",
-      "score": 21,
-      "comments": 0
-    },
-    {
-      "id": 47477090,
-      "title": "A Case Against Currying",
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "score": 28,
-      "comments": 25
+      "score": 53,
+      "comments": 4
     },
     {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 43,
-      "comments": 7
+      "score": 89,
+      "comments": 11
+    },
+    {
+      "id": 47477068,
+      "title": "Convincing Is Not Persuading",
+      "url": "https://blog.alaindichiappari.dev/p/convincing-is-not-persuading",
+      "score": 27,
+      "comments": 15
     }
   ]
 }
