@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 12:41:43 UTC",
-    "fetched_at_ist": "2026-03-22 18:11:43 IST",
+    "fetched_at_utc": "2026-03-22 13:31:56 UTC",
+    "fetched_at_ist": "2026-03-22 19:01:56 IST",
     "item_count": 5,
-    "content_hash": "1ad53c4abbdd0118e0bcf2e2cfb7e7b28ff75c832eb6cf7c6f876314b093a009",
-    "previous_hash": "b6f40c327db0bd9c5c7d3207eb836c8115e97232ebdc79db17667d8a31028c63",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "5bbffb838da3b945abb72e6a49d3c8d33ce822daa4c353f8f45ba5bc5dbdaa44",
+    "previous_hash": "1ad53c4abbdd0118e0bcf2e2cfb7e7b28ff75c832eb6cf7c6f876314b093a009",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47476422,
       "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 46,
-      "comments": 13
+      "score": 93,
+      "comments": 31
+    },
+    {
+      "id": 47477158,
+      "title": "Bored of eating your own dogfood? Try smelling your own farts",
+      "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+      "score": 10,
+      "comments": 1
     },
     {
       "id": 47475686,
       "title": "Hormuz Minesweeper – Are you tired of winning?",
       "url": "https://hormuz.pythonic.ninja/",
-      "score": 309,
-      "comments": 123
+      "score": 381,
+      "comments": 206
     },
     {
       "id": 47427224,
       "title": "25 Years of Eggs",
       "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "score": 74,
-      "comments": 24
+      "score": 94,
+      "comments": 32
     },
     {
-      "id": 47473718,
-      "title": "The three pillars of JavaScript bloat",
-      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 359,
-      "comments": 196
-    },
-    {
-      "id": 47444909,
-      "title": "My first patch to the Linux kernel",
-      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "score": 137,
-      "comments": 18
+      "id": 47476562,
+      "title": "More common mistakes to avoid when creating system architecture diagrams",
+      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+      "score": 17,
+      "comments": 4
     }
   ]
 }
