@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-23 (last updated: 23:55 IST)
+
+## 📅 2026-03-23 (last updated: 01:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 21:08:42 IST | 5ee30337e37a | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-23 01:06:45 IST | 4e51d5694c62 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 23:55:20 IST | 527c483552d7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 166
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 159
-- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 53
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 89
-- [Convincing Is Not Persuading](https://blog.alaindichiappari.dev/p/convincing-is-not-persuading) — Score: 27
+- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 210
+- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 40
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 260
+- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 235
+- [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,675.0 🔴 -2.45%
@@ -44,45 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $630.15 🔴 -1.77%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-22 (last updated: 23:55 IST)
 
 ### 🧪 Source Integrity Snapshot
