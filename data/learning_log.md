@@ -34,18 +34,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 19:01 IST)
+
+## 📅 2026-03-22 (last updated: 20:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 19:01:56 IST | 5bbffb838da3 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-22 20:14:47 IST | 3a569bfef404 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 16:47:13 IST | e418d6e04b47 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -61,11 +62,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 93
-- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 10
-- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) — Score: 381
-- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html) — Score: 94
-- [More common mistakes to avoid when creating system architecture diagrams](https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/) — Score: 17
+- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 105
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 137
+- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 21
+- [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html) — Score: 28
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 43
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,644.0 🔴 -2.74%
