@@ -31,18 +31,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 17:14 IST)
+
+## 📅 2026-03-22 (last updated: 18:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 17:14:09 IST | b6f40c327db0 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 18:11:43 IST | 1ad53c4abbdd | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 16:47:13 IST | e418d6e04b47 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -58,11 +59,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) — Score: 190
-- [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 333
-- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html) — Score: 47
-- [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/) — Score: 126
-- [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox) — Score: 506
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 46
+- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) — Score: 309
+- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html) — Score: 74
+- [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 359
+- [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/) — Score: 137
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,644.0 🔴 -2.74%

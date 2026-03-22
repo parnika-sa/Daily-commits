@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 11:44:09 UTC",
-    "fetched_at_ist": "2026-03-22 17:14:09 IST",
+    "fetched_at_utc": "2026-03-22 12:41:43 UTC",
+    "fetched_at_ist": "2026-03-22 18:11:43 IST",
     "item_count": 5,
-    "content_hash": "b6f40c327db0bd9c5c7d3207eb836c8115e97232ebdc79db17667d8a31028c63",
-    "previous_hash": "67f343203a6b5173dcb86a0f39b24c8ec055454f5388c62b8d7ee46e1de2d391",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "1ad53c4abbdd0118e0bcf2e2cfb7e7b28ff75c832eb6cf7c6f876314b093a009",
+    "previous_hash": "b6f40c327db0bd9c5c7d3207eb836c8115e97232ebdc79db17667d8a31028c63",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47476422,
+      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "url": "https://github.com/danveloper/flash-moe",
+      "score": 46,
+      "comments": 13
+    },
+    {
       "id": 47475686,
       "title": "Hormuz Minesweeper – Are you tired of winning?",
       "url": "https://hormuz.pythonic.ninja/",
-      "score": 190,
-      "comments": 54
-    },
-    {
-      "id": 47473718,
-      "title": "The three pillars of JavaScript bloat",
-      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 333,
-      "comments": 176
+      "score": 309,
+      "comments": 123
     },
     {
       "id": 47427224,
       "title": "25 Years of Eggs",
       "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "score": 47,
-      "comments": 11
+      "score": 74,
+      "comments": 24
+    },
+    {
+      "id": 47473718,
+      "title": "The three pillars of JavaScript bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "score": 359,
+      "comments": 196
     },
     {
       "id": 47444909,
       "title": "My first patch to the Linux kernel",
       "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "score": 126,
-      "comments": 14
-    },
-    {
-      "id": 47470773,
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 506,
-      "comments": 292
+      "score": 137,
+      "comments": 18
     }
   ]
 }
