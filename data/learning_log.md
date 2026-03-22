@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 10:48 IST)
+
+## 📅 2026-03-22 (last updated: 11:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-21 11:36:30 IST | 3723a6167f97 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 03:14:52 IST | b8106aa210ed | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-22 10:48:23 IST | 41d746080519 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-22 11:40:05 IST | 67f343203a6b | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-22 11:40:05 IST | 11c43696e629 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +3 new repos, top changed: yes
+- GitHub: +6 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** (JavaScript) — A Claude Code plugin that shows what's happening - context usage, active tools,   
-  ⭐ 1,068 stars today
-- **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** (Python) — An Open-Source Asynchronous Coding Agent  
-  ⭐ 635 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 2,819 stars today
+- **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** (Python) — Automate the process of making money online.  
+  ⭐ 283 stars today
+- **[systemd/systemd](https://github.com/systemd/systemd)** (C) — The systemd System and Service Manager  
+  ⭐ 58 stars today
+- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** (Go) — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes  
+  ⭐ 39 stars today
+- **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** (TypeScript) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr  
+  ⭐ 2,032 stars today
 - **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
-  ⭐ 1,812 stars today
-- **[louis-e/arnis](https://github.com/louis-e/arnis)** (Rust) — Generate any location from the real world in Minecraft with a high level of deta  
-  ⭐ 1,045 stars today
+  ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox) — Score: 135
-- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) — Score: 77
-- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 391
-- [Revert "userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179) — Score: 22
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 147
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 121
+- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) — Score: 418
+- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 598
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) — Score: 200
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) — Score: 65
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $69,203.0 🔴 -2.15%
-- Ethereum: $2,116.99 🔴 -1.78%
-- Solana: $88.75 🔴 -1.76%
-- Bnb: $633.61 🔴 -1.41%
+- Bitcoin: $69,066.0 🔴 -2.32%
+- Ethereum: $2,108.01 🔴 -2.07%
+- Solana: $88.36 🔴 -1.89%
+- Bnb: $632.83 🔴 -1.46%
 
 ---
 ## 📅 2026-03-21 (last updated: 23:54 IST)

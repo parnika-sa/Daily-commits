@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-22 05:18:23 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-22 06:10:05 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **jarrodwatts/claude-hud**
-- BTC: **$69,203.0** ↓ (-2.15%)
-- HN top story: **Tinybox- offline AI device 120B parameters**
+- Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
+- BTC: **$69,066.0** ↓ (-2.32%)
+- HN top story: **The Three Pillars of JavaScript Bloat**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-21 06:06:30 UTC | `3723a6167f97` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-21 21:44:52 UTC | `b8106aa210ed` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-22 05:18:23 UTC | `41d746080519` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 9 | 2026-03-22 06:10:04 UTC | `50ae3db0f685` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-22 06:10:05 UTC | `67f343203a6b` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-22 06:10:05 UTC | `11c43696e629` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
+- GitHub: +6 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-22` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `31` day(s) |
-| Last Commit (IST) | `2026-03-22 09:27:39 IST` |
+| Last Commit (IST) | `2026-03-22 10:48:23 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-19 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-03-20 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-21 | 39 | `███████░░░░░░░░░░░░░` 39% |
-| 2026-03-22 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-03-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $69,203.0 | -2.15% | 🔴 |
-| Ethereum | $2,116.99 | -1.78% | 🔴 |
-| Solana | $88.75 | -1.76% | 🔴 |
-| Bnb | $633.61 | -1.41% | 🔴 |
+| Bitcoin | $69,066.0 | -2.32% | 🔴 |
+| Ethereum | $2,108.01 | -2.07% | 🔴 |
+| Solana | $88.36 | -1.89% | 🔴 |
+| Bnb | $632.83 | -1.46% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,068 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 635 stars today | An Open-Source Asynchronous Coding Agent |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,819 stars today | An agentic skills framework & software development methodology that works. |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,812 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 1,045 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 266 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | 137 stars today | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions… |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 433 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 283 stars today | Automate the process of making money online. |
+| [systemd/systemd](https://github.com/systemd/systemd) | C | 58 stars today | The systemd System and Service Manager |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | 39 stars today | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,032 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 950 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 970 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 7 stars today | Protocol Buffers - Google's data interchange format |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | Python | 71 stars today | A framework for efficient model inference with omni-modality models |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox) | 135 | 82 |
-| [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) | 77 | 21 |
-| [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) | 391 | 133 |
-| [Revert "userdb: add birthDate field to JSON user records](https://github.com/systemd/systemd/pull/41179) | 22 | 6 |
-| [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) | 147 | 49 |
+| [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) | 121 | 51 |
+| [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) | 418 | 254 |
+| [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) | 598 | 192 |
+| [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) | 200 | 59 |
+| [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) | 65 | 47 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

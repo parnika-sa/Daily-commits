@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 21:44:52 UTC",
-    "fetched_at_ist": "2026-03-22 03:14:52 IST",
+    "fetched_at_utc": "2026-03-22 06:10:05 UTC",
+    "fetched_at_ist": "2026-03-22 11:40:05 IST",
     "item_count": 5,
-    "content_hash": "b8106aa210ed74ccd651695eedc13122ab7b7578666088ca8ae93603ced57b46",
-    "previous_hash": "231b814dfb170524166743eaa5d7519c494036dc3487e9da2f1dc99a51eaabe1",
+    "content_hash": "67f343203a6b5173dcb86a0f39b24c8ec055454f5388c62b8d7ee46e1de2d391",
+    "previous_hash": "b8106aa210ed74ccd651695eedc13122ab7b7578666088ca8ae93603ced57b46",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47470773,
-      "title": "Tinybox- offline AI device 120B parameters",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 135,
-      "comments": 82
+      "id": 47473718,
+      "title": "The Three Pillars of JavaScript Bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "score": 121,
+      "comments": 51
     },
     {
-      "id": 47470991,
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 77,
-      "comments": 21
+      "id": 47470773,
+      "title": "Tinybox – Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 418,
+      "comments": 254
     },
     {
       "id": 47467537,
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 391,
-      "comments": 133
+      "score": 598,
+      "comments": 192
     },
     {
-      "id": 47471213,
-      "title": "Revert \"userdb: add birthDate field to JSON user records",
-      "url": "https://github.com/systemd/systemd/pull/41179",
-      "score": 22,
-      "comments": 6
+      "id": 47471601,
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "url": "https://tooscut.app/",
+      "score": 200,
+      "comments": 59
     },
     {
-      "id": 47467567,
-      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
-      "url": "https://grafeo.dev/",
-      "score": 147,
-      "comments": 49
+      "id": 47473279,
+      "title": "Chest Fridge (2009)",
+      "url": "https://mtbest.net/chest-fridge/",
+      "score": 65,
+      "comments": 47
     }
   ]
 }
