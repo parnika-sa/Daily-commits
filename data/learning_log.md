@@ -38,14 +38,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 21:08 IST)
+
+## 📅 2026-03-22 (last updated: 21:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-03-22 21:08:42 IST | 5ee30337e37a | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-22 16:47:13 IST | e418d6e04b47 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-22 21:52:09 IST | 536d719869ca | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
@@ -72,10 +73,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Convincing Is Not Persuading](https://blog.alaindichiappari.dev/p/convincing-is-not-persuading) — Score: 27
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,644.0 🔴 -2.74%
-- Ethereum: $2,081.74 🔴 -3.35%
-- Solana: $87.34 🔴 -2.84%
-- Bnb: $629.33 🔴 -2.12%
+- Bitcoin: $68,756.0 🔴 -2.50%
+- Ethereum: $2,081.43 🔴 -3.22%
+- Solana: $87.51 🔴 -2.63%
+- Bnb: $629.84 🔴 -1.89%
 
 ---
 ## 📅 2026-03-21 (last updated: 23:54 IST)
