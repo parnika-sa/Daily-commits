@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-03-24 (last updated: 23:32 IST)
+
+## 📅 2026-03-24 (last updated: 02:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-23 23:32:23 IST | cf4ee87d6fda | +13 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-23 23:32:24 IST | 0dda4f8fc52a | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-24 02:00:18 IST | 39934c319f17 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-23 23:32:23 IST | 79144cb028b6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,160 stars today
 
 ### 📰 Hacker News Stories
-- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) — Score: 229
-- [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) — Score: 37
-- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads) — Score: 93
-- [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/) — Score: 23
-- [Unix philosophy is dead Long live something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/) — Score: 13
+- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) — Score: 127
+- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) — Score: 343
+- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack) — Score: 50
+- [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) — Score: 108
+- [Finding all regex matches has always been O(n²)](https://iev.ee/blog/the-quadratic-problem-nobody-fixed/) — Score: 72
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,062.0 🟢 +3.55%

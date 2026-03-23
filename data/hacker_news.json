@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 18:02:24 UTC",
-    "fetched_at_ist": "2026-03-23 23:32:24 IST",
+    "fetched_at_utc": "2026-03-23 20:30:18 UTC",
+    "fetched_at_ist": "2026-03-24 02:00:18 IST",
     "item_count": 5,
-    "content_hash": "0dda4f8fc52a6b81549db3a225df5ec47e4fc7f69717f79f2cdbac414a0ba74b",
-    "previous_hash": "1401a7e8a4bd34cfc24f34bebaecee8afada71bc2cc2f368b3b0d11c0fce0ae4",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "39934c319f178255968986de3fc01dcd3fd4e607c76600460c94ce1299b16e0e",
+    "previous_hash": "0dda4f8fc52a6b81549db3a225df5ec47e4fc7f69717f79f2cdbac414a0ba74b",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47493460,
+      "title": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "score": 127,
+      "comments": 34
+    },
+    {
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 229,
-      "comments": 134
+      "score": 343,
+      "comments": 197
+    },
+    {
+      "id": 47493657,
+      "title": "Local Stack Archived their GitHub repo and requires an account to run",
+      "url": "https://github.com/localstack/localstack",
+      "score": 50,
+      "comments": 19
     },
     {
       "id": 47475888,
       "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
       "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "score": 37,
-      "comments": 14
+      "score": 108,
+      "comments": 36
     },
     {
-      "id": 47490816,
-      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
-      "url": "https://www.cyber.mil/stigs/downloads",
-      "score": 93,
-      "comments": 88
-    },
-    {
-      "id": 47459363,
-      "title": "BIO: The Bao I/O Coprocessor",
-      "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
-      "score": 23,
-      "comments": 5
-    },
-    {
-      "id": 47492285,
-      "title": "Unix philosophy is dead Long live something else?",
-      "url": "https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/",
-      "score": 13,
-      "comments": 3
+      "id": 47443903,
+      "title": "Finding all regex matches has always been O(n²)",
+      "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+      "score": 72,
+      "comments": 12
     }
   ]
 }
