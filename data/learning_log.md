@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-24 (last updated: 03:53 IST)
+
+## 📅 2026-03-24 (last updated: 05:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-23 23:32:23 IST | cf4ee87d6fda | +13 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-24 02:00:18 IST | 39934c319f17 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-24 05:00:58 IST | 7e1dfc72a77d | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-24 03:53:13 IST | 4af79cdc2e5f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,160 stars today
 
 ### 📰 Hacker News Stories
-- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) — Score: 127
-- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) — Score: 343
-- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack) — Score: 50
-- [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) — Score: 108
-- [Finding all regex matches has always been O(n²)](https://iev.ee/blog/the-quadratic-problem-nobody-fixed/) — Score: 72
+- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) — Score: 235
+- [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) — Score: 78
+- [Hacker Mints $80M USD Worth of USR Stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/) — Score: 39
+- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) — Score: 443
+- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) — Score: 9
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,650.0 🟢 +3.66%
