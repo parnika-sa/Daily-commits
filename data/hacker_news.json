@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 19:36:45 UTC",
-    "fetched_at_ist": "2026-03-23 01:06:45 IST",
+    "fetched_at_utc": "2026-03-23 12:44:58 UTC",
+    "fetched_at_ist": "2026-03-23 18:14:58 IST",
     "item_count": 5,
-    "content_hash": "4e51d5694c627ba0dd90814d29e1323f9dcf62e52666f196f2b6f271e265b7f2",
-    "previous_hash": "5ee30337e37a53fa1cd3f431d2e617ab842e01b8043b140637f778b979c70c20",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "1401a7e8a4bd34cfc24f34bebaecee8afada71bc2cc2f368b3b0d11c0fce0ae4",
+    "previous_hash": "4e51d5694c627ba0dd90814d29e1323f9dcf62e52666f196f2b6f271e265b7f2",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47478401,
-      "title": "The Future of Version Control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 210,
-      "comments": 119
+      "id": 47487436,
+      "title": "Migrating to the EU",
+      "url": "https://rz01.org/eu-migration/",
+      "score": 261,
+      "comments": 175
     },
     {
-      "id": 47479962,
-      "title": "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
-      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-      "score": 40,
-      "comments": 22
+      "id": 47488015,
+      "title": "Attractive students no longer receive better results as classes moved online",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+      "score": 56,
+      "comments": 46
     },
     {
-      "id": 47476821,
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "url": "https://www.projectnomad.us",
-      "score": 260,
-      "comments": 52
+      "id": 47486726,
+      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+      "url": "https://indieweb.org/POSSE",
+      "score": 190,
+      "comments": 47
     },
     {
-      "id": 47476422,
-      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-      "url": "https://github.com/danveloper/flash-moe",
-      "score": 235,
-      "comments": 88
+      "id": 47487584,
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "url": "https://www.theregister.com/2026/02/10/github_outages/",
+      "score": 92,
+      "comments": 34
     },
     {
-      "id": 47480644,
-      "title": "Nebraska wildfires leave ranchers scrambling for forage",
-      "url": "https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage",
-      "score": 8,
-      "comments": 0
+      "id": 47480507,
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 665,
+      "comments": 315
     }
   ]
 }

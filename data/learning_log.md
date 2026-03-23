@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-23 (last updated: 06:53 IST)
+
+## 📅 2026-03-23 (last updated: 18:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-22 11:40:04 IST | 50ae3db0f685 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-23 01:06:45 IST | 4e51d5694c62 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-23 18:14:58 IST | 1401a7e8a4bd | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-23 06:53:09 IST | 0e9b503cb449 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 950 stars today
 
 ### 📰 Hacker News Stories
-- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 210
-- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 40
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 260
-- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 235
-- [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage) — Score: 8
+- [Migrating to the EU](https://rz01.org/eu-migration/) — Score: 261
+- [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X) — Score: 56
+- [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) — Score: 190
+- [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/) — Score: 92
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — Score: 665
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,968.0 🔴 -1.58%
