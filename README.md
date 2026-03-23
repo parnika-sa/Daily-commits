@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-23 12:44:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-23 18:02:24 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
-- BTC: **$67,968.0** ↓ (-1.58%)
-- HN top story: **Migrating to the EU**
+- BTC: **$71,062.0** ↑ (+3.55%)
+- HN top story: **iPhone 17 Pro Demonstrated Running a 400B LLM**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-22 06:10:04 UTC | `50ae3db0f685` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-23 12:44:58 UTC | `1401a7e8a4bd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-23 01:23:09 UTC | `0e9b503cb449` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-03-23 18:02:23 UTC | `cf4ee87d6fda` | +13 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-23 18:02:24 UTC | `0dda4f8fc52a` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-23 18:02:23 UTC | `79144cb028b6` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
+- GitHub: +13 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-23` |
-| Commits Today | `25` / `100` |
-| Remaining Today | `75` |
-| Progress | `█████░░░░░░░░░░░░░░░` 25% |
+| Commits Today | `26` / `100` |
+| Remaining Today | `74` |
+| Progress | `█████░░░░░░░░░░░░░░░` 26% |
 | Streak | `31` day(s) |
-| Last Commit (IST) | `2026-03-23 21:40:26 IST` |
+| Last Commit (IST) | `2026-03-23 22:38:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-20 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-21 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-03-22 | 40 | `████████░░░░░░░░░░░░` 40% |
-| 2026-03-23 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
+| 2026-03-23 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,968.0 | -1.58% | 🔴 |
-| Ethereum | $2,057.62 | -1.61% | 🔴 |
-| Solana | $86.36 | -1.19% | 🔴 |
-| Bnb | $626.88 | -0.70% | 🔴 |
+| Bitcoin | $71,062.0 | +3.55% | 🟢 |
+| Ethereum | $2,152.44 | +3.64% | 🟢 |
+| Solana | $91.24 | +4.52% | 🟢 |
+| Bnb | $637.89 | +1.26% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 283 stars today | Automate the process of making money online. |
-| [systemd/systemd](https://github.com/systemd/systemd) | C | 58 stars today | The systemd System and Service Manager |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | 39 stars today | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,032 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 950 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 970 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 7 stars today | Protocol Buffers - Google's data interchange format |
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | Python | 71 stars today | A framework for efficient model inference with omni-modality models |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,902 stars today | Automate the process of making money online. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,569 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 4,148 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,307 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 1,160 stars today | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,521 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 58 stars today | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 4,453 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Migrating to the EU](https://rz01.org/eu-migration/) | 261 | 175 |
-| [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X) | 56 | 46 |
-| [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) | 190 | 47 |
-| [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/) | 92 | 34 |
-| [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) | 665 | 315 |
+| [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) | 229 | 134 |
+| [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) | 37 | 14 |
+| [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads) | 93 | 88 |
+| [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/) | 23 | 5 |
+| [Unix philosophy is dead Long live something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/) | 13 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

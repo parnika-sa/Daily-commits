@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 12:44:58 UTC",
-    "fetched_at_ist": "2026-03-23 18:14:58 IST",
+    "fetched_at_utc": "2026-03-23 18:02:24 UTC",
+    "fetched_at_ist": "2026-03-23 23:32:24 IST",
     "item_count": 5,
-    "content_hash": "1401a7e8a4bd34cfc24f34bebaecee8afada71bc2cc2f368b3b0d11c0fce0ae4",
-    "previous_hash": "4e51d5694c627ba0dd90814d29e1323f9dcf62e52666f196f2b6f271e265b7f2",
+    "content_hash": "0dda4f8fc52a6b81549db3a225df5ec47e4fc7f69717f79f2cdbac414a0ba74b",
+    "previous_hash": "1401a7e8a4bd34cfc24f34bebaecee8afada71bc2cc2f368b3b0d11c0fce0ae4",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47487436,
-      "title": "Migrating to the EU",
-      "url": "https://rz01.org/eu-migration/",
-      "score": 261,
-      "comments": 175
+      "id": 47490070,
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 229,
+      "comments": 134
     },
     {
-      "id": 47488015,
-      "title": "Attractive students no longer receive better results as classes moved online",
-      "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
-      "score": 56,
-      "comments": 46
+      "id": 47475888,
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "score": 37,
+      "comments": 14
     },
     {
-      "id": 47486726,
-      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-      "url": "https://indieweb.org/POSSE",
-      "score": 190,
-      "comments": 47
+      "id": 47490816,
+      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+      "url": "https://www.cyber.mil/stigs/downloads",
+      "score": 93,
+      "comments": 88
     },
     {
-      "id": 47487584,
-      "title": "GitHub appears to be struggling with measly three nines availability",
-      "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 92,
-      "comments": 34
+      "id": 47459363,
+      "title": "BIO: The Bao I/O Coprocessor",
+      "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+      "score": 23,
+      "comments": 5
     },
     {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 665,
-      "comments": 315
+      "id": 47492285,
+      "title": "Unix philosophy is dead Long live something else?",
+      "url": "https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/",
+      "score": 13,
+      "comments": 3
     }
   ]
 }
