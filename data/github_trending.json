@@ -2,104 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-23 18:02:23 UTC",
-    "fetched_at_ist": "2026-03-23 23:32:23 IST",
-    "item_count": 15,
-    "content_hash": "cf4ee87d6fda4404522b9b453ae6007e309eca8f7c0e19c1bc226f18e5427e45",
-    "previous_hash": "50ae3db0f6858196637d04404612d2cca44b3be428805ef1d584ec34096ea833",
-    "new_repos_vs_previous": 13,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-03-24 12:04:43 UTC",
+    "fetched_at_ist": "2026-03-24 17:34:43 IST",
+    "item_count": 14,
+    "content_hash": "0776080536f48acd2bbdaed801c0c7a742532a48d8d1b55f498abf1715cb074a",
+    "previous_hash": "cf4ee87d6fda4404522b9b453ae6007e309eca8f7c0e19c1bc226f18e5427e45",
+    "new_repos_vs_previous": 7,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "language": "Python",
-      "stars_today": "2,902 stars today"
+      "name": "pascalorg/editor",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "2,315 stars today"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "3,569 stars today"
+      "stars_today": "4,319 stars today"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars_today": "611 stars today"
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars_today": "2,937 stars today"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "1,056 stars today"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars_today": "4,148 stars today"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "1,307 stars today"
-    },
-    {
-      "name": "browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "language": "Python",
-      "stars_today": "1,160 stars today"
+      "stars_today": "2,450 stars today"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,521 stars today"
+      "stars_today": "1,746 stars today"
     },
     {
-      "name": "tinygrad/tinygrad",
-      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "58 stars today"
+      "stars_today": "208 stars today"
     },
     {
-      "name": "affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "4,453 stars today"
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars_today": "1,397 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "874 stars today"
-    },
-    {
-      "name": "jingyaogong/minimind",
-      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
-      "language": "Python",
-      "stars_today": "478 stars today"
-    },
-    {
-      "name": "hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "language": "Python",
-      "stars_today": "672 stars today"
-    },
-    {
-      "name": "kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "language": "Unknown",
-      "stars_today": "453 stars today"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "language": "TypeScript",
-      "stars_today": "136 stars today"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_today": "125 stars today"
+      "stars_today": "1,251 stars today"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
-      "stars_today": "413 stars today"
+      "stars_today": "993 stars today"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars_today": "559 stars today"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "305 stars today"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "979 stars today"
     }
   ]
 }

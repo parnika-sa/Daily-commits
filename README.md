@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-24 11:29:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-24 12:04:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
-- BTC: **$71,035.0** ↑ (+0.51%)
+- Top GitHub repo: **pascalorg/editor**
+- BTC: **$71,050.0** ↑ (+1.69%)
 - HN top story: **Microsoft's "Fix" for Windows 11: Flowers After the Beating**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-03-23 18:02:23 UTC | `cf4ee87d6fda` | +13 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-24 10:32:31 UTC | `12a18971c2b9` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-24 11:29:48 UTC | `c8ece1e90b66` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-03-24 12:04:43 UTC | `0776080536f4` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-24 12:04:44 UTC | `398ab1250d34` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-24 12:04:43 UTC | `7a998224d6ac` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-24` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `32` day(s) |
-| Last Commit (IST) | `2026-03-24 16:02:31 IST` |
+| Last Commit (IST) | `2026-03-24 16:59:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-21 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-03-22 | 40 | `████████░░░░░░░░░░░░` 40% |
 | 2026-03-23 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-03-24 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-03-24 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,035.0 | +0.51% | 🟢 |
-| Ethereum | $2,159.62 | -0.28% | 🔴 |
-| Solana | $91.48 | +1.24% | 🟢 |
-| Bnb | $636.49 | -1.42% | 🔴 |
+| Bitcoin | $71,050.0 | +1.69% | 🟢 |
+| Ethereum | $2,164.43 | +2.24% | 🟢 |
+| Solana | $91.7 | +3.30% | 🟢 |
+| Bnb | $638.33 | +0.08% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,902 stars today | Automate the process of making money online. |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,569 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 4,148 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,307 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 1,160 stars today | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,521 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 58 stars today | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 4,453 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,315 stars today | No description |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 4,319 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 611 stars today | Memory engine and app that is extremely fast, scalable. The Memory API for the A… |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,937 stars today | Automate the process of making money online. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,056 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,450 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,746 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 208 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) | 20 | 2 |
-| [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) | 140 | 45 |
-| [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) | 34 | 27 |
-| [Log File Viewer for the Terminal](https://lnav.org/) | 134 | 19 |
-| [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/) | 35 | 28 |
+| [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) | 237 | 173 |
+| [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) | 82 | 38 |
+| [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) | 171 | 53 |
+| [Log File Viewer for the Terminal](https://lnav.org/) | 179 | 23 |
+| [Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)](https://burntsushi.net/ripgrep/) | 94 | 43 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
