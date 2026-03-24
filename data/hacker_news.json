@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 08:41:12 UTC",
-    "fetched_at_ist": "2026-03-24 14:11:12 IST",
+    "fetched_at_utc": "2026-03-24 09:38:02 UTC",
+    "fetched_at_ist": "2026-03-24 15:08:02 IST",
     "item_count": 5,
-    "content_hash": "d0ded2b285689d9442b6e6fe3d137dbbcea9ac9f2e6da21ef4f434a7f60a1e4d",
-    "previous_hash": "9429a94baf57affb471bb13c74a2ae3d5b14e5ccb8b3a397961ccce4d4bb9c19",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "0bd63030981dd1a0e18606a9455fa06b2ba0fcfefc09e72e7804959fa30f4f83",
+    "previous_hash": "d0ded2b285689d9442b6e6fe3d137dbbcea9ac9f2e6da21ef4f434a7f60a1e4d",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47488686,
       "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 100,
-      "comments": 24
+      "score": 123,
+      "comments": 35
     },
     {
       "id": 47498924,
       "title": "Log File Viewer for the Terminal",
       "url": "https://lnav.org/",
-      "score": 82,
-      "comments": 11
+      "score": 112,
+      "comments": 15
+    },
+    {
+      "id": 47499721,
+      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+      "url": "https://www.web-rewind.com",
+      "score": 17,
+      "comments": 10
     },
     {
       "id": 47499672,
       "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
       "url": "https://proofshot.argil.io/",
-      "score": 8,
-      "comments": 4
+      "score": 22,
+      "comments": 22
     },
     {
       "id": 47469744,
       "title": "BIO – The Bao I/O Co-Processor",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "score": 32,
-      "comments": 5
-    },
-    {
-      "id": 47493460,
-      "title": "Autoresearch on an old research idea",
-      "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 351,
-      "comments": 72
+      "score": 37,
+      "comments": 8
     }
   ]
 }
