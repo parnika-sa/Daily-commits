@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-24 (last updated: 15:08 IST)
+
+## 📅 2026-03-24 (last updated: 16:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-23 23:32:23 IST | cf4ee87d6fda | +13 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-24 15:08:02 IST | 0bd63030981d | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-24 16:02:31 IST | 12a18971c2b9 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-24 07:59:35 IST | 3fbce53297d8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,160 stars today
 
 ### 📰 Hacker News Stories
-- [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) — Score: 123
-- [Log File Viewer for the Terminal](https://lnav.org/) — Score: 112
-- [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) — Score: 17
-- [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/) — Score: 22
-- [BIO – The Bao I/O Co-Processor](https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor) — Score: 37
+- [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) — Score: 20
+- [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) — Score: 140
+- [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) — Score: 34
+- [Log File Viewer for the Terminal](https://lnav.org/) — Score: 134
+- [Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://proofshot.argil.io/) — Score: 35
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,492.0 🟢 +3.41%
