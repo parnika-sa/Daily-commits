@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 23:30:58 UTC",
-    "fetched_at_ist": "2026-03-24 05:00:58 IST",
+    "fetched_at_utc": "2026-03-24 04:31:03 UTC",
+    "fetched_at_ist": "2026-03-24 10:01:03 IST",
     "item_count": 5,
-    "content_hash": "7e1dfc72a77de2a1651cb25f071a491df9eeb4a19a9b5ded2224da035547d344",
-    "previous_hash": "39934c319f178255968986de3fc01dcd3fd4e607c76600460c94ce1299b16e0e",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "9429a94baf57affb471bb13c74a2ae3d5b14e5ccb8b3a397961ccce4d4bb9c19",
+    "previous_hash": "7e1dfc72a77de2a1651cb25f071a491df9eeb4a19a9b5ded2224da035547d344",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47497757,
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "score": 141,
+      "comments": 31
+    },
     {
       "id": 47493460,
       "title": "Autoresearch on an old research idea",
       "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 235,
-      "comments": 63
-    },
-    {
-      "id": 47495344,
-      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 78,
-      "comments": 29
-    },
-    {
-      "id": 47495719,
-      "title": "Hacker Mints $80M USD Worth of USR Stablecoins",
-      "url": "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/",
-      "score": 39,
-      "comments": 20
+      "score": 310,
+      "comments": 68
     },
     {
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 443,
-      "comments": 229
+      "score": 527,
+      "comments": 249
     },
     {
-      "id": 47496221,
-      "title": "Windows 3.1 tiled background .bmp archive",
-      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
-      "score": 9,
-      "comments": 0
+      "id": 47495344,
+      "title": "FCC updates covered list to include foreign-made consumer routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 236,
+      "comments": 163
+    },
+    {
+      "id": 47453398,
+      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
+      "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
+      "score": 45,
+      "comments": 2
     }
   ]
 }
