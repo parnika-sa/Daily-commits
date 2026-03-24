@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-24 12:04:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-24 18:07:05 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **pascalorg/editor**
-- BTC: **$71,050.0** ↑ (+1.69%)
-- HN top story: **Microsoft's "Fix" for Windows 11: Flowers After the Beating**
+- BTC: **$69,200.0** ↓ (-2.54%)
+- HN top story: **LiteLLM Python package compromised by supply-chain attack**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-03-24 12:04:43 UTC | `0776080536f4` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-24 12:04:44 UTC | `398ab1250d34` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-24 12:04:43 UTC | `7a998224d6ac` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-03-24 18:07:04 UTC | `4b9595aa597f` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-24 18:07:05 UTC | `f8dcfcb97f28` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-24 18:07:04 UTC | `19547ad4fb9c` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-24` |
-| Commits Today | `23` / `100` |
-| Remaining Today | `77` |
-| Progress | `████░░░░░░░░░░░░░░░░` 23% |
+| Commits Today | `24` / `100` |
+| Remaining Today | `76` |
+| Progress | `████░░░░░░░░░░░░░░░░` 24% |
 | Streak | `32` day(s) |
-| Last Commit (IST) | `2026-03-24 21:28:40 IST` |
+| Last Commit (IST) | `2026-03-24 22:30:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,26 +48,26 @@
 | 2026-03-21 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-03-22 | 40 | `████████░░░░░░░░░░░░` 40% |
 | 2026-03-23 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-03-24 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
+| 2026-03-24 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,050.0 | +1.69% | 🟢 |
-| Ethereum | $2,164.43 | +2.24% | 🟢 |
-| Solana | $91.7 | +3.30% | 🟢 |
-| Bnb | $638.33 | +0.08% | 🟢 |
+| Bitcoin | $69,200.0 | -2.54% | 🔴 |
+| Ethereum | $2,106.86 | -1.95% | 🔴 |
+| Solana | $89.05 | -2.32% | 🔴 |
+| Bnb | $628.97 | -1.17% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,315 stars today | No description |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,513 stars today | No description |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 4,319 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 611 stars today | Memory engine and app that is extremely fast, scalable. The Memory API for the A… |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 407 stars today | Memory engine and app that is extremely fast, scalable. The Memory API for the A… |
 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,937 stars today | Automate the process of making money online. |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,056 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 695 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,450 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,746 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 208 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
@@ -76,11 +76,11 @@
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) | 237 | 173 |
-| [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) | 82 | 38 |
-| [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/) | 171 | 53 |
-| [Log File Viewer for the Terminal](https://lnav.org/) | 179 | 23 |
-| [Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)](https://burntsushi.net/ripgrep/) | 94 | 43 |
+| [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512) | 664 | 260 |
+| [FCC has banned the import of all new foreign-made routers here's what you can do](https://blog.adafruit.com/2026/03/24/fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it/) | 24 | 5 |
+| [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura) | 97 | 47 |
+| [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/) | 88 | 47 |
+| [No Terms. No Conditions](https://notermsnoconditions.com) | 123 | 38 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

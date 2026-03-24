@@ -2,20 +2,20 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-24 12:04:43 UTC",
-    "fetched_at_ist": "2026-03-24 17:34:43 IST",
+    "fetched_at_utc": "2026-03-24 18:07:04 UTC",
+    "fetched_at_ist": "2026-03-24 23:37:04 IST",
     "item_count": 14,
-    "content_hash": "0776080536f48acd2bbdaed801c0c7a742532a48d8d1b55f498abf1715cb074a",
-    "previous_hash": "cf4ee87d6fda4404522b9b453ae6007e309eca8f7c0e19c1bc226f18e5427e45",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": true
+    "content_hash": "4b9595aa597f4494fe2f8108331c00e2b2c5868bfe99fa38ca0f96714b95f3d8",
+    "previous_hash": "0776080536f48acd2bbdaed801c0c7a742532a48d8d1b55f498abf1715cb074a",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "pascalorg/editor",
       "description": "No description",
       "language": "TypeScript",
-      "stars_today": "2,315 stars today"
+      "stars_today": "1,513 stars today"
     },
     {
       "name": "bytedance/deer-flow",
@@ -27,7 +27,7 @@
       "name": "supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "611 stars today"
+      "stars_today": "407 stars today"
     },
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
@@ -39,7 +39,7 @@
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "1,056 stars today"
+      "stars_today": "695 stars today"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -87,13 +87,13 @@
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars_today": "305 stars today"
+      "stars_today": "103 stars today"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "979 stars today"
+      "stars_today": "1,020 stars today"
     }
   ]
 }

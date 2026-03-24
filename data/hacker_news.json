@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 12:04:44 UTC",
-    "fetched_at_ist": "2026-03-24 17:34:44 IST",
+    "fetched_at_utc": "2026-03-24 18:07:05 UTC",
+    "fetched_at_ist": "2026-03-24 23:37:05 IST",
     "item_count": 5,
-    "content_hash": "398ab1250d346b046f9485e8f99c2d6df8a18131b55738497a7e2657bc258737",
-    "previous_hash": "12a18971c2b9db796adb5b320302734faa61be5ada7cc7dbd37d2d8704b7d9f3",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "f8dcfcb97f28dcd6287a5de2ecca904c43d6df812fe0a0e3e4d78e5fdaf8dee9",
+    "previous_hash": "398ab1250d346b046f9485e8f99c2d6df8a18131b55738497a7e2657bc258737",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47500335,
-      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 237,
-      "comments": 173
+      "id": 47501729,
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 664,
+      "comments": 260
     },
     {
-      "id": 47499721,
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "url": "https://www.web-rewind.com",
-      "score": 82,
+      "id": 47506519,
+      "title": "FCC has banned the import of all new foreign-made routers here's what you can do",
+      "url": "https://blog.adafruit.com/2026/03/24/fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it/",
+      "score": 24,
+      "comments": 5
+    },
+    {
+      "id": 47504695,
+      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "url": "https://github.com/t8/hypura",
+      "score": 97,
+      "comments": 47
+    },
+    {
+      "id": 47504094,
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "score": 88,
+      "comments": 47
+    },
+    {
+      "id": 47504615,
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 123,
       "comments": 38
-    },
-    {
-      "id": 47488686,
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 171,
-      "comments": 53
-    },
-    {
-      "id": 47498924,
-      "title": "Log File Viewer for the Terminal",
-      "url": "https://lnav.org/",
-      "score": 179,
-      "comments": 23
-    },
-    {
-      "id": 47499245,
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "url": "https://burntsushi.net/ripgrep/",
-      "score": 94,
-      "comments": 43
     }
   ]
 }
