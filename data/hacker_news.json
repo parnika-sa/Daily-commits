@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 18:07:05 UTC",
-    "fetched_at_ist": "2026-03-24 23:37:05 IST",
+    "fetched_at_utc": "2026-03-24 21:34:52 UTC",
+    "fetched_at_ist": "2026-03-25 03:04:52 IST",
     "item_count": 5,
-    "content_hash": "f8dcfcb97f28dcd6287a5de2ecca904c43d6df812fe0a0e3e4d78e5fdaf8dee9",
-    "previous_hash": "398ab1250d346b046f9485e8f99c2d6df8a18131b55738497a7e2657bc258737",
+    "content_hash": "02f286784f93a1eb3e77395188a1023979003776bc59d013ab2443bdf6785412",
+    "previous_hash": "f8dcfcb97f28dcd6287a5de2ecca904c43d6df812fe0a0e3e4d78e5fdaf8dee9",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47501729,
-      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "id": 47508608,
+      "title": "GitHub is once again down",
+      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+      "score": 192,
+      "comments": 86
+    },
+    {
+      "id": 47504112,
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 356,
+      "comments": 245
+    },
+    {
+      "id": 47508745,
+      "title": "Is anybody else bored of talking about AI?",
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "score": 255,
+      "comments": 170
+    },
+    {
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 197,
+      "comments": 149
+    },
+    {
+      "id": 47501426,
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 664,
-      "comments": 260
-    },
-    {
-      "id": 47506519,
-      "title": "FCC has banned the import of all new foreign-made routers here's what you can do",
-      "url": "https://blog.adafruit.com/2026/03/24/fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it/",
-      "score": 24,
-      "comments": 5
-    },
-    {
-      "id": 47504695,
-      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
-      "url": "https://github.com/t8/hypura",
-      "score": 97,
-      "comments": 47
-    },
-    {
-      "id": 47504094,
-      "title": "Hypothesis, Antithesis, Synthesis",
-      "url": "https://antithesis.com/blog/2026/hegel/",
-      "score": 88,
-      "comments": 47
-    },
-    {
-      "id": 47504615,
-      "title": "No Terms. No Conditions",
-      "url": "https://notermsnoconditions.com",
-      "score": 123,
-      "comments": 38
+      "score": 283,
+      "comments": 328
     }
   ]
 }
