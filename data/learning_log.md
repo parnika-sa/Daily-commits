@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-25 (last updated: 12:07 IST)
+
+## 📅 2026-03-25 (last updated: 13:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-24 23:37:04 IST | 4b9595aa597f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 12:07:30 IST | 447080271ebd | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 13:08:49 IST | 5e147f30450b | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-25 10:51:52 IST | 687816031f27 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) — Score: 40
-- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) — Score: 70
-- [Flighty Airports](https://flighty.com/airports) — Score: 243
-- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) — Score: 598
-- [Miscellanea: The War in Iran](https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/) — Score: 41
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) — Score: 96
+- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) — Score: 93
+- [Flighty Airports](https://flighty.com/airports) — Score: 273
+- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) — Score: 638
+- [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again) — Score: 346
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,109.0 🟢 +1.35%
