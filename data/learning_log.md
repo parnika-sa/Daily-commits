@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-26 (last updated: 00:05 IST)
+
+## 📅 2026-03-26 (last updated: 01:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-24 23:37:04 IST | 4b9595aa597f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-26 00:05:24 IST | 9411addb2dbe | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 01:02:17 IST | eeaa38e7fff2 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 14:58:12 IST | fe3c032cf305 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) — Score: 260
-- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 439
-- [Local LLM App by Ente](https://ente.com/blog/ensu/) — Score: 272
-- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict) — Score: 202
-- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html) — Score: 104
+- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 509
+- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html) — Score: 202
+- [Ensu – Ente’s Local LLM app](https://ente.com/blog/ensu/) — Score: 289
+- [Quantization from the Ground Up](https://ngrok.com/blog/quantization) — Score: 73
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) — Score: 374
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,214.0 🟢 +0.32%
@@ -44,28 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $648.81 🟢 +2.12%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-25 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot

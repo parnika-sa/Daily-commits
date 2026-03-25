@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 18:35:24 UTC",
-    "fetched_at_ist": "2026-03-26 00:05:24 IST",
+    "fetched_at_utc": "2026-03-25 19:32:17 UTC",
+    "fetched_at_ist": "2026-03-26 01:02:17 IST",
     "item_count": 5,
-    "content_hash": "9411addb2dbe81e8a43500a7d1e6d4be1f04dc924dcfe6cf424301144ba7dbe8",
-    "previous_hash": "7bcc87181567b67f961ef5b3285260b98c0034a48ed18a7ca19404c18b9e7d2a",
+    "content_hash": "eeaa38e7fff2a556cbe4e553542e47e32121c638be5fbacc560a26143207070e",
+    "previous_hash": "9411addb2dbe81e8a43500a7d1e6d4be1f04dc924dcfe6cf424301144ba7dbe8",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47517539,
-      "title": "Thoughts on Slowing the Fuck Down",
-      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 260,
-      "comments": 162
-    },
-    {
       "id": 47477873,
       "title": "My Astrophotography in the Movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 439,
-      "comments": 131
-    },
-    {
-      "id": 47516650,
-      "title": "Local LLM App by Ente",
-      "url": "https://ente.com/blog/ensu/",
-      "score": 272,
-      "comments": 120
-    },
-    {
-      "id": 47519625,
-      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
-      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
-      "score": 202,
-      "comments": 35
+      "score": 509,
+      "comments": 145
     },
     {
       "id": 47520505,
       "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
       "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
-      "score": 104,
-      "comments": 25
+      "score": 202,
+      "comments": 86
+    },
+    {
+      "id": 47516650,
+      "title": "Ensu – Ente’s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "score": 289,
+      "comments": 131
+    },
+    {
+      "id": 47519295,
+      "title": "Quantization from the Ground Up",
+      "url": "https://ngrok.com/blog/quantization",
+      "score": 73,
+      "comments": 14
+    },
+    {
+      "id": 47517539,
+      "title": "Thoughts on slowing the fuck down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 374,
+      "comments": 212
     }
   ]
 }
