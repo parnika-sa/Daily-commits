@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 07:38:49 UTC",
-    "fetched_at_ist": "2026-03-25 13:08:49 IST",
+    "fetched_at_utc": "2026-03-25 15:36:01 UTC",
+    "fetched_at_ist": "2026-03-25 21:06:01 IST",
     "item_count": 5,
-    "content_hash": "5e147f30450b1222433ccba072401cfdbe72fcd2488a29dec3a23cd264e0ef6f",
-    "previous_hash": "447080271ebd9fe6bc89bfe7e62e7775f36251a3c6cdd705ccae744d9b388d2f",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "cef493c2e9e5189a3953297a622f760ea3d2a52d4a5e424819f0fc5c0893f38c",
+    "previous_hash": "5e147f30450b1222433ccba072401cfdbe72fcd2488a29dec3a23cd264e0ef6f",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47516650,
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "score": 158,
+      "comments": 60
+    },
+    {
+      "id": 47477873,
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 198,
+      "comments": 73
+    },
     {
       "id": 47513475,
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 96,
-      "comments": 10
+      "score": 333,
+      "comments": 92
     },
     {
-      "id": 47512816,
-      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-      "url": "https://v-os.dev",
-      "score": 93,
-      "comments": 43
-    },
-    {
-      "id": 47511589,
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "score": 273,
-      "comments": 85
+      "id": 47518281,
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "score": 46,
+      "comments": 8
     },
     {
       "id": 47508246,
       "title": "Goodbye to Sora",
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 638,
-      "comments": 465
-    },
-    {
-      "id": 47506713,
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 346,
-      "comments": 59
+      "score": 918,
+      "comments": 670
     }
   ]
 }
