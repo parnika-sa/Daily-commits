@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 19:32:17 UTC",
-    "fetched_at_ist": "2026-03-26 01:02:17 IST",
+    "fetched_at_utc": "2026-03-25 21:30:21 UTC",
+    "fetched_at_ist": "2026-03-26 03:00:21 IST",
     "item_count": 5,
-    "content_hash": "eeaa38e7fff2a556cbe4e553542e47e32121c638be5fbacc560a26143207070e",
-    "previous_hash": "9411addb2dbe81e8a43500a7d1e6d4be1f04dc924dcfe6cf424301144ba7dbe8",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "fddd7063c8645ea2fd95fa7c7b01221b766c44bf081f2d0f9880f67b99288db5",
+    "previous_hash": "eeaa38e7fff2a556cbe4e553542e47e32121c638be5fbacc560a26143207070e",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47522709,
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 276,
+      "comments": 94
+    },
+    {
+      "id": 47521150,
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "score": 118,
+      "comments": 88
+    },
+    {
       "id": 47477873,
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 509,
-      "comments": 145
+      "score": 605,
+      "comments": 167
     },
     {
-      "id": 47520505,
-      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
-      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
-      "score": 202,
-      "comments": 86
+      "id": 47517606,
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "score": 27,
+      "comments": 11
     },
     {
-      "id": 47516650,
-      "title": "Ensu – Ente’s Local LLM app",
-      "url": "https://ente.com/blog/ensu/",
-      "score": 289,
-      "comments": 131
-    },
-    {
-      "id": 47519295,
-      "title": "Quantization from the Ground Up",
-      "url": "https://ngrok.com/blog/quantization",
-      "score": 73,
-      "comments": 14
-    },
-    {
-      "id": 47517539,
-      "title": "Thoughts on slowing the fuck down",
-      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 374,
-      "comments": 212
+      "id": 47521876,
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "score": 135,
+      "comments": 67
     }
   ]
 }
