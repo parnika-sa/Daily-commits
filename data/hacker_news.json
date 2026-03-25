@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 21:34:52 UTC",
-    "fetched_at_ist": "2026-03-25 03:04:52 IST",
+    "fetched_at_utc": "2026-03-25 06:37:30 UTC",
+    "fetched_at_ist": "2026-03-25 12:07:30 IST",
     "item_count": 5,
-    "content_hash": "02f286784f93a1eb3e77395188a1023979003776bc59d013ab2443bdf6785412",
-    "previous_hash": "f8dcfcb97f28dcd6287a5de2ecca904c43d6df812fe0a0e3e4d78e5fdaf8dee9",
+    "content_hash": "447080271ebd9fe6bc89bfe7e62e7775f36251a3c6cdd705ccae744d9b388d2f",
+    "previous_hash": "02f286784f93a1eb3e77395188a1023979003776bc59d013ab2443bdf6785412",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47508608,
-      "title": "GitHub is once again down",
-      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-      "score": 192,
-      "comments": 86
+      "id": 47513475,
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "score": 40,
+      "comments": 0
     },
     {
-      "id": 47504112,
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 356,
-      "comments": 245
+      "id": 47512816,
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "url": "https://v-os.dev",
+      "score": 70,
+      "comments": 26
     },
     {
-      "id": 47508745,
-      "title": "Is anybody else bored of talking about AI?",
-      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-      "score": 255,
-      "comments": 170
+      "id": 47511589,
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "score": 243,
+      "comments": 78
     },
     {
-      "id": 47506251,
-      "title": "Arm AGI CPU",
-      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 197,
-      "comments": 149
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 598,
+      "comments": 432
     },
     {
-      "id": 47501426,
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 283,
-      "comments": 328
+      "id": 47513229,
+      "title": "Miscellanea: The War in Iran",
+      "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+      "score": 41,
+      "comments": 26
     }
   ]
 }
