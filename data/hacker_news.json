@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 15:36:01 UTC",
-    "fetched_at_ist": "2026-03-25 21:06:01 IST",
+    "fetched_at_utc": "2026-03-25 17:42:53 UTC",
+    "fetched_at_ist": "2026-03-25 23:12:53 IST",
     "item_count": 5,
-    "content_hash": "cef493c2e9e5189a3953297a622f760ea3d2a52d4a5e424819f0fc5c0893f38c",
-    "previous_hash": "5e147f30450b1222433ccba072401cfdbe72fcd2488a29dec3a23cd264e0ef6f",
+    "content_hash": "7bcc87181567b67f961ef5b3285260b98c0034a48ed18a7ca19404c18b9e7d2a",
+    "previous_hash": "cef493c2e9e5189a3953297a622f760ea3d2a52d4a5e424819f0fc5c0893f38c",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47516650,
-      "title": "Local LLM App by Ente",
-      "url": "https://ente.com/blog/ensu/",
-      "score": 158,
-      "comments": 60
-    },
-    {
       "id": 47477873,
       "title": "My Astrophotography in the Movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 198,
-      "comments": 73
+      "score": 359,
+      "comments": 113
     },
     {
-      "id": 47513475,
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 333,
-      "comments": 92
+      "id": 47516650,
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "score": 250,
+      "comments": 112
     },
     {
-      "id": 47518281,
-      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-      "score": 46,
+      "id": 47517539,
+      "title": "Thoughts on Slowing the Fuck Down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 159,
+      "comments": 103
+    },
+    {
+      "id": 47519625,
+      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+      "score": 92,
       "comments": 8
     },
     {
-      "id": 47508246,
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 918,
-      "comments": 670
+      "id": 47518785,
+      "title": "Sony V. Cox Decision Reversed",
+      "url": "https://supreme.justia.com/cases/federal/us/607/24-171/",
+      "score": 55,
+      "comments": 35
     }
   ]
 }

@@ -25,13 +25,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-25 (last updated: 21:06 IST)
+
+## 📅 2026-03-25 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-24 23:37:04 IST | 4b9595aa597f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 21:06:01 IST | cef493c2e9e5 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 23:12:53 IST | 7bcc87181567 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 14:58:12 IST | fe3c032cf305 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [Local LLM App by Ente](https://ente.com/blog/ensu/) — Score: 158
-- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 198
-- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) — Score: 333
-- [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) — Score: 46
-- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) — Score: 918
+- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 359
+- [Local LLM App by Ente](https://ente.com/blog/ensu/) — Score: 250
+- [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) — Score: 159
+- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict) — Score: 92
+- [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/) — Score: 55
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,214.0 🟢 +0.32%
