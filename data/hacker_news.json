@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 11:34:28 UTC",
-    "fetched_at_ist": "2026-03-26 17:04:28 IST",
+    "fetched_at_utc": "2026-03-26 12:39:01 UTC",
+    "fetched_at_ist": "2026-03-26 18:09:01 IST",
     "item_count": 5,
-    "content_hash": "6274b6afd00e9d9eae7f07f60ff28422fb51163071100c7b2634909354e8c93e",
-    "previous_hash": "72f60545c8f9453bf119212782008c14318441bab99dc26ae323a1e2c716e932",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "00c4a4bb9b193f6da9fd71389742be28c3776e87a0d741538d520614151507b9",
+    "previous_hash": "6274b6afd00e9d9eae7f07f60ff28422fb51163071100c7b2634909354e8c93e",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 261,
-      "comments": 60
+      "score": 352,
+      "comments": 70
     },
     {
       "id": 47527590,
       "title": "Swift 6.3",
       "url": "https://www.swift.org/blog/swift-6.3-released/",
-      "score": 98,
-      "comments": 36
-    },
-    {
-      "id": 47523330,
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 654,
-      "comments": 210
+      "score": 129,
+      "comments": 61
     },
     {
       "id": 47499356,
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 20,
-      "comments": 6
+      "score": 65,
+      "comments": 11
+    },
+    {
+      "id": 47523330,
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "score": 679,
+      "comments": 221
     },
     {
       "id": 47526478,
       "title": "Obsolete Sounds",
       "url": "https://citiesandmemory.com/obsolete-sounds/",
-      "score": 44,
-      "comments": 6
+      "score": 76,
+      "comments": 10
     }
   ]
 }

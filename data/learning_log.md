@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 17:04 IST)
+
+## 📅 2026-03-26 (last updated: 18:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 17:04:28 IST | 6274b6afd00e | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-26 18:09:01 IST | 00c4a4bb9b19 | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-03-26 11:32:16 IST | 25e4f47dfb3d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 261
-- [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) — Score: 98
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 654
-- [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/) — Score: 20
-- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) — Score: 44
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 352
+- [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) — Score: 129
+- [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/) — Score: 65
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 679
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) — Score: 76
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,946.0 🔴 -1.57%
