@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 12:39:01 UTC",
-    "fetched_at_ist": "2026-03-26 18:09:01 IST",
+    "fetched_at_utc": "2026-03-26 15:38:52 UTC",
+    "fetched_at_ist": "2026-03-26 21:08:52 IST",
     "item_count": 5,
-    "content_hash": "00c4a4bb9b193f6da9fd71389742be28c3776e87a0d741538d520614151507b9",
-    "previous_hash": "6274b6afd00e9d9eae7f07f60ff28422fb51163071100c7b2634909354e8c93e",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "d11a9d0448d042d20a39295bb624104046eb0d76d35cef1f1c058241d92a4c0d",
+    "previous_hash": "00c4a4bb9b193f6da9fd71389742be28c3776e87a0d741538d520614151507b9",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47530330,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 160,
+      "comments": 70
+    },
+    {
+      "id": 47529646,
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "score": 412,
+      "comments": 105
+    },
     {
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 352,
-      "comments": 70
-    },
-    {
-      "id": 47527590,
-      "title": "Swift 6.3",
-      "url": "https://www.swift.org/blog/swift-6.3-released/",
-      "score": 129,
-      "comments": 61
+      "score": 570,
+      "comments": 117
     },
     {
       "id": 47499356,
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 65,
-      "comments": 11
+      "score": 175,
+      "comments": 46
     },
     {
-      "id": 47523330,
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 679,
-      "comments": 221
-    },
-    {
-      "id": 47526478,
-      "title": "Obsolete Sounds",
-      "url": "https://citiesandmemory.com/obsolete-sounds/",
-      "score": 76,
-      "comments": 10
+      "id": 47529534,
+      "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+      "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "score": 209,
+      "comments": 147
     }
   ]
 }
