@@ -24,18 +24,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 22:13 IST)
+
+## 📅 2026-03-26 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 22:13:56 IST | 32f07ccc24fc | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-26 23:13:46 IST | 2628cc63a90d | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-26 11:32:16 IST | 25e4f47dfb3d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -51,11 +52,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 257
-- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 41
-- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 624
-- [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c) — Score: 495
-- [OpenTelemetry Profiles Enters Public Alpha](https://opentelemetry.io/blog/2026/profiles-alpha/) — Score: 7
+- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 341
+- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 88
+- [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/) — Score: 46
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 669
+- [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill) — Score: 31
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,946.0 🔴 -1.57%
