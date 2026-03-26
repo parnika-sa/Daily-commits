@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-26 04:40:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-26 06:02:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **pascalorg/editor**
-- BTC: **$71,340.0** ↑ (+0.89%)
+- Top GitHub repo: **mvanhorn/last30days-skill**
+- BTC: **$69,946.0** ↓ (-1.57%)
 - HN top story: **Running Tesla Model 3's computer on my desk using parts from crashed cars**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-03-24 18:07:04 UTC | `4b9595aa597f` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-26 04:40:19 UTC | `ea78b65afa18` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-25 23:26:51 UTC | `34e67483912f` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 12 | 2026-03-26 06:02:16 UTC | `b66bebadacd3` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-26 06:02:17 UTC | `460c755f0b34` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-03-26 06:02:16 UTC | `25e4f47dfb3d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-26` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `34` day(s) |
-| Last Commit (IST) | `2026-03-26 07:40:10 IST` |
+| Last Commit (IST) | `2026-03-26 10:10:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-23 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-03-24 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-25 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-03-26 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-03-26 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,340.0 | +0.89% | 🟢 |
-| Ethereum | $2,172.25 | +0.63% | 🟢 |
-| Solana | $91.64 | +0.89% | 🟢 |
-| Bnb | $647.96 | +1.45% | 🟢 |
+| Bitcoin | $69,946.0 | -1.57% | 🔴 |
+| Ethereum | $2,116.44 | -2.35% | 🔴 |
+| Solana | $89.18 | -3.49% | 🔴 |
+| Bnb | $634.81 | -1.41% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,513 stars today | No description |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 4,319 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 407 stars today | Memory engine and app that is extremely fast, scalable. The Memory API for the A… |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,937 stars today | Automate the process of making money online. |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 695 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,450 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,746 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 208 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,341 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,787 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 301 stars today | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native… |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,353 stars today | Create and share 3D architectural projects. |
+| [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | 71 stars today | Give Claude Code a subconscious |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,174 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 1,718 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,082 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) | 453 | 132 |
-| [ARC-AGI-3](https://arcprize.org/arc-agi/3) | 306 | 194 |
-| [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | 761 | 189 |
-| [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) | 192 | 65 |
-| [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) | 7 | 0 |
+| [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) | 501 | 139 |
+| [ARC-AGI-3](https://arcprize.org/arc-agi/3) | 329 | 207 |
+| [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | 788 | 193 |
+| [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) | 138 | 55 |
+| [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/) | 48 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

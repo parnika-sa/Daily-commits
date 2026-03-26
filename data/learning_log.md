@@ -14,44 +14,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 10:10 IST)
+
+## 📅 2026-03-26 (last updated: 11:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-03-24 23:37:04 IST | 4b9595aa597f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-26 10:10:19 IST | ea78b65afa18 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-26 04:56:51 IST | 34e67483912f | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-26 11:32:17 IST | 460c755f0b34 | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-03-26 11:32:16 IST | 25e4f47dfb3d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — No description  
-  ⭐ 1,513 stars today
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source SuperAgent harness that researches, codes, and creates. With the   
-  ⭐ 4,319 stars today
-- **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** (TypeScript) — Memory engine and app that is extremely fast, scalable. The Memory API for the A  
-  ⭐ 407 stars today
-- **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** (Python) — Automate the process of making money online.  
-  ⭐ 2,937 stars today
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
-  ⭐ 695 stars today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 1,341 stars today
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creat  
+  ⭐ 3,787 stars today
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** (Python) — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native  
+  ⭐ 301 stars today
+- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
+  ⭐ 2,353 stars today
+- **[letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)** (TypeScript) — Give Claude Code a subconscious  
+  ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 453
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 306
-- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 761
-- [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) — Score: 192
-- [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) — Score: 7
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 501
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 329
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 788
+- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 138
+- [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/) — Score: 48
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,340.0 🟢 +0.89%
-- Ethereum: $2,172.25 🟢 +0.63%
-- Solana: $91.64 🟢 +0.89%
-- Bnb: $647.96 🟢 +1.45%
+- Bitcoin: $69,946.0 🔴 -1.57%
+- Ethereum: $2,116.44 🔴 -2.35%
+- Solana: $89.18 🔴 -3.49%
+- Bnb: $634.81 🔴 -1.41%
 
 ---
 ## 📅 2026-03-25 (last updated: 23:12 IST)
