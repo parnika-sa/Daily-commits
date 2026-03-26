@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 08:31:25 UTC",
-    "fetched_at_ist": "2026-03-26 14:01:25 IST",
+    "fetched_at_utc": "2026-03-26 09:43:07 UTC",
+    "fetched_at_ist": "2026-03-26 15:13:07 IST",
     "item_count": 5,
-    "content_hash": "057a760d42a22c8a16699190f07d70739d8530e6711411bb934b24d480204c86",
-    "previous_hash": "ef64e314d9c38ee1487557b4dc22da1471ff7b3745fdebc23155d9e858886544",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "2da5597547c130e76e33b27e69cdca4cce2837c4f840fa70c080f0a2e765772a",
+    "previous_hash": "057a760d42a22c8a16699190f07d70739d8530e6711411bb934b24d480204c86",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 47,
-      "comments": 7
+      "score": 134,
+      "comments": 37
     },
     {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 592,
-      "comments": 179
+      "score": 619,
+      "comments": 193
     },
     {
-      "id": 47521150,
-      "title": "ARC-AGI-3",
-      "url": "https://arcprize.org/arc-agi/3",
-      "score": 375,
-      "comments": 253
+      "id": 47526473,
+      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+      "url": "https://www.metropolitanreview.org/p/the-last-contract",
+      "score": 5,
+      "comments": 0
     },
     {
-      "id": 47517606,
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 155,
-      "comments": 62
+      "id": 47526467,
+      "title": "The Cassandra of 'The Machine'",
+      "url": "https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine",
+      "score": 4,
+      "comments": 0
     },
     {
-      "id": 47473673,
-      "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
-      "url": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
-      "score": 98,
-      "comments": 40
+      "id": 47526478,
+      "title": "Obsolete Sounds",
+      "url": "https://citiesandmemory.com/obsolete-sounds/",
+      "score": 8,
+      "comments": 1
     }
   ]
 }

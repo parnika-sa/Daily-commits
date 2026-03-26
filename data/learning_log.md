@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 14:01 IST)
+
+## 📅 2026-03-26 (last updated: 15:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 14:01:25 IST | 057a760d42a2 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 15:13:07 IST | 2da5597547c1 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-26 11:32:16 IST | 25e4f47dfb3d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 47
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 592
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 375
-- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 155
-- [The truth that haunts the Ramones: 'They sold more T-shirts than records'](https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html) — Score: 98
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 134
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 619
+- [The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)](https://www.metropolitanreview.org/p/the-last-contract) — Score: 5
+- [The Cassandra of 'The Machine'](https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine) — Score: 4
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,946.0 🔴 -1.57%
