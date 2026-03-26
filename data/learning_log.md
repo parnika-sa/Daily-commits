@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 11:32 IST)
+
+## 📅 2026-03-26 (last updated: 13:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 11:32:17 IST | 460c755f0b34 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-26 13:05:44 IST | ef64e314d9c3 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-26 11:32:16 IST | 25e4f47dfb3d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 501
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 329
-- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 788
-- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 138
-- [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/) — Score: 48
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 557
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 366
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 828
+- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 148
+- [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html) — Score: 126
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,946.0 🔴 -1.57%
