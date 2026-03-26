@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 10:36:01 UTC",
-    "fetched_at_ist": "2026-03-26 16:06:01 IST",
+    "fetched_at_utc": "2026-03-26 11:34:28 UTC",
+    "fetched_at_ist": "2026-03-26 17:04:28 IST",
     "item_count": 5,
-    "content_hash": "72f60545c8f9453bf119212782008c14318441bab99dc26ae323a1e2c716e932",
-    "previous_hash": "2da5597547c130e76e33b27e69cdca4cce2837c4f840fa70c080f0a2e765772a",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "6274b6afd00e9d9eae7f07f60ff28422fb51163071100c7b2634909354e8c93e",
+    "previous_hash": "72f60545c8f9453bf119212782008c14318441bab99dc26ae323a1e2c716e932",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 192,
-      "comments": 47
+      "score": 261,
+      "comments": 60
     },
     {
       "id": 47527590,
       "title": "Swift 6.3",
       "url": "https://www.swift.org/blog/swift-6.3-released/",
-      "score": 57,
-      "comments": 16
+      "score": 98,
+      "comments": 36
     },
     {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 639,
-      "comments": 204
+      "score": 654,
+      "comments": 210
     },
     {
-      "id": 47528683,
-      "title": "Show HN: Relay – The open-source Claude Cowork for OpenClaw",
-      "url": "https://github.com/SeventeenLabs/relay",
-      "score": 3,
-      "comments": 0
+      "id": 47499356,
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 20,
+      "comments": 6
     },
     {
       "id": 47526478,
       "title": "Obsolete Sounds",
       "url": "https://citiesandmemory.com/obsolete-sounds/",
-      "score": 25,
-      "comments": 3
+      "score": 44,
+      "comments": 6
     }
   ]
 }
