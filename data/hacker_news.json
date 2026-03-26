@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 21:30:21 UTC",
-    "fetched_at_ist": "2026-03-26 03:00:21 IST",
+    "fetched_at_utc": "2026-03-26 04:40:19 UTC",
+    "fetched_at_ist": "2026-03-26 10:10:19 IST",
     "item_count": 5,
-    "content_hash": "fddd7063c8645ea2fd95fa7c7b01221b766c44bf081f2d0f9880f67b99288db5",
-    "previous_hash": "eeaa38e7fff2a556cbe4e553542e47e32121c638be5fbacc560a26143207070e",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "ea78b65afa1829b0adcfb2b4689221aa40d8581e6a21b695c72fbad0ab72df21",
+    "previous_hash": "fddd7063c8645ea2fd95fa7c7b01221b766c44bf081f2d0f9880f67b99288db5",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 276,
-      "comments": 94
+      "id": 47523330,
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "score": 453,
+      "comments": 132
     },
     {
       "id": 47521150,
       "title": "ARC-AGI-3",
       "url": "https://arcprize.org/arc-agi/3",
-      "score": 118,
-      "comments": 88
+      "score": 306,
+      "comments": 194
     },
     {
       "id": 47477873,
       "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 605,
-      "comments": 167
+      "score": 761,
+      "comments": 189
     },
     {
-      "id": 47517606,
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 27,
-      "comments": 11
+      "id": 47525378,
+      "title": "False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "score": 192,
+      "comments": 65
     },
     {
-      "id": 47521876,
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-      "score": 135,
-      "comments": 67
+      "id": 47526486,
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "score": 7,
+      "comments": 0
     }
   ]
 }

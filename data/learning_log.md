@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 04:56 IST)
+
+## 📅 2026-03-26 (last updated: 10:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-24 23:37:04 IST | 4b9595aa597f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-26 03:00:21 IST | fddd7063c864 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 10:10:19 IST | ea78b65afa18 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-26 04:56:51 IST | 34e67483912f | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) — Score: 276
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 118
-- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 605
-- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 27
-- [Apple randomly closes bug reports unless you "verify" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html) — Score: 135
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 453
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 306
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 761
+- [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) — Score: 192
+- [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) — Score: 7
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,340.0 🟢 +0.89%
