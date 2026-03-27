@@ -22,44 +22,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 16:58 IST)
+
+## 📅 2026-03-27 (last updated: 17:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-27 16:13:16 IST | a5e334dc79ff | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-27 16:58:50 IST | fa5c214decc6 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-27 17:33:28 IST | db8862fc1aa8 | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-27 17:33:27 IST | 5a877724513e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 1,341 stars today
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creat  
-  ⭐ 3,787 stars today
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** (Python) — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native  
-  ⭐ 301 stars today
-- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
-  ⭐ 2,353 stars today
-- **[letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)** (TypeScript) — Give Claude Code a subconscious  
-  ⭐ 71 stars today
+  ⭐ 2,824 stars today
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
+  ⭐ 1,546 stars today
+- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
+  ⭐ 125 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 320 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
+  ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 133
-- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 14
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 147
-- [Should QA Exist](https://www.rubick.com/should-qa-exist/) — Score: 4
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 54
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 134
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 162
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 170
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 69
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 421
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,674.0 🔴 -3.76%
-- Ethereum: $1,995.23 🔴 -3.49%
-- Solana: $83.26 🔴 -4.98%
-- Bnb: $610.92 🔴 -2.82%
+- Bitcoin: $66,640.0 🔴 -3.84%
+- Ethereum: $1,989.17 🔴 -3.90%
+- Solana: $83.37 🔴 -4.80%
+- Bnb: $610.54 🔴 -2.90%
 
 ---
 ## 📅 2026-03-26 (last updated: 23:13 IST)

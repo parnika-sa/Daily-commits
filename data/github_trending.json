@@ -2,86 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-26 06:02:16 UTC",
-    "fetched_at_ist": "2026-03-26 11:32:16 IST",
+    "fetched_at_utc": "2026-03-27 12:03:27 UTC",
+    "fetched_at_ist": "2026-03-27 17:33:27 IST",
     "item_count": 12,
-    "content_hash": "b66bebadacd3fa003ac2406aa41eabf46ffbbe640fca28c5fdbaaecca440110c",
-    "previous_hash": "4b9595aa597f4494fe2f8108331c00e2b2c5868bfe99fa38ca0f96714b95f3d8",
-    "new_repos_vs_previous": 3,
-    "top_repo_changed": true
+    "content_hash": "d29d66104022f76744b426ac8544145fcca45f1aeb8ca8f5f09ed3454db4c1b4",
+    "previous_hash": "b66bebadacd3fa003ac2406aa41eabf46ffbbe640fca28c5fdbaaecca440110c",
+    "new_repos_vs_previous": 11,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,341 stars today"
+      "stars_today": "2,824 stars today"
     },
     {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars_today": "3,787 stars today"
+      "stars_today": "1,546 stars today"
     },
     {
-      "name": "BerriAI/litellm",
-      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
-      "stars_today": "301 stars today"
+      "stars_today": "125 stars today"
     },
     {
-      "name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "language": "TypeScript",
-      "stars_today": "2,353 stars today"
-    },
-    {
-      "name": "letta-ai/claude-subconscious",
-      "description": "Give Claude Code a subconscious",
-      "language": "TypeScript",
-      "stars_today": "71 stars today"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "language": "TypeScript",
-      "stars_today": "1,174 stars today"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "1,718 stars today"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "1,082 stars today"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "810 stars today"
-    },
-    {
-      "name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "1,065 stars today"
+      "stars_today": "320 stars today"
     },
     {
-      "name": "usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "102 stars today"
+      "name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars_today": "661 stars today"
     },
     {
-      "name": "hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "name": "datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
-      "stars_today": "449 stars today"
+      "stars_today": "913 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,993 stars today"
+    },
+    {
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars_today": "673 stars today"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars_today": "1,402 stars today"
+    },
+    {
+      "name": "FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars_today": "99 stars today"
+    },
+    {
+      "name": "Vaibhavs10/insanely-fast-whisper",
+      "description": "No description",
+      "language": "Jupyter Notebook",
+      "stars_today": "1,075 stars today"
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars_today": "512 stars today"
     }
   ]
 }

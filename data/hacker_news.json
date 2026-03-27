@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 10:43:16 UTC",
-    "fetched_at_ist": "2026-03-27 16:13:16 IST",
+    "fetched_at_utc": "2026-03-27 12:03:28 UTC",
+    "fetched_at_ist": "2026-03-27 17:33:28 IST",
     "item_count": 5,
-    "content_hash": "a5e334dc79ff469e27e2c5406d3dab5d91716ce97df2b1a1b20b24adbce28d27",
-    "previous_hash": "ed09e3f60013c61d0ea04ece50186fb6febb64e7783682dfbc527d1fe3bdfbb2",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "db8862fc1aa89c2cd83ffc43d410024d5143e2e1759ab4eaf0a5844b4ed9e9e5",
+    "previous_hash": "a5e334dc79ff469e27e2c5406d3dab5d91716ce97df2b1a1b20b24adbce28d27",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47539825,
-      "title": "A Faster Alternative to Jq",
-      "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 133,
-      "comments": 67
-    },
-    {
       "id": 47540833,
       "title": "Hold on to Your Hardware",
       "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 14,
-      "comments": 3
+      "score": 134,
+      "comments": 90
+    },
+    {
+      "id": 47539825,
+      "title": "A Faster Alternative to Jq",
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "score": 162,
+      "comments": 82
     },
     {
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 147,
-      "comments": 107
-    },
-    {
-      "id": 47540929,
-      "title": "Should QA Exist",
-      "url": "https://www.rubick.com/should-qa-exist/",
-      "score": 4,
-      "comments": 1
+      "score": 170,
+      "comments": 121
     },
     {
       "id": 47539767,
       "title": "The European AllSky7 fireball network",
       "url": "https://www.allsky7.net/#archive",
-      "score": 54,
-      "comments": 5
+      "score": 69,
+      "comments": 7
+    },
+    {
+      "id": 47535708,
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "score": 421,
+      "comments": 332
     }
   ]
 }

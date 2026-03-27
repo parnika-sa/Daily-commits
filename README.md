@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-27 11:28:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-27 12:03:28 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,674.0** ↓ (-3.76%)
-- HN top story: **A Faster Alternative to Jq**
+- BTC: **$66,640.0** ↓ (-3.84%)
+- HN top story: **Hold on to Your Hardware**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-26 06:02:16 UTC | `b66bebadacd3` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-27 10:43:16 UTC | `a5e334dc79ff` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-27 11:28:50 UTC | `fa5c214decc6` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-27 12:03:28 UTC | `db8862fc1aa8` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-27 12:03:27 UTC | `5a877724513e` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-27` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `34` day(s) |
-| Last Commit (IST) | `2026-03-27 16:13:17 IST` |
+| Last Commit (IST) | `2026-03-27 16:58:51 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-24 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-25 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-03-26 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-27 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-03-27 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,674.0 | -3.76% | 🔴 |
-| Ethereum | $1,995.23 | -3.49% | 🔴 |
-| Solana | $83.26 | -4.98% | 🔴 |
-| Bnb | $610.92 | -2.82% | 🔴 |
+| Bitcoin | $66,640.0 | -3.84% | 🔴 |
+| Ethereum | $1,989.17 | -3.90% | 🔴 |
+| Solana | $83.37 | -4.80% | 🔴 |
+| Bnb | $610.54 | -2.90% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,341 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,787 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 301 stars today | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native… |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,353 stars today | Create and share 3D architectural projects. |
-| [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | 71 stars today | Give Claude Code a subconscious |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,174 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 1,718 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,082 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,824 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,546 stars today | real time face swap and one-click video deepfake with only a single image |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 125 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 320 stars today | Open-Source Frontier Voice AI |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 661 stars today | Building a modern alternative to Salesforce, powered by the community. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 913 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,993 stars today | An agentic skills framework & software development methodology that works. |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 673 stars today | An autonomous agent for deep financial research |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) | 133 | 67 |
-| [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) | 14 | 3 |
-| [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) | 147 | 107 |
-| [Should QA Exist](https://www.rubick.com/should-qa-exist/) | 4 | 1 |
-| [The European AllSky7 fireball network](https://www.allsky7.net/#archive) | 54 | 5 |
+| [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) | 134 | 90 |
+| [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) | 162 | 82 |
+| [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) | 170 | 121 |
+| [The European AllSky7 fireball network](https://www.allsky7.net/#archive) | 69 | 7 |
+| [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) | 421 | 332 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
