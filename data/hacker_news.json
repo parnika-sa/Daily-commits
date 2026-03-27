@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 14:35:56 UTC",
-    "fetched_at_ist": "2026-03-27 20:05:56 IST",
+    "fetched_at_utc": "2026-03-27 15:30:22 UTC",
+    "fetched_at_ist": "2026-03-27 21:00:22 IST",
     "item_count": 5,
-    "content_hash": "5b83f02516926f8987eab07796756e8fe9d80efa0fa1b9e8a2542293d34c1148",
-    "previous_hash": "1651c3f3c3d26a79773a5d2766ed1df9f7d504d490e33fc83da41dc1dcc71bb7",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "74cd7e477a50e57b95dcc7cfdfbf0825e586795af7d45a5b2f7ebddf97b17d38",
+    "previous_hash": "5b83f02516926f8987eab07796756e8fe9d80efa0fa1b9e8a2542293d34c1148",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47542057,
       "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
       "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 183,
-      "comments": 102
+      "score": 291,
+      "comments": 188
+    },
+    {
+      "id": 47542644,
+      "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "score": 32,
+      "comments": 0
+    },
+    {
+      "id": 47543139,
+      "title": "Anatomy of the .claude/ Folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 36,
+      "comments": 15
+    },
+    {
+      "id": 47543167,
+      "title": "Iran-linked hackers claim breach of FBI director's personal email",
+      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "score": 67,
+      "comments": 27
     },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 241,
-      "comments": 135
-    },
-    {
-      "id": 47540833,
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 324,
-      "comments": 270
-    },
-    {
-      "id": 47539188,
-      "title": "Schedule tasks on the web",
-      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 213,
-      "comments": 173
-    },
-    {
-      "id": 47542722,
-      "title": "Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules",
-      "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
-      "score": 28,
-      "comments": 12
+      "score": 267,
+      "comments": 160
     }
   ]
 }
