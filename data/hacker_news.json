@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 20:41:52 UTC",
-    "fetched_at_ist": "2026-03-28 02:11:52 IST",
+    "fetched_at_utc": "2026-03-27 23:34:06 UTC",
+    "fetched_at_ist": "2026-03-28 05:04:06 IST",
     "item_count": 5,
-    "content_hash": "c09ff6a493c042812d641f53df2bc255ffd9dfce1ca37965481d47a44886d83d",
-    "previous_hash": "6d0ca8e28347f757e1f4ebd0aa64aa1b8e150a3d7ac9fc28afbf335649fa3c02",
+    "content_hash": "92ee82e3f7038c385d4b1b8f06b2d39bc555fb981d4b6dbb1c9cd34d048cba88",
+    "previous_hash": "c09ff6a493c042812d641f53df2bc255ffd9dfce1ca37965481d47a44886d83d",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47547009,
       "title": "Make macOS consistently bad (unironically)",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 114,
-      "comments": 59
+      "score": 233,
+      "comments": 157
+    },
+    {
+      "id": 47549649,
+      "title": "Why are executives enamored with AI, but ICs aren't?",
+      "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+      "score": 11,
+      "comments": 6
+    },
+    {
+      "id": 47548013,
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "score": 52,
+      "comments": 14
     },
     {
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 284,
-      "comments": 142
+      "score": 339,
+      "comments": 177
     },
     {
-      "id": 47540388,
-      "title": "Telnyx package compromised on PyPI",
-      "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-      "score": 30,
-      "comments": 55
-    },
-    {
-      "id": 47542644,
-      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
-      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 159,
-      "comments": 44
-    },
-    {
-      "id": 47498571,
-      "title": "Nashville library launches Memory Lab for digitizing home movies",
-      "url": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-      "score": 32,
-      "comments": 6
+      "id": 47547508,
+      "title": "ISBN Visualization – Annas Archive",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "score": 65,
+      "comments": 10
     }
   ]
 }

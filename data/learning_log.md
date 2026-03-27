@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 03:54 IST)
+
+## 📅 2026-03-28 (last updated: 05:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 02:11:52 IST | c09ff6a493c0 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 05:04:06 IST | 92ee82e3f703 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-28 03:54:09 IST | f1cfee610403 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 114
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 284
-- [Telnyx package compromised on PyPI](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026) — Score: 30
-- [Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)) — Score: 159
-- [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies) — Score: 32
+- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 233
+- [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/) — Score: 11
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 52
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 339
+- [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?) — Score: 65
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,967.0 🔴 -4.23%
