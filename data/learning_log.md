@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 06:56 IST)
+
+## 📅 2026-03-27 (last updated: 16:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-26 11:32:16 IST | b66bebadacd3 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-27 01:11:11 IST | ed09e3f60013 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-27 16:13:16 IST | a5e334dc79ff | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-27 06:56:54 IST | 356689df4df0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 247
-- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 181
-- [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns) — Score: 79
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/) — Score: 59
-- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 409
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 133
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 14
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 147
+- [Should QA Exist](https://www.rubick.com/should-qa-exist/) — Score: 4
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 54
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,876.0 🔴 -3.36%

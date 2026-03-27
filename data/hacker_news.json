@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 19:41:11 UTC",
-    "fetched_at_ist": "2026-03-27 01:11:11 IST",
+    "fetched_at_utc": "2026-03-27 10:43:16 UTC",
+    "fetched_at_ist": "2026-03-27 16:13:16 IST",
     "item_count": 5,
-    "content_hash": "ed09e3f60013c61d0ea04ece50186fb6febb64e7783682dfbc527d1fe3bdfbb2",
-    "previous_hash": "e6877b13e451045b1bc1d976e244c290a8bcc7dabda730cc7e399848523fe6cf",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "a5e334dc79ff469e27e2c5406d3dab5d91716ce97df2b1a1b20b24adbce28d27",
+    "previous_hash": "ed09e3f60013c61d0ea04ece50186fb6febb64e7783682dfbc527d1fe3bdfbb2",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47518960,
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 247,
-      "comments": 42
+      "id": 47539825,
+      "title": "A Faster Alternative to Jq",
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "score": 133,
+      "comments": 67
     },
     {
-      "id": 47531967,
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 181,
-      "comments": 87
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 14,
+      "comments": 3
     },
     {
-      "id": 47490705,
-      "title": "Doom entirely from DNS records",
-      "url": "https://github.com/resumex/doom-over-dns",
-      "score": 79,
-      "comments": 22
+      "id": 47539188,
+      "title": "Schedule tasks on the web",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "score": 147,
+      "comments": 107
     },
     {
-      "id": 47533283,
-      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
-      "url": "https://colibri.social/",
-      "score": 59,
-      "comments": 24
+      "id": 47540929,
+      "title": "Should QA Exist",
+      "url": "https://www.rubick.com/should-qa-exist/",
+      "score": 4,
+      "comments": 1
     },
     {
-      "id": 47530330,
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 409,
-      "comments": 205
+      "id": 47539767,
+      "title": "The European AllSky7 fireball network",
+      "url": "https://www.allsky7.net/#archive",
+      "score": 54,
+      "comments": 5
     }
   ]
 }
