@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 15:30:22 UTC",
-    "fetched_at_ist": "2026-03-27 21:00:22 IST",
+    "fetched_at_utc": "2026-03-27 16:33:57 UTC",
+    "fetched_at_ist": "2026-03-27 22:03:57 IST",
     "item_count": 5,
-    "content_hash": "74cd7e477a50e57b95dcc7cfdfbf0825e586795af7d45a5b2f7ebddf97b17d38",
-    "previous_hash": "5b83f02516926f8987eab07796756e8fe9d80efa0fa1b9e8a2542293d34c1148",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "8454496d96831899f417bd7674899fcd91869dc96730e04852a367c473374943",
+    "previous_hash": "74cd7e477a50e57b95dcc7cfdfbf0825e586795af7d45a5b2f7ebddf97b17d38",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47542057,
-      "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 291,
-      "comments": 188
+      "id": 47543139,
+      "title": "Anatomy of the .claude/ Folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 113,
+      "comments": 64
     },
     {
       "id": 47542644,
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 32,
-      "comments": 0
+      "score": 62,
+      "comments": 16
     },
     {
-      "id": 47543139,
-      "title": "Anatomy of the .claude/ Folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 36,
-      "comments": 15
+      "id": 47544006,
+      "title": "SimpleX Chat",
+      "url": "https://simplex.chat/",
+      "score": 17,
+      "comments": 7
     },
     {
-      "id": 47543167,
-      "title": "Iran-linked hackers claim breach of FBI director's personal email",
-      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-      "score": 67,
-      "comments": 27
+      "id": 47543943,
+      "title": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "score": 51,
+      "comments": 20
     },
     {
-      "id": 47539825,
-      "title": "A Faster Alternative to Jq",
-      "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 267,
-      "comments": 160
+      "id": 47542057,
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "score": 377,
+      "comments": 287
     }
   ]
 }
