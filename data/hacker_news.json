@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 16:33:57 UTC",
-    "fetched_at_ist": "2026-03-27 22:03:57 IST",
+    "fetched_at_utc": "2026-03-27 17:33:12 UTC",
+    "fetched_at_ist": "2026-03-27 23:03:12 IST",
     "item_count": 5,
-    "content_hash": "8454496d96831899f417bd7674899fcd91869dc96730e04852a367c473374943",
-    "previous_hash": "74cd7e477a50e57b95dcc7cfdfbf0825e586795af7d45a5b2f7ebddf97b17d38",
+    "content_hash": "9c9f5d4efd438b2dfb164020712352fb6e3be0e77b9ccee16686eeaa5bf40c68",
+    "previous_hash": "8454496d96831899f417bd7674899fcd91869dc96730e04852a367c473374943",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47543139,
-      "title": "Anatomy of the .claude/ Folder",
+      "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 113,
-      "comments": 64
+      "score": 166,
+      "comments": 93
     },
     {
       "id": 47542644,
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 62,
-      "comments": 16
-    },
-    {
-      "id": 47544006,
-      "title": "SimpleX Chat",
-      "url": "https://simplex.chat/",
-      "score": 17,
-      "comments": 7
+      "score": 91,
+      "comments": 29
     },
     {
       "id": 47543943,
       "title": "Desk for people who work at home with a cat",
       "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 51,
-      "comments": 20
+      "score": 118,
+      "comments": 49
     },
     {
-      "id": 47542057,
-      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 377,
-      "comments": 287
+      "id": 47493677,
+      "title": "Sand from Different Beaches in the World",
+      "url": "https://magnifiedsand.com/",
+      "score": 30,
+      "comments": 5
+    },
+    {
+      "id": 47544980,
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "score": 39,
+      "comments": 7
     }
   ]
 }
