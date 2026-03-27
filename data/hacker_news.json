@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 13:41:38 UTC",
-    "fetched_at_ist": "2026-03-27 19:11:38 IST",
+    "fetched_at_utc": "2026-03-27 14:35:56 UTC",
+    "fetched_at_ist": "2026-03-27 20:05:56 IST",
     "item_count": 5,
-    "content_hash": "1651c3f3c3d26a79773a5d2766ed1df9f7d504d490e33fc83da41dc1dcc71bb7",
-    "previous_hash": "db8862fc1aa89c2cd83ffc43d410024d5143e2e1759ab4eaf0a5844b4ed9e9e5",
+    "content_hash": "5b83f02516926f8987eab07796756e8fe9d80efa0fa1b9e8a2542293d34c1148",
+    "previous_hash": "1651c3f3c3d26a79773a5d2766ed1df9f7d504d490e33fc83da41dc1dcc71bb7",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47542057,
       "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
       "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 51,
-      "comments": 20
-    },
-    {
-      "id": 47540833,
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 291,
-      "comments": 215
+      "score": 183,
+      "comments": 102
     },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 215,
-      "comments": 122
+      "score": 241,
+      "comments": 135
+    },
+    {
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 324,
+      "comments": 270
     },
     {
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 199,
-      "comments": 156
+      "score": 213,
+      "comments": 173
     },
     {
-      "id": 47535708,
-      "title": "Apple discontinues the Mac Pro",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 484,
-      "comments": 382
+      "id": 47542722,
+      "title": "Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules",
+      "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
+      "score": 28,
+      "comments": 12
     }
   ]
 }
