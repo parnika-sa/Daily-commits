@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 13:02 IST)
+
+## 📅 2026-03-28 (last updated: 15:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 13:02:21 IST | f4f1ea40b95d | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-28 15:00:53 IST | abee021ee2b1 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-28 07:56:21 IST | b039a252b127 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 255
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 119
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 378
-- [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24) — Score: 27
-- [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/) — Score: 62
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 326
+- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 32
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 157
+- [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/) — Score: 96
+- [Trust Signals as Sparklines for Hacker News](https://hn-trustspark.com/) — Score: 31
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,036.0 🔴 -4.24%

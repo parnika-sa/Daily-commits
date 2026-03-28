@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 07:32:21 UTC",
-    "fetched_at_ist": "2026-03-28 13:02:21 IST",
+    "fetched_at_utc": "2026-03-28 09:30:53 UTC",
+    "fetched_at_ist": "2026-03-28 15:00:53 IST",
     "item_count": 5,
-    "content_hash": "f4f1ea40b95d2e92db03832fc5702189d3dd95cf4f73502cef141be30d361f7b",
-    "previous_hash": "908498d941caef22025069c320af824a9e085f0f8e4d424799abe552428de21e",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "abee021ee2b17451d2fce518990d834c9929039648ef9156fbb028217e403d97",
+    "previous_hash": "f4f1ea40b95d2e92db03832fc5702189d3dd95cf4f73502cef141be30d361f7b",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47550282,
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
-      "score": 255,
-      "comments": 140
+      "score": 326,
+      "comments": 186
+    },
+    {
+      "id": 47552562,
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 32,
+      "comments": 26
     },
     {
       "id": 47550878,
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 119,
-      "comments": 57
-    },
-    {
-      "id": 47547009,
-      "title": "Make macOS consistently bad unironically",
-      "url": "https://lr0.org/blog/p/macos/",
-      "score": 378,
-      "comments": 256
-    },
-    {
-      "id": 47515783,
-      "title": ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
-      "url": "https://www.youtube.com/watch?v=P1kfuCkWo24",
-      "score": 27,
-      "comments": 9
+      "score": 157,
+      "comments": 76
     },
     {
       "id": 47520599,
       "title": "The bee that everyone wants to save",
       "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-      "score": 62,
-      "comments": 10
+      "score": 96,
+      "comments": 22
+    },
+    {
+      "id": 47532717,
+      "title": "Trust Signals as Sparklines for Hacker News",
+      "url": "https://hn-trustspark.com/",
+      "score": 31,
+      "comments": 12
     }
   ]
 }
