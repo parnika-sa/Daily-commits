@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-29 (last updated: 23:58 IST)
+
+## 📅 2026-03-29 (last updated: 01:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 19:06:53 IST | 41a8de774fcb | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 01:13:42 IST | 5fc1242443c1 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 23:58:51 IST | a25fd506fd91 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es) — Score: 192
-- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/) — Score: 110
-- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 60
-- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 120
-- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 159
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 237
+- [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504) — Score: 41
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) — Score: 84
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 398
+- [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app) — Score: 209
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,867.0 🟢 +1.79%
@@ -44,38 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $616.2 🟢 +1.43%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-28 (last updated: 23:58 IST)
 
 ### 🧪 Source Integrity Snapshot

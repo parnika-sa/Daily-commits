@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 13:36:53 UTC",
-    "fetched_at_ist": "2026-03-28 19:06:53 IST",
+    "fetched_at_utc": "2026-03-28 19:43:42 UTC",
+    "fetched_at_ist": "2026-03-29 01:13:42 IST",
     "item_count": 5,
-    "content_hash": "41a8de774fcb95b4204f61c5badabaf20a7c831c875691d8a1d2263f6434a486",
-    "previous_hash": "c41bb0c37f2df27633c06ffee6063cbc85ae90eb9c6b99b6c4c2686000747a11",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "5fc1242443c155f3cfe1e26d0eeb08bbbf8a8f27336e892be354095d0d13e5f7",
+    "previous_hash": "41a8de774fcb95b4204f61c5badabaf20a7c831c875691d8a1d2263f6434a486",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47553798,
-      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 192,
-      "comments": 58
+      "id": 47556729,
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "score": 237,
+      "comments": 62
     },
     {
-      "id": 47553484,
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "score": 110,
-      "comments": 69
+      "id": 47557166,
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "score": 41,
+      "comments": 9
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 60,
-      "comments": 2
+      "id": 47556359,
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "score": 84,
+      "comments": 11
     },
     {
-      "id": 47553185,
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "score": 120,
-      "comments": 32
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 398,
+      "comments": 325
     },
     {
-      "id": 47552562,
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "score": 159,
-      "comments": 77
+      "id": 47555556,
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 209,
+      "comments": 68
     }
   ]
 }
