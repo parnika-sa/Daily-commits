@@ -27,19 +27,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 19:06 IST)
+
+## 📅 2026-03-28 (last updated: 19:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 19:06:53 IST | 41a8de774fcb | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 16:51:27 IST | e7063fe80456 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-28 19:47:45 IST | 205be864e10d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -61,10 +62,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 159
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,204.0 🔴 -0.65%
-- Ethereum: $1,995.5 🟢 +0.12%
-- Solana: $82.9 🔴 -0.40%
-- Bnb: $611.54 🟢 +0.16%
+- Bitcoin: $66,707.0 🟢 +0.76%
+- Ethereum: $2,020.83 🟢 +1.92%
+- Solana: $83.09 🔴 -0.05%
+- Bnb: $614.95 🟢 +0.99%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:03 IST)

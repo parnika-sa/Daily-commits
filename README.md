@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-28 13:36:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-28 14:17:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,204.0** ↓ (-0.65%)
+- BTC: **$66,707.0** ↑ (+0.76%)
 - HN top story: **I put all 8,642 Spanish laws in Git – every reform is a commit**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 13:36:53 UTC | `41a8de774fcb` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 11:21:27 UTC | `e7063fe80456` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-28 14:17:45 UTC | `205be864e10d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-28` |
-| Commits Today | `24` / `100` |
-| Remaining Today | `76` |
-| Progress | `████░░░░░░░░░░░░░░░░` 24% |
-| Streak | `35` day(s) |
-| Last Commit (IST) | `2026-03-28 18:05:20 IST` |
+| Commits Today | `25` / `100` |
+| Remaining Today | `75` |
+| Progress | `█████░░░░░░░░░░░░░░░` 25% |
+| Streak | `34` day(s) |
+| Last Commit (IST) | `2026-03-28 19:06:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-25 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-03-26 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-27 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
-| 2026-03-28 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
+| 2026-03-28 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,204.0 | -0.65% | 🔴 |
-| Ethereum | $1,995.5 | +0.12% | 🟢 |
-| Solana | $82.9 | -0.40% | 🔴 |
-| Bnb | $611.54 | +0.16% | 🟢 |
+| Bitcoin | $66,707.0 | +0.76% | 🟢 |
+| Ethereum | $2,020.83 | +1.92% | 🟢 |
+| Solana | $83.09 | -0.05% | 🔴 |
+| Bnb | $614.95 | +0.99% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
