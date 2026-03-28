@@ -31,14 +31,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 20:54 IST)
+
+## 📅 2026-03-28 (last updated: 21:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 19:06:53 IST | 41a8de774fcb | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 20:54:44 IST | 08abecd14a89 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-28 21:53:39 IST | d5e6286d9e2f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
@@ -65,10 +66,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 159
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,156.0 🟢 +1.50%
-- Ethereum: $2,031.31 🟢 +2.02%
-- Solana: $83.79 🟢 +0.73%
-- Bnb: $617.26 🟢 +1.18%
+- Bitcoin: $67,013.0 🟢 +1.71%
+- Ethereum: $2,027.72 🟢 +2.21%
+- Solana: $83.78 🟢 +1.17%
+- Bnb: $616.8 🟢 +1.37%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:03 IST)
