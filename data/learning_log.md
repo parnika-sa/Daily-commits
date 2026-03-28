@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 03:13 IST)
+
+## 📅 2026-03-29 (last updated: 04:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 03:13:51 IST | 7a1f71a86a9b | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 23:58:51 IST | a25fd506fd91 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-29 04:52:50 IST | afe17435b15c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 457
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,867.0 🟢 +1.79%
-- Ethereum: $2,021.73 🟢 +2.20%
-- Solana: $83.4 🟢 +1.52%
-- Bnb: $616.2 🟢 +1.43%
+- Bitcoin: $66,297.0 🟢 +0.28%
+- Ethereum: $1,992.22 🟢 +0.33%
+- Solana: $81.88 🔴 -0.95%
+- Bnb: $611.24 🟢 +0.10%
 
 ---
 ## 📅 2026-03-28 (last updated: 23:58 IST)
