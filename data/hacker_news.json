@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 12:35:20 UTC",
-    "fetched_at_ist": "2026-03-28 18:05:20 IST",
+    "fetched_at_utc": "2026-03-28 13:36:53 UTC",
+    "fetched_at_ist": "2026-03-28 19:06:53 IST",
     "item_count": 5,
-    "content_hash": "c41bb0c37f2df27633c06ffee6063cbc85ae90eb9c6b99b6c4c2686000747a11",
-    "previous_hash": "abee021ee2b17451d2fce518990d834c9929039648ef9156fbb028217e403d97",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "41a8de774fcb95b4204f61c5badabaf20a7c831c875691d8a1d2263f6434a486",
+    "previous_hash": "c41bb0c37f2df27633c06ffee6063cbc85ae90eb9c6b99b6c4c2686000747a11",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47553798,
       "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
       "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 42,
-      "comments": 8
-    },
-    {
-      "id": 47553185,
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "score": 92,
-      "comments": 24
-    },
-    {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 14,
-      "comments": 1
-    },
-    {
-      "id": 47552562,
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "score": 134,
-      "comments": 68
+      "score": 192,
+      "comments": 58
     },
     {
       "id": 47553484,
       "title": "Britain today generating 90%+ of electricity from renewables",
       "url": "https://grid.iamkate.com/",
-      "score": 11,
-      "comments": 4
+      "score": 110,
+      "comments": 69
+    },
+    {
+      "id": 47553717,
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "score": 60,
+      "comments": 2
+    },
+    {
+      "id": 47553185,
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "score": 120,
+      "comments": 32
+    },
+    {
+      "id": 47552562,
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 159,
+      "comments": 77
     }
   ]
 }
