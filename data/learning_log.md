@@ -23,19 +23,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 15:00 IST)
+
+## 📅 2026-03-28 (last updated: 16:51 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 15:00:53 IST | abee021ee2b1 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 07:56:21 IST | b039a252b127 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-28 16:51:27 IST | e7063fe80456 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -57,10 +58,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Trust Signals as Sparklines for Hacker News](https://hn-trustspark.com/) — Score: 31
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,036.0 🔴 -4.24%
-- Ethereum: $1,985.14 🔴 -4.14%
-- Solana: $82.55 🔴 -4.76%
-- Bnb: $611.25 🔴 -3.04%
+- Bitcoin: $66,204.0 🔴 -0.65%
+- Ethereum: $1,995.5 🟢 +0.12%
+- Solana: $82.9 🔴 -0.40%
+- Bnb: $611.54 🟢 +0.16%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:03 IST)
