@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 07:56 IST)
+
+## 📅 2026-03-28 (last updated: 10:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 05:04:06 IST | 92ee82e3f703 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-28 10:01:22 IST | 94befccdb08b | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 07:56:21 IST | b039a252b127 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 233
-- [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/) — Score: 11
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 52
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 339
-- [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?) — Score: 65
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/) — Score: 149
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 53
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 339
+- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) — Score: 159
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 406
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,036.0 🔴 -4.24%
