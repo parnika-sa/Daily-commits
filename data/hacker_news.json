@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 05:43:33 UTC",
-    "fetched_at_ist": "2026-03-28 11:13:33 IST",
+    "fetched_at_utc": "2026-03-28 06:39:15 UTC",
+    "fetched_at_ist": "2026-03-28 12:09:15 IST",
     "item_count": 5,
-    "content_hash": "4f3ffb54926930ed868349801f897db9651108384c72ca046da2867afd4cf552",
-    "previous_hash": "94befccdb08bf2bc8fff8863c73a78af2b3b7f5e7fb10ceb4dcd4415b1d73049",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "908498d941caef22025069c320af824a9e085f0f8e4d424799abe552428de21e",
+    "previous_hash": "4f3ffb54926930ed868349801f897db9651108384c72ca046da2867afd4cf552",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47550282,
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
-      "score": 183,
-      "comments": 100
+      "score": 221,
+      "comments": 126
     },
     {
       "id": 47550878,
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 83,
-      "comments": 39
+      "score": 105,
+      "comments": 51
     },
     {
       "id": 47547009,
       "title": "Make macOS consistently bad unironically",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 352,
-      "comments": 241
+      "score": 364,
+      "comments": 247
     },
     {
       "id": 47495245,
       "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
       "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-      "score": 177,
-      "comments": 89
+      "score": 195,
+      "comments": 94
     },
     {
-      "id": 47543139,
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 425,
-      "comments": 200
+      "id": 47520599,
+      "title": "The bee that everyone wants to save",
+      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+      "score": 41,
+      "comments": 7
     }
   ]
 }

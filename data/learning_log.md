@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 11:13 IST)
+
+## 📅 2026-03-28 (last updated: 12:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 11:13:33 IST | 4f3ffb549269 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-28 12:09:15 IST | 908498d941ca | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-28 07:56:21 IST | b039a252b127 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 183
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 83
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 352
-- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) — Score: 177
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 425
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 221
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 105
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 364
+- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) — Score: 195
+- [The bee that everyone wants to save](https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/) — Score: 41
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,036.0 🔴 -4.24%
