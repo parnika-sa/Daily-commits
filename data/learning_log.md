@@ -19,19 +19,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 14:01 IST)
+
+## 📅 2026-03-29 (last updated: 14:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 14:01:32 IST | e226bb12abfc | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-29 09:53:31 IST | 53fb98025707 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-29 14:50:50 IST | 3bfe70abaedc | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -53,10 +54,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) — Score: 113
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,800.0 🟢 +0.86%
-- Ethereum: $2,006.3 🟢 +0.80%
-- Solana: $82.82 🟢 +0.29%
-- Bnb: $612.93 🟢 +0.30%
+- Bitcoin: $66,634.0 🟢 +0.44%
+- Ethereum: $2,001.73 🟢 +0.25%
+- Solana: $82.38 🔴 -0.83%
+- Bnb: $613.44 🟢 +0.32%
 
 ---
 ## 📅 2026-03-28 (last updated: 23:58 IST)
