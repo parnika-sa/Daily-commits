@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 08:31:32 UTC",
-    "fetched_at_ist": "2026-03-29 14:01:32 IST",
+    "fetched_at_utc": "2026-03-29 10:37:45 UTC",
+    "fetched_at_ist": "2026-03-29 16:07:45 IST",
     "item_count": 5,
-    "content_hash": "e226bb12abfca1b2cb142a347f4232865fa6981585fc03a5f2573ef2fde5865c",
-    "previous_hash": "fe0aca75396efe35cf97a3fbcad7d6875486f4bb9a0762fc655e53fc2187c82f",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "a79278f725de25ffd776a7e2477328bd97574a9a99d34ab5e76e483c61e9bcd7",
+    "previous_hash": "e226bb12abfca1b2cb142a347f4232865fa6981585fc03a5f2573ef2fde5865c",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 966,
-      "comments": 204
-    },
-    {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 309,
-      "comments": 67
-    },
-    {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 629,
-      "comments": 474
+      "score": 1074,
+      "comments": 213
     },
     {
       "id": 47560981,
       "title": "The road to electric – in charts and data [UK]",
       "url": "https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/",
-      "score": 10,
-      "comments": 0
+      "score": 39,
+      "comments": 36
     },
     {
-      "id": 47559481,
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 113,
-      "comments": 63
+      "id": 47524778,
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "score": 68,
+      "comments": 23
+    },
+    {
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 654,
+      "comments": 501
+    },
+    {
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 347,
+      "comments": 80
     }
   ]
 }
