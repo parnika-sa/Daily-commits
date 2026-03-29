@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 09:53 IST)
+
+## 📅 2026-03-29 (last updated: 14:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-29 07:12:59 IST | fe0aca75396e | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-29 14:01:32 IST | e226bb12abfc | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-29 09:53:31 IST | 53fb98025707 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) — Score: 138
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 700
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 181
-- [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html) — Score: 37
-- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) — Score: 14
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 966
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 309
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 629
+- [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/) — Score: 10
+- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) — Score: 113
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,800.0 🟢 +0.86%
