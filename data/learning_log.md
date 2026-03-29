@@ -27,19 +27,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 17:11 IST)
+
+## 📅 2026-03-29 (last updated: 19:56 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 17:11:58 IST | ff94d70d84b2 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-29 14:50:50 IST | 3bfe70abaedc | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-29 19:56:57 IST | 1591677aeabd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -61,10 +62,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,634.0 🟢 +0.44%
-- Ethereum: $2,001.73 🟢 +0.25%
-- Solana: $82.38 🔴 -0.83%
-- Bnb: $613.44 🟢 +0.32%
+- Bitcoin: $66,527.0 🔴 -0.37%
+- Ethereum: $1,990.84 🔴 -1.62%
+- Solana: $81.99 🔴 -1.45%
+- Bnb: $610.08 🔴 -0.93%
 
 ---
 ## 📅 2026-03-28 (last updated: 23:58 IST)

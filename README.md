@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 11:41:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 14:26:57 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,634.0** ↑ (+0.44%)
+- BTC: **$66,527.0** ↓ (-0.37%)
 - HN top story: **Founder of GitLab battles cancer by founding companies**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 11:41:58 UTC | `ff94d70d84b2` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-29 09:20:50 UTC | `3bfe70abaedc` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-29 14:26:57 UTC | `1591677aeabd` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-29` |
-| Commits Today | `24` / `100` |
-| Remaining Today | `76` |
-| Progress | `████░░░░░░░░░░░░░░░░` 24% |
+| Commits Today | `25` / `100` |
+| Remaining Today | `75` |
+| Progress | `█████░░░░░░░░░░░░░░░` 25% |
 | Streak | `34` day(s) |
-| Last Commit (IST) | `2026-03-29 18:28:30 IST` |
+| Last Commit (IST) | `2026-03-29 19:24:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-26 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-27 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 | 2026-03-28 | 33 | `██████░░░░░░░░░░░░░░` 33% |
-| 2026-03-29 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
+| 2026-03-29 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,634.0 | +0.44% | 🟢 |
-| Ethereum | $2,001.73 | +0.25% | 🟢 |
-| Solana | $82.38 | -0.83% | 🔴 |
-| Bnb | $613.44 | +0.32% | 🟢 |
+| Bitcoin | $66,527.0 | -0.37% | 🔴 |
+| Ethereum | $1,990.84 | -1.62% | 🔴 |
+| Solana | $81.99 | -1.45% | 🔴 |
+| Bnb | $610.08 | -0.93% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
