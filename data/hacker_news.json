@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 21:43:51 UTC",
-    "fetched_at_ist": "2026-03-29 03:13:51 IST",
+    "fetched_at_utc": "2026-03-29 01:42:59 UTC",
+    "fetched_at_ist": "2026-03-29 07:12:59 IST",
     "item_count": 5,
-    "content_hash": "7a1f71a86a9bcfa3c7ad1e5067dfeb4ff9b4f804df02bedddff85b61e756f30b",
-    "previous_hash": "9681e318e37f89f2f085c5ad94cfa2bb6c057518b8413c1508f7f93674ac1bb5",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "fe0aca75396efe35cf97a3fbcad7d6875486f4bb9a0762fc655e53fc2187c82f",
+    "previous_hash": "7a1f71a86a9bcfa3c7ad1e5067dfeb4ff9b4f804df02bedddff85b61e756f30b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47558997,
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "score": 138,
+      "comments": 75
+    },
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 447,
-      "comments": 92
-    },
-    {
-      "id": 47557166,
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 96,
-      "comments": 50
+      "score": 700,
+      "comments": 168
     },
     {
       "id": 47557960,
       "title": "CSS is DOOMed",
       "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 47,
-      "comments": 17
+      "score": 181,
+      "comments": 48
     },
     {
-      "id": 47556359,
-      "title": "Linux is an interpreter",
-      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 128,
-      "comments": 19
+      "id": 47543186,
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "score": 37,
+      "comments": 3
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 457,
-      "comments": 354
+      "id": 47559481,
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "score": 14,
+      "comments": 6
     }
   ]
 }
