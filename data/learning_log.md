@@ -29,18 +29,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 19:56 IST)
+
+## 📅 2026-03-29 (last updated: 21:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-29 17:11:58 IST | ff94d70d84b2 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 21:06:36 IST | 1887eed8642c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-29 19:56:57 IST | 1591677aeabd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1115
-- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 90
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 662
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 369
-- [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm) — Score: 13
+- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 314
+- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) — Score: 152
+- [Building a Mostly IPv6 Only Home Network](https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/) — Score: 29
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1236
+- [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489) — Score: 203
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,527.0 🔴 -0.37%

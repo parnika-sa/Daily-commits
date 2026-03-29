@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 11:41:58 UTC",
-    "fetched_at_ist": "2026-03-29 17:11:58 IST",
+    "fetched_at_utc": "2026-03-29 15:36:36 UTC",
+    "fetched_at_ist": "2026-03-29 21:06:36 IST",
     "item_count": 5,
-    "content_hash": "ff94d70d84b2c1c31b4b58099aac4109ae0bdd93e64392a7f8150be0de35b71a",
-    "previous_hash": "a79278f725de25ffd776a7e2477328bd97574a9a99d34ab5e76e483c61e9bcd7",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "1887eed8642cf22275f0049844740a25602197ff980b01a10b486d1c9da9500a",
+    "previous_hash": "ff94d70d84b2c1c31b4b58099aac4109ae0bdd93e64392a7f8150be0de35b71a",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47561711,
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 314,
+      "comments": 125
+    },
+    {
+      "id": 47561819,
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "score": 152,
+      "comments": 84
+    },
+    {
+      "id": 47515271,
+      "title": "Building a Mostly IPv6 Only Home Network",
+      "url": "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/",
+      "score": 29,
+      "comments": 19
+    },
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 1115,
-      "comments": 214
+      "score": 1236,
+      "comments": 238
     },
     {
-      "id": 47524778,
-      "title": "Technology: The (nearly) perfect USB cable tester does exist",
-      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 90,
-      "comments": 28
-    },
-    {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 662,
-      "comments": 517
-    },
-    {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 369,
-      "comments": 83
-    },
-    {
-      "id": 47533324,
-      "title": "Siclair Microvision (1977)",
-      "url": "https://r-type.org/articles/art-452.htm",
-      "score": 13,
-      "comments": 3
+      "id": 47561489,
+      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "url": "https://news.ycombinator.com/item?id=47561489",
+      "score": 203,
+      "comments": 134
     }
   ]
 }
