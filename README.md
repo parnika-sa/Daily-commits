@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 20:22:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 21:24:59 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,578.0** ↓ (-0.48%)
+- BTC: **$66,531.0** ↓ (-0.35%)
 - HN top story: **Overestimation of microplastics potentially caused by scientists' gloves**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 15:36:36 UTC | `1887eed8642c` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-29 20:22:13 UTC | `11762601ab48` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-29 21:24:59 UTC | `590597c6a0df` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-30` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `35` day(s) |
-| Last Commit (IST) | `2026-03-30 01:52:13 IST` |
+| Last Commit (IST) | `2026-03-30 02:25:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-27 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 | 2026-03-28 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-03-29 | 32 | `██████░░░░░░░░░░░░░░` 32% |
-| 2026-03-30 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-03-30 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,578.0 | -0.48% | 🔴 |
-| Ethereum | $2,001.32 | -1.03% | 🔴 |
-| Solana | $81.78 | -1.93% | 🔴 |
-| Bnb | $610.41 | -1.10% | 🔴 |
+| Bitcoin | $66,531.0 | -0.35% | 🔴 |
+| Ethereum | $2,001.94 | -0.78% | 🔴 |
+| Solana | $81.84 | -1.24% | 🔴 |
+| Bnb | $609.14 | -1.20% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
