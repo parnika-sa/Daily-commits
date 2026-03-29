@@ -23,13 +23,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 16:07 IST)
+
+## 📅 2026-03-29 (last updated: 17:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-29 16:07:45 IST | a79278f725de | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 17:11:58 IST | ff94d70d84b2 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-29 14:50:50 IST | 3bfe70abaedc | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1074
-- [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/) — Score: 39
-- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 68
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 654
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 347
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1115
+- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 90
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 662
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 369
+- [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,634.0 🟢 +0.44%
