@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 15:36:36 UTC",
-    "fetched_at_ist": "2026-03-29 21:06:36 IST",
+    "fetched_at_utc": "2026-03-30 17:44:46 UTC",
+    "fetched_at_ist": "2026-03-30 23:14:46 IST",
     "item_count": 5,
-    "content_hash": "1887eed8642cf22275f0049844740a25602197ff980b01a10b486d1c9da9500a",
-    "previous_hash": "ff94d70d84b2c1c31b4b58099aac4109ae0bdd93e64392a7f8150be0de35b71a",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "1b740d7247079deba997ebef65d6bfa66a47b6f81184e76e846396f2caa8a050",
+    "previous_hash": "1887eed8642cf22275f0049844740a25602197ff980b01a10b486d1c9da9500a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47561711,
-      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 314,
+      "id": 47574034,
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "score": 324,
       "comments": 125
     },
     {
-      "id": 47561819,
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
-      "score": 152,
-      "comments": 84
+      "id": 47573887,
+      "title": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "score": 216,
+      "comments": 132
     },
     {
-      "id": 47515271,
-      "title": "Building a Mostly IPv6 Only Home Network",
-      "url": "https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/",
-      "score": 29,
-      "comments": 19
+      "id": 47576317,
+      "title": "Take Better Notes, by Hand",
+      "url": "https://brianschrader.com/archive/take-better-notes-by-hand/",
+      "score": 33,
+      "comments": 12
     },
     {
-      "id": 47556729,
-      "title": "Founder of GitLab battles cancer by founding companies",
-      "url": "https://sytse.com/cancer/",
-      "score": 1236,
-      "comments": 238
+      "id": 47576055,
+      "title": "OCR For construction documents does not work, we fixed it",
+      "url": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+      "score": 22,
+      "comments": 21
     },
     {
-      "id": 47561489,
-      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-      "url": "https://news.ycombinator.com/item?id=47561489",
-      "score": 203,
-      "comments": 134
+      "id": 47567242,
+      "title": "Build123d: A Python CAD programming library",
+      "url": "https://github.com/gumyr/build123d",
+      "score": 52,
+      "comments": 16
     }
   ]
 }
