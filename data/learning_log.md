@@ -15,19 +15,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-30 (last updated: 04:57 IST)
+
+## 📅 2026-03-30 (last updated: 11:55 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-29 21:06:36 IST | 1887eed8642c | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-30 04:57:44 IST | ebf8a3980338 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-03-30 11:55:09 IST | ae5e0394a1a1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -49,10 +50,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489) — Score: 203
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,964.0 🔴 -0.59%
-- Ethereum: $1,983.95 🔴 -0.55%
-- Solana: $81.37 🔴 -0.71%
-- Bnb: $605.33 🔴 -1.04%
+- Bitcoin: $67,266.0 🟢 +0.99%
+- Ethereum: $2,042.79 🟢 +2.16%
+- Solana: $83.52 🟢 +1.30%
+- Bnb: $615.53 🟢 +0.39%
 
 ---
 ## 📅 2026-03-29 (last updated: 23:59 IST)
