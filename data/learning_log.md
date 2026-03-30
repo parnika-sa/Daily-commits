@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 01:54 IST)
+
+## 📅 2026-03-31 (last updated: 04:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 01:09:45 IST | 94b38b655557 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 04:00:01 IST | 9eafa89f6145 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-31 01:54:43 IST | eafa609b7a88 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 56
-- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 444
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 84
-- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains) — Score: 249
-- [Cherri – programming language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri) — Score: 119
+- [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi) — Score: 30
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 304
+- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 269
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) — Score: 61
+- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) — Score: 126
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,592.0 🔴 -0.11%

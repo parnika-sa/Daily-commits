@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 19:39:45 UTC",
-    "fetched_at_ist": "2026-03-31 01:09:45 IST",
+    "fetched_at_utc": "2026-03-30 22:30:01 UTC",
+    "fetched_at_ist": "2026-03-31 04:00:01 IST",
     "item_count": 5,
-    "content_hash": "94b38b655557fb2e07b854d9364e374b5c323ff313adbc00370ed05ae42c3fd4",
-    "previous_hash": "f7afcd3c247f08668941d0667819e62530b9930b32cd8ef8b7da058cb16208a1",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "9eafa89f614527ea8db63d3d17566ddb793849dc82427dbc65249d696a1af31f",
+    "previous_hash": "94b38b655557fb2e07b854d9364e374b5c323ff313adbc00370ed05ae42c3fd4",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47580350,
+      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+      "url": "https://30u30.fyi",
+      "score": 30,
+      "comments": 2
+    },
+    {
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 56,
-      "comments": 5
-    },
-    {
-      "id": 47574034,
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "score": 444,
-      "comments": 170
+      "score": 304,
+      "comments": 99
     },
     {
       "id": 47573519,
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 84,
-      "comments": 16
+      "score": 269,
+      "comments": 82
     },
     {
-      "id": 47573887,
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 249,
-      "comments": 159
+      "id": 47579229,
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "score": 61,
+      "comments": 26
     },
     {
-      "id": 47549824,
-      "title": "Cherri – programming language that compiles to an Apple Shortuct",
-      "url": "https://github.com/electrikmilk/cherri",
-      "score": 119,
-      "comments": 20
+      "id": 47578572,
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "score": 126,
+      "comments": 51
     }
   ]
 }
