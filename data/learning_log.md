@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-31 (last updated: 00:10 IST)
+
+## 📅 2026-03-31 (last updated: 01:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 00:10:11 IST | f7afcd3c247f | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-31 01:09:45 IST | 94b38b655557 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-30 19:56:45 IST | ab417c83ecf8 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 397
-- ["CEO Said a Thing " Journalism](https://karlbode.com/ceo-said-a-thing-journalism/) — Score: 38
-- [Take better notes, by hand](https://brianschrader.com/archive/take-better-notes-by-hand/) — Score: 80
-- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains) — Score: 232
-- [Cherri – programming language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri) — Score: 79
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 56
+- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 444
+- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 84
+- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains) — Score: 249
+- [Cherri – programming language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri) — Score: 119
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,398.0 🟢 +1.32%
@@ -44,27 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $616.2 🟢 +1.05%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-30 (last updated: 23:14 IST)
 
 ### 🧪 Source Integrity Snapshot
