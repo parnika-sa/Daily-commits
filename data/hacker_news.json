@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 17:37:57 UTC",
-    "fetched_at_ist": "2026-03-31 23:07:57 IST",
+    "fetched_at_utc": "2026-03-31 18:36:44 UTC",
+    "fetched_at_ist": "2026-04-01 00:06:44 IST",
     "item_count": 5,
-    "content_hash": "61e5c2a09e4e02db3f0eb200acd456d67388323e31dd3cb15e81344ab61cfbac",
-    "previous_hash": "3d1199d4282669b3e9143fdde25761fa2c70621dbed3b1bdf9b073a6dca2db8e",
+    "content_hash": "18cdd60f58eb8caa9f1c397836ae6e7758d20b9208387ee498daed70a78d0716",
+    "previous_hash": "61e5c2a09e4e02db3f0eb200acd456d67388323e31dd3cb15e81344ab61cfbac",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47584540,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1436,
+      "comments": 742
+    },
+    {
       "id": 47589818,
       "title": "Cohere Transcribe: Speech Recognition",
       "url": "https://cohere.com/blog/transcribe",
-      "score": 44,
-      "comments": 9
+      "score": 82,
+      "comments": 20
     },
     {
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1599,
-      "comments": 627
+      "score": 1663,
+      "comments": 653
+    },
+    {
+      "id": 47586778,
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 37,
+      "comments": 4
     },
     {
       "id": 47586614,
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 163,
-      "comments": 52
-    },
-    {
-      "id": 47588349,
-      "title": "GitHub Monaspace Case Study",
-      "url": "https://lettermatic.com/custom/monaspace-case-study",
-      "score": 54,
-      "comments": 18
-    },
-    {
-      "id": 47521813,
-      "title": "A Love Letter to 'Girl Games'",
-      "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-      "score": 79,
-      "comments": 54
+      "score": 192,
+      "comments": 57
     }
   ]
 }

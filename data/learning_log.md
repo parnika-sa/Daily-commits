@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-04-01 (last updated: 00:06 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-01 00:06:44 IST | 18cdd60f58eb | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +11 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
+
+### 🚀 Trending Repos Tracked Today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 2,824 stars today
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
+  ⭐ 1,546 stars today
+- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
+  ⭐ 125 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 320 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
+  ⭐ 661 stars today
+
+### 📰 Hacker News Stories
+- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 1436
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 82
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1663
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 37
+- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 192
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $67,119.0 🔴 -0.36%
+- Ethereum: $2,044.38 🔴 -0.08%
+- Solana: $82.95 🔴 -0.71%
+- Bnb: $609.51 🔴 -1.17%
+
+---
 
 
 
