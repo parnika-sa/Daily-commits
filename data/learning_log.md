@@ -23,13 +23,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 22:07 IST)
+
+## 📅 2026-03-31 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 22:07:35 IST | 3d1199d42826 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 23:07:57 IST | 61e5c2a09e4e | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Tell HN: Chrome says "Suspicious Download" when trying to download yt-dlp](https://news.ycombinator.com/item?id=47588658) — Score: 128
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1494
-- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 127
-- [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study) — Score: 34
-- [Oracle slashes 30k jobs](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/) — Score: 469
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 44
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1599
+- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 163
+- [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study) — Score: 54
+- [A Love Letter to 'Girl Games'](https://aftermath.site/a-love-letter-to-girl-games/) — Score: 79
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,119.0 🔴 -0.36%
