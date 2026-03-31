@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-31 19:39:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-31 20:23:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$67,119.0** ↓ (-0.36%)
+- BTC: **$67,921.0** ↑ (+1.98%)
 - HN top story: **Claude Code's source code has been leaked via a map file in their NPM registry**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-31 19:39:54 UTC | `c5a9b64cc814` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-31 07:19:31 UTC | `8062c2174961` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-03-31 20:23:48 UTC | `d9cd6d958002` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-01` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `35` day(s) |
-| Last Commit (IST) | `2026-04-01 00:06:45 IST` |
+| Last Commit (IST) | `2026-04-01 01:09:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-29 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-03-30 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-31 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-04-01 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-04-01 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,119.0 | -0.36% | 🔴 |
-| Ethereum | $2,044.38 | -0.08% | 🔴 |
-| Solana | $82.95 | -0.71% | 🔴 |
-| Bnb | $609.51 | -1.17% | 🔴 |
+| Bitcoin | $67,921.0 | +1.98% | 🟢 |
+| Ethereum | $2,100.86 | +3.78% | 🟢 |
+| Solana | $83.08 | +0.50% | 🟢 |
+| Bnb | $616.56 | +1.14% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
