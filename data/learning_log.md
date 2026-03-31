@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 12:49 IST)
+
+## 📅 2026-03-31 (last updated: 14:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 04:00:01 IST | 9eafa89f6145 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 14:06:18 IST | bb3539a5694d | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi) — Score: 30
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 304
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 269
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) — Score: 61
-- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) — Score: 126
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 684
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 209
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 281
+- [Universal Claude.md – cut Claude output tokens](https://github.com/drona23/claude-token-efficient) — Score: 283
+- [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm) — Score: 97
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,119.0 🔴 -0.36%

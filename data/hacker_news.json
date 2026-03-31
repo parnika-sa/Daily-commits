@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 22:30:01 UTC",
-    "fetched_at_ist": "2026-03-31 04:00:01 IST",
+    "fetched_at_utc": "2026-03-31 08:36:18 UTC",
+    "fetched_at_ist": "2026-03-31 14:06:18 IST",
     "item_count": 5,
-    "content_hash": "9eafa89f614527ea8db63d3d17566ddb793849dc82427dbc65249d696a1af31f",
-    "previous_hash": "94b38b655557fb2e07b854d9364e374b5c323ff313adbc00370ed05ae42c3fd4",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "bb3539a5694d2c9eb7832e8c3a5f0425a1879c1f4d37f38fa0c865d6e1b938a8",
+    "previous_hash": "9eafa89f614527ea8db63d3d17566ddb793849dc82427dbc65249d696a1af31f",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47580350,
-      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
-      "url": "https://30u30.fyi",
-      "score": 30,
-      "comments": 2
+      "id": 47582220,
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 684,
+      "comments": 206
     },
     {
-      "id": 47577761,
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 304,
-      "comments": 99
-    },
-    {
-      "id": 47573519,
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 269,
+      "id": 47582482,
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 209,
       "comments": 82
     },
     {
-      "id": 47579229,
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "score": 61,
-      "comments": 26
+      "id": 47582043,
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 281,
+      "comments": 180
     },
     {
-      "id": 47578572,
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 126,
-      "comments": 51
+      "id": 47581701,
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 283,
+      "comments": 106
+    },
+    {
+      "id": 47583045,
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 97,
+      "comments": 44
     }
   ]
 }
