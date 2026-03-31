@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 09:47 IST)
+
+## 📅 2026-03-31 (last updated: 12:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-31 04:00:01 IST | 9eafa89f6145 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-31 09:47:02 IST | 19515c2e1320 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) — Score: 126
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,604.0 🟢 +0.32%
-- Ethereum: $2,063.78 🟢 +0.97%
-- Solana: $83.52 🟢 +0.12%
-- Bnb: $612.75 🔴 -0.63%
+- Bitcoin: $67,119.0 🔴 -0.36%
+- Ethereum: $2,044.38 🔴 -0.08%
+- Solana: $82.95 🔴 -0.71%
+- Bnb: $609.51 🔴 -1.17%
 
 ---
 ## 📅 2026-03-30 (last updated: 23:14 IST)
