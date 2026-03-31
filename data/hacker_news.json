@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 15:35:46 UTC",
-    "fetched_at_ist": "2026-03-31 21:05:46 IST",
+    "fetched_at_utc": "2026-03-31 16:37:35 UTC",
+    "fetched_at_ist": "2026-03-31 22:07:35 IST",
     "item_count": 5,
-    "content_hash": "d3a6bf8ee6f1dfdee9b54b5813fd583731788b3993ba592da3df33b66cb59e38",
-    "previous_hash": "7337104c9ae24fa601a97c3cff929976107f10797c7b91cf9569d9c8e2a6dafa",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "3d1199d4282669b3e9143fdde25761fa2c70621dbed3b1bdf9b073a6dca2db8e",
+    "previous_hash": "d3a6bf8ee6f1dfdee9b54b5813fd583731788b3993ba592da3df33b66cb59e38",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47588658,
+      "title": "Tell HN: Chrome says \"Suspicious Download\" when trying to download yt-dlp",
+      "url": "https://news.ycombinator.com/item?id=47588658",
+      "score": 128,
+      "comments": 35
+    },
     {
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1414,
-      "comments": 548
+      "score": 1494,
+      "comments": 583
     },
     {
       "id": 47586614,
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 90,
-      "comments": 26
+      "score": 127,
+      "comments": 36
+    },
+    {
+      "id": 47588349,
+      "title": "GitHub Monaspace Case Study",
+      "url": "https://lettermatic.com/custom/monaspace-case-study",
+      "score": 34,
+      "comments": 8
     },
     {
       "id": 47587935,
-      "title": "Oracle slashes 30k jobs with a cold 6 a.m. email",
+      "title": "Oracle slashes 30k jobs",
       "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 179,
-      "comments": 113
-    },
-    {
-      "id": 47585974,
-      "title": "Combinators",
-      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
-      "score": 67,
-      "comments": 12
-    },
-    {
-      "id": 47582482,
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "score": 484,
-      "comments": 241
+      "score": 469,
+      "comments": 326
     }
   ]
 }
