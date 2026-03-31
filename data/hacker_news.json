@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 11:32:57 UTC",
-    "fetched_at_ist": "2026-03-31 17:02:57 IST",
+    "fetched_at_utc": "2026-03-31 12:38:46 UTC",
+    "fetched_at_ist": "2026-03-31 18:08:46 IST",
     "item_count": 5,
-    "content_hash": "320383498e558b376192e483d57093f3d6aede908f1b3bf70a1c5936950aa036",
-    "previous_hash": "8587efc9de7890da3422ec99a447f98f503f1c4f8415b2530031e418ee473216",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "7337104c9ae24fa601a97c3cff929976107f10797c7b91cf9569d9c8e2a6dafa",
+    "previous_hash": "320383498e558b376192e483d57093f3d6aede908f1b3bf70a1c5936950aa036",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 934,
-      "comments": 326
+      "score": 1055,
+      "comments": 384
     },
     {
       "id": 47582482,
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "url": "https://ollama.com/blog/mlx",
-      "score": 325,
-      "comments": 157
-    },
-    {
-      "id": 47585008,
-      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-      "score": 22,
-      "comments": 1
+      "score": 364,
+      "comments": 174
     },
     {
       "id": 47582043,
       "title": "Artemis II is not safe to fly",
       "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 395,
-      "comments": 248
+      "score": 446,
+      "comments": 274
     },
     {
       "id": 47584540,
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 296,
-      "comments": 137
+      "score": 454,
+      "comments": 237
+    },
+    {
+      "id": 47585008,
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "score": 31,
+      "comments": 6
     }
   ]
 }
