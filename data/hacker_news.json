@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 18:36:44 UTC",
-    "fetched_at_ist": "2026-04-01 00:06:44 IST",
+    "fetched_at_utc": "2026-03-31 19:39:54 UTC",
+    "fetched_at_ist": "2026-04-01 01:09:54 IST",
     "item_count": 5,
-    "content_hash": "18cdd60f58eb8caa9f1c397836ae6e7758d20b9208387ee498daed70a78d0716",
-    "previous_hash": "61e5c2a09e4e02db3f0eb200acd456d67388323e31dd3cb15e81344ab61cfbac",
+    "content_hash": "c5a9b64cc81483e73af2f926cc9f957df48aa0f8aa3d295c719c00284191c036",
+    "previous_hash": "18cdd60f58eb8caa9f1c397836ae6e7758d20b9208387ee498daed70a78d0716",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47584540,
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1436,
-      "comments": 742
-    },
-    {
-      "id": 47589818,
-      "title": "Cohere Transcribe: Speech Recognition",
-      "url": "https://cohere.com/blog/transcribe",
-      "score": 82,
-      "comments": 20
-    },
-    {
-      "id": 47582220,
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1663,
-      "comments": 653
+      "score": 1621,
+      "comments": 806
     },
     {
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 37,
-      "comments": 4
+      "score": 180,
+      "comments": 71
     },
     {
-      "id": 47586614,
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "score": 192,
-      "comments": 57
+      "id": 47591928,
+      "title": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "score": 53,
+      "comments": 16
+    },
+    {
+      "id": 47589818,
+      "title": "Cohere Transcribe: Speech Recognition",
+      "url": "https://cohere.com/blog/transcribe",
+      "score": 102,
+      "comments": 38
+    },
+    {
+      "id": 47587953,
+      "title": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 76,
+      "comments": 122
     }
   ]
 }

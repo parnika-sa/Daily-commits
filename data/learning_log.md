@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-01 (last updated: 00:06 IST)
+
+## 📅 2026-04-01 (last updated: 01:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-01 00:06:44 IST | 18cdd60f58eb | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-01 01:09:54 IST | c5a9b64cc814 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 1436
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 82
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1663
-- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 37
-- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 192
+- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 1621
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 180
+- [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/) — Score: 53
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 102
+- [Slop is not necessarily the future](https://www.greptile.com/blog/ai-slopware-future) — Score: 76
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,119.0 🔴 -0.36%
@@ -44,26 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $609.51 🔴 -1.17%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-31 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
