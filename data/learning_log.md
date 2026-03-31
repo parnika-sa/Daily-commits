@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 18:08 IST)
+
+## 📅 2026-03-31 (last updated: 21:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 18:08:46 IST | 7337104c9ae2 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-31 21:05:46 IST | d3a6bf8ee6f1 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-31 12:49:31 IST | 8062c2174961 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1055
-- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 364
-- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 446
-- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 454
-- [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026) — Score: 31
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1414
+- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 90
+- [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/) — Score: 179
+- [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators) — Score: 67
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 484
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,119.0 🔴 -0.36%
