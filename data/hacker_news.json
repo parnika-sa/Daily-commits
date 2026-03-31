@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 19:39:54 UTC",
-    "fetched_at_ist": "2026-04-01 01:09:54 IST",
+    "fetched_at_utc": "2026-03-31 23:30:55 UTC",
+    "fetched_at_ist": "2026-04-01 05:00:55 IST",
     "item_count": 5,
-    "content_hash": "c5a9b64cc81483e73af2f926cc9f957df48aa0f8aa3d295c719c00284191c036",
-    "previous_hash": "18cdd60f58eb8caa9f1c397836ae6e7758d20b9208387ee498daed70a78d0716",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "0e16a51ec3f20b28b1887553c1aacdd80aa43fd3cd56d0708f774aa573439cd9",
+    "previous_hash": "c5a9b64cc81483e73af2f926cc9f957df48aa0f8aa3d295c719c00284191c036",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47584540,
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1621,
-      "comments": 806
-    },
     {
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 180,
-      "comments": 71
+      "score": 614,
+      "comments": 234
     },
     {
-      "id": 47591928,
-      "title": "GitHub's Historic Uptime",
-      "url": "https://damrnelson.github.io/github-historical-uptime/",
-      "score": 53,
-      "comments": 16
+      "id": 47593285,
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 80,
+      "comments": 14
     },
     {
-      "id": 47589818,
-      "title": "Cohere Transcribe: Speech Recognition",
-      "url": "https://cohere.com/blog/transcribe",
-      "score": 102,
-      "comments": 38
+      "id": 47593556,
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 57,
+      "comments": 20
     },
     {
-      "id": 47587953,
-      "title": "Slop is not necessarily the future",
-      "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 76,
-      "comments": 122
+      "id": 47592755,
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 253,
+      "comments": 242
+    },
+    {
+      "id": 47549128,
+      "title": "4D Doom",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 85,
+      "comments": 14
     }
   ]
 }
