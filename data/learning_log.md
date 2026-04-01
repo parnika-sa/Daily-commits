@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 16:10 IST)
+
+## 📅 2026-04-01 (last updated: 17:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 16:10:21 IST | ef2e268a153d | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-01 17:05:17 IST | 71081a3c8818 | +0 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-01 13:51:24 IST | a9c2ad682976 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +0 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) — Score: 133
-- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) — Score: 433
-- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) — Score: 84
-- [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md) — Score: 39
-- [Intuiting Pratt Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html) — Score: 9
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) — Score: 508
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) — Score: 154
+- [Intuiting Pratt Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html) — Score: 31
+- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) — Score: 99
+- [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md) — Score: 67
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,539.0 🟢 +1.79%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 10:40:21 UTC",
-    "fetched_at_ist": "2026-04-01 16:10:21 IST",
+    "fetched_at_utc": "2026-04-01 11:35:17 UTC",
+    "fetched_at_ist": "2026-04-01 17:05:17 IST",
     "item_count": 5,
-    "content_hash": "ef2e268a153dc8d2b3c70d6a2691985f29a2fdfaef65efa04b016ea55ac9ef98",
-    "previous_hash": "f8209faff2d3c81e6ed39e2a9d2e264253a276ec7ca0a5f85aaf17e7a6193a95",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "71081a3c8818fc45a7cd9a8e2f27820824db3c280d33ef7cb6d3c5edb237e185",
+    "previous_hash": "ef2e268a153dc8d2b3c70d6a2691985f29a2fdfaef65efa04b016ea55ac9ef98",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47597935,
-      "title": "CERN levels up with new superconducting karts",
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 133,
-      "comments": 25
-    },
     {
       "id": 47597085,
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 433,
-      "comments": 115
+      "score": 508,
+      "comments": 144
     },
     {
-      "id": 47571183,
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "url": "https://github.com/yannick-cw/korb",
-      "score": 84,
-      "comments": 18
-    },
-    {
-      "id": 47597119,
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 39,
-      "comments": 11
+      "id": 47597935,
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 154,
+      "comments": 37
     },
     {
       "id": 47573450,
       "title": "Intuiting Pratt Parsing",
       "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 9,
-      "comments": 0
+      "score": 31,
+      "comments": 3
+    },
+    {
+      "id": 47571183,
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 99,
+      "comments": 24
+    },
+    {
+      "id": 47597119,
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 67,
+      "comments": 15
     }
   ]
 }
