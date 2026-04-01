@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 03:44:11 UTC",
-    "fetched_at_ist": "2026-04-01 09:14:11 IST",
+    "fetched_at_utc": "2026-04-01 09:42:51 UTC",
+    "fetched_at_ist": "2026-04-01 15:12:51 IST",
     "item_count": 5,
-    "content_hash": "8af521472a2e4e5fa76a19e9a56f24abc38969bed0c58421b40de3f61c611404",
-    "previous_hash": "020b4c35ee048c051db9c277da97ceb8e98777ad2e360e814de44969d467c063",
+    "content_hash": "f8209faff2d3c81e6ed39e2a9d2e264253a276ec7ca0a5f85aaf17e7a6193a95",
+    "previous_hash": "8af521472a2e4e5fa76a19e9a56f24abc38969bed0c58421b40de3f61c611404",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47595865,
-      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "score": 133,
-      "comments": 33
+      "id": 47597935,
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 99,
+      "comments": 16
     },
     {
-      "id": 47586778,
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 916,
-      "comments": 368
+      "id": 47597085,
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "score": 374,
+      "comments": 97
+    },
+    {
+      "id": 47571183,
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 62,
+      "comments": 12
     },
     {
       "id": 47595572,
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 30,
-      "comments": 1
+      "score": 143,
+      "comments": 97
     },
     {
-      "id": 47541733,
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "score": 101,
-      "comments": 8
-    },
-    {
-      "id": 47557171,
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
-      "score": 67,
-      "comments": 3
+      "id": 47558101,
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "score": 59,
+      "comments": 10
     }
   ]
 }

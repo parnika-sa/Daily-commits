@@ -16,13 +16,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 13:51 IST)
+
+## 📅 2026-04-01 (last updated: 15:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 09:14:11 IST | 8af521472a2e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-01 15:12:51 IST | f8209faff2d3 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-01 13:51:24 IST | a9c2ad682976 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) — Score: 133
-- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 916
-- [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) — Score: 30
-- [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118) — Score: 101
-- [TruffleRuby](https://chrisseaton.com/truffleruby/) — Score: 67
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) — Score: 99
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) — Score: 374
+- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) — Score: 62
+- [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) — Score: 143
+- [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/) — Score: 59
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,539.0 🟢 +1.79%
