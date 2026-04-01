@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 17:37:05 UTC",
-    "fetched_at_ist": "2026-04-01 23:07:05 IST",
+    "fetched_at_utc": "2026-04-01 18:36:51 UTC",
+    "fetched_at_ist": "2026-04-02 00:06:51 IST",
     "item_count": 5,
-    "content_hash": "443fd0bb68c36c15b41b62cd3d26012a6d2e95cdd0420e6cc03a2029e1e01d76",
-    "previous_hash": "c002b2f2315e7295a8604ca0e25ea88a2cc8559549562404b70f7d5c476a5a92",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "c72e12ea933f6139ba482651cc7830b702bda50a33160dab9e3d0eecd509e74e",
+    "previous_hash": "443fd0bb68c36c15b41b62cd3d26012a6d2e95cdd0420e6cc03a2029e1e01d76",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47602832,
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 147,
-      "comments": 78
+      "score": 216,
+      "comments": 127
     },
     {
       "id": 47603737,
       "title": "AI for American-Produced Cement and Concrete",
       "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 13,
-      "comments": 0
-    },
-    {
-      "id": 47602879,
-      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
       "score": 49,
-      "comments": 15
+      "comments": 38
     },
     {
       "id": 47601859,
       "title": "Ask HN: Who is hiring? (April 2026)",
       "url": "https://news.ycombinator.com/item?id=47601859",
-      "score": 73,
-      "comments": 66
+      "score": 101,
+      "comments": 86
     },
     {
-      "id": 47602986,
-      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
-      "url": "https://github.com/simple10/agents-observe",
-      "score": 29,
-      "comments": 5
+      "id": 47602879,
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "score": 71,
+      "comments": 26
+    },
+    {
+      "id": 47603657,
+      "title": "NASA Artemis II moon mission live launch broadcast",
+      "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+      "score": 108,
+      "comments": 38
     }
   ]
 }
