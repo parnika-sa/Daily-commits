@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 17:05 IST)
+
+## 📅 2026-04-01 (last updated: 18:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 17:05:17 IST | 71081a3c8818 | +0 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-01 18:10:54 IST | 292f43f17eca | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-01 13:51:24 IST | a9c2ad682976 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) — Score: 508
-- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) — Score: 154
-- [Intuiting Pratt Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html) — Score: 31
-- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) — Score: 99
-- [Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md) — Score: 67
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) — Score: 599
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) — Score: 188
+- [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) — Score: 56
+- [Intuiting Pratt Parsing](https://louis.co.nz/2026/03/26/pratt-parsing.html) — Score: 44
+- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb) — Score: 119
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,539.0 🟢 +1.79%

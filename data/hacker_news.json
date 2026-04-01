@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 11:35:17 UTC",
-    "fetched_at_ist": "2026-04-01 17:05:17 IST",
+    "fetched_at_utc": "2026-04-01 12:40:54 UTC",
+    "fetched_at_ist": "2026-04-01 18:10:54 IST",
     "item_count": 5,
-    "content_hash": "71081a3c8818fc45a7cd9a8e2f27820824db3c280d33ef7cb6d3c5edb237e185",
-    "previous_hash": "ef2e268a153dc8d2b3c70d6a2691985f29a2fdfaef65efa04b016ea55ac9ef98",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": true
+    "content_hash": "292f43f17ecaf36153981a9717f11d386641da1e5d17e3e1dee74150c080fc8c",
+    "previous_hash": "71081a3c8818fc45a7cd9a8e2f27820824db3c280d33ef7cb6d3c5edb237e185",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47597085,
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 508,
-      "comments": 144
+      "score": 599,
+      "comments": 182
     },
     {
       "id": 47597935,
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 154,
-      "comments": 37
+      "score": 188,
+      "comments": 46
+    },
+    {
+      "id": 47598511,
+      "title": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "score": 56,
+      "comments": 35
     },
     {
       "id": 47573450,
       "title": "Intuiting Pratt Parsing",
       "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 31,
-      "comments": 3
+      "score": 44,
+      "comments": 12
     },
     {
       "id": 47571183,
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "url": "https://github.com/yannick-cw/korb",
-      "score": 99,
-      "comments": 24
-    },
-    {
-      "id": 47597119,
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 67,
-      "comments": 15
+      "score": 119,
+      "comments": 44
     }
   ]
 }
