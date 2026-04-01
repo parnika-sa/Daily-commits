@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 12:40:54 UTC",
-    "fetched_at_ist": "2026-04-01 18:10:54 IST",
+    "fetched_at_utc": "2026-04-01 16:44:48 UTC",
+    "fetched_at_ist": "2026-04-01 22:14:48 IST",
     "item_count": 5,
-    "content_hash": "292f43f17ecaf36153981a9717f11d386641da1e5d17e3e1dee74150c080fc8c",
-    "previous_hash": "71081a3c8818fc45a7cd9a8e2f27820824db3c280d33ef7cb6d3c5edb237e185",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "c002b2f2315e7295a8604ca0e25ea88a2cc8559549562404b70f7d5c476a5a92",
+    "previous_hash": "292f43f17ecaf36153981a9717f11d386641da1e5d17e3e1dee74150c080fc8c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47597085,
-      "title": "Claude Code Unpacked : A visual guide",
-      "url": "https://ccunpacked.dev/",
-      "score": 599,
-      "comments": 182
+      "id": 47602832,
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 50,
+      "comments": 16
+    },
+    {
+      "id": 47601859,
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "score": 31,
+      "comments": 37
+    },
+    {
+      "id": 47602879,
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "score": 18,
+      "comments": 2
     },
     {
       "id": 47597935,
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 188,
-      "comments": 46
+      "score": 309,
+      "comments": 67
     },
     {
-      "id": 47598511,
-      "title": "I Quit. The Clankers Won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 56,
-      "comments": 35
-    },
-    {
-      "id": 47573450,
-      "title": "Intuiting Pratt Parsing",
-      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 44,
-      "comments": 12
-    },
-    {
-      "id": 47571183,
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "url": "https://github.com/yannick-cw/korb",
-      "score": 119,
-      "comments": 44
+      "id": 47600382,
+      "title": "Is BGP safe yet?",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 164,
+      "comments": 55
     }
   ]
 }
