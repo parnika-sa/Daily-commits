@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-31 23:30:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-01 00:03:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$68,131.0** ↑ (+2.02%)
+- Top GitHub repo: **luongnv89/claude-howto**
+- BTC: **$68,093.0** ↑ (+2.11%)
 - HN top story: **The Claude Code Source Leak: fake tools, frustration regexes, undercover mode**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-27 12:03:27 UTC | `d29d66104022` | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-31 23:30:55 UTC | `0e16a51ec3f2` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-31 22:26:28 UTC | `17d78ba49142` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-04-01 00:03:42 UTC | `c110bd115b75` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-01 00:03:43 UTC | `020b4c35ee04` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-01 00:03:42 UTC | `ae4f0e132182` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-01` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `35` day(s) |
-| Last Commit (IST) | `2026-04-01 04:26:50 IST` |
+| Last Commit (IST) | `2026-04-01 05:00:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-29 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-03-30 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-31 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-04-01 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-04-01 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,131.0 | +2.02% | 🟢 |
-| Ethereum | $2,097.06 | +3.02% | 🟢 |
-| Solana | $82.71 | -0.18% | 🔴 |
-| Bnb | $617.11 | +0.92% | 🟢 |
+| Bitcoin | $68,093.0 | +2.11% | 🟢 |
+| Ethereum | $2,101.21 | +3.87% | 🟢 |
+| Solana | $83.06 | +0.74% | 🟢 |
+| Bnb | $616.32 | +1.19% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,824 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,546 stars today | real time face swap and one-click video deepfake with only a single image |
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 125 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 320 stars today | Open-Source Frontier Voice AI |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 661 stars today | Building a modern alternative to Salesforce, powered by the community. |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 913 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,993 stars today | An agentic skills framework & software development methodology that works. |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 673 stars today | An autonomous agent for deep financial research |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 2,390 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 3,863 stars today | Open-Source Frontier Voice AI |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,126 stars today | Teams-first Multi-agent orchestration for Claude Code |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 2,407 stars today | practice made claude perfect |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,907 stars today | The agent that grows with you |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,620 stars today | An agentic skills framework & software development methodology that works. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 130 stars today | The absolute trainer to light up AI agents. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 439 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) | 614 | 234 |
-| [Ministack (Replacement for LocalStack)](https://ministack.org/) | 80 | 14 |
-| [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) | 57 | 20 |
-| [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) | 253 | 242 |
-| [4D Doom](https://github.com/danieldugas/HYPERHELL) | 85 | 14 |
+| [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) | 651 | 254 |
+| [Ministack (Replacement for LocalStack)](https://ministack.org/) | 98 | 14 |
+| [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) | 74 | 27 |
+| [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) | 270 | 254 |
+| [4D Doom](https://github.com/danieldugas/HYPERHELL) | 97 | 19 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

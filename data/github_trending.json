@@ -2,86 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-27 12:03:27 UTC",
-    "fetched_at_ist": "2026-03-27 17:33:27 IST",
-    "item_count": 12,
-    "content_hash": "d29d66104022f76744b426ac8544145fcca45f1aeb8ca8f5f09ed3454db4c1b4",
-    "previous_hash": "b66bebadacd3fa003ac2406aa41eabf46ffbbe640fca28c5fdbaaecca440110c",
+    "fetched_at_utc": "2026-04-01 00:03:42 UTC",
+    "fetched_at_ist": "2026-04-01 05:33:42 IST",
+    "item_count": 14,
+    "content_hash": "c110bd115b75d90625ab57450db2814719acca587bbe1bfd56f02982f32fabee",
+    "previous_hash": "d29d66104022f76744b426ac8544145fcca45f1aeb8ca8f5f09ed3454db4c1b4",
     "new_repos_vs_previous": 11,
-    "top_repo_changed": false
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "2,824 stars today"
-    },
-    {
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars_today": "1,546 stars today"
-    },
-    {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "stars_today": "125 stars today"
+      "stars_today": "2,390 stars today"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "320 stars today"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "language": "TypeScript",
-      "stars_today": "661 stars today"
-    },
-    {
-      "name": "datalab-to/chandra",
-      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "language": "Python",
-      "stars_today": "913 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "2,993 stars today"
-    },
-    {
-      "name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "stars_today": "673 stars today"
+      "stars_today": "3,863 stars today"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars_today": "1,402 stars today"
+      "stars_today": "1,126 stars today"
     },
     {
-      "name": "FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "language": "C++",
-      "stars_today": "99 stars today"
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars_today": "2,407 stars today"
     },
     {
-      "name": "Vaibhavs10/insanely-fast-whisper",
-      "description": "No description",
-      "language": "Jupyter Notebook",
-      "stars_today": "1,075 stars today"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "512 stars today"
+      "stars_today": "1,907 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,620 stars today"
+    },
+    {
+      "name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars_today": "130 stars today"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": "439 stars today"
+    },
+    {
+      "name": "Dimillian/Skills",
+      "description": "My Codex Skills",
+      "language": "Shell",
+      "stars_today": "115 stars today"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_today": "865 stars today"
+    },
+    {
+      "name": "neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "stars_today": "93 stars today"
+    },
+    {
+      "name": "vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "stars_today": "318 stars today"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars_today": "84 stars today"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars_today": "873 stars today"
     }
   ]
 }

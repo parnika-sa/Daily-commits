@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 23:30:55 UTC",
-    "fetched_at_ist": "2026-04-01 05:00:55 IST",
+    "fetched_at_utc": "2026-04-01 00:03:43 UTC",
+    "fetched_at_ist": "2026-04-01 05:33:43 IST",
     "item_count": 5,
-    "content_hash": "0e16a51ec3f20b28b1887553c1aacdd80aa43fd3cd56d0708f774aa573439cd9",
-    "previous_hash": "c5a9b64cc81483e73af2f926cc9f957df48aa0f8aa3d295c719c00284191c036",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "020b4c35ee048c051db9c277da97ceb8e98777ad2e360e814de44969d467c063",
+    "previous_hash": "0e16a51ec3f20b28b1887553c1aacdd80aa43fd3cd56d0708f774aa573439cd9",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 614,
-      "comments": 234
+      "score": 651,
+      "comments": 254
     },
     {
       "id": 47593285,
       "title": "Ministack (Replacement for LocalStack)",
       "url": "https://ministack.org/",
-      "score": 80,
+      "score": 98,
       "comments": 14
     },
     {
       "id": 47593556,
       "title": "A dot a day keeps the clutter away",
       "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 57,
-      "comments": 20
+      "score": 74,
+      "comments": 27
     },
     {
       "id": 47592755,
       "title": "OpenAI closes funding round at an $852B valuation",
       "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 253,
-      "comments": 242
+      "score": 270,
+      "comments": 254
     },
     {
       "id": 47549128,
       "title": "4D Doom",
       "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 85,
-      "comments": 14
+      "score": 97,
+      "comments": 19
     }
   ]
 }

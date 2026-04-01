@@ -11,44 +11,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 05:00 IST)
+
+## 📅 2026-04-01 (last updated: 05:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-27 17:33:27 IST | d29d66104022 | +11 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-01 05:00:55 IST | 0e16a51ec3f2 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-01 03:56:28 IST | 17d78ba49142 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-01 05:33:43 IST | 020b4c35ee04 | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-01 05:33:42 IST | ae4f0e132182 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +11 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 2,824 stars today
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
-  ⭐ 1,546 stars today
-- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
-  ⭐ 125 stars today
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
+  ⭐ 2,390 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 320 stars today
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
-  ⭐ 661 stars today
+  ⭐ 3,863 stars today
+- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
+  ⭐ 1,126 stars today
+- **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (HTML) — practice made claude perfect  
+  ⭐ 2,407 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 614
-- [Ministack (Replacement for LocalStack)](https://ministack.org/) — Score: 80
-- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) — Score: 57
-- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) — Score: 253
-- [4D Doom](https://github.com/danieldugas/HYPERHELL) — Score: 85
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 651
+- [Ministack (Replacement for LocalStack)](https://ministack.org/) — Score: 98
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) — Score: 74
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) — Score: 270
+- [4D Doom](https://github.com/danieldugas/HYPERHELL) — Score: 97
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,131.0 🟢 +2.02%
-- Ethereum: $2,097.06 🟢 +3.02%
-- Solana: $82.71 🔴 -0.18%
-- Bnb: $617.11 🟢 +0.92%
+- Bitcoin: $68,093.0 🟢 +2.11%
+- Ethereum: $2,101.21 🟢 +3.87%
+- Solana: $83.06 🟢 +0.74%
+- Bnb: $616.32 🟢 +1.19%
 
 ---
 ## 📅 2026-03-31 (last updated: 23:07 IST)
