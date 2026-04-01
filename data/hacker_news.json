@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 16:44:48 UTC",
-    "fetched_at_ist": "2026-04-01 22:14:48 IST",
+    "fetched_at_utc": "2026-04-01 17:37:05 UTC",
+    "fetched_at_ist": "2026-04-01 23:07:05 IST",
     "item_count": 5,
-    "content_hash": "c002b2f2315e7295a8604ca0e25ea88a2cc8559549562404b70f7d5c476a5a92",
-    "previous_hash": "292f43f17ecaf36153981a9717f11d386641da1e5d17e3e1dee74150c080fc8c",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "443fd0bb68c36c15b41b62cd3d26012a6d2e95cdd0420e6cc03a2029e1e01d76",
+    "previous_hash": "c002b2f2315e7295a8604ca0e25ea88a2cc8559549562404b70f7d5c476a5a92",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47602832,
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 50,
-      "comments": 16
+      "score": 147,
+      "comments": 78
     },
     {
-      "id": 47601859,
-      "title": "Ask HN: Who is hiring? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47601859",
-      "score": 31,
-      "comments": 37
+      "id": 47603737,
+      "title": "AI for American-Produced Cement and Concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 13,
+      "comments": 0
     },
     {
       "id": 47602879,
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 18,
-      "comments": 2
+      "score": 49,
+      "comments": 15
     },
     {
-      "id": 47597935,
-      "title": "CERN levels up with new superconducting karts",
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 309,
-      "comments": 67
+      "id": 47601859,
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "score": 73,
+      "comments": 66
     },
     {
-      "id": 47600382,
-      "title": "Is BGP safe yet?",
-      "url": "https://isbgpsafeyet.com/",
-      "score": 164,
-      "comments": 55
+      "id": 47602986,
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "score": 29,
+      "comments": 5
     }
   ]
 }
