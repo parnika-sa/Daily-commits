@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 00:03:43 UTC",
-    "fetched_at_ist": "2026-04-01 05:33:43 IST",
+    "fetched_at_utc": "2026-04-01 03:44:11 UTC",
+    "fetched_at_ist": "2026-04-01 09:14:11 IST",
     "item_count": 5,
-    "content_hash": "020b4c35ee048c051db9c277da97ceb8e98777ad2e360e814de44969d467c063",
-    "previous_hash": "0e16a51ec3f20b28b1887553c1aacdd80aa43fd3cd56d0708f774aa573439cd9",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "8af521472a2e4e5fa76a19e9a56f24abc38969bed0c58421b40de3f61c611404",
+    "previous_hash": "020b4c35ee048c051db9c277da97ceb8e98777ad2e360e814de44969d467c063",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47595865,
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "score": 133,
+      "comments": 33
+    },
     {
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 651,
-      "comments": 254
+      "score": 916,
+      "comments": 368
     },
     {
-      "id": 47593285,
-      "title": "Ministack (Replacement for LocalStack)",
-      "url": "https://ministack.org/",
-      "score": 98,
-      "comments": 14
+      "id": 47595572,
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "score": 30,
+      "comments": 1
     },
     {
-      "id": 47593556,
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 74,
-      "comments": 27
+      "id": 47541733,
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "score": 101,
+      "comments": 8
     },
     {
-      "id": 47592755,
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 270,
-      "comments": 254
-    },
-    {
-      "id": 47549128,
-      "title": "4D Doom",
-      "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 97,
-      "comments": 19
+      "id": 47557171,
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 67,
+      "comments": 3
     }
   ]
 }
