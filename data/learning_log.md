@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-02 (last updated: 00:06 IST)
+
+## 📅 2026-04-02 (last updated: 01:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-02 00:06:51 IST | c72e12ea933f | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 01:13:19 IST | a931d2c77c45 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-01 19:45:47 IST | 219c49853872 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 216
-- [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) — Score: 49
-- [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) — Score: 101
-- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) — Score: 71
-- [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/) — Score: 108
+- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 296
+- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM) — Score: 43
+- [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) — Score: 132
+- [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) — Score: 78
+- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) — Score: 91
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,152.0 🟢 +0.82%
@@ -44,26 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $611.59 🔴 -0.44%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-01 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
