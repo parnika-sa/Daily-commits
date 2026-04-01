@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 19:43:19 UTC",
-    "fetched_at_ist": "2026-04-02 01:13:19 IST",
+    "fetched_at_utc": "2026-04-01 22:31:53 UTC",
+    "fetched_at_ist": "2026-04-02 04:01:53 IST",
     "item_count": 5,
-    "content_hash": "a931d2c77c452895957428adf189a88e95f1a5311079d543cd0d44c723188a44",
-    "previous_hash": "c72e12ea933f6139ba482651cc7830b702bda50a33160dab9e3d0eecd509e74e",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "1c6b6255b121a364d907f5d984fd3f8ab4b6695b85d4de884c25570fe212949e",
+    "previous_hash": "a931d2c77c452895957428adf189a88e95f1a5311079d543cd0d44c723188a44",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47602832,
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 296,
-      "comments": 190
+      "id": 47606840,
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "score": 82,
+      "comments": 30
     },
     {
-      "id": 47604354,
-      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
-      "url": "https://github.com/SharpAI/SwiftLM",
-      "score": 43,
-      "comments": 13
+      "id": 47605677,
+      "title": "Signing data structures the wrong way",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 56,
+      "comments": 32
     },
     {
-      "id": 47601859,
-      "title": "Ask HN: Who is hiring? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47601859",
-      "score": 132,
-      "comments": 106
+      "id": 47607067,
+      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+      "score": 20,
+      "comments": 11
     },
     {
-      "id": 47603737,
-      "title": "AI for American-produced cement and concrete",
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 78,
-      "comments": 66
+      "id": 47557921,
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "score": 143,
+      "comments": 18
     },
     {
-      "id": 47602879,
-      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 91,
-      "comments": 35
+      "id": 47557385,
+      "title": "The revenge of the data scientist",
+      "url": "https://hamel.dev/blog/posts/revenge/",
+      "score": 56,
+      "comments": 8
     }
   ]
 }

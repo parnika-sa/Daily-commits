@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 01:55 IST)
+
+## 📅 2026-04-02 (last updated: 04:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-02 01:13:19 IST | a931d2c77c45 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 04:01:53 IST | 1c6b6255b121 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-02 01:55:42 IST | d1b85a036fc2 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,907 stars today
 
 ### 📰 Hacker News Stories
-- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 296
-- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM) — Score: 43
-- [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) — Score: 132
-- [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) — Score: 78
-- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) — Score: 91
+- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 82
+- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 56
+- [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) — Score: 20
+- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) — Score: 143
+- [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/) — Score: 56
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,096.0 🟢 +0.26%
