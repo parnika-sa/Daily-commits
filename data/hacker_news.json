@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 17:42:35 UTC",
-    "fetched_at_ist": "2026-04-02 23:12:35 IST",
+    "fetched_at_utc": "2026-04-02 18:35:12 UTC",
+    "fetched_at_ist": "2026-04-03 00:05:12 IST",
     "item_count": 5,
-    "content_hash": "f2df5a2f8bfe0d4b396939fd6f27d54de7deb85d41a7052f5b44d1b965251073",
-    "previous_hash": "89e9824ca98d96f5c658a9da6ba9867aa7cb2c621c824fd3fc961b05bc7e42a5",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "816e8c2b8fe6cd2ee18b02bfb88241fac9fe7788aad95a817f29a1905d2574a7",
+    "previous_hash": "f2df5a2f8bfe0d4b396939fd6f27d54de7deb85d41a7052f5b44d1b965251073",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 364,
-      "comments": 92
-    },
-    {
-      "id": 47613981,
-      "title": "LinkedIn Is Illegally Searching Your Computer",
-      "url": "https://browsergate.eu/",
-      "score": 1102,
-      "comments": 505
-    },
-    {
-      "id": 47617027,
-      "title": "A forecast of the fair market value of SpaceX's businesses",
-      "url": "https://futuresearch.ai/spacex-ipo-valuation/",
-      "score": 53,
-      "comments": 34
-    },
-    {
-      "id": 47615434,
-      "title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "score": 146,
-      "comments": 71
+      "score": 516,
+      "comments": 145
     },
     {
       "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "title": "Qwen3.6-Plus: Towards real world agents",
       "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 221,
-      "comments": 82
+      "score": 271,
+      "comments": 91
+    },
+    {
+      "id": 47613981,
+      "title": "LinkedIn is illegally searching your computer",
+      "url": "https://browsergate.eu/",
+      "score": 1211,
+      "comments": 560
+    },
+    {
+      "id": 47612724,
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 313,
+      "comments": 80
+    },
+    {
+      "id": 47617376,
+      "title": "OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "score": 43,
+      "comments": 33
     }
   ]
 }
