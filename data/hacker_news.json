@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 22:31:53 UTC",
-    "fetched_at_ist": "2026-04-02 04:01:53 IST",
+    "fetched_at_utc": "2026-04-02 12:03:48 UTC",
+    "fetched_at_ist": "2026-04-02 17:33:48 IST",
     "item_count": 5,
-    "content_hash": "1c6b6255b121a364d907f5d984fd3f8ab4b6695b85d4de884c25570fe212949e",
-    "previous_hash": "a931d2c77c452895957428adf189a88e95f1a5311079d543cd0d44c723188a44",
+    "content_hash": "89e9824ca98d96f5c658a9da6ba9867aa7cb2c621c824fd3fc961b05bc7e42a5",
+    "previous_hash": "1c6b6255b121a364d907f5d984fd3f8ab4b6695b85d4de884c25570fe212949e",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47606840,
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 82,
-      "comments": 30
+      "id": 47611721,
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "score": 108,
+      "comments": 58
     },
     {
-      "id": 47605677,
-      "title": "Signing data structures the wrong way",
-      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-      "score": 56,
-      "comments": 32
+      "id": 47611481,
+      "title": "Bringing Clojure programming to Enterprise (2021)",
+      "url": "https://blogit.michelin.io/clojure-programming/",
+      "score": 76,
+      "comments": 12
     },
     {
-      "id": 47607067,
-      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
-      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
-      "score": 20,
-      "comments": 11
+      "id": 47603657,
+      "title": "Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "score": 960,
+      "comments": 818
     },
     {
-      "id": 47557921,
-      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "url": "https://github.com/hauntsaninja/git_bayesect",
-      "score": 143,
-      "comments": 18
+      "id": 47612601,
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "score": 88,
+      "comments": 36
     },
     {
-      "id": 47557385,
-      "title": "The revenge of the data scientist",
-      "url": "https://hamel.dev/blog/posts/revenge/",
-      "score": 56,
-      "comments": 8
+      "id": 47582987,
+      "title": "Gone (Almost) Phishin'",
+      "url": "https://ma.tt/2026/03/gone-almost-phishin/",
+      "score": 60,
+      "comments": 29
     }
   ]
 }

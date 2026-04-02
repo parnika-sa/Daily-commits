@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-02 11:24:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-02 12:03:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **luongnv89/claude-howto**
-- BTC: **$66,411.0** ↓ (-3.09%)
-- HN top story: **DRAM pricing is killing the hobbyist SBC market**
+- Top GitHub repo: **anthropics/claude-code**
+- BTC: **$66,180.0** ↓ (-3.37%)
+- HN top story: **IBM Announces Strategic Collaboration with Arm**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-01 00:03:42 UTC | `c110bd115b75` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 22:31:53 UTC | `1c6b6255b121` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-02 11:24:48 UTC | `9be0773aafb9` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 7 | 2026-04-02 12:03:47 UTC | `465831f3d637` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-02 12:03:48 UTC | `89e9824ca98d` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-02 12:03:47 UTC | `e4de5ea817f7` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-02` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `35` day(s) |
-| Last Commit (IST) | `2026-04-02 15:58:43 IST` |
+| Last Commit (IST) | `2026-04-02 16:54:49 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,38 @@
 | 2026-03-30 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-31 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-01 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-04-02 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-04-02 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,411.0 | -3.09% | 🔴 |
-| Ethereum | $2,035.58 | -4.58% | 🔴 |
-| Solana | $78.75 | -5.52% | 🔴 |
-| Bnb | $580.05 | -5.59% | 🔴 |
+| Bitcoin | $66,180.0 | -3.37% | 🔴 |
+| Ethereum | $2,031.24 | -4.85% | 🔴 |
+| Solana | $78.35 | -5.89% | 🔴 |
+| Bnb | $581.06 | -5.47% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 2,390 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 3,863 stars today | Open-Source Frontier Voice AI |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,126 stars today | Teams-first Multi-agent orchestration for Claude Code |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 2,407 stars today | practice made claude perfect |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,907 stars today | The agent that grows with you |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,620 stars today | An agentic skills framework & software development methodology that works. |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 130 stars today | The absolute trainer to light up AI agents. |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 439 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 8,764 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,085 stars today | Open-Source Frontier Voice AI |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,195 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 1,950 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [axios/axios](https://github.com/axios/axios) | JavaScript | 216 stars today | Promise based HTTP client for the browser and node.js |
+| [openai/codex](https://github.com/openai/codex) | Rust | 1,416 stars today | Lightweight coding agent that runs in your terminal |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 1,014 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) | 82 | 30 |
-| [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) | 56 | 32 |
-| [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) | 20 | 11 |
-| [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) | 143 | 18 |
-| [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/) | 56 | 8 |
+| [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) | 108 | 58 |
+| [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) | 76 | 12 |
+| [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) | 960 | 818 |
+| [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) | 88 | 36 |
+| [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) | 60 | 29 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

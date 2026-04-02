@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 16:54 IST)
+
+## 📅 2026-04-02 (last updated: 17:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-01 05:33:42 IST | c110bd115b75 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-02 04:01:53 IST | 1c6b6255b121 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-02 16:54:48 IST | 9be0773aafb9 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 7 | 2026-04-02 17:33:47 IST | 465831f3d637 | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-02 17:33:48 IST | 89e9824ca98d | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-02 17:33:47 IST | e4de5ea817f7 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +11 new repos, top changed: yes
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 2,390 stars today
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Shell) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
+  ⭐ 8,764 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 3,863 stars today
-- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
-  ⭐ 1,126 stars today
-- **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (HTML) — practice made claude perfect  
-  ⭐ 2,407 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 1,907 stars today
+  ⭐ 1,085 stars today
+- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
+  ⭐ 1,195 stars today
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
+  ⭐ 1,950 stars today
+- **[axios/axios](https://github.com/axios/axios)** (JavaScript) — Promise based HTTP client for the browser and node.js  
+  ⭐ 216 stars today
 
 ### 📰 Hacker News Stories
-- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 82
-- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 56
-- [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) — Score: 20
-- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) — Score: 143
-- [The revenge of the data scientist](https://hamel.dev/blog/posts/revenge/) — Score: 56
+- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) — Score: 108
+- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) — Score: 76
+- [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) — Score: 960
+- [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) — Score: 88
+- [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) — Score: 60
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,411.0 🔴 -3.09%
-- Ethereum: $2,035.58 🔴 -4.58%
-- Solana: $78.75 🔴 -5.52%
-- Bnb: $580.05 🔴 -5.59%
+- Bitcoin: $66,180.0 🔴 -3.37%
+- Ethereum: $2,031.24 🔴 -4.85%
+- Solana: $78.35 🔴 -5.89%
+- Bnb: $581.06 🔴 -5.47%
 
 ---
 ## 📅 2026-04-01 (last updated: 23:07 IST)
