@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-03 04:38:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-03 06:01:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-code**
-- BTC: **$66,992.0** ↓ (-1.65%)
+- Top GitHub repo: **siddharthvaddem/openscreen**
+- BTC: **$66,586.0** ↑ (+0.01%)
 - HN top story: **Google releases Gemma 4 open models**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-02 12:03:47 UTC | `465831f3d637` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 04:38:08 UTC | `e32662ce40d3` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-04-02 23:27:22 UTC | `9038db4d969c` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 4 | 2026-04-03 06:01:44 UTC | `c22778cfc55c` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-03 06:01:45 UTC | `15629aee0895` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-03 06:01:44 UTC | `73457abf8ff8` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-03` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `35` day(s) |
-| Last Commit (IST) | `2026-04-03 07:38:38 IST` |
+| Last Commit (IST) | `2026-04-03 10:08:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,38 +48,35 @@
 | 2026-03-31 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-01 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-02 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-04-03 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-04-03 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,992.0 | -1.65% | 🔴 |
-| Ethereum | $2,058.73 | -3.82% | 🔴 |
-| Solana | $79.01 | -2.80% | 🔴 |
-| Bnb | $583.45 | -4.46% | 🔴 |
+| Bitcoin | $66,586.0 | +0.01% | 🟢 |
+| Ethereum | $2,056.86 | +0.36% | 🟢 |
+| Solana | $79.33 | +0.22% | 🟢 |
+| Bnb | $586.73 | -0.71% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 8,764 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,085 stars today | Open-Source Frontier Voice AI |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,195 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 1,950 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [axios/axios](https://github.com/axios/axios) | JavaScript | 216 stars today | Promise based HTTP client for the browser and node.js |
-| [openai/codex](https://github.com/openai/codex) | Rust | 1,416 stars today | Lightweight coding agent that runs in your terminal |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 1,014 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,573 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 2,867 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Unknown | 306 stars today | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.… |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 827 stars today | Hunt down social media accounts by username across social networks |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 1243 | 369 |
-| [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) | 461 | 171 |
-| [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) | 371 | 183 |
-| [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) | 61 | 10 |
-| [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) | 172 | 73 |
+| [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | 1307 | 382 |
+| [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) | 564 | 205 |
+| [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) | 401 | 192 |
+| [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) | 91 | 14 |
+| [Free stuff makes us irrational](https://thehustle.co/why-free-stuff-makes-us-irrational) | 40 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
