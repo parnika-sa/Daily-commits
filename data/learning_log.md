@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-03 (last updated: 15:56 IST)
+
+## 📅 2026-04-03 (last updated: 18:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 4 | 2026-04-03 11:31:44 IST | c22778cfc55c | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 15:07:25 IST | 25d6c940993f | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-03 18:12:07 IST | bc81b5c7060c | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-03 15:56:16 IST | 4e1d2217d48b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 827 stars today
 
 ### 📰 Hacker News Stories
-- [Proton Meet Isn't What They Told You It Was](https://www.sambent.com/proton-meet-isnt-what-they-told-you/) — Score: 24
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 1469
-- [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release) — Score: 37
-- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) — Score: 766
-- [The True Shape of Io's Steeple Mountain](https://www.weareinquisitive.com/news/hidden-in-the-shadow) — Score: 44
+- [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) — Score: 192
+- [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/) — Score: 310
+- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 68
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 1560
+- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) — Score: 889
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,790.0 🟢 +0.66%

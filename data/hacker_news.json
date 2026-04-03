@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 09:37:25 UTC",
-    "fetched_at_ist": "2026-04-03 15:07:25 IST",
+    "fetched_at_utc": "2026-04-03 12:42:07 UTC",
+    "fetched_at_ist": "2026-04-03 18:12:07 IST",
     "item_count": 5,
-    "content_hash": "25d6c940993f9f8d9a29e665795e4b4cb3edba73ee5868d73aaf740d43b7c9f8",
-    "previous_hash": "3193ba1e39bd8e19a439badff5d08b803c8276f096a7638290f17518df1b53de",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "bc81b5c7060c7bbaac62cc5347de11c093d7cb4d2efa7d62076e5ba2faf28b6a",
+    "previous_hash": "25d6c940993f9f8d9a29e665795e4b4cb3edba73ee5868d73aaf740d43b7c9f8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47624558,
-      "title": "Proton Meet Isn't What They Told You It Was",
-      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
-      "score": 24,
-      "comments": 1
+      "id": 47624645,
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "score": 192,
+      "comments": 29
+    },
+    {
+      "id": 47624741,
+      "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+      "url": "https://only-eu.eu/en/",
+      "score": 310,
+      "comments": 126
+    },
+    {
+      "id": 47624731,
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "score": 68,
+      "comments": 22
     },
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1469,
-      "comments": 408
-    },
-    {
-      "id": 47561678,
-      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
-      "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
-      "score": 37,
-      "comments": 13
+      "score": 1560,
+      "comments": 423
     },
     {
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 766,
-      "comments": 304
-    },
-    {
-      "id": 47562455,
-      "title": "The True Shape of Io's Steeple Mountain",
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "score": 44,
-      "comments": 1
+      "score": 889,
+      "comments": 387
     }
   ]
 }
