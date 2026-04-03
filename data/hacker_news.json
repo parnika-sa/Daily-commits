@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 06:01:45 UTC",
-    "fetched_at_ist": "2026-04-03 11:31:45 IST",
+    "fetched_at_utc": "2026-04-03 07:36:12 UTC",
+    "fetched_at_ist": "2026-04-03 13:06:12 IST",
     "item_count": 5,
-    "content_hash": "15629aee0895098fa8ef31fb8d1aa428428d9bcaa577386b0cd49052a141bc50",
-    "previous_hash": "e32662ce40d30159a7886063120c61b4847fe54b14317778d7543dbd383492e2",
+    "content_hash": "ea80d32e9b5d092a1a2b701102b8b29bab8f07dae47789a069c16f8906a618d4",
+    "previous_hash": "15629aee0895098fa8ef31fb8d1aa428428d9bcaa577386b0cd49052a141bc50",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,35 +15,35 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1307,
-      "comments": 382
+      "score": 1380,
+      "comments": 397
     },
     {
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 564,
-      "comments": 205
+      "score": 653,
+      "comments": 251
+    },
+    {
+      "id": 47562455,
+      "title": "The True Shape of Io's Steeple Mountain",
+      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "score": 17,
+      "comments": 0
     },
     {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 401,
-      "comments": 192
+      "score": 432,
+      "comments": 211
     },
     {
       "id": 47598413,
       "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
       "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "score": 91,
-      "comments": 14
-    },
-    {
-      "id": 47562214,
-      "title": "Free stuff makes us irrational",
-      "url": "https://thehustle.co/why-free-stuff-makes-us-irrational",
-      "score": 40,
+      "score": 107,
       "comments": 25
     }
   ]
