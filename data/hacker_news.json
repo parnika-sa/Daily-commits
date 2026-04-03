@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 19:33:10 UTC",
-    "fetched_at_ist": "2026-04-04 01:03:10 IST",
+    "fetched_at_utc": "2026-04-03 23:38:15 UTC",
+    "fetched_at_ist": "2026-04-04 05:08:15 IST",
     "item_count": 5,
-    "content_hash": "d80190492d361790c68b8e6aaa23384a8cebfeeee261a8b0f2bd29ebb9c5cc77",
-    "previous_hash": "711c69070f9aa4c7d5d633c0d73c53fd276bd93dd68fdef99eab56829a0bacc1",
+    "content_hash": "b9de432dee9fe1ca14d9015eda91058f8846dd527f4e6785013dc3e21f181f55",
+    "previous_hash": "d80190492d361790c68b8e6aaa23384a8cebfeeee261a8b0f2bd29ebb9c5cc77",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47631118,
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 395,
+      "comments": 164
+    },
+    {
+      "id": 47633396,
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "score": 51,
+      "comments": 27
+    },
+    {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 165,
-      "comments": 48
+      "score": 304,
+      "comments": 90
     },
     {
-      "id": 47618223,
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 100,
-      "comments": 51
+      "id": 47632750,
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "url": "https://github.com/cmc-labo/tinyos-rtos",
+      "score": 39,
+      "comments": 9
     },
     {
-      "id": 47625952,
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
-      "score": 506,
-      "comments": 141
-    },
-    {
-      "id": 47630893,
-      "title": "Age Verification on Systemd and Flatpak",
-      "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
-      "score": 12,
-      "comments": 2
-    },
-    {
-      "id": 47630576,
-      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
-      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-      "score": 13,
-      "comments": 2
+      "id": 47586885,
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "score": 80,
+      "comments": 20
     }
   ]
 }
