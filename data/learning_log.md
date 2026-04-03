@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-03 (last updated: 04:57 IST)
+
+## 📅 2026-04-03 (last updated: 10:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-02 17:33:47 IST | 465831f3d637 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 01:04:37 IST | 6d992711cf75 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-03 10:08:08 IST | e32662ce40d3 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-03 04:57:22 IST | 9038db4d969c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 216 stars today
 
 ### 📰 Hacker News Stories
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 678
-- [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape) — Score: 86
-- [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) — Score: 36
-- [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) — Score: 314
-- [LinkedIn is illegally searching your computer](https://browsergate.eu/) — Score: 1312
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 1243
+- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) — Score: 461
+- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) — Score: 371
+- [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) — Score: 61
+- [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) — Score: 172
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,992.0 🔴 -1.65%

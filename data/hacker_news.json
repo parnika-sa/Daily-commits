@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 19:34:37 UTC",
-    "fetched_at_ist": "2026-04-03 01:04:37 IST",
+    "fetched_at_utc": "2026-04-03 04:38:08 UTC",
+    "fetched_at_ist": "2026-04-03 10:08:08 IST",
     "item_count": 5,
-    "content_hash": "6d992711cf7573f4b28331f9e83b74a9a956702a5e4dbeab4090a0e9f4aa603f",
-    "previous_hash": "816e8c2b8fe6cd2ee18b02bfb88241fac9fe7788aad95a817f29a1905d2574a7",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "e32662ce40d30159a7886063120c61b4847fe54b14317778d7543dbd383492e2",
+    "previous_hash": "6d992711cf7573f4b28331f9e83b74a9a956702a5e4dbeab4090a0e9f4aa603f",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 678,
-      "comments": 187
+      "score": 1243,
+      "comments": 369
+    },
+    {
+      "id": 47616242,
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "score": 461,
+      "comments": 171
     },
     {
       "id": 47618189,
-      "title": "Tailscale's New macOS Home",
+      "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 86,
-      "comments": 32
+      "score": 371,
+      "comments": 183
     },
     {
-      "id": 47618176,
-      "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
-      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "score": 36,
-      "comments": 7
+      "id": 47598413,
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "score": 61,
+      "comments": 10
     },
     {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 314,
-      "comments": 106
-    },
-    {
-      "id": 47613981,
-      "title": "LinkedIn is illegally searching your computer",
-      "url": "https://browsergate.eu/",
-      "score": 1312,
-      "comments": 595
+      "id": 47609356,
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "score": 172,
+      "comments": 73
     }
   ]
 }
