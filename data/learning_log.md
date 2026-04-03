@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-04 (last updated: 22:56 IST)
+
+## 📅 2026-04-04 (last updated: 01:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 4 | 2026-04-03 11:31:44 IST | c22778cfc55c | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 20:06:57 IST | 711c69070f9a | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-04 01:03:10 IST | d80190492d36 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-03 22:56:31 IST | f53d6640d88d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -29,11 +30,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 827 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 156
-- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html) — Score: 13
-- [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs) — Score: 13
-- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 138
-- [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) — Score: 90
+- [iNaturalist](https://www.inaturalist.org/) — Score: 165
+- [We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) — Score: 100
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 506
+- [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/) — Score: 12
+- [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,880.0 🔴 -0.63%
@@ -42,31 +43,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $587.99 🟢 +0.96%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-03 (last updated: 22:56 IST)
 
 ### 🧪 Source Integrity Snapshot

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 14:36:57 UTC",
-    "fetched_at_ist": "2026-04-03 20:06:57 IST",
+    "fetched_at_utc": "2026-04-03 19:33:10 UTC",
+    "fetched_at_ist": "2026-04-04 01:03:10 IST",
     "item_count": 5,
-    "content_hash": "711c69070f9aa4c7d5d633c0d73c53fd276bd93dd68fdef99eab56829a0bacc1",
-    "previous_hash": "bc81b5c7060c7bbaac62cc5347de11c093d7cb4d2efa7d62076e5ba2faf28b6a",
+    "content_hash": "d80190492d361790c68b8e6aaa23384a8cebfeeee261a8b0f2bd29ebb9c5cc77",
+    "previous_hash": "711c69070f9aa4c7d5d633c0d73c53fd276bd93dd68fdef99eab56829a0bacc1",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 165,
+      "comments": 48
+    },
+    {
+      "id": 47618223,
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "score": 100,
+      "comments": 51
+    },
+    {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 156,
-      "comments": 67
+      "score": 506,
+      "comments": 141
     },
     {
-      "id": 47626462,
-      "title": "Big-Endian Testing with QEMU",
-      "url": "https://www.hanshq.net/big-endian-qemu.html",
-      "score": 13,
+      "id": 47630893,
+      "title": "Age Verification on Systemd and Flatpak",
+      "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+      "score": 12,
       "comments": 2
     },
     {
-      "id": 47626598,
-      "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
-      "url": "https://ctx.rs",
+      "id": 47630576,
+      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
       "score": 13,
-      "comments": 5
-    },
-    {
-      "id": 47624731,
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "score": 138,
-      "comments": 49
-    },
-    {
-      "id": 47567222,
-      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-      "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 90,
-      "comments": 27
+      "comments": 2
     }
   ]
 }
