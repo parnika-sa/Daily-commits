@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-03 (last updated: 18:12 IST)
+
+## 📅 2026-04-03 (last updated: 20:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 4 | 2026-04-03 11:31:44 IST | c22778cfc55c | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 18:12:07 IST | bc81b5c7060c | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-03 20:06:57 IST | 711c69070f9a | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-03 15:56:16 IST | 4e1d2217d48b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 827 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) — Score: 192
-- [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/) — Score: 310
-- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 68
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 1560
-- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) — Score: 889
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 156
+- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html) — Score: 13
+- [Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs) — Score: 13
+- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 138
+- [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) — Score: 90
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,790.0 🟢 +0.66%
