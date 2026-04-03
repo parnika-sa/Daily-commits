@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 07:36:12 UTC",
-    "fetched_at_ist": "2026-04-03 13:06:12 IST",
+    "fetched_at_utc": "2026-04-03 08:30:20 UTC",
+    "fetched_at_ist": "2026-04-03 14:00:20 IST",
     "item_count": 5,
-    "content_hash": "ea80d32e9b5d092a1a2b701102b8b29bab8f07dae47789a069c16f8906a618d4",
-    "previous_hash": "15629aee0895098fa8ef31fb8d1aa428428d9bcaa577386b0cd49052a141bc50",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "3193ba1e39bd8e19a439badff5d08b803c8276f096a7638290f17518df1b53de",
+    "previous_hash": "ea80d32e9b5d092a1a2b701102b8b29bab8f07dae47789a069c16f8906a618d4",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1380,
-      "comments": 397
+      "score": 1423,
+      "comments": 401
     },
     {
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 653,
-      "comments": 251
+      "score": 702,
+      "comments": 275
     },
     {
       "id": 47562455,
       "title": "The True Shape of Io's Steeple Mountain",
       "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "score": 17,
+      "score": 33,
       "comments": 0
     },
     {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 432,
-      "comments": 211
+      "score": 441,
+      "comments": 221
     },
     {
       "id": 47598413,
       "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
       "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "score": 107,
-      "comments": 25
+      "score": 114,
+      "comments": 28
     }
   ]
 }
