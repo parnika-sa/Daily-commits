@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 00:02:09 UTC",
-    "fetched_at_ist": "2026-04-04 05:32:09 IST",
+    "fetched_at_utc": "2026-04-04 06:11:07 UTC",
+    "fetched_at_ist": "2026-04-04 11:41:07 IST",
     "item_count": 5,
-    "content_hash": "90c7ae40c91ede9e4f9f98ad3c7d0eaa9231f65ae2483ae9c225b108ac80aebd",
-    "previous_hash": "b9de432dee9fe1ca14d9015eda91058f8846dd527f4e6785013dc3e21f181f55",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "34a4f8ed7485dd8a6ff1a0395e3194d620b8902f599374f9267f7eef0ca744c3",
+    "previous_hash": "90c7ae40c91ede9e4f9f98ad3c7d0eaa9231f65ae2483ae9c225b108ac80aebd",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 411,
-      "comments": 173
-    },
     {
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 81,
-      "comments": 66
+      "score": 488,
+      "comments": 446
     },
     {
-      "id": 47632750,
-      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
-      "url": "https://github.com/cmc-labo/tinyos-rtos",
-      "score": 47,
-      "comments": 11
+      "id": 47631118,
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 639,
+      "comments": 238
+    },
+    {
+      "id": 47634690,
+      "title": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "score": 188,
+      "comments": 95
     },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 310,
-      "comments": 90
+      "score": 375,
+      "comments": 105
     },
     {
-      "id": 47586885,
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 85,
-      "comments": 23
+      "id": 47585469,
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "score": 73,
+      "comments": 10
     }
   ]
 }

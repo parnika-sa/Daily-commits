@@ -2,31 +2,31 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://api.coingecko.com/api/v3/simple/price",
-    "fetched_at_utc": "2026-04-04 00:02:07 UTC",
-    "fetched_at_ist": "2026-04-04 05:32:07 IST",
+    "fetched_at_utc": "2026-04-04 06:11:06 UTC",
+    "fetched_at_ist": "2026-04-04 11:41:06 IST",
     "asset_count": 4,
-    "content_hash": "1e020294ac2d2a879ac90adb19cdd68c1affd6df8c7c14d3e0271d35b1485247",
-    "previous_hash": "62881579f4dafe18924d25cfb843c4a8e210c88c0ed735ed035bfb28cab7d909",
+    "content_hash": "f46603cf0eda7f472ab9ae498ca254199c4c0a2156a7f2bbdec2f6aa594f3854",
+    "previous_hash": "1e020294ac2d2a879ac90adb19cdd68c1affd6df8c7c14d3e0271d35b1485247",
     "assets_changed_vs_previous": 4,
     "largest_move_asset": "solana",
-    "largest_move_24h": 1.7841
+    "largest_move_24h": 1.1087
   },
   "assets": {
     "bitcoin": {
-      "price_usd": 66932.0,
-      "change_24h": -0.018582565597264525
+      "price_usd": 66928.0,
+      "change_24h": 0.44498321389125195
     },
     "ethereum": {
-      "price_usd": 2053.03,
-      "change_24h": -0.2200799319582438
+      "price_usd": 2053.93,
+      "change_24h": -0.18798857269831906
     },
     "solana": {
-      "price_usd": 80.37,
-      "change_24h": 1.7841272253124447
+      "price_usd": 80.17,
+      "change_24h": 1.1086749672450784
     },
     "bnb": {
-      "price_usd": 588.09,
-      "change_24h": 0.738558789851365
+      "price_usd": 589.83,
+      "change_24h": 0.5572897483022142
     }
   }
 }

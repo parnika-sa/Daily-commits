@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-04 (last updated: 05:32 IST)
+
+## 📅 2026-04-04 (last updated: 11:41 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-04 05:32:07 IST | 22577da84449 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 05:32:09 IST | 90c7ae40c91e | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-04-04 05:32:07 IST | 1e020294ac2d | 4 assets moved, biggest mover: solana |
+| Hacker News | 5 | 2026-04-04 11:41:07 IST | 34a4f8ed7485 | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-04 11:41:06 IST | f46603cf0eda | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,17 +43,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 750 stars today
 
 ### 📰 Hacker News Stories
-- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) — Score: 411
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) — Score: 81
-- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) — Score: 47
-- [iNaturalist](https://www.inaturalist.org/) — Score: 310
-- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) — Score: 85
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) — Score: 488
+- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) — Score: 639
+- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve) — Score: 188
+- [iNaturalist](https://www.inaturalist.org/) — Score: 375
+- [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html) — Score: 73
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,932.0 🔴 -0.02%
-- Ethereum: $2,053.03 🔴 -0.22%
-- Solana: $80.37 🟢 +1.78%
-- Bnb: $588.09 🟢 +0.74%
+- Bitcoin: $66,928.0 🟢 +0.44%
+- Ethereum: $2,053.93 🔴 -0.19%
+- Solana: $80.17 🟢 +1.11%
+- Bnb: $589.83 🟢 +0.56%
 
 ---
 ## 📅 2026-04-03 (last updated: 22:56 IST)
