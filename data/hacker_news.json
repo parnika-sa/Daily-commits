@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 23:38:15 UTC",
-    "fetched_at_ist": "2026-04-04 05:08:15 IST",
+    "fetched_at_utc": "2026-04-04 00:02:09 UTC",
+    "fetched_at_ist": "2026-04-04 05:32:09 IST",
     "item_count": 5,
-    "content_hash": "b9de432dee9fe1ca14d9015eda91058f8846dd527f4e6785013dc3e21f181f55",
-    "previous_hash": "d80190492d361790c68b8e6aaa23384a8cebfeeee261a8b0f2bd29ebb9c5cc77",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "90c7ae40c91ede9e4f9f98ad3c7d0eaa9231f65ae2483ae9c225b108ac80aebd",
+    "previous_hash": "b9de432dee9fe1ca14d9015eda91058f8846dd527f4e6785013dc3e21f181f55",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47631118,
-      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 395,
-      "comments": 164
+      "score": 411,
+      "comments": 173
     },
     {
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 51,
-      "comments": 27
-    },
-    {
-      "id": 47629433,
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "score": 304,
-      "comments": 90
+      "score": 81,
+      "comments": 66
     },
     {
       "id": 47632750,
       "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
       "url": "https://github.com/cmc-labo/tinyos-rtos",
-      "score": 39,
-      "comments": 9
+      "score": 47,
+      "comments": 11
+    },
+    {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 310,
+      "comments": 90
     },
     {
       "id": 47586885,
       "title": "What changes when you turn a Linux box into a router",
       "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 80,
-      "comments": 20
+      "score": 85,
+      "comments": 23
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-03 23:38:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-04 00:02:09 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **siddharthvaddem/openscreen**
-- BTC: **$66,891.0** ↓ (-0.06%)
-- HN top story: **Artemis II crew take 'spectacular' image of Earth**
+- Top GitHub repo: **Yeachan-Heo/oh-my-codex**
+- BTC: **$66,932.0** ↓ (-0.02%)
+- HN top story: **Artemis II crew take “spectacular” image of Earth**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 4 | 2026-04-03 06:01:44 UTC | `c22778cfc55c` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-03 23:38:15 UTC | `b9de432dee9f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-03 22:24:30 UTC | `62881579f4da` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 7 | 2026-04-04 00:02:07 UTC | `22577da84449` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-04 00:02:09 UTC | `90c7ae40c91e` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-04 00:02:07 UTC | `1e020294ac2d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-04` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-04-04 04:29:38 IST` |
+| Last Commit (IST) | `2026-04-04 05:08:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,35 +48,38 @@
 | 2026-04-01 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-02 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-04-03 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-04-04 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-04-04 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,891.0 | -0.06% | 🔴 |
-| Ethereum | $2,055.62 | -0.21% | 🔴 |
-| Solana | $80.31 | +1.61% | 🟢 |
-| Bnb | $587.78 | +0.83% | 🟢 |
+| Bitcoin | $66,932.0 | -0.02% | 🔴 |
+| Ethereum | $2,053.03 | -0.22% | 🔴 |
+| Solana | $80.37 | +1.78% | 🟢 |
+| Bnb | $588.09 | +0.74% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,573 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 2,867 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Unknown | 306 stars today | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.… |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 827 stars today | Hunt down social media accounts by username across social networks |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 3,047 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,852 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 916 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,771 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 750 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 375 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 1,192 stars today | Hunt down social media accounts by username across social networks |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 395 | 164 |
-| [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 51 | 27 |
-| [iNaturalist](https://www.inaturalist.org/) | 304 | 90 |
-| [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) | 39 | 9 |
-| [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) | 80 | 20 |
+| [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) | 411 | 173 |
+| [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | 81 | 66 |
+| [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) | 47 | 11 |
+| [iNaturalist](https://www.inaturalist.org/) | 310 | 90 |
+| [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) | 85 | 23 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

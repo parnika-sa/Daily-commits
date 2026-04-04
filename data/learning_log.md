@@ -12,42 +12,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-04 (last updated: 05:08 IST)
+
+## 📅 2026-04-04 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 4 | 2026-04-03 11:31:44 IST | c22778cfc55c | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 05:08:15 IST | b9de432dee9f | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-04 03:54:30 IST | 62881579f4da | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 7 | 2026-04-04 05:32:07 IST | 22577da84449 | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-04 05:32:09 IST | 90c7ae40c91e | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-04 05:32:07 IST | 1e020294ac2d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
-  ⭐ 2,573 stars today
 - **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** (TypeScript) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so  
-  ⭐ 2,867 stars today
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (Unknown) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  
-  ⭐ 306 stars today
-- **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** (Python) — Hunt down social media accounts by username across social networks  
-  ⭐ 827 stars today
+  ⭐ 3,047 stars today
+- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
+  ⭐ 1,852 stars today
+- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
+  ⭐ 916 stars today
+- **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
+  ⭐ 2,771 stars today
+- **[dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** (Rust) — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus  
+  ⭐ 750 stars today
 
 ### 📰 Hacker News Stories
-- [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) — Score: 395
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) — Score: 51
-- [iNaturalist](https://www.inaturalist.org/) — Score: 304
-- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) — Score: 39
-- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) — Score: 80
+- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) — Score: 411
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) — Score: 81
+- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) — Score: 47
+- [iNaturalist](https://www.inaturalist.org/) — Score: 310
+- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) — Score: 85
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,891.0 🔴 -0.06%
-- Ethereum: $2,055.62 🔴 -0.21%
-- Solana: $80.31 🟢 +1.61%
-- Bnb: $587.78 🟢 +0.83%
+- Bitcoin: $66,932.0 🔴 -0.02%
+- Ethereum: $2,053.03 🔴 -0.22%
+- Solana: $80.37 🟢 +1.78%
+- Bnb: $588.09 🟢 +0.74%
 
 ---
 ## 📅 2026-04-03 (last updated: 22:56 IST)
