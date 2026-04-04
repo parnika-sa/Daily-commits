@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 13:38:53 UTC",
-    "fetched_at_ist": "2026-04-04 19:08:53 IST",
+    "fetched_at_utc": "2026-04-04 19:44:01 UTC",
+    "fetched_at_ist": "2026-04-05 01:14:01 IST",
     "item_count": 5,
-    "content_hash": "ffce1f2067479c5670dac157502e1d6ade74476ab72d06f1b42d9b1fad138a53",
-    "previous_hash": "5dbe8ba35a9e462dcd5b3a513ff801ee40b7af8de1392f3cd1a5ae6e27bd6aaf",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "8b73635074ebc12c1653ced0753b9a81586a11f6dcc357cc71e50d01fc9450d8",
+    "previous_hash": "ffce1f2067479c5670dac157502e1d6ade74476ab72d06f1b42d9b1fad138a53",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47640728,
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "score": 234,
+      "comments": 76
+    },
     {
       "id": 47637757,
       "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 179,
-      "comments": 39
+      "score": 415,
+      "comments": 124
     },
     {
-      "id": 47633396,
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 830,
-      "comments": 649
+      "id": 47641615,
+      "title": "Sopwith",
+      "url": "http://www.sopwith.org/",
+      "score": 25,
+      "comments": 7
     },
     {
-      "id": 47637287,
-      "title": "Some Unusual Trees",
-      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 83,
-      "comments": 26
+      "id": 47639567,
+      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+      "url": "https://github.com/teamchong/turboquant-wasm",
+      "score": 80,
+      "comments": 4
     },
     {
-      "id": 47638075,
-      "title": "The CMS is dead. Long live the CMS",
-      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "score": 33,
-      "comments": 17
-    },
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 847,
-      "comments": 289
+      "id": 47640380,
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "score": 174,
+      "comments": 74
     }
   ]
 }

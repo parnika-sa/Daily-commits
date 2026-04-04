@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-05 (last updated: 23:59 IST)
+
+## 📅 2026-04-05 (last updated: 01:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-04 05:32:07 IST | 22577da84449 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 19:08:53 IST | ffce1f206747 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-05 01:14:01 IST | 8b73635074eb | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-04 23:59:34 IST | 02ab30c4c890 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 750 stars today
 
 ### 📰 Hacker News Stories
-- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 179
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) — Score: 830
-- [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees) — Score: 83
-- [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms) — Score: 33
-- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) — Score: 847
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 234
+- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 415
+- [Sopwith](http://www.sopwith.org/) — Score: 25
+- [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) — Score: 80
+- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs) — Score: 174
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,345.0 🟢 +0.69%
@@ -44,36 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $592.81 🟢 +0.72%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-04 (last updated: 23:59 IST)
 
 ### 🧪 Source Integrity Snapshot
