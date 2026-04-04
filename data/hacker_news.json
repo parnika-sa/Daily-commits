@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 12:35:49 UTC",
-    "fetched_at_ist": "2026-04-04 18:05:49 IST",
+    "fetched_at_utc": "2026-04-04 13:38:53 UTC",
+    "fetched_at_ist": "2026-04-04 19:08:53 IST",
     "item_count": 5,
-    "content_hash": "5dbe8ba35a9e462dcd5b3a513ff801ee40b7af8de1392f3cd1a5ae6e27bd6aaf",
-    "previous_hash": "c76cf73e9fa344bc2ecf6663f3025577524f0c6c8a5816eba2bd28c53ae7259b",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "ffce1f2067479c5670dac157502e1d6ade74476ab72d06f1b42d9b1fad138a53",
+    "previous_hash": "5dbe8ba35a9e462dcd5b3a513ff801ee40b7af8de1392f3cd1a5ae6e27bd6aaf",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47637757,
-      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 110,
-      "comments": 27
+      "score": 179,
+      "comments": 39
     },
     {
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 799,
-      "comments": 623
+      "score": 830,
+      "comments": 649
     },
     {
       "id": 47637287,
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 64,
-      "comments": 15
+      "score": 83,
+      "comments": 26
     },
     {
       "id": 47638075,
       "title": "The CMS is dead. Long live the CMS",
       "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-      "score": 13,
-      "comments": 3
+      "score": 33,
+      "comments": 17
     },
     {
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 822,
-      "comments": 287
+      "score": 847,
+      "comments": 289
     }
   ]
 }
