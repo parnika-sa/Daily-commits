@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 06:11:07 UTC",
-    "fetched_at_ist": "2026-04-04 11:41:07 IST",
+    "fetched_at_utc": "2026-04-04 09:37:43 UTC",
+    "fetched_at_ist": "2026-04-04 15:07:43 IST",
     "item_count": 5,
-    "content_hash": "34a4f8ed7485dd8a6ff1a0395e3194d620b8902f599374f9267f7eef0ca744c3",
-    "previous_hash": "90c7ae40c91ede9e4f9f98ad3c7d0eaa9231f65ae2483ae9c225b108ac80aebd",
+    "content_hash": "c76cf73e9fa344bc2ecf6663f3025577524f0c6c8a5816eba2bd28c53ae7259b",
+    "previous_hash": "34a4f8ed7485dd8a6ff1a0395e3194d620b8902f599374f9267f7eef0ca744c3",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 488,
-      "comments": 446
+      "score": 668,
+      "comments": 549
     },
     {
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 639,
-      "comments": 238
+      "score": 749,
+      "comments": 263
     },
     {
-      "id": 47634690,
-      "title": "Delve removed from Y Combinator",
-      "url": "https://www.ycombinator.com/companies/delve",
-      "score": 188,
-      "comments": 95
+      "id": 47636435,
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "score": 49,
+      "comments": 36
+    },
+    {
+      "id": 47637287,
+      "title": "Some Unusual Trees",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "score": 3,
+      "comments": 0
     },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 375,
-      "comments": 105
-    },
-    {
-      "id": 47585469,
-      "title": "Herbie: Automatically improve imprecise floating point formulas",
-      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-      "score": 73,
-      "comments": 10
+      "score": 420,
+      "comments": 107
     }
   ]
 }
