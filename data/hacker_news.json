@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 09:41:50 UTC",
-    "fetched_at_ist": "2026-04-05 15:11:50 IST",
+    "fetched_at_utc": "2026-04-05 12:37:49 UTC",
+    "fetched_at_ist": "2026-04-05 18:07:49 IST",
     "item_count": 5,
-    "content_hash": "a75c21233fc95c4c43c988233d812c8f4a447400008e6309c26b372a0859d042",
-    "previous_hash": "f1498c06d2f69934cdc7e668b1f35fc7e90d826bb3f6ca3995ad31e5c5836ed3",
+    "content_hash": "c2b58b025738c460b822cd95f68c97d217e59fc5e9973d9d20a7b40b1a7bda5b",
+    "previous_hash": "a75c21233fc95c4c43c988233d812c8f4a447400008e6309c26b372a0859d042",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47640728,
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "score": 740,
-      "comments": 157
+      "id": 47647788,
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "score": 115,
+      "comments": 62
+    },
+    {
+      "id": 47647455,
+      "title": "Talk like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 152,
+      "comments": 106
     },
     {
       "id": 47646843,
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "url": "https://lisette.run/",
-      "score": 42,
-      "comments": 20
+      "score": 116,
+      "comments": 55
     },
     {
-      "id": 47645432,
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 154,
-      "comments": 50
+      "id": 47648452,
+      "title": "Ubuntu now requires more RAM than Windows 11",
+      "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+      "score": 39,
+      "comments": 19
     },
     {
-      "id": 47595695,
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 283,
-      "comments": 50
-    },
-    {
-      "id": 47644406,
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 249,
-      "comments": 181
+      "id": 47640728,
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "score": 804,
+      "comments": 164
     }
   ]
 }
