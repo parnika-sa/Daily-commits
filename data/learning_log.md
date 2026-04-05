@@ -25,18 +25,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-05 (last updated: 18:07 IST)
+
+## 📅 2026-04-05 (last updated: 19:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-04 05:32:07 IST | 22577da84449 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-05 18:07:49 IST | c2b58b025738 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-05 19:10:15 IST | d9fb6de4e8c6 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-05 16:52:53 IST | 7a86a703aeeb | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 750 stars today
 
 ### 📰 Hacker News Stories
-- [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/) — Score: 115
-- [Talk like caveman](https://github.com/JuliusBrussee/caveman) — Score: 152
-- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/) — Score: 116
-- [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/) — Score: 39
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 804
+- [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/) — Score: 267
+- [Talk like caveman](https://github.com/JuliusBrussee/caveman) — Score: 201
+- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/) — Score: 136
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 823
+- [Iguanaworks has closed down. USB Infrared hardware open source maker](http://iguanaworks.net/products/usb-ir-transceiver.html) — Score: 3
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,055.0 🔴 -0.09%

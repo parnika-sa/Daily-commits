@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 12:37:49 UTC",
-    "fetched_at_ist": "2026-04-05 18:07:49 IST",
+    "fetched_at_utc": "2026-04-05 13:40:15 UTC",
+    "fetched_at_ist": "2026-04-05 19:10:15 IST",
     "item_count": 5,
-    "content_hash": "c2b58b025738c460b822cd95f68c97d217e59fc5e9973d9d20a7b40b1a7bda5b",
-    "previous_hash": "a75c21233fc95c4c43c988233d812c8f4a447400008e6309c26b372a0859d042",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "d9fb6de4e8c665bc4b47a7c49901195d51bdd73c103443d1b1c119d9d5f5016d",
+    "previous_hash": "c2b58b025738c460b822cd95f68c97d217e59fc5e9973d9d20a7b40b1a7bda5b",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47647788,
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 115,
-      "comments": 62
+      "score": 267,
+      "comments": 185
     },
     {
       "id": 47647455,
       "title": "Talk like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 152,
-      "comments": 106
+      "score": 201,
+      "comments": 139
     },
     {
       "id": 47646843,
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "url": "https://lisette.run/",
-      "score": 116,
-      "comments": 55
-    },
-    {
-      "id": 47648452,
-      "title": "Ubuntu now requires more RAM than Windows 11",
-      "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
-      "score": 39,
-      "comments": 19
+      "score": 136,
+      "comments": 67
     },
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 804,
-      "comments": 164
+      "score": 823,
+      "comments": 166
+    },
+    {
+      "id": 47649148,
+      "title": "Iguanaworks has closed down. USB Infrared hardware open source maker",
+      "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+      "score": 3,
+      "comments": 0
     }
   ]
 }
