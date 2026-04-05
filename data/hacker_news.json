@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 15:37:04 UTC",
-    "fetched_at_ist": "2026-04-05 21:07:04 IST",
+    "fetched_at_utc": "2026-04-05 18:31:28 UTC",
+    "fetched_at_ist": "2026-04-06 00:01:28 IST",
     "item_count": 5,
-    "content_hash": "a54bd50670fded10c0752b7d8a9c3e89a3381a80c63d76c599cdf60b1664ccec",
-    "previous_hash": "d9fb6de4e8c665bc4b47a7c49901195d51bdd73c103443d1b1c119d9d5f5016d",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "8bab1ea0fd8f5b0c4db1d7a105a3d9a873e03861ad0f0ba7a9f3d5d1081a3f4b",
+    "previous_hash": "a54bd50670fded10c0752b7d8a9c3e89a3381a80c63d76c599cdf60b1664ccec",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47649721,
       "title": "Artemis II crew see first glimpse of far side of Moon [video]",
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 30,
-      "comments": 8
+      "score": 235,
+      "comments": 162
     },
     {
       "id": 47648828,
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 83,
-      "comments": 18
+      "score": 312,
+      "comments": 98
     },
     {
       "id": 47647455,
-      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+      "title": "Caveman: Why use many token when few token do trick",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 297,
-      "comments": 193
+      "score": 481,
+      "comments": 256
     },
     {
-      "id": 47649113,
-      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "score": 119,
-      "comments": 59
+      "id": 47650312,
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "score": 62,
+      "comments": 3
     },
     {
-      "id": 47649117,
-      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "score": 228,
-      "comments": 57
+      "id": 47651626,
+      "title": "Reaffirming our commitment to child safety in the face of EuropeanUnion inaction",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/",
+      "score": 27,
+      "comments": 31
     }
   ]
 }
