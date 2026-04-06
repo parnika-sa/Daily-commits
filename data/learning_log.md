@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-06 (last updated: 05:00 IST)
+
+## 📅 2026-04-06 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-04 05:32:07 IST | 22577da84449 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 05:00:55 IST | 7669e8916942 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-06 03:51:42 IST | 31fcaba6b4f5 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-06 05:32:26 IST | b0ab576ac2b6 | +0 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-06 05:32:25 IST | f128428367cb | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** (TypeScript) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so  
-  ⭐ 3,047 stars today
-- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
-  ⭐ 1,852 stars today
-- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 916 stars today
+- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** (Kotlin) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  
+  ⭐ 389 stars today
+- **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** (Python) — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL  
+  ⭐ 416 stars today
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
-  ⭐ 2,771 stars today
-- **[dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** (Rust) — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus  
-  ⭐ 750 stars today
+  ⭐ 2,749 stars today
+- **[block/goose](https://github.com/block/goose)** (Rust) — an open source, extensible AI agent that goes beyond code suggestions - install,  
+  ⭐ 882 stars today
+- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
+  ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 326
-- [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) — Score: 20
-- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 156
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 376
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 561
+- [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) — Score: 42
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 354
+- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 170
+- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 387
+- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 573
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,497.0 🟢 +0.17%
-- Ethereum: $2,054.15 🔴 -0.80%
-- Solana: $79.45 🔴 -1.83%
-- Bnb: $591.54 🔴 -0.49%
+- Bitcoin: $69,069.0 🟢 +2.62%
+- Ethereum: $2,110.53 🟢 +2.18%
+- Solana: $81.89 🟢 +1.35%
+- Bnb: $601.73 🟢 +1.41%
 
 ---
 ## 📅 2026-04-05 (last updated: 22:52 IST)

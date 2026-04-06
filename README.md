@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-05 23:30:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-06 00:02:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Yeachan-Heo/oh-my-codex**
-- BTC: **$67,497.0** ↑ (+0.17%)
-- HN top story: **Gemma 4 on iPhone**
+- Top GitHub repo: **google-ai-edge/gallery**
+- BTC: **$69,069.0** ↑ (+2.62%)
+- HN top story: **In Japan, the robot isn't coming for your job; it's filling the one nobody wants**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-04 00:02:07 UTC | `22577da84449` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-05 23:30:55 UTC | `7669e8916942` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-05 22:21:42 UTC | `31fcaba6b4f5` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-04-06 00:02:25 UTC | `404374650ca3` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-06 00:02:26 UTC | `b0ab576ac2b6` | +0 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-06 00:02:25 UTC | `f128428367cb` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-06` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-04-06 04:27:10 IST` |
+| Last Commit (IST) | `2026-04-06 05:00:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,38 +48,39 @@
 | 2026-04-03 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-04-04 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-04-05 | 30 | `██████░░░░░░░░░░░░░░` 30% |
-| 2026-04-06 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-04-06 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,497.0 | +0.17% | 🟢 |
-| Ethereum | $2,054.15 | -0.80% | 🔴 |
-| Solana | $79.45 | -1.83% | 🔴 |
-| Bnb | $591.54 | -0.49% | 🔴 |
+| Bitcoin | $69,069.0 | +2.62% | 🟢 |
+| Ethereum | $2,110.53 | +2.18% | 🟢 |
+| Solana | $81.89 | +1.35% | 🟢 |
+| Bnb | $601.73 | +1.41% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 3,047 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,852 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 916 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,771 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 750 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 375 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 1,192 stars today | Hunt down social media accounts by username across social networks |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 389 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 416 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,749 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [block/goose](https://github.com/block/goose) | Rust | 882 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 998 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | 355 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 76 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 124 stars today | No description |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) | 326 | 83 |
-| [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) | 20 | 6 |
-| [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) | 156 | 61 |
-| [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) | 376 | 287 |
-| [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) | 561 | 173 |
+| [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) | 42 | 30 |
+| [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) | 354 | 91 |
+| [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) | 170 | 73 |
+| [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) | 387 | 294 |
+| [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) | 573 | 176 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
