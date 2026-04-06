@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-06 17:38:10 UTC",
-    "fetched_at_ist": "2026-04-06 23:08:10 IST",
+    "fetched_at_utc": "2026-04-06 18:35:05 UTC",
+    "fetched_at_ist": "2026-04-07 00:05:05 IST",
     "item_count": 5,
-    "content_hash": "b2a49695c90641636a8c375bd12eb9a54ed999b9f5e49ea739985c4360c795fd",
-    "previous_hash": "39ab20353430bf834480957321522cbcc6f2180df7aedd4f0b6c7eda9328f08d",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "4d5106c4a004df91bf51c3d001aeae3c8642b0e57b36eaef739e62a2b8b2c0cc",
+    "previous_hash": "b2a49695c90641636a8c375bd12eb9a54ed999b9f5e49ea739985c4360c795fd",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47663147,
       "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
       "url": "https://www.freestyle.sh",
-      "score": 37,
+      "score": 80,
+      "comments": 43
+    },
+    {
+      "id": 47664186,
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "url": "https://www.wesnoth.org",
+      "score": 51,
       "comments": 10
     },
     {
       "id": 47660954,
       "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "score": 154,
-      "comments": 64
-    },
-    {
-      "id": 47661439,
-      "title": "I won't download your app. The web version is a-ok",
-      "url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "score": 572,
-      "comments": 312
-    },
-    {
-      "id": 47662658,
-      "title": "sc-im Spreadsheets in Your Terminal",
-      "url": "https://github.com/andmarti1424/sc-im",
-      "score": 50,
-      "comments": 5
+      "score": 185,
+      "comments": 79
     },
     {
       "id": 47662234,
-      "title": "A Cryptography Engineer's Perspective on Quantum Computing Timelines",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 67,
-      "comments": 9
+      "score": 109,
+      "comments": 33
+    },
+    {
+      "id": 47662658,
+      "title": "Sc-im: Spreadsheets in your terminal",
+      "url": "https://github.com/andmarti1424/sc-im",
+      "score": 68,
+      "comments": 19
     }
   ]
 }
