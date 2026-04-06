@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-06 00:02:26 UTC",
-    "fetched_at_ist": "2026-04-06 05:32:26 IST",
+    "fetched_at_utc": "2026-04-06 03:38:30 UTC",
+    "fetched_at_ist": "2026-04-06 09:08:30 IST",
     "item_count": 5,
-    "content_hash": "b0ab576ac2b6fa0b0ea99e1d96d50d8b83a0a4236b37c7b5883785b77768ce5d",
-    "previous_hash": "7669e8916942be3d4e0830f2709ee0a6a2735a80d24a9b4e73972cffbf411849",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "39ab20353430bf834480957321522cbcc6f2180df7aedd4f0b6c7eda9328f08d",
+    "previous_hash": "b0ab576ac2b6fa0b0ea99e1d96d50d8b83a0a4236b37c7b5883785b77768ce5d",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47654620,
-      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "score": 42,
-      "comments": 30
+      "id": 47655408,
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "score": 125,
+      "comments": 9
     },
     {
       "id": 47652561,
       "title": "Gemma 4 on iPhone",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 354,
-      "comments": 91
+      "score": 471,
+      "comments": 128
+    },
+    {
+      "id": 47655392,
+      "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+      "url": "https://playlists.at/youtube/search/",
+      "score": 99,
+      "comments": 72
     },
     {
       "id": 47637377,
       "title": "LÖVE: 2D Game Framework for Lua",
       "url": "https://github.com/love2d/love",
-      "score": 170,
-      "comments": 73
+      "score": 229,
+      "comments": 92
     },
     {
-      "id": 47649721,
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 387,
-      "comments": 294
-    },
-    {
-      "id": 47648828,
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 573,
-      "comments": 176
+      "id": 47651703,
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "score": 259,
+      "comments": 143
     }
   ]
 }

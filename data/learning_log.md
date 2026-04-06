@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-06 (last updated: 05:32 IST)
+
+## 📅 2026-04-06 (last updated: 09:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 05:32:26 IST | b0ab576ac2b6 | +0 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-06 09:08:30 IST | 39ab20353430 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-06 05:32:25 IST | f128428367cb | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) — Score: 42
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 354
-- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 170
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 387
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 573
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) — Score: 125
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 471
+- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) — Score: 99
+- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 229
+- [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) — Score: 259
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,069.0 🟢 +2.62%
