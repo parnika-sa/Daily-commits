@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-07 (last updated: 00:05 IST)
+
+## 📅 2026-04-07 (last updated: 01:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-07 00:05:05 IST | 4d5106c4a004 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-07 01:09:57 IST | 572c5f842712 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-06 12:49:10 IST | 5da8d3e698e9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh) — Score: 80
-- [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org) — Score: 51
-- [Germany Doxes "UNKN," Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) — Score: 185
-- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — Score: 109
-- [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im) — Score: 68
+- [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org) — Score: 191
+- [The Cult of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane) — Score: 185
+- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh) — Score: 108
+- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — Score: 161
+- [Germany Doxes "UNKN," Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) — Score: 206
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,959.0 🟢 +3.15%
@@ -44,29 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $600.76 🟢 +1.69%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-06 (last updated: 23:08 IST)
 
 ### 🧪 Source Integrity Snapshot

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-06 18:35:05 UTC",
-    "fetched_at_ist": "2026-04-07 00:05:05 IST",
+    "fetched_at_utc": "2026-04-06 19:39:57 UTC",
+    "fetched_at_ist": "2026-04-07 01:09:57 IST",
     "item_count": 5,
-    "content_hash": "4d5106c4a004df91bf51c3d001aeae3c8642b0e57b36eaef739e62a2b8b2c0cc",
-    "previous_hash": "b2a49695c90641636a8c375bd12eb9a54ed999b9f5e49ea739985c4360c795fd",
+    "content_hash": "572c5f8427122bdcf17516363300cd44206706bba218a34107fd3204627a840c",
+    "previous_hash": "4d5106c4a004df91bf51c3d001aeae3c8642b0e57b36eaef739e62a2b8b2c0cc",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47663147,
-      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "url": "https://www.freestyle.sh",
-      "score": 80,
-      "comments": 43
-    },
     {
       "id": 47664186,
       "title": "Battle for Wesnoth: open-source, turn-based strategy game",
       "url": "https://www.wesnoth.org",
-      "score": 51,
-      "comments": 10
+      "score": 191,
+      "comments": 54
     },
     {
-      "id": 47660954,
-      "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "id": 47664912,
+      "title": "The Cult of Vibe Coding Is Insane",
+      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
       "score": 185,
-      "comments": 79
+      "comments": 107
+    },
+    {
+      "id": 47663147,
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+      "url": "https://www.freestyle.sh",
+      "score": 108,
+      "comments": 58
     },
     {
       "id": 47662234,
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 109,
-      "comments": 33
+      "score": 161,
+      "comments": 71
     },
     {
-      "id": 47662658,
-      "title": "Sc-im: Spreadsheets in your terminal",
-      "url": "https://github.com/andmarti1424/sc-im",
-      "score": 68,
-      "comments": 19
+      "id": 47660954,
+      "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "score": 206,
+      "comments": 97
     }
   ]
 }
