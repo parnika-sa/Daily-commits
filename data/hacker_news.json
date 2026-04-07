@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 11:36:18 UTC",
-    "fetched_at_ist": "2026-04-07 17:06:18 IST",
+    "fetched_at_utc": "2026-04-07 12:41:42 UTC",
+    "fetched_at_ist": "2026-04-07 18:11:42 IST",
     "item_count": 5,
-    "content_hash": "954f1c2bed5690fcdfc6ff592e3ae3038e24ab8d24e5df01b74513e378f593f8",
-    "previous_hash": "b2e21f17d5db9330740d58dd4de398db8a4ae772fd47968e2687a4c48fca2209",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "b271d4c3a1ed576eda6c20fd47ff61f8dd512257d293f0c9b352c890d901b705",
+    "previous_hash": "954f1c2bed5690fcdfc6ff592e3ae3038e24ab8d24e5df01b74513e378f593f8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47672818,
       "title": "Are We Idiocracy Yet?",
       "url": "https://idiocracy.wtf/",
-      "score": 229,
-      "comments": 88
+      "score": 429,
+      "comments": 260
+    },
+    {
+      "id": 47673541,
+      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "score": 60,
+      "comments": 41
     },
     {
       "id": 47673005,
       "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
       "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 35,
+      "score": 92,
+      "comments": 40
+    },
+    {
+      "id": 47673394,
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "score": 46,
+      "comments": 35
+    },
+    {
+      "id": 47673360,
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "score": 42,
       "comments": 8
-    },
-    {
-      "id": 47672295,
-      "title": "Every GPU That Mattered",
-      "url": "https://sheets.works/data-viz/every-gpu",
-      "score": 120,
-      "comments": 60
-    },
-    {
-      "id": 47614528,
-      "title": "My Experience as a Rice Farmer",
-      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "score": 188,
-      "comments": 81
-    },
-    {
-      "id": 47672318,
-      "title": "Blackholing My Email",
-      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "score": 25,
-      "comments": 0
     }
   ]
 }
