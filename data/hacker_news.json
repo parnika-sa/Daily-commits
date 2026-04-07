@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 18:34:40 UTC",
-    "fetched_at_ist": "2026-04-08 00:04:40 IST",
+    "fetched_at_utc": "2026-04-07 19:41:41 UTC",
+    "fetched_at_ist": "2026-04-08 01:11:41 IST",
     "item_count": 5,
-    "content_hash": "f4640d6cbf8161ac42064e918d98ca5f8fd2744ef019b23e7f401a755299fe17",
-    "previous_hash": "ba30740b2fc1479fb346d1fd512606a6d54ab72f17a2dc014ab426c5e57e7a92",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "9240f9f5e3eb134531b2bf74f0d895a43b630c0b662e93f062754656a77a5b67",
+    "previous_hash": "f4640d6cbf8161ac42064e918d98ca5f8fd2744ef019b23e7f401a755299fe17",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 74,
-      "comments": 17
+      "score": 282,
+      "comments": 112
     },
     {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 197,
-      "comments": 57
+      "score": 254,
+      "comments": 76
     },
     {
-      "id": 47679258,
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 40,
-      "comments": 8
+      "id": 47679155,
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "score": 97,
+      "comments": 10
     },
     {
       "id": 47678573,
       "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 72,
-      "comments": 9
+      "score": 133,
+      "comments": 27
     },
     {
-      "id": 47673360,
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 574,
-      "comments": 184
+      "id": 47679258,
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 199,
+      "comments": 119
     }
   ]
 }
