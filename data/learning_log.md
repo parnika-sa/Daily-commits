@@ -22,18 +22,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-07 (last updated: 21:13 IST)
+
+## 📅 2026-04-07 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-07 21:13:31 IST | cd82ff425e0a | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-07 22:09:06 IST | 5c64a37f5793 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-07 13:49:26 IST | b830ff871a24 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/) — Score: 327
-- [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257) — Score: 79
-- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) — Score: 256
-- [Dropping Cloudflare for Bunny.net](https://jola.dev/posts/dropping-cloudflare) — Score: 195
-- [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) — Score: 25
+- [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/) — Score: 438
+- [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) — Score: 79
+- [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4) — Score: 36
+- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) — Score: 286
+- [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/) — Score: 58
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,678.0 🔴 -0.69%
