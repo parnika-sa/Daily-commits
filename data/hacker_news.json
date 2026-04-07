@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 10:40:14 UTC",
-    "fetched_at_ist": "2026-04-07 16:10:14 IST",
+    "fetched_at_utc": "2026-04-07 11:36:18 UTC",
+    "fetched_at_ist": "2026-04-07 17:06:18 IST",
     "item_count": 5,
-    "content_hash": "b2e21f17d5db9330740d58dd4de398db8a4ae772fd47968e2687a4c48fca2209",
-    "previous_hash": "5dcafafe36b352fdcfc4959e904f32e1488e22498ad37dd51708c2d071aa8cca",
+    "content_hash": "954f1c2bed5690fcdfc6ff592e3ae3038e24ab8d24e5df01b74513e378f593f8",
+    "previous_hash": "b2e21f17d5db9330740d58dd4de398db8a4ae772fd47968e2687a4c48fca2209",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47672818,
       "title": "Are We Idiocracy Yet?",
       "url": "https://idiocracy.wtf/",
-      "score": 61,
-      "comments": 11
+      "score": 229,
+      "comments": 88
+    },
+    {
+      "id": 47673005,
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "score": 35,
+      "comments": 8
     },
     {
       "id": 47672295,
       "title": "Every GPU That Mattered",
       "url": "https://sheets.works/data-viz/every-gpu",
-      "score": 99,
-      "comments": 44
+      "score": 120,
+      "comments": 60
     },
     {
       "id": 47614528,
       "title": "My Experience as a Rice Farmer",
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "score": 172,
-      "comments": 72
+      "score": 188,
+      "comments": 81
     },
     {
-      "id": 47670981,
-      "title": "Three hundred synths, 3 hardware projects, and one app",
-      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "score": 50,
-      "comments": 2
-    },
-    {
-      "id": 47666024,
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 388,
-      "comments": 178
+      "id": 47672318,
+      "title": "Blackholing My Email",
+      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+      "score": 25,
+      "comments": 0
     }
   ]
 }
