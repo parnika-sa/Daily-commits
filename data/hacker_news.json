@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 17:39:10 UTC",
-    "fetched_at_ist": "2026-04-07 23:09:10 IST",
+    "fetched_at_utc": "2026-04-07 18:34:40 UTC",
+    "fetched_at_ist": "2026-04-08 00:04:40 IST",
     "item_count": 5,
-    "content_hash": "ba30740b2fc1479fb346d1fd512606a6d54ab72f17a2dc014ab426c5e57e7a92",
-    "previous_hash": "5c64a37f579349cf223a41ce2823a0fa4aa8acdc441877c0e75e0f288f2949f2",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "f4640d6cbf8161ac42064e918d98ca5f8fd2744ef019b23e7f401a755299fe17",
+    "previous_hash": "ba30740b2fc1479fb346d1fd512606a6d54ab72f17a2dc014ab426c5e57e7a92",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47679121,
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "score": 74,
+      "comments": 17
+    },
+    {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 85,
-      "comments": 17
+      "score": 197,
+      "comments": 57
+    },
+    {
+      "id": 47679258,
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 40,
+      "comments": 8
+    },
+    {
+      "id": 47678573,
+      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "score": 72,
+      "comments": 9
     },
     {
       "id": 47673360,
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 527,
-      "comments": 174
-    },
-    {
-      "id": 47675625,
-      "title": "Cloudflare targets 2029 for full post-quantum security",
-      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 132,
-      "comments": 41
-    },
-    {
-      "id": 47675213,
-      "title": "Google open-sources experimental agent orchestration testbed Scion",
-      "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-      "score": 53,
-      "comments": 15
-    },
-    {
-      "id": 47676557,
-      "title": "Moving fast in hardware: lessons from lab to $100M ARR",
-      "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
-      "score": 61,
-      "comments": 12
+      "score": 574,
+      "comments": 184
     }
   ]
 }
