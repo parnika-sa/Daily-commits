@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 22:33:23 UTC",
-    "fetched_at_ist": "2026-04-08 04:03:23 IST",
+    "fetched_at_utc": "2026-04-08 02:41:25 UTC",
+    "fetched_at_ist": "2026-04-08 08:11:25 IST",
     "item_count": 5,
-    "content_hash": "51712e16c0c43cda8fc863f27c4325038f70efc916d075770702cbc563068916",
-    "previous_hash": "9240f9f5e3eb134531b2bf74f0d895a43b630c0b662e93f062754656a77a5b67",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "1f041226bd660e6076cdc5862b663fcc3f05a08eff8f1c5cb7816b4dd51129e9",
+    "previous_hash": "51712e16c0c43cda8fc863f27c4325038f70efc916d075770702cbc563068916",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 688,
-      "comments": 291
+      "score": 945,
+      "comments": 422
     },
     {
-      "id": 47679258,
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 443,
-      "comments": 308
+      "id": 47682276,
+      "title": "US and Iran agree to provisional ceasefire",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "score": 218,
+      "comments": 575
     },
     {
       "id": 47676509,
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 111,
-      "comments": 21
+      "score": 417,
+      "comments": 107
     },
     {
-      "id": 47680404,
-      "title": "S3 Files",
-      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 130,
-      "comments": 34
+      "id": 47679258,
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 554,
+      "comments": 403
     },
     {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 358,
-      "comments": 105
+      "score": 430,
+      "comments": 154
     }
   ]
 }
