@@ -4,6 +4,7 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+
 ## 📅 2026-04-09 (last updated: 00:53 IST)
 
 ### 🧪 Source Integrity Snapshot
@@ -44,25 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $603.95 🔴 -0.11%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-08 (last updated: 19:45 IST)
 
 ### 🧪 Source Integrity Snapshot
