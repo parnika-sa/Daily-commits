@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-09 (last updated: 00:53 IST)
+
+## 📅 2026-04-09 (last updated: 04:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-08 18:11:30 IST | bb9e71b3eb2a | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-09 04:08:30 IST | 83d207c8f490 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-09 00:53:27 IST | 09b4ed415af4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/) — Score: 415
-- [Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/) — Score: 479
-- [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/) — Score: 143
-- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) — Score: 226
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) — Score: 1345
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1053
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) — Score: 111
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/) — Score: 1672
+- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net) — Score: 161
+- [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1) — Score: 221
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,228.0 🟢 +3.86%
