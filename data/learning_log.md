@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-08 (last updated: 17:07 IST)
+
+## 📅 2026-04-08 (last updated: 18:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-08 17:07:20 IST | 64a8398d7893 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-08 18:11:30 IST | bb9e71b3eb2a | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-04-08 14:47:52 IST | ae74f7b6d3fa | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 998 stars today
 
 ### 📰 Hacker News Stories
-- [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) — Score: 219
-- [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/) — Score: 400
-- [I've Sold Out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/) — Score: 74
-- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) — Score: 209
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) — Score: 1321
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/) — Score: 415
+- [Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/) — Score: 479
+- [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/) — Score: 143
+- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) — Score: 226
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) — Score: 1345
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,792.0 🟢 +3.88%
