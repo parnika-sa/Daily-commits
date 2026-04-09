@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 22:38:30 UTC",
-    "fetched_at_ist": "2026-04-09 04:08:30 IST",
+    "fetched_at_utc": "2026-04-09 04:41:13 UTC",
+    "fetched_at_ist": "2026-04-09 10:11:13 IST",
     "item_count": 5,
-    "content_hash": "83d207c8f490b0d3929677879e10c0cfec784737653aaab072fa218bbf50e6c3",
-    "previous_hash": "bb9e71b3eb2aff0d7c0312e45c36444f18e8356ee3309076bfeb00c3b40e520b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c0ee1b84aa5038661e188efe7c0dea9065aa6c96296724e85c6d67ba898bede3",
+    "previous_hash": "83d207c8f490b0d3929677879e10c0cfec784737653aaab072fa218bbf50e6c3",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47697870,
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "score": 315,
+      "comments": 118
+    },
+    {
       "id": 47691730,
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1053,
-      "comments": 195
+      "score": 1372,
+      "comments": 232
+    },
+    {
+      "id": 47666639,
+      "title": "The Importance of Being Idle",
+      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+      "score": 61,
+      "comments": 5
     },
     {
       "id": 47695012,
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 111,
-      "comments": 16
+      "score": 230,
+      "comments": 29
     },
     {
-      "id": 47687273,
-      "title": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1672,
-      "comments": 363
-    },
-    {
-      "id": 47693153,
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "score": 161,
-      "comments": 27
-    },
-    {
-      "id": 47692043,
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 221,
-      "comments": 261
+      "id": 47699181,
+      "title": "Open Source Security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "score": 8,
+      "comments": 0
     }
   ]
 }
