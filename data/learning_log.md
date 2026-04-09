@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-10 (last updated: 17:39 IST)
+
+## 📅 2026-04-10 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-09 17:39:38 IST | 99250514ea51 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 17:39:40 IST | b1609eb15c79 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-10 04:06:46 IST | 02ff9dd643fa | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-09 17:39:39 IST | cf5b1d94ba38 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,012 stars today
 
 ### 📰 Hacker News Stories
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 860
-- [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/) — Score: 169
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1653
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) — Score: 228
-- [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element) — Score: 45
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) — Score: 189
+- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) — Score: 73
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) — Score: 55
+- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) — Score: 91
+- [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev) — Score: 63
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,194.0 🔴 -0.72%
