@@ -12,44 +12,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-09 (last updated: 10:11 IST)
+
+## 📅 2026-04-09 (last updated: 11:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-06 05:32:25 IST | 404374650ca3 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 10:11:13 IST | c0ee1b84aa50 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-09 04:53:25 IST | 2397b0ddc74a | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 11 | 2026-04-09 11:39:43 IST | 97f10a78880f | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-09 11:39:44 IST | 9bc40e9532da | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-09 11:39:43 IST | d41c88a637e1 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 702 stars today
+- **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** (Python) — A specialized Claude Code workspace for creating long-form, SEO-optimized blog c  
+  ⭐ 649 stars today
 - **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** (Kotlin) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  
-  ⭐ 389 stars today
-- **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** (Python) — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL  
-  ⭐ 416 stars today
-- **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
-  ⭐ 2,749 stars today
-- **[block/goose](https://github.com/block/goose)** (Rust) — an open source, extensible AI agent that goes beyond code suggestions - install,  
-  ⭐ 882 stars today
-- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
-  ⭐ 998 stars today
+  ⭐ 853 stars today
+- **[NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)** (Python) — PersonaPlex code.  
+  ⭐ 586 stars today
+- **[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** (C++) — No description  
+  ⭐ 501 stars today
 
 ### 📰 Hacker News Stories
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 315
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1372
-- [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) — Score: 61
-- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) — Score: 230
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) — Score: 8
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 435
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) — Score: 74
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1425
+- [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) — Score: 110
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) — Score: 254
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,012.0 🔴 -1.29%
-- Ethereum: $2,185.71 🔴 -2.82%
-- Solana: $82.52 🔴 -4.16%
-- Bnb: $602.18 🔴 -3.04%
+- Bitcoin: $71,060.0 🔴 -0.80%
+- Ethereum: $2,184.96 🔴 -2.33%
+- Solana: $82.31 🔴 -2.24%
+- Bnb: $600.63 🔴 -2.52%
 
 ---
 ## 📅 2026-04-08 (last updated: 19:45 IST)

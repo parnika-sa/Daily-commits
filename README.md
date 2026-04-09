@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-09 04:41:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-09 06:09:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-ai-edge/gallery**
-- BTC: **$71,012.0** ↓ (-1.29%)
+- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
+- BTC: **$71,060.0** ↓ (-0.80%)
 - HN top story: **LittleSnitch for Linux**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-06 00:02:25 UTC | `404374650ca3` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 04:41:13 UTC | `c0ee1b84aa50` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-08 23:23:25 UTC | `2397b0ddc74a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 11 | 2026-04-09 06:09:43 UTC | `97f10a78880f` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-09 06:09:44 UTC | `9bc40e9532da` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-09 06:09:43 UTC | `d41c88a637e1` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-09` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-09 07:31:12 IST` |
+| Last Commit (IST) | `2026-04-09 10:11:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-06 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-04-07 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-08 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-09 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-04-09 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,012.0 | -1.29% | 🔴 |
-| Ethereum | $2,185.71 | -2.82% | 🔴 |
-| Solana | $82.52 | -4.16% | 🔴 |
-| Bnb | $602.18 | -3.04% | 🔴 |
+| Bitcoin | $71,060.0 | -0.80% | 🔴 |
+| Ethereum | $2,184.96 | -2.33% | 🔴 |
+| Solana | $82.31 | -2.24% | 🔴 |
+| Bnb | $600.63 | -2.52% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 389 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 416 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,749 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [block/goose](https://github.com/block/goose) | Rust | 882 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 998 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | 355 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 76 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 124 stars today | No description |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 702 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 649 stars today | A specialized Claude Code workspace for creating long-form, SEO-optimized blog c… |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 853 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 586 stars today | PersonaPlex code. |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 501 stars today | No description |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 555 stars today | Create Reddit Videos with just✨ one command ✨ |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,028 stars today | An agentic skills framework & software development methodology that works. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 91 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) | 315 | 118 |
-| [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) | 1372 | 232 |
-| [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) | 61 | 5 |
-| [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) | 230 | 29 |
-| [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) | 8 | 0 |
+| [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) | 435 | 139 |
+| [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) | 74 | 4 |
+| [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) | 1425 | 243 |
+| [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) | 110 | 17 |
+| [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) | 254 | 31 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

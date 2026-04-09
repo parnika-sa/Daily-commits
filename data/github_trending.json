@@ -2,74 +2,80 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-06 00:02:25 UTC",
-    "fetched_at_ist": "2026-04-06 05:32:25 IST",
-    "item_count": 10,
-    "content_hash": "404374650ca33ad97aed73275184029dacd095fb5b47be6f425f3d2a79594abb",
-    "previous_hash": "22577da84449826b372f4bf49b94d231706e30541157918bf4b0ae7e434ce453",
-    "new_repos_vs_previous": 7,
+    "fetched_at_utc": "2026-04-09 06:09:43 UTC",
+    "fetched_at_ist": "2026-04-09 11:39:43 IST",
+    "item_count": 11,
+    "content_hash": "97f10a78880f6336355a3cbe3eb6ce9202670ce391f232e437d698555bebb3d4",
+    "previous_hash": "404374650ca33ad97aed73275184029dacd095fb5b47be6f425f3d2a79594abb",
+    "new_repos_vs_previous": 9,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars_today": "702 stars today"
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars_today": "649 stars today"
+    },
+    {
       "name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars_today": "389 stars today"
+      "stars_today": "853 stars today"
     },
     {
-      "name": "Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
       "language": "Python",
-      "stars_today": "416 stars today"
-    },
-    {
-      "name": "siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "language": "TypeScript",
-      "stars_today": "2,749 stars today"
-    },
-    {
-      "name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "882 stars today"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars_today": "998 stars today"
-    },
-    {
-      "name": "badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "language": "TypeScript",
-      "stars_today": "355 stars today"
-    },
-    {
-      "name": "dmtrKovalenko/fff.nvim",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "language": "Rust",
-      "stars_today": "76 stars today"
+      "stars_today": "586 stars today"
     },
     {
       "name": "google-ai-edge/LiteRT-LM",
       "description": "No description",
       "language": "C++",
-      "stars_today": "124 stars today"
+      "stars_today": "501 stars today"
     },
     {
-      "name": "telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "language": "C++",
-      "stars_today": "287 stars today"
+      "name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "stars_today": "555 stars today"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,028 stars today"
+    },
+    {
+      "name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars_today": "91 stars today"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "335 stars today"
+      "stars_today": "980 stars today"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "151 stars today"
+    },
+    {
+      "name": "goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars_today": "42 stars today"
     }
   ]
 }
