@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-09 11:29:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-09 12:09:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$71,066.0** ↓ (-0.79%)
+- Top GitHub repo: **NousResearch/hermes-agent**
+- BTC: **$71,194.0** ↓ (-0.72%)
 - HN top story: **LittleSnitch for Linux**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-04-09 06:09:43 UTC | `97f10a78880f` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 06:09:44 UTC | `9bc40e9532da` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-04-09 11:29:48 UTC | `388e47ad10b8` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 10 | 2026-04-09 12:09:38 UTC | `99250514ea51` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-09 12:09:40 UTC | `b1609eb15c79` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-04-09 12:09:39 UTC | `cf5b1d94ba38` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-09` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-09 15:45:27 IST` |
+| Last Commit (IST) | `2026-04-09 16:59:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-06 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-04-07 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-08 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-09 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-04-09 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,066.0 | -0.79% | 🔴 |
-| Ethereum | $2,179.64 | -3.20% | 🔴 |
-| Solana | $82.17 | -2.91% | 🔴 |
-| Bnb | $601.75 | -1.79% | 🔴 |
+| Bitcoin | $71,194.0 | -0.72% | 🔴 |
+| Ethereum | $2,180.92 | -3.10% | 🔴 |
+| Solana | $82.2 | -2.65% | 🔴 |
+| Bnb | $602.67 | -1.70% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 702 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 649 stars today | A specialized Claude Code workspace for creating long-form, SEO-optimized blog c… |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 853 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 586 stars today | PersonaPlex code. |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 501 stars today | No description |
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 555 stars today | Create Reddit Videos with just✨ one command ✨ |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,028 stars today | An agentic skills framework & software development methodology that works. |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 91 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 5,794 stars today | The agent that grows with you |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,371 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 1,306 stars today | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 460 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,012 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,318 stars today | An agentic skills framework & software development methodology that works. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 725 stars today | A specialized Claude Code workspace for creating long-form, SEO-optimized blog c… |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 138 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) | 435 | 139 |
-| [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) | 74 | 4 |
-| [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) | 1425 | 243 |
-| [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/) | 110 | 17 |
-| [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) | 254 | 31 |
+| [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) | 860 | 298 |
+| [Help Keep Thunderbird Alive](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/) | 169 | 101 |
+| [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) | 1653 | 287 |
+| [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) | 228 | 46 |
+| [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element) | 45 | 17 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

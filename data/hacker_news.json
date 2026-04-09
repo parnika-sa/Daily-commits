@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-09 06:09:44 UTC",
-    "fetched_at_ist": "2026-04-09 11:39:44 IST",
+    "fetched_at_utc": "2026-04-09 12:09:40 UTC",
+    "fetched_at_ist": "2026-04-09 17:39:40 IST",
     "item_count": 5,
-    "content_hash": "9bc40e9532da0e40f60e9fa26936f1cca656e3937f893b0d6f8d2af2ccfc12b2",
-    "previous_hash": "c0ee1b84aa5038661e188efe7c0dea9065aa6c96296724e85c6d67ba898bede3",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "b1609eb15c798dd5ca026a42e666228ebbf47a8aad81e8d842b3d9c707ab5923",
+    "previous_hash": "9bc40e9532da0e40f60e9fa26936f1cca656e3937f893b0d6f8d2af2ccfc12b2",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47697870,
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 435,
-      "comments": 139
+      "score": 860,
+      "comments": 298
     },
     {
-      "id": 47699181,
-      "title": "Open Source Security at Astral",
-      "url": "https://astral.sh/blog/open-source-security-at-astral",
-      "score": 74,
-      "comments": 4
+      "id": 47700388,
+      "title": "Help Keep Thunderbird Alive",
+      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "score": 169,
+      "comments": 101
     },
     {
       "id": 47691730,
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1425,
-      "comments": 243
+      "score": 1653,
+      "comments": 287
     },
     {
-      "id": 47666639,
-      "title": "The Importance of Being Idle",
-      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
-      "score": 110,
+      "id": 47699181,
+      "title": "Open Source Security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "score": 228,
+      "comments": 46
+    },
+    {
+      "id": 47701100,
+      "title": "Creating the Futurescape for the Fifth Element [2019]",
+      "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+      "score": 45,
       "comments": 17
-    },
-    {
-      "id": 47695012,
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 254,
-      "comments": 31
     }
   ]
 }

@@ -2,80 +2,74 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-09 06:09:43 UTC",
-    "fetched_at_ist": "2026-04-09 11:39:43 IST",
-    "item_count": 11,
-    "content_hash": "97f10a78880f6336355a3cbe3eb6ce9202670ce391f232e437d698555bebb3d4",
-    "previous_hash": "404374650ca33ad97aed73275184029dacd095fb5b47be6f425f3d2a79594abb",
-    "new_repos_vs_previous": 9,
+    "fetched_at_utc": "2026-04-09 12:09:38 UTC",
+    "fetched_at_ist": "2026-04-09 17:39:38 IST",
+    "item_count": 10,
+    "content_hash": "99250514ea51fdc963a433cbdb40220f40adf10583b444a6c06c42713403642e",
+    "previous_hash": "97f10a78880f6336355a3cbe3eb6ce9202670ce391f232e437d698555bebb3d4",
+    "new_repos_vs_previous": 7,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "5,794 stars today"
+    },
+    {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "702 stars today"
+      "stars_today": "1,371 stars today"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars_today": "649 stars today"
+      "stars_today": "1,306 stars today"
     },
     {
-      "name": "google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "language": "Kotlin",
-      "stars_today": "853 stars today"
-    },
-    {
-      "name": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "586 stars today"
+      "stars_today": "460 stars today"
     },
     {
-      "name": "google-ai-edge/LiteRT-LM",
-      "description": "No description",
-      "language": "C++",
-      "stars_today": "501 stars today"
-    },
-    {
-      "name": "elebumm/RedditVideoMakerBot",
-      "description": "Create Reddit Videos with just✨ one command ✨",
-      "language": "Python",
-      "stars_today": "555 stars today"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "1,012 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "2,028 stars today"
+      "stars_today": "2,318 stars today"
     },
     {
-      "name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
-      "stars_today": "91 stars today"
+      "stars_today": "725 stars today"
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars_today": "980 stars today"
+      "stars_today": "138 stars today"
     },
     {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "151 stars today"
+      "stars_today": "223 stars today"
     },
     {
-      "name": "goharbor/harbor",
-      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-      "language": "Go",
-      "stars_today": "42 stars today"
+      "name": "YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "language": "TypeScript",
+      "stars_today": "174 stars today"
     }
   ]
 }
