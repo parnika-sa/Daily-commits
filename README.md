@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-10 20:25:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-10 22:28:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/markitdown**
-- BTC: **$73,189.0** ↑ (+1.26%)
+- BTC: **$73,050.0** ↑ (+0.50%)
 - HN top story: **You can't trust macOS Privacy and Security settings**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-10 18:02:53 UTC | `6d711942a935` | +5 new repos, top changed: yes |
 | Hacker News | 5 | 2026-04-10 18:02:54 UTC | `ab2644e10396` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-10 20:25:54 UTC | `de2b28a4da21` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-10 22:28:38 UTC | `1eef5c13068a` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-11` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `38` day(s) |
-| Last Commit (IST) | `2026-04-11 02:31:36 IST` |
+| Last Commit (IST) | `2026-04-11 03:22:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-08 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-09 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-10 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-11 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-11 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,189.0 | +1.26% | 🟢 |
-| Ethereum | $2,253.09 | +1.57% | 🟢 |
-| Solana | $85.33 | +1.08% | 🟢 |
-| Bnb | $609.7 | +0.04% | 🟢 |
+| Bitcoin | $73,050.0 | +0.50% | 🟢 |
+| Ethereum | $2,248.17 | +1.00% | 🟢 |
+| Solana | $85.01 | -0.19% | 🔴 |
+| Bnb | $607.12 | -0.27% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
