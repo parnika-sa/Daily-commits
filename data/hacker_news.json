@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-10 10:44:19 UTC",
-    "fetched_at_ist": "2026-04-10 16:14:19 IST",
+    "fetched_at_utc": "2026-04-10 11:34:30 UTC",
+    "fetched_at_ist": "2026-04-10 17:04:30 IST",
     "item_count": 5,
-    "content_hash": "c725c4f9826a377f9bc2102f3c099c1ff13948246f5bd3dc5b2fbe12be5a8308",
-    "previous_hash": "752cec331f5adc2777cc3022ba59ce3bf0f173369e0dde36a373a87e8fc9b237",
+    "content_hash": "43f76100fd40c4558ac5c15dd42e615cfb2b30116b92bb38a44bb13d1a465e0a",
+    "previous_hash": "c725c4f9826a377f9bc2102f3c099c1ff13948246f5bd3dc5b2fbe12be5a8308",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47704804,
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 412,
-      "comments": 142
-    },
-    {
-      "id": 47713495,
-      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "score": 90,
-      "comments": 15
-    },
-    {
-      "id": 47712718,
-      "title": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "score": 204,
-      "comments": 177
+      "id": 47716043,
+      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "score": 248,
+      "comments": 94
     },
     {
       "id": 47715339,
       "title": "Show HN: Keeper – embedded secret store for Go (help me break it)",
       "url": "https://github.com/agberohq/keeper",
-      "score": 13,
-      "comments": 0
+      "score": 27,
+      "comments": 4
     },
     {
-      "id": 47708818,
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 525,
-      "comments": 241
+      "id": 47704804,
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "score": 424,
+      "comments": 166
+    },
+    {
+      "id": 47674894,
+      "title": "Model-Based Testing for Dungeons & Dragons",
+      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+      "score": 33,
+      "comments": 5
+    },
+    {
+      "id": 47713495,
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "score": 114,
+      "comments": 21
     }
   ]
 }

@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-10 (last updated: 16:14 IST)
+
+## 📅 2026-04-10 (last updated: 17:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-09 17:39:38 IST | 99250514ea51 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-10 16:14:19 IST | c725c4f9826a | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-10 17:04:30 IST | 43f76100fd40 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-10 04:54:12 IST | d18b5664d23e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,012 stars today
 
 ### 📰 Hacker News Stories
-- [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) — Score: 412
-- [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html) — Score: 90
-- [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/) — Score: 204
-- [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper) — Score: 13
-- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) — Score: 525
+- [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/) — Score: 248
+- [Show HN: Keeper – embedded secret store for Go (help me break it)](https://github.com/agberohq/keeper) — Score: 27
+- [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) — Score: 424
+- [Model-Based Testing for Dungeons & Dragons](https://www.loskutoff.com/blog/model-based-testing-dnd/) — Score: 33
+- [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html) — Score: 114
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,844.0 🟢 +1.04%
