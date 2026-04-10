@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-10 02:32:07 UTC",
-    "fetched_at_ist": "2026-04-10 08:02:07 IST",
+    "fetched_at_utc": "2026-04-10 08:44:49 UTC",
+    "fetched_at_ist": "2026-04-10 14:14:49 IST",
     "item_count": 5,
-    "content_hash": "cf1537c49314c6cf660bc92d31a34165dc8180c0b6041dba97813efb2f4a8f48",
-    "previous_hash": "02ff9dd643fa6fde9e398cdf1294cabd5d1f189d9b871eb5e0756e25bf83b0f3",
+    "content_hash": "752cec331f5adc2777cc3022ba59ce3bf0f173369e0dde36a373a87e8fc9b237",
+    "previous_hash": "cf1537c49314c6cf660bc92d31a34165dc8180c0b6041dba97813efb2f4a8f48",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47708818,
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 328,
-      "comments": 157
-    },
     {
       "id": 47704804,
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 99,
-      "comments": 32
+      "score": 340,
+      "comments": 116
     },
     {
-      "id": 47709158,
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
-      "score": 135,
-      "comments": 22
+      "id": 47712718,
+      "title": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "score": 137,
+      "comments": 121
     },
     {
-      "id": 47708041,
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 155,
-      "comments": 22
+      "id": 47708818,
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "score": 480,
+      "comments": 216
+    },
+    {
+      "id": 47712656,
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "score": 104,
+      "comments": 222
     },
     {
       "id": 47675906,
-      "title": "Generative Art over the Years",
+      "title": "Generative art over the years",
       "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "score": 13,
-      "comments": 1
+      "score": 132,
+      "comments": 29
     }
   ]
 }
