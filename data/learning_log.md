@@ -22,44 +22,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-10 (last updated: 18:03 IST)
+
+## 📅 2026-04-10 (last updated: 23:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-09 17:39:38 IST | 99250514ea51 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-10 18:03:26 IST | 3be792a4c215 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-10 04:54:12 IST | d18b5664d23e | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-04-10 23:32:53 IST | 6d711942a935 | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-10 23:32:54 IST | ab2644e10396 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-10 23:32:53 IST | 6cfa9c71fa23 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
+  ⭐ 2,353 stars today
+- **[coleam00/Archon](https://github.com/coleam00/Archon)** (TypeScript) — The first open-source harness builder for AI coding. Make AI coding deterministi  
+  ⭐ 756 stars today
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 5,794 stars today
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 1,371 stars today
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** (Python) — "DeepTutor: Agent-Native Personalized Learning Assistant"  
-  ⭐ 1,306 stars today
-- **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** (Python) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  
-  ⭐ 460 stars today
-- **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
-  ⭐ 1,012 stars today
+  ⭐ 7,674 stars today
+- **[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)** (TypeScript) — Open-source AI coworker, with memory  
+  ⭐ 498 stars today
+- **[multica-ai/multica](https://github.com/multica-ai/multica)** (TypeScript) — The open-source managed agents platform. Turn coding agents into real teammates   
+  ⭐ 1,544 stars today
 
 ### 📰 Hacker News Stories
-- [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/) — Score: 530
-- [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/) — Score: 23
-- [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/) — Score: 148
-- [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) — Score: 445
-- [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html) — Score: 142
+- [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/) — Score: 220
+- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) — Score: 160
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 198
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) — Score: 100
+- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) — Score: 106
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,844.0 🟢 +1.04%
-- Ethereum: $2,194.63 🟢 +0.20%
-- Solana: $83.74 🟢 +1.29%
-- Bnb: $604.37 🟢 +0.15%
+- Bitcoin: $73,121.0 🟢 +1.58%
+- Ethereum: $2,248.44 🟢 +1.78%
+- Solana: $84.88 🟢 +0.37%
+- Bnb: $607.53 🟢 +0.16%
 
 ---
 ## 📅 2026-04-09 (last updated: 17:39 IST)

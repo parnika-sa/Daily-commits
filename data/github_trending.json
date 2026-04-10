@@ -2,74 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-09 12:09:38 UTC",
-    "fetched_at_ist": "2026-04-09 17:39:38 IST",
-    "item_count": 10,
-    "content_hash": "99250514ea51fdc963a433cbdb40220f40adf10583b444a6c06c42713403642e",
-    "previous_hash": "97f10a78880f6336355a3cbe3eb6ce9202670ce391f232e437d698555bebb3d4",
-    "new_repos_vs_previous": 7,
+    "fetched_at_utc": "2026-04-10 18:02:53 UTC",
+    "fetched_at_ist": "2026-04-10 23:32:53 IST",
+    "item_count": 12,
+    "content_hash": "6d711942a935ed7ffcd66d748ce7ed568a7a80ac124f42052ba301e7fcc4564d",
+    "previous_hash": "99250514ea51fdc963a433cbdb40220f40adf10583b444a6c06c42713403642e",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "5,794 stars today"
-    },
-    {
-      "name": "forrestchang/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "Unknown",
-      "stars_today": "1,371 stars today"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "language": "Python",
-      "stars_today": "1,306 stars today"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars_today": "460 stars today"
-    },
-    {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "stars_today": "1,012 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "2,318 stars today"
-    },
-    {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "language": "Python",
-      "stars_today": "725 stars today"
+      "stars_today": "2,353 stars today"
     },
     {
       "name": "coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars_today": "138 stars today"
+      "stars_today": "756 stars today"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "7,674 stars today"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars_today": "498 stars today"
+    },
+    {
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars_today": "1,544 stars today"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars_today": "1,454 stars today"
     },
     {
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "223 stars today"
+      "stars_today": "602 stars today"
     },
     {
-      "name": "YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "language": "TypeScript",
-      "stars_today": "174 stars today"
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars_today": "1,426 stars today"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "1,309 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,150 stars today"
+    },
+    {
+      "name": "jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars_today": "48 stars today"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars_today": "1,248 stars today"
     }
   ]
 }

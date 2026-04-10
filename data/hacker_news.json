@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-10 12:33:26 UTC",
-    "fetched_at_ist": "2026-04-10 18:03:26 IST",
+    "fetched_at_utc": "2026-04-10 18:02:54 UTC",
+    "fetched_at_ist": "2026-04-10 23:32:54 IST",
     "item_count": 5,
-    "content_hash": "3be792a4c215d1e98aa531703eca51d60bdc9105e55e04f93587af96721aa5f5",
-    "previous_hash": "43f76100fd40c4558ac5c15dd42e615cfb2b30116b92bb38a44bb13d1a465e0a",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "ab2644e103961f78ba9e1a649157280ed60d49665b7e5d8a395c27501e236390",
+    "previous_hash": "3be792a4c215d1e98aa531703eca51d60bdc9105e55e04f93587af96721aa5f5",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47716043,
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "score": 530,
-      "comments": 203
+      "id": 47719602,
+      "title": "You can't trust macOS Privacy and Security settings",
+      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "score": 220,
+      "comments": 93
     },
     {
-      "id": 47716809,
-      "title": "Intel 486 CPU announced April 10, 1989",
-      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
-      "score": 23,
-      "comments": 1
+      "id": 47719942,
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "score": 160,
+      "comments": 63
     },
     {
-      "id": 47716412,
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "score": 148,
-      "comments": 33
+      "id": 47719740,
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 198,
+      "comments": 42
     },
     {
-      "id": 47704804,
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 445,
-      "comments": 172
+      "id": 47720419,
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "score": 100,
+      "comments": 19
     },
     {
-      "id": 47713495,
-      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-      "score": 142,
-      "comments": 31
+      "id": 47719274,
+      "title": "Helium Is Hard to Replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "score": 106,
+      "comments": 57
     }
   ]
 }
