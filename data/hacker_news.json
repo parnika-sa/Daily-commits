@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-09 22:36:46 UTC",
-    "fetched_at_ist": "2026-04-10 04:06:46 IST",
+    "fetched_at_utc": "2026-04-10 02:32:07 UTC",
+    "fetched_at_ist": "2026-04-10 08:02:07 IST",
     "item_count": 5,
-    "content_hash": "02ff9dd643fa6fde9e398cdf1294cabd5d1f189d9b871eb5e0756e25bf83b0f3",
-    "previous_hash": "b1609eb15c798dd5ca026a42e666228ebbf47a8aad81e8d842b3d9c707ab5923",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "cf1537c49314c6cf660bc92d31a34165dc8180c0b6041dba97813efb2f4a8f48",
+    "previous_hash": "02ff9dd643fa6fde9e398cdf1294cabd5d1f189d9b871eb5e0756e25bf83b0f3",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47708818,
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 189,
-      "comments": 92
+      "score": 328,
+      "comments": 157
     },
     {
-      "id": 47709130,
-      "title": "Reverse engineering Gemini's SynthID detection",
-      "url": "https://github.com/aloshdenny/reverse-SynthID",
-      "score": 73,
-      "comments": 30
+      "id": 47704804,
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "score": 99,
+      "comments": 32
     },
     {
       "id": 47709158,
       "title": "Charcuterie – Visual similarity Unicode explorer",
       "url": "https://charcuterie.elastiq.ch/",
-      "score": 55,
-      "comments": 6
+      "score": 135,
+      "comments": 22
     },
     {
       "id": 47708041,
       "title": "PicoZ80 – Drop-In Z80 Replacement",
       "url": "https://eaw.app/picoz80/",
-      "score": 91,
-      "comments": 18
+      "score": 155,
+      "comments": 22
     },
     {
-      "id": 47707762,
-      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "url": "https://hegel.dev",
-      "score": 63,
-      "comments": 24
+      "id": 47675906,
+      "title": "Generative Art over the Years",
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "score": 13,
+      "comments": 1
     }
   ]
 }
