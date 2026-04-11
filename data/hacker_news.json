@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 12:00:31 UTC",
-    "fetched_at_ist": "2026-04-11 17:30:31 IST",
+    "fetched_at_utc": "2026-04-11 18:31:48 UTC",
+    "fetched_at_ist": "2026-04-12 00:01:48 IST",
     "item_count": 5,
-    "content_hash": "7144d430b5742588caff5b637178663c7e405653e6a868e5a4de61ed9743b823",
-    "previous_hash": "ffc4420cf06d1feea17fd27d8540a2401347e0308a0b25122c4edb7debd422e6",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "58ab90bc03da0166de4ce21d2dcc9a32a7ecf66369c9c77c912e6af7a912065c",
+    "previous_hash": "7144d430b5742588caff5b637178663c7e405653e6a868e5a4de61ed9743b823",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47724352,
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 922,
-      "comments": 439
+      "id": 47732020,
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 246,
+      "comments": 76
     },
     {
-      "id": 47695213,
-      "title": "Optimal Strategy for Connect 4",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 71,
+      "id": 47731506,
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "score": 96,
+      "comments": 14
+    },
+    {
+      "id": 47730194,
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 177,
+      "comments": 86
+    },
+    {
+      "id": 47731838,
+      "title": "Keeping a Postgres Queue Healthy",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "score": 32,
+      "comments": 1
+    },
+    {
+      "id": 47694064,
+      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "score": 33,
       "comments": 11
-    },
-    {
-      "id": 47698455,
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "url": "https://playstarfling.com",
-      "score": 231,
-      "comments": 68
-    },
-    {
-      "id": 47719740,
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 850,
-      "comments": 146
-    },
-    {
-      "id": 47687443,
-      "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
-      "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 113,
-      "comments": 9
     }
   ]
 }
