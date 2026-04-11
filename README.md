@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-11 11:43:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-11 12:00:31 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/markitdown**
-- BTC: **$72,866.0** ↑ (+1.58%)
+- Top GitHub repo: **NousResearch/hermes-agent**
+- BTC: **$72,916.0** ↑ (+1.10%)
 - HN top story: **Filing the corners off my MacBooks**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-04-10 18:02:53 UTC | `6d711942a935` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-11 11:43:49 UTC | `ffc4420cf06d` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-04-11 10:26:28 UTC | `9f927b7eab72` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-11 12:00:30 UTC | `fe5e4dddc8f0` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-11 12:00:31 UTC | `7144d430b574` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-11 12:00:30 UTC | `662f986e763f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-11` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-11 16:31:28 IST` |
+| Last Commit (IST) | `2026-04-11 17:13:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-08 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-09 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-10 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-11 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-04-11 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,866.0 | +1.58% | 🟢 |
-| Ethereum | $2,241.81 | +2.27% | 🟢 |
-| Solana | $84.26 | +1.04% | 🟢 |
-| Bnb | $606.26 | +0.89% | 🟢 |
+| Bitcoin | $72,916.0 | +1.10% | 🟢 |
+| Ethereum | $2,246.58 | +1.37% | 🟢 |
+| Solana | $84.23 | +0.72% | 🟢 |
+| Bnb | $605.37 | +0.47% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,353 stars today | Python tool for converting files and office documents to Markdown. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,671 stars today | The agent that grows with you |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,352 stars today | Python tool for converting files and office documents to Markdown. |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 756 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,674 stars today | The agent that grows with you |
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 498 stars today | Open-source AI coworker, with memory |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,544 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,454 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 602 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 1,426 stars today | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,450 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,506 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,251 stars today | practice made claude perfect |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 472 stars today | 所有小初高、大学PDF教材。 |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 953 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) | 900 | 431 |
-| [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/) | 63 | 11 |
-| [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com) | 221 | 61 |
-| [1D Chess](https://rowan441.github.io/1dchess/chess.html) | 845 | 145 |
-| [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62) | 102 | 9 |
+| [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) | 922 | 439 |
+| [Optimal Strategy for Connect 4](https://2swap.github.io/WeakC4/explanation/) | 71 | 11 |
+| [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com) | 231 | 68 |
+| [1D Chess](https://rowan441.github.io/1dchess/chess.html) | 850 | 146 |
+| [Volunteers turn a fan's recordings of 10K concerts into an online treasure trove](https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62) | 113 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
