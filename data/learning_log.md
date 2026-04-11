@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-11 (last updated: 12:06 IST)
+
+## 📅 2026-04-11 (last updated: 13:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-10 23:32:53 IST | 6d711942a935 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-11 12:06:10 IST | 20af40f6c862 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-11 13:06:37 IST | ca19a9fa569b | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-11 10:55:32 IST | cad2850247c1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,544 stars today
 
 ### 📰 Hacker News Stories
-- [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html) — Score: 61
-- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) — Score: 635
-- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) — Score: 747
-- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 760
-- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) — Score: 300
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) — Score: 682
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) — Score: 801
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 777
+- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension) — Score: 328
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) — Score: 306
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,793.0 🟢 +0.77%
