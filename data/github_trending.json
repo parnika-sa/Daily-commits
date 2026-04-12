@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-12 06:14:09 UTC",
-    "fetched_at_ist": "2026-04-12 11:44:09 IST",
-    "item_count": 13,
-    "content_hash": "8ce404661e12ce4adad63f5234f8dc8ced7f4ca7be1961dd97506575498f3d6b",
-    "previous_hash": "fe5e4dddc8f043e920cbf6737fa2ae147c35d49acb2030556c9762cc0bc6597e",
-    "new_repos_vs_previous": 0,
+    "fetched_at_utc": "2026-04-12 12:01:49 UTC",
+    "fetched_at_ist": "2026-04-12 17:31:49 IST",
+    "item_count": 14,
+    "content_hash": "b2084e065ccc1d327eb019dcfb38056100cee1ffacdeee088b1b2a6aee64759d",
+    "previous_hash": "8ce404661e12ce4adad63f5234f8dc8ced7f4ca7be1961dd97506575498f3d6b",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": false
   },
   "repos": [
@@ -18,16 +18,10 @@
       "stars_today": "6,438 stars today"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "3,086 stars today"
-    },
-    {
-      "name": "coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "language": "TypeScript",
-      "stars_today": "1,346 stars today"
+      "stars_today": "595 stars today"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
@@ -36,10 +30,22 @@
       "stars_today": "1,066 stars today"
     },
     {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": "3,086 stars today"
+    },
+    {
       "name": "multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "stars_today": "1,948 stars today"
+    },
+    {
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars_today": "1,346 stars today"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
@@ -48,46 +54,46 @@
       "stars_today": "1,475 stars today"
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_today": "361 stars today"
-    },
-    {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "stars_today": "1,084 stars today"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars_today": "671 stars today"
+    },
+    {
+      "name": "ahujasid/blender-mcp",
+      "description": "No description",
       "language": "Python",
-      "stars_today": "595 stars today"
+      "stars_today": "228 stars today"
     },
     {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "stars_today": "775 stars today"
+      "name": "rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars_today": "271 stars today"
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_today": "837 stars today"
+      "stars_today": "696 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,591 stars today"
+      "name": "snarktank/ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "language": "TypeScript",
+      "stars_today": "112 stars today"
     },
     {
-      "name": "alexpate/awesome-design-systems",
-      "description": "💅🏻 ⚒ A collection of awesome design systems",
-      "language": "Unknown",
-      "stars_today": "2,050 stars today"
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "361 stars today"
     }
   ]
 }

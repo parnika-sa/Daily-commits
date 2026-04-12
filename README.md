@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-12 11:33:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-12 12:01:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$71,747.0** ↓ (-1.32%)
-- HN top story: **MiniMax M2.7 Is Now Open Source**
+- BTC: **$71,484.0** ↓ (-2.00%)
+- HN top story: **JVM Options Explorer**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-12 06:14:09 UTC | `8ce404661e12` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-12 11:33:43 UTC | `a3cdf8d2878a` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-12 06:14:10 UTC | `15fc6fbafa2a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-04-12 12:01:49 UTC | `b2084e065ccc` | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-12 12:01:50 UTC | `c1b2268cec41` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-12 12:01:49 UTC | `0bd07b59a210` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-12` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-12 16:27:47 IST` |
+| Last Commit (IST) | `2026-04-12 17:03:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-09 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-10 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-11 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-04-12 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-04-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,747.0 | -1.32% | 🔴 |
-| Ethereum | $2,220.35 | -0.59% | 🔴 |
-| Solana | $82.43 | -1.92% | 🔴 |
-| Bnb | $595.89 | -1.51% | 🔴 |
+| Bitcoin | $71,484.0 | -2.00% | 🔴 |
+| Ethereum | $2,204.85 | -1.83% | 🔴 |
+| Solana | $82.22 | -2.37% | 🔴 |
+| Bnb | $595.6 | -1.64% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 6,438 stars today | The agent that grows with you |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 3,086 stars today | Python tool for converting files and office documents to Markdown. |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 1,346 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 595 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,066 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 3,086 stars today | Python tool for converting files and office documents to Markdown. |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,948 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 1,346 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,475 stars today | practice made claude perfect |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 361 stars today | 所有小初高、大学PDF教材。 |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,084 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/) | 63 | 16 |
-| [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) | 16 | 5 |
-| [What have been the greatest intellectual achievements?](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html) | 9 | 2 |
-| [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026) | 48 | 18 |
-| [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/) | 36 | 28 |
+| [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) | 26 | 8 |
+| [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html) | 19 | 9 |
+| [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026) | 51 | 18 |
+| [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/) | 39 | 31 |
+| [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/) | 32 | 10 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

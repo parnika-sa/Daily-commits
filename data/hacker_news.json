@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 11:33:43 UTC",
-    "fetched_at_ist": "2026-04-12 17:03:43 IST",
+    "fetched_at_utc": "2026-04-12 12:01:50 UTC",
+    "fetched_at_ist": "2026-04-12 17:31:50 IST",
     "item_count": 5,
-    "content_hash": "a3cdf8d2878a9447ae9058fdc642c1c4b505b388727481be0b63cba623b647a7",
-    "previous_hash": "59c55b7d2fb320788fd28e6b5c946f71ba33a85b62c096e54e8e0395356ace49",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c1b2268cec4121d5fb5ff784c4e80ea9f0729e2eb792bb609ad0ab6700388fe8",
+    "previous_hash": "a3cdf8d2878a9447ae9058fdc642c1c4b505b388727481be0b63cba623b647a7",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47737928,
-      "title": "MiniMax M2.7 Is Now Open Source",
-      "url": "https://firethering.com/minimax-m2-7-agentic-model/",
-      "score": 63,
-      "comments": 16
-    },
-    {
       "id": 47738094,
       "title": "JVM Options Explorer",
       "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 16,
-      "comments": 5
+      "score": 26,
+      "comments": 8
     },
     {
       "id": 47738196,
-      "title": "What have been the greatest intellectual achievements?",
+      "title": "What have been the greatest intellectual achievements? (2017)",
       "url": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
-      "score": 9,
-      "comments": 2
+      "score": 19,
+      "comments": 9
     },
     {
       "id": 47706423,
       "title": "An Interview with Pat Gelsinger",
       "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "score": 48,
+      "score": 51,
       "comments": 18
     },
     {
       "id": 47674910,
       "title": "The Miller Principle (2007)",
       "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "score": 36,
-      "comments": 28
+      "score": 39,
+      "comments": 31
+    },
+    {
+      "id": 47737376,
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "score": 32,
+      "comments": 10
     }
   ]
 }
