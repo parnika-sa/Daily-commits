@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 13:33:26 UTC",
-    "fetched_at_ist": "2026-04-12 19:03:26 IST",
+    "fetched_at_utc": "2026-04-12 18:35:22 UTC",
+    "fetched_at_ist": "2026-04-13 00:05:22 IST",
     "item_count": 5,
-    "content_hash": "2f4882217ee18bffeded990a7b967e8cc97b7f62885b3b0b56a176e1874ee64d",
-    "previous_hash": "c1b2268cec4121d5fb5ff784c4e80ea9f0729e2eb792bb609ad0ab6700388fe8",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "81cde92eab3562bced2c4db79d875f11fcc556c5967b20ca6862fc4e726b9b0f",
+    "previous_hash": "2f4882217ee18bffeded990a7b967e8cc97b7f62885b3b0b56a176e1874ee64d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47739260,
-      "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 54,
-      "comments": 6
+      "id": 47742680,
+      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps",
+      "url": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+      "score": 57,
+      "comments": 13
     },
     {
-      "id": 47738094,
-      "title": "JVM Options Explorer",
-      "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 64,
-      "comments": 34
+      "id": 47742200,
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "score": 52,
+      "comments": 33
     },
     {
-      "id": 47737563,
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "score": 115,
-      "comments": 176
+      "id": 47738827,
+      "title": "Bring Back Idiomatic Design",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 255,
+      "comments": 129
     },
     {
-      "id": 47675444,
-      "title": "Happy Map",
-      "url": "https://pudding.cool/2026/02/happy-map/",
-      "score": 60,
+      "id": 47702887,
+      "title": "Most people can't juggle one ball",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "score": 33,
       "comments": 11
     },
     {
-      "id": 47737376,
-      "title": "Phyphox – Physical Experiments Using a Smartphone",
-      "url": "https://phyphox.org/",
-      "score": 70,
-      "comments": 16
+      "id": 47719490,
+      "title": "I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
+      "score": 81,
+      "comments": 14
     }
   ]
 }
