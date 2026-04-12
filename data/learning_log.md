@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-13 (last updated: 00:57 IST)
+
+## 📅 2026-04-13 (last updated: 02:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 17:31:49 IST | b2084e065ccc | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-13 00:05:22 IST | 81cde92eab35 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-13 02:06:21 IST | 5acd42bcceaa | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-13 00:57:05 IST | 2974369f44c4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,948 stars today
 
 ### 📰 Hacker News Stories
-- [Apple has removed most of the towns and villages in Lebanon from Apple maps](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193) — Score: 57
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) — Score: 52
-- [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) — Score: 255
-- [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) — Score: 33
-- [I gave every train in New York an instrument](https://www.trainjazz.com/) — Score: 81
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) — Score: 25
+- [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) — Score: 338
+- [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) — Score: 123
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) — Score: 163
+- [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband) — Score: 45
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,183.0 🔴 -3.35%
