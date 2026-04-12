@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-12 (last updated: 11:44 IST)
+
+## 📅 2026-04-12 (last updated: 13:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-12 11:44:09 IST | 8ce404661e12 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-12 11:44:11 IST | 23f4ffbffde5 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-12 13:14:41 IST | f1f0659cb045 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-12 11:44:10 IST | 15fc6fbafa2a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,948 stars today
 
 ### 📰 Hacker News Stories
-- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) — Score: 114
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 968
-- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) — Score: 51
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) — Score: 318
-- [How Complex is my Code?](https://philodev.one/posts/2026-04-code-complexity/) — Score: 82
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 1020
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) — Score: 138
+- [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) — Score: 30
+- [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/) — Score: 26
+- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) — Score: 99
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,747.0 🔴 -1.32%
