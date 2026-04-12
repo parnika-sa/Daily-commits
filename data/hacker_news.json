@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 04:41:01 UTC",
-    "fetched_at_ist": "2026-04-12 10:11:01 IST",
+    "fetched_at_utc": "2026-04-12 06:14:11 UTC",
+    "fetched_at_ist": "2026-04-12 11:44:11 IST",
     "item_count": 5,
-    "content_hash": "55e832cba3a846870ab7978832bfbc3c7934bf58cbd40063ef28bdea78740324",
-    "previous_hash": "58ab90bc03da0166de4ce21d2dcc9a32a7ecf66369c9c77c912e6af7a912065c",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "23f4ffbffde53cee324b16c11e0da03cb66071c0e126bc2ed7ec92a5d8a67034",
+    "previous_hash": "55e832cba3a846870ab7978832bfbc3c7934bf58cbd40063ef28bdea78740324",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47735535,
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 80,
-      "comments": 32
+      "score": 114,
+      "comments": 59
     },
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 921,
-      "comments": 255
+      "score": 968,
+      "comments": 261
+    },
+    {
+      "id": 47736298,
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "score": 51,
+      "comments": 23
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 283,
-      "comments": 81
+      "score": 318,
+      "comments": 87
     },
     {
       "id": 47673171,
       "title": "How Complex is my Code?",
       "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 60,
-      "comments": 8
-    },
-    {
-      "id": 47733561,
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 166,
-      "comments": 83
+      "score": 82,
+      "comments": 15
     }
   ]
 }

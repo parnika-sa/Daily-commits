@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-12 04:41:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-12 06:14:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$73,425.0** ↑ (+0.54%)
+- BTC: **$71,747.0** ↓ (-1.32%)
 - HN top story: **The End of Eleventy**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-11 12:00:30 UTC | `fe5e4dddc8f0` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-12 04:41:01 UTC | `55e832cba3a8` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-11 22:28:35 UTC | `3d0d60e571ac` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-12 06:14:09 UTC | `8ce404661e12` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-12 06:14:11 UTC | `23f4ffbffde5` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-12 06:14:10 UTC | `15fc6fbafa2a` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-12` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-12 07:18:38 IST` |
+| Last Commit (IST) | `2026-04-12 10:11:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-09 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-10 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-11 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-04-12 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-12 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,425.0 | +0.54% | 🟢 |
-| Ethereum | $2,304.36 | +2.50% | 🟢 |
-| Solana | $85.68 | +0.77% | 🟢 |
-| Bnb | $611.28 | +0.66% | 🟢 |
+| Bitcoin | $71,747.0 | -1.32% | 🔴 |
+| Ethereum | $2,220.35 | -0.59% | 🔴 |
+| Solana | $82.43 | -1.92% | 🔴 |
+| Bnb | $595.89 | -1.51% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,671 stars today | The agent that grows with you |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,352 stars today | Python tool for converting files and office documents to Markdown. |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 756 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,450 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,506 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,251 stars today | practice made claude perfect |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 472 stars today | 所有小初高、大学PDF教材。 |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 953 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 6,438 stars today | The agent that grows with you |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 3,086 stars today | Python tool for converting files and office documents to Markdown. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 1,346 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,066 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,948 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,475 stars today | practice made claude perfect |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 361 stars today | 所有小初高、大学PDF教材。 |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,084 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) | 80 | 32 |
-| [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) | 921 | 255 |
-| [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) | 283 | 81 |
-| [How Complex is my Code?](https://philodev.one/posts/2026-04-code-complexity/) | 60 | 8 |
-| [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) | 166 | 83 |
+| [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) | 114 | 59 |
+| [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) | 968 | 261 |
+| [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) | 51 | 23 |
+| [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) | 318 | 87 |
+| [How Complex is my Code?](https://philodev.one/posts/2026-04-code-complexity/) | 82 | 15 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
