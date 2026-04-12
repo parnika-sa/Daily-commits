@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 12:01:50 UTC",
-    "fetched_at_ist": "2026-04-12 17:31:50 IST",
+    "fetched_at_utc": "2026-04-12 13:33:26 UTC",
+    "fetched_at_ist": "2026-04-12 19:03:26 IST",
     "item_count": 5,
-    "content_hash": "c1b2268cec4121d5fb5ff784c4e80ea9f0729e2eb792bb609ad0ab6700388fe8",
-    "previous_hash": "a3cdf8d2878a9447ae9058fdc642c1c4b505b388727481be0b63cba623b647a7",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "2f4882217ee18bffeded990a7b967e8cc97b7f62885b3b0b56a176e1874ee64d",
+    "previous_hash": "c1b2268cec4121d5fb5ff784c4e80ea9f0729e2eb792bb609ad0ab6700388fe8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47739260,
+      "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+      "url": "https://github.com/anthropics/claude-code/issues/45756",
+      "score": 54,
+      "comments": 6
+    },
+    {
       "id": 47738094,
       "title": "JVM Options Explorer",
       "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 26,
-      "comments": 8
+      "score": 64,
+      "comments": 34
     },
     {
-      "id": 47738196,
-      "title": "What have been the greatest intellectual achievements? (2017)",
-      "url": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
-      "score": 19,
-      "comments": 9
+      "id": 47737563,
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "score": 115,
+      "comments": 176
     },
     {
-      "id": 47706423,
-      "title": "An Interview with Pat Gelsinger",
-      "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "score": 51,
-      "comments": 18
-    },
-    {
-      "id": 47674910,
-      "title": "The Miller Principle (2007)",
-      "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "score": 39,
-      "comments": 31
+      "id": 47675444,
+      "title": "Happy Map",
+      "url": "https://pudding.cool/2026/02/happy-map/",
+      "score": 60,
+      "comments": 11
     },
     {
       "id": 47737376,
       "title": "Phyphox – Physical Experiments Using a Smartphone",
       "url": "https://phyphox.org/",
-      "score": 32,
-      "comments": 10
+      "score": 70,
+      "comments": 16
     }
   ]
 }
