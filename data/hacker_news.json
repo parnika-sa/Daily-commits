@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 07:44:41 UTC",
-    "fetched_at_ist": "2026-04-12 13:14:41 IST",
+    "fetched_at_utc": "2026-04-12 08:30:11 UTC",
+    "fetched_at_ist": "2026-04-12 14:00:11 IST",
     "item_count": 5,
-    "content_hash": "f1f0659cb0455482a6c98376cd603c7f1b9d46a8439c836166198a8d56131ddd",
-    "previous_hash": "23f4ffbffde53cee324b16c11e0da03cb66071c0e126bc2ed7ec92a5d8a67034",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "d42078be629bd2550c3e7c1a9e96f175d8d912c8a4522757fe83e822d9ebe853",
+    "previous_hash": "f1f0659cb0455482a6c98376cd603c7f1b9d46a8439c836166198a8d56131ddd",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1020,
-      "comments": 275
-    },
-    {
-      "id": 47735535,
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 138,
-      "comments": 82
+      "score": 1050,
+      "comments": 286
     },
     {
       "id": 47736555,
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 30,
-      "comments": 6
+      "score": 100,
+      "comments": 58
+    },
+    {
+      "id": 47735535,
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "score": 149,
+      "comments": 102
     },
     {
       "id": 47672718,
       "title": "Tofolli gates are all you need",
       "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 26,
-      "comments": 1
+      "score": 34,
+      "comments": 6
     },
     {
       "id": 47736298,
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 99,
-      "comments": 60
+      "score": 118,
+      "comments": 82
     }
   ]
 }
