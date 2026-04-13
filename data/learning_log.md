@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 23:06 IST)
+
+## 📅 2026-04-14 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 17:31:49 IST | b2084e065ccc | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-13 23:06:09 IST | b421fb332e01 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-14 04:06:32 IST | 387f113f4993 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-13 21:52:13 IST | 65c391056a4e | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,948 stars today
 
 ### 📰 Hacker News Stories
-- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 164
-- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety) — Score: 66
-- [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) — Score: 95
-- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) — Score: 281
-- [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion) — Score: 32
+- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 521
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 262
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 326
+- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) — Score: 99
+- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) — Score: 125
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,137.0 🟢 +1.71%
