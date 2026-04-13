@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-13 22:36:32 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-13 23:27:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$72,137.0** ↑ (+1.71%)
+- BTC: **$74,739.0** ↑ (+5.66%)
 - HN top story: **Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 12:01:49 UTC | `b2084e065ccc` | +5 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-13 22:36:32 UTC | `387f113f4993` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-13 16:22:13 UTC | `65c391056a4e` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-04-13 23:27:50 UTC | `48514758c8dd` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +5 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-14` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `38` day(s) |
-| Last Commit (IST) | `2026-04-14 03:23:50 IST` |
+| Last Commit (IST) | `2026-04-14 04:06:32 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-11 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-04-12 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-04-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-04-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-14 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,137.0 | +1.71% | 🟢 |
-| Ethereum | $2,222.1 | +1.62% | 🟢 |
-| Solana | $83.07 | +1.75% | 🟢 |
-| Bnb | $605.63 | +2.31% | 🟢 |
+| Bitcoin | $74,739.0 | +5.66% | 🟢 |
+| Ethereum | $2,376.73 | +8.42% | 🟢 |
+| Solana | $86.51 | +6.06% | 🟢 |
+| Bnb | $616.91 | +4.14% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
