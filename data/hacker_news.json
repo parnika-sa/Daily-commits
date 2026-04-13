@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 20:36:21 UTC",
-    "fetched_at_ist": "2026-04-13 02:06:21 IST",
+    "fetched_at_utc": "2026-04-13 13:42:43 UTC",
+    "fetched_at_ist": "2026-04-13 19:12:43 IST",
     "item_count": 5,
-    "content_hash": "5acd42bcceaa4e1f265fe31d610d8fe4047b0036e7db97a8c1d0fc4cb2b2a308",
-    "previous_hash": "81cde92eab3562bced2c4db79d875f11fcc556c5967b20ca6862fc4e726b9b0f",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "4036fa514d0cd5a8c873b63b75cd9184f41438d88a37c80eaecd5ddf9c028ec0",
+    "previous_hash": "5acd42bcceaa4e1f265fe31d610d8fe4047b0036e7db97a8c1d0fc4cb2b2a308",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47743628,
-      "title": "The peril of laziness lost",
-      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 25,
-      "comments": 3
+      "id": 47751032,
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "score": 68,
+      "comments": 33
     },
     {
-      "id": 47738827,
-      "title": "Bring Back Idiomatic Design",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 338,
-      "comments": 157
+      "id": 47750669,
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "score": 128,
+      "comments": 70
     },
     {
-      "id": 47702887,
-      "title": "Most people can't juggle one ball",
-      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 123,
-      "comments": 43
+      "id": 47751669,
+      "title": "They See Your Photos",
+      "url": "https://theyseeyourphotos.com/",
+      "score": 19,
+      "comments": 1
     },
     {
-      "id": 47742200,
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "score": 163,
-      "comments": 102
+      "id": 47751029,
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "score": 101,
+      "comments": 37
     },
     {
-      "id": 47741889,
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "url": "https://github.com/halfwhey/claudraband",
-      "score": 45,
-      "comments": 12
+      "id": 47746610,
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "score": 588,
+      "comments": 151
     }
   ]
 }
