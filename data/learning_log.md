@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 17:04 IST)
+
+## 📅 2026-04-14 (last updated: 18:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-04-14 05:36:25 IST | a9f63fd22411 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-14 17:04:48 IST | c822d3174753 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-14 18:14:20 IST | d24135ff7c79 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-14 15:46:13 IST | 15db91407e98 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,808 stars today
 
 ### 📰 Hacker News Stories
-- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 652
-- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) — Score: 413
-- [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/) — Score: 230
-- [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/) — Score: 68
-- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 987
+- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) — Score: 76
+- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 708
+- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) — Score: 29
+- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) — Score: 477
+- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 1019
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,537.0 🟢 +5.35%

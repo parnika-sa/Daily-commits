@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 11:34:48 UTC",
-    "fetched_at_ist": "2026-04-14 17:04:48 IST",
+    "fetched_at_utc": "2026-04-14 12:44:20 UTC",
+    "fetched_at_ist": "2026-04-14 18:14:20 IST",
     "item_count": 5,
-    "content_hash": "c822d31747539c39b201cb43dfa415401e7378efb41eb80fcdb133b71120f68d",
-    "previous_hash": "01441d81f553dc97313c891fc32e9dd83d2768a05ebfddba1311a12875998972",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "d24135ff7c79199c31cb802b40563663ed2bfe1508a341362633ab03195eec35",
+    "previous_hash": "c822d31747539c39b201cb43dfa415401e7378efb41eb80fcdb133b71120f68d",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47763759,
+      "title": "What is jj and why should I care?",
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "score": 76,
+      "comments": 34
+    },
+    {
       "id": 47760529,
       "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 652,
-      "comments": 164
+      "score": 708,
+      "comments": 185
+    },
+    {
+      "id": 47764098,
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "score": 29,
+      "comments": 5
     },
     {
       "id": 47760764,
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 413,
-      "comments": 242
-    },
-    {
-      "id": 47762864,
-      "title": "Backblaze has stopped backing up your data",
-      "url": "https://rareese.com/posts/backblaze/",
-      "score": 230,
-      "comments": 150
-    },
-    {
-      "id": 47762641,
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://introspective-diffusion.github.io/",
-      "score": 68,
-      "comments": 17
+      "score": 477,
+      "comments": 285
     },
     {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 987,
-      "comments": 274
+      "score": 1019,
+      "comments": 288
     }
   ]
 }
