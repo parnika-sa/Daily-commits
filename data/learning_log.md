@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 04:57 IST)
+
+## 📅 2026-04-14 (last updated: 05:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-12 17:31:49 IST | b2084e065ccc | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-14 04:06:32 IST | 387f113f4993 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-14 04:57:50 IST | 48514758c8dd | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-04-14 05:36:25 IST | a9f63fd22411 | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-14 05:36:26 IST | e80a5bb3d27c | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-14 05:36:25 IST | 9992cc016026 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 6,438 stars today
-- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** (Python) — Kronos: A Foundation Model for the Language of Financial Markets  
-  ⭐ 595 stars today
 - **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 1,066 stars today
+  ⭐ 5,733 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 11,289 stars today
+- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** (Python) — Kronos: A Foundation Model for the Language of Financial Markets  
+  ⭐ 1,554 stars today
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** (TypeScript) — A Claude Code plugin that automatically captures everything Claude does during y  
+  ⭐ 3,175 stars today
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
-  ⭐ 3,086 stars today
-- **[multica-ai/multica](https://github.com/multica-ai/multica)** (TypeScript) — The open-source managed agents platform. Turn coding agents into real teammates   
-  ⭐ 1,948 stars today
+  ⭐ 2,808 stars today
 
 ### 📰 Hacker News Stories
-- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 521
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 262
-- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 326
-- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) — Score: 99
-- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) — Score: 125
+- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 618
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 354
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 344
+- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) — Score: 118
+- [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet) — Score: 78
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,739.0 🟢 +5.66%
-- Ethereum: $2,376.73 🟢 +8.42%
-- Solana: $86.51 🟢 +6.06%
-- Bnb: $616.91 🟢 +4.14%
+- Bitcoin: $74,493.0 🟢 +5.21%
+- Ethereum: $2,372.33 🟢 +8.16%
+- Solana: $86.58 🟢 +6.16%
+- Bnb: $615.28 🟢 +3.70%
 
 ---
 ## 📅 2026-04-13 (last updated: 23:06 IST)

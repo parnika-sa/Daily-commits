@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-13 22:36:32 UTC",
-    "fetched_at_ist": "2026-04-14 04:06:32 IST",
+    "fetched_at_utc": "2026-04-14 00:06:26 UTC",
+    "fetched_at_ist": "2026-04-14 05:36:26 IST",
     "item_count": 5,
-    "content_hash": "387f113f4993d6aa746e9c0ef2a15c6a07e640fffa54169f5103542712efa713",
-    "previous_hash": "b421fb332e010de49161337dd51009269c3a1ab2a342c19234f42aeedf8d7d3a",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "e80a5bb3d27c4a454241a22805a0bd20de5035821f85ad5febf25d90c0b5225d",
+    "previous_hash": "387f113f4993d6aa746e9c0ef2a15c6a07e640fffa54169f5103542712efa713",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47755629,
       "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 521,
-      "comments": 143
+      "score": 618,
+      "comments": 169
     },
     {
       "id": 47757495,
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 262,
-      "comments": 170
+      "score": 354,
+      "comments": 213
     },
     {
       "id": 47753472,
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 326,
-      "comments": 147
+      "score": 344,
+      "comments": 157
     },
     {
       "id": 47756321,
       "title": "How to make Firefox builds 17% faster",
       "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 99,
-      "comments": 7
+      "score": 118,
+      "comments": 13
     },
     {
-      "id": 47758028,
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "score": 125,
-      "comments": 127
+      "id": 47757775,
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+      "score": 78,
+      "comments": 63
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-13 23:27:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-14 00:06:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$74,739.0** ↑ (+5.66%)
+- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
+- BTC: **$74,493.0** ↑ (+5.21%)
 - HN top story: **Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-12 12:01:49 UTC | `b2084e065ccc` | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-13 22:36:32 UTC | `387f113f4993` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-13 23:27:50 UTC | `48514758c8dd` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-04-14 00:06:25 UTC | `a9f63fd22411` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-14 00:06:26 UTC | `e80a5bb3d27c` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-14 00:06:25 UTC | `9992cc016026` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-14` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `38` day(s) |
-| Last Commit (IST) | `2026-04-14 04:06:32 IST` |
+| Last Commit (IST) | `2026-04-14 04:57:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-11 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-04-12 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-04-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-04-14 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-14 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,739.0 | +5.66% | 🟢 |
-| Ethereum | $2,376.73 | +8.42% | 🟢 |
-| Solana | $86.51 | +6.06% | 🟢 |
-| Bnb | $616.91 | +4.14% | 🟢 |
+| Bitcoin | $74,493.0 | +5.21% | 🟢 |
+| Ethereum | $2,372.33 | +8.16% | 🟢 |
+| Solana | $86.58 | +6.16% | 🟢 |
+| Bnb | $615.28 | +3.70% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 6,438 stars today | The agent that grows with you |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 595 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,066 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 3,086 stars today | Python tool for converting files and office documents to Markdown. |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,948 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 1,346 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,475 stars today | practice made claude perfect |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,084 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 5,733 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 11,289 stars today | The agent that grows with you |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 1,554 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3,175 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,808 stars today | Python tool for converting files and office documents to Markdown. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,715 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 677 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
+| [snarktank/ralph](https://github.com/snarktank/ralph) | TypeScript | 691 stars today | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) | 521 | 143 |
-| [GitHub Stacked PRs](https://github.github.com/gh-stack/) | 262 | 170 |
-| [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) | 326 | 147 |
-| [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) | 99 | 7 |
-| [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) | 125 | 127 |
+| [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) | 618 | 169 |
+| [GitHub Stacked PRs](https://github.github.com/gh-stack/) | 354 | 213 |
+| [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) | 344 | 157 |
+| [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) | 118 | 13 |
+| [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet) | 78 | 63 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
