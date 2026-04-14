@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 00:06:26 UTC",
-    "fetched_at_ist": "2026-04-14 05:36:26 IST",
+    "fetched_at_utc": "2026-04-14 03:39:13 UTC",
+    "fetched_at_ist": "2026-04-14 09:09:13 IST",
     "item_count": 5,
-    "content_hash": "e80a5bb3d27c4a454241a22805a0bd20de5035821f85ad5febf25d90c0b5225d",
-    "previous_hash": "387f113f4993d6aa746e9c0ef2a15c6a07e640fffa54169f5103542712efa713",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "01441d81f553dc97313c891fc32e9dd83d2768a05ebfddba1311a12875998972",
+    "previous_hash": "e80a5bb3d27c4a454241a22805a0bd20de5035821f85ad5febf25d90c0b5225d",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 47755629,
-      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 618,
-      "comments": 169
+      "score": 756,
+      "comments": 214
     },
     {
       "id": 47757495,
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 354,
-      "comments": 213
+      "score": 499,
+      "comments": 276
     },
     {
-      "id": 47753472,
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 344,
-      "comments": 157
+      "id": 47759709,
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 136,
+      "comments": 71
     },
     {
-      "id": 47756321,
-      "title": "How to make Firefox builds 17% faster",
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 118,
-      "comments": 13
+      "id": 47760529,
+      "title": "DaVinci Resolve releases Photo Editor",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 46,
+      "comments": 6
     },
     {
-      "id": 47757775,
-      "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
-      "score": 78,
-      "comments": 63
+      "id": 47759341,
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "score": 81,
+      "comments": 31
     }
   ]
 }

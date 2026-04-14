@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 05:36 IST)
+
+## 📅 2026-04-14 (last updated: 09:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-04-14 05:36:25 IST | a9f63fd22411 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-14 05:36:26 IST | e80a5bb3d27c | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-14 09:09:13 IST | 01441d81f553 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-14 05:36:25 IST | 9992cc016026 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,808 stars today
 
 ### 📰 Hacker News Stories
-- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 618
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 354
-- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 344
-- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) — Score: 118
-- [The tech jobs bust is real. Don't blame AI (yet)](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet) — Score: 78
+- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 756
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 499
+- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) — Score: 136
+- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 46
+- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) — Score: 81
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,493.0 🟢 +5.21%
