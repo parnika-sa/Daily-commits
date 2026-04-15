@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-15 11:15:36 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-15 12:09:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,041.0** ↓ (-0.52%)
-- HN top story: **What is jj and why should I care?**
+- BTC: **$74,197.0** ↓ (-0.31%)
+- HN top story: **Want to Write a Compiler? Just Read These Two Papers (2008)**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-14 00:06:25 UTC | `a9f63fd22411` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-14 12:44:20 UTC | `d24135ff7c79` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-15 11:15:36 UTC | `5eb576ea0fd1` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-04-15 12:09:25 UTC | `ee4f5afd345c` | +9 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-15 12:09:26 UTC | `be6c99832639` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-15 12:09:25 UTC | `ff86a973de78` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-15` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `39` day(s) |
-| Last Commit (IST) | `2026-04-15 15:39:40 IST` |
+| Last Commit (IST) | `2026-04-15 16:45:36 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-12 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-04-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-14 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-04-15 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-15 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,041.0 | -0.52% | 🔴 |
-| Ethereum | $2,322.96 | -2.19% | 🔴 |
-| Solana | $83.34 | -3.07% | 🔴 |
-| Bnb | $617.84 | +0.08% | 🟢 |
+| Bitcoin | $74,197.0 | -0.31% | 🔴 |
+| Ethereum | $2,335.76 | -1.72% | 🔴 |
+| Solana | $83.59 | -2.74% | 🔴 |
+| Bnb | $619.98 | +0.57% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 5,733 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 11,289 stars today | The agent that grows with you |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 1,554 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3,175 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,808 stars today | Python tool for converting files and office documents to Markdown. |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,715 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 677 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [snarktank/ralph](https://github.com/snarktank/ralph) | TypeScript | 691 stars today | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar… |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,622 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,422 stars today | Create and share 3D architectural projects. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,330 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 1,068 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,062 stars today | An AI Hedge Fund Team |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 625 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,079 stars today | An agentic skills framework & software development methodology that works. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,079 stars today | The open-source voice synthesis studio |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) | 76 | 34 |
-| [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) | 708 | 185 |
-| [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) | 29 | 5 |
-| [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | 477 | 285 |
-| [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) | 1019 | 288 |
+| [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) | 129 | 45 |
+| [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) | 83 | 35 |
+| [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae) | 38 | 12 |
+| [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) | 175 | 64 |
+| [Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://www.gizmoweek.com/gemma-4-runs-iphone/) | 67 | 41 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

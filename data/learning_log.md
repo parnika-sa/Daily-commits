@@ -15,44 +15,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-15 (last updated: 16:45 IST)
+
+## 📅 2026-04-15 (last updated: 17:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-14 05:36:25 IST | a9f63fd22411 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-14 18:14:20 IST | d24135ff7c79 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-15 16:45:36 IST | 5eb576ea0fd1 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-04-15 17:39:25 IST | ee4f5afd345c | +9 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-15 17:39:26 IST | be6c99832639 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-15 17:39:25 IST | ff86a973de78 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 5,733 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 11,289 stars today
-- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** (Python) — Kronos: A Foundation Model for the Language of Financial Markets  
-  ⭐ 1,554 stars today
+  ⭐ 9,622 stars today
+- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
+  ⭐ 1,422 stars today
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** (TypeScript) — A Claude Code plugin that automatically captures everything Claude does during y  
-  ⭐ 3,175 stars today
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
-  ⭐ 2,808 stars today
+  ⭐ 2,330 stars today
+- **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** (Jupyter Notebook) — 《动手学大模型Dive into LLMs》系列编程实践教程  
+  ⭐ 1,068 stars today
+- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** (Python) — An AI Hedge Fund Team  
+  ⭐ 1,062 stars today
 
 ### 📰 Hacker News Stories
-- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) — Score: 76
-- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 708
-- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) — Score: 29
-- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) — Score: 477
-- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 1019
+- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) — Score: 129
+- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) — Score: 83
+- [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae) — Score: 38
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) — Score: 175
+- [Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://www.gizmoweek.com/gemma-4-runs-iphone/) — Score: 67
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,041.0 🔴 -0.52%
-- Ethereum: $2,322.96 🔴 -2.19%
-- Solana: $83.34 🔴 -3.07%
-- Bnb: $617.84 🟢 +0.08%
+- Bitcoin: $74,197.0 🔴 -0.31%
+- Ethereum: $2,335.76 🔴 -1.72%
+- Solana: $83.59 🔴 -2.74%
+- Bnb: $619.98 🟢 +0.57%
 
 ---
 ## 📅 2026-04-14 (last updated: 19:54 IST)
