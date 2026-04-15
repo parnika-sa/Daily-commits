@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-15 (last updated: 20:51 IST)
+
+## 📅 2026-04-15 (last updated: 22:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-15 17:39:25 IST | ee4f5afd345c | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-15 17:39:26 IST | be6c99832639 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-15 22:04:41 IST | d37594f626e0 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-15 20:51:07 IST | e114ec096d20 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,062 stars today
 
 ### 📰 Hacker News Stories
-- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) — Score: 129
-- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) — Score: 83
-- [Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae) — Score: 38
-- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) — Score: 175
-- [Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://www.gizmoweek.com/gemma-4-runs-iphone/) — Score: 67
+- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) — Score: 229
+- [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats) — Score: 50
+- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) — Score: 330
+- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) — Score: 240
+- [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose) — Score: 235
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,165.0 🔴 -0.95%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-15 12:09:26 UTC",
-    "fetched_at_ist": "2026-04-15 17:39:26 IST",
+    "fetched_at_utc": "2026-04-15 16:34:41 UTC",
+    "fetched_at_ist": "2026-04-15 22:04:41 IST",
     "item_count": 5,
-    "content_hash": "be6c99832639ad271e1492016a32f3dee3a48b8147e684ed4a9941b109642a83",
-    "previous_hash": "d24135ff7c79199c31cb802b40563663ed2bfe1508a341362633ab03195eec35",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "d37594f626e05d1ee1e7611e2c53231b93ad6e82ba8830d1f517f54c0c94ebfa",
+    "previous_hash": "be6c99832639ad271e1492016a32f3dee3a48b8147e684ed4a9941b109642a83",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47778475,
+      "title": "God Sleeps in the Minerals",
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "score": 229,
+      "comments": 58
+    },
+    {
+      "id": 47780712,
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "score": 50,
+      "comments": 21
+    },
+    {
       "id": 47776796,
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "score": 129,
-      "comments": 45
+      "score": 330,
+      "comments": 99
     },
     {
       "id": 47776557,
       "title": "Good Sleep, Good Learning (2012)",
       "url": "https://super-memory.com/articles/sleep.htm",
-      "score": 83,
-      "comments": 35
+      "score": 240,
+      "comments": 117
     },
     {
-      "id": 47740840,
-      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
-      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "score": 38,
-      "comments": 12
-    },
-    {
-      "id": 47774789,
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 175,
-      "comments": 64
-    },
-    {
-      "id": 47774971,
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "score": 67,
-      "comments": 41
+      "id": 47777209,
+      "title": "Your Backpack Got Worse on Purpose",
+      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+      "score": 235,
+      "comments": 201
     }
   ]
 }
