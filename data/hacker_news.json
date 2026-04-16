@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 02:31:19 UTC",
-    "fetched_at_ist": "2026-04-16 08:01:19 IST",
+    "fetched_at_utc": "2026-04-16 12:12:38 UTC",
+    "fetched_at_ist": "2026-04-16 17:42:38 IST",
     "item_count": 5,
-    "content_hash": "d7aea1702d7ed651b47a9b536997a3625f43665b6183c14cdadf27e623c7fa3b",
-    "previous_hash": "d37594f626e05d1ee1e7611e2c53231b93ad6e82ba8830d1f517f54c0c94ebfa",
+    "content_hash": "d20fdb3d15eb6d17b942202ce420fda4cbf7d3df395b679919475d99aa3d5889",
+    "previous_hash": "d7aea1702d7ed651b47a9b536997a3625f43665b6183c14cdadf27e623c7fa3b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47769089,
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 256,
-      "comments": 99
+      "id": 47777894,
+      "title": "IPv6 traffic crosses the 50% mark",
+      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "score": 404,
+      "comments": 246
     },
     {
-      "id": 47786164,
-      "title": "I made a terminal pager",
-      "url": "https://theleo.zone/posts/pager/",
-      "score": 64,
-      "comments": 16
+      "id": 47791212,
+      "title": "Codex Hacked a Samsung TV",
+      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+      "score": 50,
+      "comments": 33
     },
     {
-      "id": 47785948,
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "url": "https://www.bbc.com/news/technology-39576394",
-      "score": 68,
-      "comments": 50
+      "id": 47791282,
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+      "score": 21,
+      "comments": 4
     },
     {
-      "id": 47782570,
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1130,
-      "comments": 497
+      "id": 47788542,
+      "title": "Darkbloom – Private inference on idle Macs",
+      "url": "https://darkbloom.dev",
+      "score": 289,
+      "comments": 152
     },
     {
-      "id": 47780456,
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 217,
-      "comments": 165
+      "id": 47788424,
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "score": 208,
+      "comments": 112
     }
   ]
 }

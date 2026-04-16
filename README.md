@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-16 11:18:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-16 12:12:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,317.0** ↑ (+0.36%)
-- HN top story: **Cybersecurity looks like proof of work now**
+- BTC: **$74,721.0** ↑ (+0.69%)
+- HN top story: **IPv6 traffic crosses the 50% mark**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-15 12:09:25 UTC | `ee4f5afd345c` | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 02:31:19 UTC | `d7aea1702d7e` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-16 11:18:43 UTC | `0672487c492a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-04-16 12:12:37 UTC | `bbf346806c02` | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-16 12:12:38 UTC | `d20fdb3d15eb` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-16 12:12:37 UTC | `6587deb05473` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: no
+- GitHub: +6 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-16` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `39` day(s) |
-| Last Commit (IST) | `2026-04-16 15:38:36 IST` |
+| Last Commit (IST) | `2026-04-16 16:48:44 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-14 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-15 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-04-16 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-16 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,317.0 | +0.36% | 🟢 |
-| Ethereum | $2,331.32 | +0.18% | 🟢 |
-| Solana | $84.97 | +2.10% | 🟢 |
-| Bnb | $619.29 | +0.14% | 🟢 |
+| Bitcoin | $74,721.0 | +0.69% | 🟢 |
+| Ethereum | $2,339.01 | +0.14% | 🟢 |
+| Solana | $85.27 | +2.01% | 🟢 |
+| Bnb | $621.24 | +0.20% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,622 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,422 stars today | Create and share 3D architectural projects. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,330 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 1,068 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,062 stars today | An AI Hedge Fund Team |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 625 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,079 stars today | An agentic skills framework & software development methodology that works. |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,079 stars today | The open-source voice synthesis studio |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,646 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,305 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 446 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,062 stars today | The open-source voice synthesis studio |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 915 stars today | An open source template for building cloud agents. |
+| [google/magika](https://github.com/google/magika) | Python | 768 stars today | Fast and accurate AI powered file content types detection |
+| [steipete/wacli](https://github.com/steipete/wacli) | Go | 354 stars today | WhatsApp CLI |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 156 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) | 256 | 99 |
-| [I made a terminal pager](https://theleo.zone/posts/pager/) | 64 | 16 |
-| [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) | 68 | 50 |
-| [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) | 1130 | 497 |
-| [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) | 217 | 165 |
+| [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197) | 404 | 246 |
+| [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv) | 50 | 33 |
+| [Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf) | 21 | 4 |
+| [Darkbloom – Private inference on idle Macs](https://darkbloom.dev) | 289 | 152 |
+| [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575) | 208 | 112 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
