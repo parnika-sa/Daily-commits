@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 12:12:38 UTC",
-    "fetched_at_ist": "2026-04-16 17:42:38 IST",
+    "fetched_at_utc": "2026-04-16 19:42:22 UTC",
+    "fetched_at_ist": "2026-04-17 01:12:22 IST",
     "item_count": 5,
-    "content_hash": "d20fdb3d15eb6d17b942202ce420fda4cbf7d3df395b679919475d99aa3d5889",
-    "previous_hash": "d7aea1702d7ed651b47a9b536997a3625f43665b6183c14cdadf27e623c7fa3b",
+    "content_hash": "6b07a13287b2505b5eb135b358727778689465af71ad34616b3940cdad9feb4b",
+    "previous_hash": "d20fdb3d15eb6d17b942202ce420fda4cbf7d3df395b679919475d99aa3d5889",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47777894,
-      "title": "IPv6 traffic crosses the 50% mark",
-      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 404,
-      "comments": 246
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 348,
+      "comments": 164
     },
     {
-      "id": 47791212,
-      "title": "Codex Hacked a Samsung TV",
-      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "score": 50,
-      "comments": 33
+      "id": 47793411,
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1057,
+      "comments": 816
     },
     {
-      "id": 47791282,
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-      "score": 21,
-      "comments": 4
+      "id": 47733059,
+      "title": "PCI Express over Fiber [video]",
+      "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
+      "score": 55,
+      "comments": 8
     },
     {
-      "id": 47788542,
-      "title": "Darkbloom – Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "score": 289,
-      "comments": 152
+      "id": 47792764,
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "score": 685,
+      "comments": 330
     },
     {
-      "id": 47788424,
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 208,
-      "comments": 112
+      "id": 47792538,
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "score": 176,
+      "comments": 43
     }
   ]
 }
