@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-15 16:34:41 UTC",
-    "fetched_at_ist": "2026-04-15 22:04:41 IST",
+    "fetched_at_utc": "2026-04-16 02:31:19 UTC",
+    "fetched_at_ist": "2026-04-16 08:01:19 IST",
     "item_count": 5,
-    "content_hash": "d37594f626e05d1ee1e7611e2c53231b93ad6e82ba8830d1f517f54c0c94ebfa",
-    "previous_hash": "be6c99832639ad271e1492016a32f3dee3a48b8147e684ed4a9941b109642a83",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "d7aea1702d7ed651b47a9b536997a3625f43665b6183c14cdadf27e623c7fa3b",
+    "previous_hash": "d37594f626e05d1ee1e7611e2c53231b93ad6e82ba8830d1f517f54c0c94ebfa",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47778475,
-      "title": "God Sleeps in the Minerals",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 229,
-      "comments": 58
-    },
-    {
-      "id": 47780712,
-      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "score": 50,
-      "comments": 21
-    },
-    {
-      "id": 47776796,
-      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "url": "https://prog21.dadgum.com/30.html",
-      "score": 330,
+      "id": 47769089,
+      "title": "Cybersecurity looks like proof of work now",
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "score": 256,
       "comments": 99
     },
     {
-      "id": 47776557,
-      "title": "Good Sleep, Good Learning (2012)",
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "score": 240,
-      "comments": 117
+      "id": 47786164,
+      "title": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "score": 64,
+      "comments": 16
     },
     {
-      "id": 47777209,
-      "title": "Your Backpack Got Worse on Purpose",
-      "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-      "score": 235,
-      "comments": 201
+      "id": 47785948,
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+      "url": "https://www.bbc.com/news/technology-39576394",
+      "score": 68,
+      "comments": 50
+    },
+    {
+      "id": 47782570,
+      "title": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 1130,
+      "comments": 497
+    },
+    {
+      "id": 47780456,
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "score": 217,
+      "comments": 165
     }
   ]
 }

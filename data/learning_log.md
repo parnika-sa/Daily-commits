@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-16 (last updated: 22:04 IST)
+
+## 📅 2026-04-16 (last updated: 08:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-15 17:39:25 IST | ee4f5afd345c | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-15 22:04:41 IST | d37594f626e0 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-16 08:01:19 IST | d7aea1702d7e | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-15 20:51:07 IST | e114ec096d20 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,062 stars today
 
 ### 📰 Hacker News Stories
-- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) — Score: 229
-- [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats) — Score: 50
-- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) — Score: 330
-- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) — Score: 240
-- [Your Backpack Got Worse on Purpose](https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose) — Score: 235
+- [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) — Score: 256
+- [I made a terminal pager](https://theleo.zone/posts/pager/) — Score: 64
+- [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) — Score: 68
+- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) — Score: 1130
+- [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) — Score: 217
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,165.0 🔴 -0.95%
