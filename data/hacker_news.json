@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 12:02:21 UTC",
-    "fetched_at_ist": "2026-04-17 17:32:21 IST",
+    "fetched_at_utc": "2026-04-17 16:44:30 UTC",
+    "fetched_at_ist": "2026-04-17 22:14:30 IST",
     "item_count": 5,
-    "content_hash": "f52ba31c79e7f663b5807967105170c394c02e08493ca56ce374f2a00a39491e",
-    "previous_hash": "b8f88c46367ab5f2a114b84fee4022c1f1aeecfb89c5237bbec0a95e90f9ff49",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "93afddbee86427e3053e8525d0065e5e56786818b726b5d9a31265481f8eafe7",
+    "previous_hash": "f52ba31c79e7f663b5807967105170c394c02e08493ca56ce374f2a00a39491e",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47803844,
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "score": 102,
-      "comments": 44
+      "id": 47806725,
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 290,
+      "comments": 167
     },
     {
-      "id": 47793411,
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1806,
-      "comments": 1292
+      "id": 47807006,
+      "title": "Claude Opus 4.7 costs 20–30% more per session",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 92,
+      "comments": 36
     },
     {
-      "id": 47803323,
-      "title": "FIM – Linux framebuffer image viewer",
-      "url": "https://www.nongnu.org/fbi-improved/",
-      "score": 72,
-      "comments": 35
+      "id": 47806484,
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "score": 82,
+      "comments": 19
     },
     {
-      "id": 47796469,
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 908,
-      "comments": 470
+      "id": 47804965,
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
+      "score": 400,
+      "comments": 140
     },
     {
-      "id": 47751011,
-      "title": "中文 Literacy Speedrun II: Character Cyclotron",
-      "url": "https://blog.kevinzwu.com/character-cyclotron/",
-      "score": 21,
-      "comments": 8
+      "id": 47806777,
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "score": 54,
+      "comments": 7
     }
   ]
 }
