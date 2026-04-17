@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 16:44:30 UTC",
-    "fetched_at_ist": "2026-04-17 22:14:30 IST",
+    "fetched_at_utc": "2026-04-17 17:34:39 UTC",
+    "fetched_at_ist": "2026-04-17 23:04:39 IST",
     "item_count": 5,
-    "content_hash": "93afddbee86427e3053e8525d0065e5e56786818b726b5d9a31265481f8eafe7",
-    "previous_hash": "f52ba31c79e7f663b5807967105170c394c02e08493ca56ce374f2a00a39491e",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "6ecaf7ef01b1d30843645c3a60aef75cdcae294c63680321411713ad123e0b92",
+    "previous_hash": "93afddbee86427e3053e8525d0065e5e56786818b726b5d9a31265481f8eafe7",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47806725,
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 290,
-      "comments": 167
+      "score": 391,
+      "comments": 235
     },
     {
       "id": 47807006,
       "title": "Claude Opus 4.7 costs 20–30% more per session",
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 92,
-      "comments": 36
-    },
-    {
-      "id": 47806484,
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "url": "https://www.thehistoryblog.com/archives/75848",
-      "score": 82,
-      "comments": 19
+      "score": 197,
+      "comments": 105
     },
     {
       "id": 47804965,
       "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
-      "score": 400,
-      "comments": 140
+      "score": 440,
+      "comments": 155
+    },
+    {
+      "id": 47806484,
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "score": 100,
+      "comments": 36
     },
     {
       "id": 47806777,
       "title": "NIST gives up enriching most CVEs",
       "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "score": 54,
-      "comments": 7
+      "score": 74,
+      "comments": 12
     }
   ]
 }
