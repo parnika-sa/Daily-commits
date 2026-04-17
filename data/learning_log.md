@@ -15,44 +15,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-17 (last updated: 02:57 IST)
+
+## 📅 2026-04-17 (last updated: 17:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-16 17:42:37 IST | bbf346806c02 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-17 02:00:27 IST | b8f88c46367a | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-17 02:57:12 IST | 54abd0f4e32b | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-04-17 17:32:20 IST | 1bc4e57f1a80 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-17 17:32:21 IST | f52ba31c79e7 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-17 17:32:20 IST | cd0cd6f4dd81 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 9,646 stars today
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** (TypeScript) — A Claude Code plugin that automatically captures everything Claude does during y  
-  ⭐ 2,305 stars today
+- **[EvoMap/evolver](https://github.com/EvoMap/evolver)** (JavaScript) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   
+  ⭐ 812 stars today
 - **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** (Python) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  
-  ⭐ 446 stars today
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source voice synthesis studio  
-  ⭐ 1,062 stars today
-- **[vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)** (TypeScript) — An open source template for building cloud agents.  
-  ⭐ 915 stars today
+  ⭐ 872 stars today
+- **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** (Shell) — Claude Code skill to support Android app's reverse engineering  
+  ⭐ 375 stars today
+- **[BasedHardware/omi](https://github.com/BasedHardware/omi)** (Dart) — AI that sees your screen, listens to your conversations and tells you what to do  
+  ⭐ 378 stars today
+- **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** (Jupyter Notebook) — 《动手学大模型Dive into LLMs》系列编程实践教程  
+  ⭐ 1,385 stars today
 
 ### 📰 Hacker News Stories
-- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) — Score: 426
-- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) — Score: 1143
-- [PCI Express over Fiber [video]](https://www.youtube.com/watch?v=XaDa9bBucEI) — Score: 77
-- [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/) — Score: 22
-- [TigerBeetle: A Trillion Transactions [video]](https://www.youtube.com/watch?v=y2_BqkKTbD8) — Score: 34
+- [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html) — Score: 102
+- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) — Score: 1806
+- [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/) — Score: 72
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) — Score: 908
+- [中文 Literacy Speedrun II: Character Cyclotron](https://blog.kevinzwu.com/character-cyclotron/) — Score: 21
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,911.0 🟢 +0.32%
-- Ethereum: $2,340.49 🔴 -0.55%
-- Solana: $88.97 🟢 +5.38%
-- Bnb: $633.34 🟢 +1.58%
+- Bitcoin: $75,609.0 🟢 +1.17%
+- Ethereum: $2,355.67 🟢 +0.65%
+- Solana: $88.23 🟢 +3.46%
+- Bnb: $632.72 🟢 +1.79%
 
 ---
 ## 📅 2026-04-16 (last updated: 23:47 IST)

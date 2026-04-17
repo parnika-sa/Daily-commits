@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-16 21:27:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-17 12:02:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,911.0** ↑ (+0.32%)
-- HN top story: **Codex for almost everything**
+- Top GitHub repo: **EvoMap/evolver**
+- BTC: **$75,609.0** ↑ (+1.17%)
+- HN top story: **Ada, Its Design, and the Language That Built the Languages**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-16 12:12:37 UTC | `bbf346806c02` | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 20:30:27 UTC | `b8f88c46367a` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-16 21:27:12 UTC | `54abd0f4e32b` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-04-17 12:02:20 UTC | `1bc4e57f1a80` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-17 12:02:21 UTC | `f52ba31c79e7` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-17 12:02:20 UTC | `cd0cd6f4dd81` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-17` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-17 15:36:52 IST` |
+| Last Commit (IST) | `2026-04-17 16:41:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-14 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-15 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-04-17 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-17 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,911.0 | +0.32% | 🟢 |
-| Ethereum | $2,340.49 | -0.55% | 🔴 |
-| Solana | $88.97 | +5.38% | 🟢 |
-| Bnb | $633.34 | +1.58% | 🟢 |
+| Bitcoin | $75,609.0 | +1.17% | 🟢 |
+| Ethereum | $2,355.67 | +0.65% | 🟢 |
+| Solana | $88.23 | +3.46% | 🟢 |
+| Bnb | $632.72 | +1.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,646 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,305 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 446 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,062 stars today | The open-source voice synthesis studio |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 915 stars today | An open source template for building cloud agents. |
-| [google/magika](https://github.com/google/magika) | Python | 768 stars today | Fast and accurate AI powered file content types detection |
-| [steipete/wacli](https://github.com/steipete/wacli) | Go | 354 stars today | WhatsApp CLI |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 156 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 812 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 872 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 375 stars today | Claude Code skill to support Android app's reverse engineering |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 378 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 1,385 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 1,107 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 880 stars today | The open-source voice synthesis studio |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 107 stars today | No description |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) | 426 | 222 |
-| [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 1143 | 857 |
-| [PCI Express over Fiber [video]](https://www.youtube.com/watch?v=XaDa9bBucEI) | 77 | 19 |
-| [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/) | 22 | 23 |
-| [TigerBeetle: A Trillion Transactions [video]](https://www.youtube.com/watch?v=y2_BqkKTbD8) | 34 | 12 |
+| [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html) | 102 | 44 |
+| [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 1806 | 1292 |
+| [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/) | 72 | 35 |
+| [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) | 908 | 470 |
+| [中文 Literacy Speedrun II: Character Cyclotron](https://blog.kevinzwu.com/character-cyclotron/) | 21 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

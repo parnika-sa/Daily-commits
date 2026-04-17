@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 20:30:27 UTC",
-    "fetched_at_ist": "2026-04-17 02:00:27 IST",
+    "fetched_at_utc": "2026-04-17 12:02:21 UTC",
+    "fetched_at_ist": "2026-04-17 17:32:21 IST",
     "item_count": 5,
-    "content_hash": "b8f88c46367ab5f2a114b84fee4022c1f1aeecfb89c5237bbec0a95e90f9ff49",
-    "previous_hash": "6b07a13287b2505b5eb135b358727778689465af71ad34616b3940cdad9feb4b",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "f52ba31c79e7f663b5807967105170c394c02e08493ca56ce374f2a00a39491e",
+    "previous_hash": "b8f88c46367ab5f2a114b84fee4022c1f1aeecfb89c5237bbec0a95e90f9ff49",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47796469,
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 426,
-      "comments": 222
+      "id": 47803844,
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "score": 102,
+      "comments": 44
     },
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1143,
-      "comments": 857
+      "score": 1806,
+      "comments": 1292
     },
     {
-      "id": 47733059,
-      "title": "PCI Express over Fiber [video]",
-      "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "score": 77,
-      "comments": 19
+      "id": 47803323,
+      "title": "FIM – Linux framebuffer image viewer",
+      "url": "https://www.nongnu.org/fbi-improved/",
+      "score": 72,
+      "comments": 35
     },
     {
-      "id": 47798258,
-      "title": "German Dog Commands",
-      "url": "https://www.fluentu.com/blog/german/german-dog-commands/",
-      "score": 22,
-      "comments": 23
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 908,
+      "comments": 470
     },
     {
-      "id": 47736331,
-      "title": "TigerBeetle: A Trillion Transactions [video]",
-      "url": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
-      "score": 34,
-      "comments": 12
+      "id": 47751011,
+      "title": "中文 Literacy Speedrun II: Character Cyclotron",
+      "url": "https://blog.kevinzwu.com/character-cyclotron/",
+      "score": 21,
+      "comments": 8
     }
   ]
 }
