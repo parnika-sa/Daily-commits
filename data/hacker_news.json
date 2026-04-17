@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 19:43:54 UTC",
-    "fetched_at_ist": "2026-04-18 01:13:54 IST",
+    "fetched_at_utc": "2026-04-17 22:44:59 UTC",
+    "fetched_at_ist": "2026-04-18 04:14:59 IST",
     "item_count": 5,
-    "content_hash": "b2220f2e4475e4547b015a8c12e1c2bdde0c1b12626c6042204f798dd1148af2",
-    "previous_hash": "372880f0678de410a9d339848e0c4e00f3b9c2ff3319042733203d48360a3319",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "50b7d12972c607ea731fa162213636f578f6f4962f3488fc8ebec8f3356098bb",
+    "previous_hash": "b2220f2e4475e4547b015a8c12e1c2bdde0c1b12626c6042204f798dd1148af2",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47806725,
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 574,
-      "comments": 385
+      "score": 739,
+      "comments": 507
     },
     {
-      "id": 47807006,
-      "title": "Claude Opus 4.7 costs 20–30% more per session",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 355,
-      "comments": 213
+      "id": 47810872,
+      "title": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "score": 40,
+      "comments": 8
+    },
+    {
+      "id": 47807583,
+      "title": "I'm spending 3 months coding the old way",
+      "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "score": 78,
+      "comments": 63
     },
     {
       "id": 47808913,
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 72,
-      "comments": 28
+      "score": 173,
+      "comments": 97
     },
     {
-      "id": 47804965,
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "url": "https://hex.ooo/library/last_question.html",
-      "score": 508,
-      "comments": 194
-    },
-    {
-      "id": 47807209,
-      "title": "NASA Force",
-      "url": "https://nasaforce.gov/",
-      "score": 123,
-      "comments": 136
+      "id": 47807006,
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 496,
+      "comments": 336
     }
   ]
 }
