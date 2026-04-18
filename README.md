@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-18 14:35:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-18 15:22:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **EvoMap/evolver**
-- BTC: **$76,332.0** ↑ (+0.83%)
+- BTC: **$76,168.0** ↓ (-2.29%)
 - HN top story: **State of Kdenlive**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 00:01:21 UTC | `d37180d4ea45` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-18 14:35:24 UTC | `b6b411f2b788` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-18 10:24:39 UTC | `9fb3f52b9cf6` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-04-18 15:22:54 UTC | `eff4314daf54` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-18` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-18 19:17:44 IST` |
+| Last Commit (IST) | `2026-04-18 20:05:24 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-15 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-04-18 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-04-18 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,332.0 | +0.83% | 🟢 |
-| Ethereum | $2,361.24 | +0.19% | 🟢 |
-| Solana | $87.16 | -1.22% | 🔴 |
-| Bnb | $633.51 | +0.20% | 🟢 |
+| Bitcoin | $76,168.0 | -2.29% | 🔴 |
+| Ethereum | $2,361.49 | -3.45% | 🔴 |
+| Solana | $86.77 | -3.61% | 🔴 |
+| Bnb | $632.96 | -1.65% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
