@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 09:32:02 UTC",
-    "fetched_at_ist": "2026-04-18 15:02:02 IST",
+    "fetched_at_utc": "2026-04-18 12:41:07 UTC",
+    "fetched_at_ist": "2026-04-18 18:11:07 IST",
     "item_count": 5,
-    "content_hash": "9f5265886cb2924437e21aadf8018ebb2df1ce361d18450bca2afadf03ca1870",
-    "previous_hash": "ab786ace5e4c120f84ed3b47ab940fd75b9c8e40b78503543a19a9208b2f346b",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "2806e8d620789911e2647097b2c9c10b33676b1e47d6e0a3c6939f0ab8a3bfee",
+    "previous_hash": "9f5265886cb2924437e21aadf8018ebb2df1ce361d18450bca2afadf03ca1870",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47815118,
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "score": 20,
+      "comments": 4
+    },
+    {
+      "id": 47782925,
+      "title": "Michael Rabin Has Died",
+      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+      "score": 154,
+      "comments": 15
+    },
     {
       "id": 47813668,
       "title": "Category Theory Illustrated – Orders",
       "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "score": 61,
-      "comments": 12
+      "score": 127,
+      "comments": 35
     },
     {
       "id": 47813566,
       "title": "Amiga Graphics",
       "url": "https://amiga.lychesis.net/",
-      "score": 55,
-      "comments": 2
+      "score": 134,
+      "comments": 21
     },
     {
-      "id": 47806725,
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1041,
-      "comments": 681
-    },
-    {
-      "id": 47812341,
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "url": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 150,
-      "comments": 26
-    },
-    {
-      "id": 47788207,
-      "title": "The simple geometry behind any road",
-      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-      "score": 25,
-      "comments": 4
+      "id": 47767398,
+      "title": "It's OK to compare floating-points for equality",
+      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+      "score": 43,
+      "comments": 24
     }
   ]
 }
