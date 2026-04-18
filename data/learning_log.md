@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-18 (last updated: 10:52 IST)
+
+## 📅 2026-04-18 (last updated: 12:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 05:31:21 IST | d37180d4ea45 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-18 05:31:22 IST | c44f58a1e817 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-18 12:13:00 IST | f36fd578b562 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-18 10:52:37 IST | 94b4cd4916a1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 944 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) — Score: 790
-- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) — Score: 82
-- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) — Score: 202
-- [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) — Score: 518
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) — Score: 26
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) — Score: 83
+- [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) — Score: 981
+- [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html) — Score: 80
+- [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) — Score: 585
+- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) — Score: 302
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,209.0 🟢 +3.31%
