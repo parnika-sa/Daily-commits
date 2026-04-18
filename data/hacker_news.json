@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 16:39:39 UTC",
-    "fetched_at_ist": "2026-04-18 22:09:39 IST",
+    "fetched_at_utc": "2026-04-18 19:35:06 UTC",
+    "fetched_at_ist": "2026-04-19 01:05:06 IST",
     "item_count": 5,
-    "content_hash": "47caac712623a646eabbffe968d82608611c417288365ea4fbef0a785ab7ceba",
-    "previous_hash": "b6b411f2b788fa8b0a591dfb72f9b1f3b6063d94bbf9431a6c69dd4f876048a4",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "2ab1b3b8ab84c195d17902f95f2018f6f61e6dc2b150e37f79efd40cb34fbfe3",
+    "previous_hash": "47caac712623a646eabbffe968d82608611c417288365ea4fbef0a785ab7ceba",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47817132,
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "score": 123,
+      "comments": 38
+    },
+    {
       "id": 47815774,
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 369,
-      "comments": 200
+      "score": 523,
+      "comments": 292
     },
     {
       "id": 47815118,
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 189,
-      "comments": 70
+      "score": 262,
+      "comments": 85
     },
     {
-      "id": 47816625,
-      "title": "Fuzix OS",
-      "url": "https://www.fuzix.org/",
-      "score": 16,
-      "comments": 3
+      "id": 47816960,
+      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "score": 281,
+      "comments": 290
     },
     {
-      "id": 47784395,
-      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-      "score": 62,
-      "comments": 2
-    },
-    {
-      "id": 47815395,
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 156,
-      "comments": 163
+      "id": 47816629,
+      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "url": "https://github.com/drasimwagan/mdv",
+      "score": 41,
+      "comments": 11
     }
   ]
 }
