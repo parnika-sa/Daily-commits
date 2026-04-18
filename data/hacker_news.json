@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 06:43:00 UTC",
-    "fetched_at_ist": "2026-04-18 12:13:00 IST",
+    "fetched_at_utc": "2026-04-18 08:39:17 UTC",
+    "fetched_at_ist": "2026-04-18 14:09:17 IST",
     "item_count": 5,
-    "content_hash": "f36fd578b5624b9bedb68f94915a7b4d43bffee7ba9aed2dff3901c0e657023d",
-    "previous_hash": "c44f58a1e81777a45ef319457eaaf407a48bb7a1f854a5e47d88d4f51ce6e71e",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "ab786ace5e4c120f84ed3b47ab940fd75b9c8e40b78503543a19a9208b2f346b",
+    "previous_hash": "f36fd578b5624b9bedb68f94915a7b4d43bffee7ba9aed2dff3901c0e657023d",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47813668,
+      "title": "Category Theory Illustrated – Orders",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "score": 31,
+      "comments": 7
+    },
+    {
+      "id": 47813566,
+      "title": "Amiga Graphics",
+      "url": "https://amiga.lychesis.net/",
+      "score": 29,
+      "comments": 0
+    },
+    {
       "id": 47812341,
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
       "url": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 83,
-      "comments": 7
+      "score": 138,
+      "comments": 20
     },
     {
       "id": 47806725,
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 981,
-      "comments": 644
+      "score": 1019,
+      "comments": 668
     },
     {
-      "id": 47778938,
-      "title": "Towards trust in Emacs",
-      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "score": 80,
-      "comments": 8
-    },
-    {
-      "id": 47807006,
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 585,
-      "comments": 406
-    },
-    {
-      "id": 47808913,
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 302,
-      "comments": 175
+      "id": 47788207,
+      "title": "The simple geometry behind any road",
+      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
+      "score": 18,
+      "comments": 1
     }
   ]
 }
