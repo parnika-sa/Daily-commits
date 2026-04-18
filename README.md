@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-17 23:25:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-18 00:01:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **EvoMap/evolver**
-- BTC: **$77,000.0** ↑ (+2.62%)
+- BTC: **$77,106.0** ↑ (+2.62%)
 - HN top story: **Claude Design**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-04-17 12:02:20 UTC | `1bc4e57f1a80` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-17 22:44:59 UTC | `50b7d12972c6` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-17 23:25:17 UTC | `4a9dbe341e3c` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-04-18 00:01:21 UTC | `d37180d4ea45` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-18 00:01:22 UTC | `c44f58a1e817` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-18 00:01:21 UTC | `fccf8d3f51c8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-18` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-18 04:14:59 IST` |
+| Last Commit (IST) | `2026-04-18 04:55:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-15 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-04-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-04-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,000.0 | +2.62% | 🟢 |
-| Ethereum | $2,420.42 | +3.06% | 🟢 |
-| Solana | $88.68 | -0.28% | 🔴 |
-| Bnb | $642.59 | +1.10% | 🟢 |
+| Bitcoin | $77,106.0 | +2.62% | 🟢 |
+| Ethereum | $2,419.86 | +2.98% | 🟢 |
+| Solana | $88.85 | -0.22% | 🔴 |
+| Bnb | $643.39 | +1.07% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 812 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 872 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 375 stars today | Claude Code skill to support Android app's reverse engineering |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 378 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 1,385 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 1,107 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 880 stars today | The open-source voice synthesis studio |
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 107 stars today | No description |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 737 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 845 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 538 stars today | Claude Code skill to support Android app's reverse engineering |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 824 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 944 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 311 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 797 stars today | The open-source voice synthesis studio |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 110 stars today | No description |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) | 739 | 507 |
-| [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) | 40 | 8 |
-| [I'm spending 3 months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand) | 78 | 63 |
-| [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) | 173 | 97 |
-| [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) | 496 | 336 |
+| [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) | 790 | 528 |
+| [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) | 82 | 37 |
+| [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) | 202 | 109 |
+| [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) | 518 | 351 |
+| [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) | 26 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
