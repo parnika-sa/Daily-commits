@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-20 (last updated: 02:57 IST)
+
+## 📅 2026-04-20 (last updated: 04:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 05:31:21 IST | d37180d4ea45 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-20 01:06:09 IST | e2894cd66a12 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-20 04:05:14 IST | 50da0a63466e | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-20 02:57:10 IST | 3d5313febaf6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 944 stars today
 
 ### 📰 Hacker News Stories
-- [Vercel says internal systems hit in breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 332
-- [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 463
-- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 30
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 35
-- [KTaO3-Based Supercurrent Diode](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590) — Score: 16
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 410
+- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 116
+- [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532) — Score: 142
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 77
+- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu) — Score: 29
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,714.0 🔴 -1.31%
