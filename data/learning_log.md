@@ -26,18 +26,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-19 (last updated: 20:52 IST)
+
+## 📅 2026-04-19 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 05:31:21 IST | d37180d4ea45 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-19 20:05:57 IST | 4f9ccc9af809 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-19 22:09:33 IST | 6230d6c84a9d | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-19 20:52:53 IST | e3c5dd57a1e7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -53,11 +54,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 944 stars today
 
 ### 📰 Hacker News Stories
-- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 242
-- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) — Score: 97
-- [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339) — Score: 235
-- [The seven programming ur-languages (2022)](https://madhadron.com/programming/seven_ur_languages.html) — Score: 99
-- [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) — Score: 19
+- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 350
+- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 102
+- [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene) — Score: 46
+- [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) — Score: 60
+- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) — Score: 46
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,075.0 🔴 -0.15%

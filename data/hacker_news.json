@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-19 14:35:57 UTC",
-    "fetched_at_ist": "2026-04-19 20:05:57 IST",
+    "fetched_at_utc": "2026-04-19 16:39:33 UTC",
+    "fetched_at_ist": "2026-04-19 22:09:33 IST",
     "item_count": 5,
-    "content_hash": "4f9ccc9af8098b5691d07f8c057f633572cf0a48f8ea83225c116ccfbdf42308",
-    "previous_hash": "03195b870eeb65b169bdcfbfc325f1c5ec204a51dd623f599c4c556ecf04e2b5",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "6230d6c84a9d099844d7f7e47e00c99ee5361c67f03dad5d9b8c3f55673404f3",
+    "previous_hash": "4f9ccc9af8098b5691d07f8c057f633572cf0a48f8ea83225c116ccfbdf42308",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47806096,
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 242,
-      "comments": 57
+      "score": 350,
+      "comments": 88
     },
     {
-      "id": 47822805,
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 97,
-      "comments": 46
+      "id": 47824976,
+      "title": "Vercel Says Internal Systems Hit in Breach",
+      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "score": 102,
+      "comments": 2
     },
     {
-      "id": 47793161,
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 235,
-      "comments": 136
-    },
-    {
-      "id": 47822486,
-      "title": "The seven programming ur-languages (2022)",
-      "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "score": 99,
-      "comments": 41
+      "id": 47824681,
+      "title": "Notes from the SF Peptide Scene",
+      "url": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+      "score": 46,
+      "comments": 39
     },
     {
       "id": 47777715,
       "title": "Nanopass Framework: Clean Compiler Creation Language",
       "url": "https://nanopass.org/",
-      "score": 19,
-      "comments": 1
+      "score": 60,
+      "comments": 6
+    },
+    {
+      "id": 47824945,
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "score": 46,
+      "comments": 4
     }
   ]
 }
