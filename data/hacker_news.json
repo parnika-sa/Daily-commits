@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-19 08:43:05 UTC",
-    "fetched_at_ist": "2026-04-19 14:13:05 IST",
+    "fetched_at_utc": "2026-04-19 09:31:52 UTC",
+    "fetched_at_ist": "2026-04-19 15:01:52 IST",
     "item_count": 5,
-    "content_hash": "c29306d103504a1c0ca6c99b0aae8b1639e2fb85c31d21681e67662ea6b1017c",
-    "previous_hash": "2ab1b3b8ab84c195d17902f95f2018f6f61e6dc2b150e37f79efd40cb34fbfe3",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d7971db1d8f4939d5a20c9c4a4a7fdc416d0aaed7f04320bca5b0f2977e8bc9f",
+    "previous_hash": "c29306d103504a1c0ca6c99b0aae8b1639e2fb85c31d21681e67662ea6b1017c",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47822805,
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "score": 26,
+      "comments": 7
+    },
+    {
       "id": 47793161,
       "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 68,
-      "comments": 39
+      "score": 96,
+      "comments": 68
     },
     {
       "id": 47819453,
       "title": "NIST scientists create 'any wavelength' lasers",
       "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 295,
-      "comments": 133
-    },
-    {
-      "id": 47816960,
-      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 513,
-      "comments": 502
+      "score": 307,
+      "comments": 134
     },
     {
       "id": 47806021,
       "title": "What are skiplists good for?",
       "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 60,
+      "score": 72,
       "comments": 13
     },
     {
-      "id": 47818485,
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 263,
-      "comments": 253
+      "id": 47816960,
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "score": 516,
+      "comments": 507
     }
   ]
 }
