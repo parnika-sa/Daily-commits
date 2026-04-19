@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-20 (last updated: 22:49 IST)
+
+## 📅 2026-04-20 (last updated: 01:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 05:31:21 IST | d37180d4ea45 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-19 22:09:33 IST | 6230d6c84a9d | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-20 01:06:09 IST | e2894cd66a12 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-19 22:49:49 IST | 60dc163d5942 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 944 stars today
 
 ### 📰 Hacker News Stories
-- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 350
-- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 102
-- [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene) — Score: 46
-- [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) — Score: 60
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) — Score: 46
+- [Vercel says internal systems hit in breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 332
+- [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 463
+- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 30
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 35
+- [KTaO3-Based Supercurrent Diode](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590) — Score: 16
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,280.0 🔴 -0.79%
@@ -44,31 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $623.73 🔴 -1.53%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-19 (last updated: 22:49 IST)
 
 ### 🧪 Source Integrity Snapshot
