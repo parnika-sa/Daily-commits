@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-19 12:40:31 UTC",
-    "fetched_at_ist": "2026-04-19 18:10:31 IST",
+    "fetched_at_utc": "2026-04-19 14:35:57 UTC",
+    "fetched_at_ist": "2026-04-19 20:05:57 IST",
     "item_count": 5,
-    "content_hash": "03195b870eeb65b169bdcfbfc325f1c5ec204a51dd623f599c4c556ecf04e2b5",
-    "previous_hash": "d7971db1d8f4939d5a20c9c4a4a7fdc416d0aaed7f04320bca5b0f2977e8bc9f",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "4f9ccc9af8098b5691d07f8c057f633572cf0a48f8ea83225c116ccfbdf42308",
+    "previous_hash": "03195b870eeb65b169bdcfbfc325f1c5ec204a51dd623f599c4c556ecf04e2b5",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47806096,
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 112,
-      "comments": 28
+      "score": 242,
+      "comments": 57
     },
     {
       "id": 47822805,
       "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
       "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 79,
-      "comments": 32
+      "score": 97,
+      "comments": 46
     },
     {
       "id": 47793161,
       "title": "Game devs explain the tricks involved with letting you pause a game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 179,
-      "comments": 117
+      "score": 235,
+      "comments": 136
     },
     {
-      "id": 47806021,
-      "title": "What are skiplists good for?",
-      "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 136,
-      "comments": 27
+      "id": 47822486,
+      "title": "The seven programming ur-languages (2022)",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "score": 99,
+      "comments": 41
     },
     {
-      "id": 47819453,
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 339,
-      "comments": 146
+      "id": 47777715,
+      "title": "Nanopass Framework: Clean Compiler Creation Language",
+      "url": "https://nanopass.org/",
+      "score": 19,
+      "comments": 1
     }
   ]
 }
