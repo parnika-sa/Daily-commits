@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-21 (last updated: 01:13 IST)
+
+## 📅 2026-04-21 (last updated: 01:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 17:43:12 IST | 9d741dec3497 | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-04-21 01:13:59 IST | c8d03b3ae239 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-20 17:43:12 IST | 0381a5191627 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-21 01:57:35 IST | 484a54075662 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** (Python) — FinceptTerminal is a modern finance application offering advanced market analyti  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance) — Score: 170
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,362.0 🔴 -0.35%
-- Ethereum: $2,313.43 🔴 -0.84%
-- Solana: $85.26 🔴 -0.49%
-- Bnb: $626.45 🟢 +0.52%
+- Bitcoin: $76,477.0 🟢 +2.30%
+- Ethereum: $2,336.11 🟢 +1.89%
+- Solana: $86.07 🟢 +1.21%
+- Bnb: $631.68 🟢 +1.61%
 
 ---
 ## 📅 2026-04-20 (last updated: 23:12 IST)
