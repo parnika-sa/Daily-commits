@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-20 17:42:02 UTC",
-    "fetched_at_ist": "2026-04-20 23:12:02 IST",
+    "fetched_at_utc": "2026-04-20 18:41:46 UTC",
+    "fetched_at_ist": "2026-04-21 00:11:46 IST",
     "item_count": 5,
-    "content_hash": "bc194b25ac63cba2900f6adad5382cc7a0d3ffe2f572d68e0bc51114fda7f192",
-    "previous_hash": "cf1f9faee362620a505993477247ede7c34655ba455f813dbd3f83ed52785de8",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "c442384da6dfc07c26b0e8de29d4ddb6b4e84a0712ff745b00ff474a8e04a3e7",
+    "previous_hash": "bc194b25ac63cba2900f6adad5382cc7a0d3ffe2f572d68e0bc51114fda7f192",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47834565,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 262,
-      "comments": 155
+      "score": 327,
+      "comments": 190
     },
     {
-      "id": 47835928,
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "score": 116,
-      "comments": 117
+      "id": 47837611,
+      "title": "At long last, InfoWars is ours",
+      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "score": 256,
+      "comments": 69
+    },
+    {
+      "id": 47837105,
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "score": 49,
+      "comments": 12
     },
     {
       "id": 47833558,
       "title": "ggsql: A Grammar of Graphics for SQL",
       "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "score": 206,
-      "comments": 47
+      "score": 247,
+      "comments": 58
     },
     {
       "id": 47831621,
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 524,
-      "comments": 285
-    },
-    {
-      "id": 47836730,
-      "title": "We accepted surveillance as default",
-      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-      "score": 93,
-      "comments": 22
+      "score": 559,
+      "comments": 300
     }
   ]
 }
