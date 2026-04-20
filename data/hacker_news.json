@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-20 12:13:13 UTC",
-    "fetched_at_ist": "2026-04-20 17:43:13 IST",
+    "fetched_at_utc": "2026-04-20 15:42:54 UTC",
+    "fetched_at_ist": "2026-04-20 21:12:54 IST",
     "item_count": 5,
-    "content_hash": "9847191af230c302b22b46bba2b9d829c5a7f012cb730c42d652b5bbbe09a1ec",
-    "previous_hash": "d2328def19cb63776e2315f8c0037f0a6d7c73a119f6583fad95b1e03347a4a4",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "121d09cb0856be9dba2fc824a7f52b7134df911b3aead1b3558e777fcb6e23db",
+    "previous_hash": "9847191af230c302b22b46bba2b9d829c5a7f012cb730c42d652b5bbbe09a1ec",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47834565,
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "score": 124,
+      "comments": 50
+    },
+    {
+      "id": 47833247,
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "score": 160,
+      "comments": 39
+    },
+    {
+      "id": 47834195,
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "score": 358,
+      "comments": 174
+    },
+    {
+      "id": 47833558,
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "score": 140,
+      "comments": 36
+    },
+    {
       "id": 47831621,
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 230,
-      "comments": 131
-    },
-    {
-      "id": 47832248,
-      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "score": 49,
-      "comments": 19
-    },
-    {
-      "id": 47832366,
-      "title": "Figma's woes compound with Claude Design",
-      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
-      "score": 25,
-      "comments": 17
-    },
-    {
-      "id": 47832222,
-      "title": "NSA is using Anthropic's Mythos despite blacklist",
-      "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
-      "score": 105,
-      "comments": 59
-    },
-    {
-      "id": 47810101,
-      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "score": 80,
-      "comments": 11
+      "score": 441,
+      "comments": 254
     }
   ]
 }
