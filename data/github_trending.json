@@ -2,104 +2,74 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-18 00:01:21 UTC",
-    "fetched_at_ist": "2026-04-18 05:31:21 IST",
-    "item_count": 15,
-    "content_hash": "d37180d4ea45cb269c07fe2f1197b8bcd5840ac03ba672a9d438a14d4c8d3110",
-    "previous_hash": "1bc4e57f1a808f6dad54dd5d84f0e2ca8c07ea717a2839747c9fe0809cb26213",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-04-20 12:13:12 UTC",
+    "fetched_at_ist": "2026-04-20 17:43:12 IST",
+    "item_count": 10,
+    "content_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
+    "previous_hash": "d37180d4ea45cb269c07fe2f1197b8bcd5840ac03ba672a9d438a14d4c8d3110",
+    "new_repos_vs_previous": 9,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "EvoMap/evolver",
-      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "language": "JavaScript",
-      "stars_today": "737 stars today"
-    },
-    {
-      "name": "lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "845 stars today"
+      "stars_today": "1,254 stars today"
     },
     {
-      "name": "SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "language": "Shell",
-      "stars_today": "538 stars today"
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "149 stars today"
     },
     {
-      "name": "BasedHardware/omi",
-      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
-      "language": "Dart",
-      "stars_today": "824 stars today"
-    },
-    {
-      "name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "language": "Jupyter Notebook",
-      "stars_today": "944 stars today"
-    },
-    {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "stars_today": "311 stars today"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
+      "name": "thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars_today": "797 stars today"
+      "stars_today": "695 stars today"
     },
     {
-      "name": "lukilabs/craft-agents-oss",
-      "description": "No description",
+      "name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars_today": "393 stars today"
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars_today": "263 stars today"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "110 stars today"
-    },
-    {
-      "name": "Tracer-Cloud/opensre",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-      "language": "Python",
-      "stars_today": "184 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,713 stars today"
-    },
-    {
-      "name": "z-lab/dflash",
-      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "language": "Python",
-      "stars_today": "287 stars today"
+      "stars_today": "343 stars today"
     },
     {
       "name": "openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars_today": "625 stars today"
+      "stars_today": "752 stars today"
     },
     {
-      "name": "google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "language": "Python",
-      "stars_today": "956 stars today"
+      "name": "deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "stars_today": "155 stars today"
     },
     {
-      "name": "pingdotgg/t3code",
-      "description": "No description",
-      "language": "TypeScript",
-      "stars_today": "227 stars today"
+      "name": "pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "stars_today": "154 stars today"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "196 stars today"
+      "name": "XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars_today": "52 stars today"
     }
   ]
 }

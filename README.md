@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-20 09:27:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-20 12:13:13 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **EvoMap/evolver**
-- BTC: **$75,081.0** ↓ (-0.05%)
-- HN top story: **SDF Public Access Unix System**
+- Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
+- BTC: **$75,362.0** ↓ (-0.35%)
+- HN top story: **GitHub's Fake Star Economy**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-04-18 00:01:21 UTC | `d37180d4ea45` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-20 07:30:49 UTC | `d2328def19cb` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-20 09:27:48 UTC | `b54688ffa91f` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 10 | 2026-04-20 12:13:12 UTC | `9d741dec3497` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-20 12:13:13 UTC | `9847191af230` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-20 12:13:12 UTC | `0381a5191627` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-20` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-20 14:57:48 IST` |
+| Last Commit (IST) | `2026-04-20 16:33:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-18 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 | 2026-04-19 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-04-20 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-04-20 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,081.0 | -0.05% | 🔴 |
-| Ethereum | $2,306.28 | -0.39% | 🔴 |
-| Solana | $85.03 | +0.33% | 🟢 |
-| Bnb | $626.14 | +0.90% | 🟢 |
+| Bitcoin | $75,362.0 | -0.35% | 🔴 |
+| Ethereum | $2,313.43 | -0.84% | 🔴 |
+| Solana | $85.26 | -0.49% | 🔴 |
+| Bnb | $626.45 | +0.52% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 737 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 845 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 538 stars today | Claude Code skill to support Android app's reverse engineering |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 824 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 944 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 311 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 797 stars today | The open-source voice synthesis studio |
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 110 stars today | No description |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,254 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 149 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 695 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 393 stars today | A community-supported supercharged document management system: scan, index and a… |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 263 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 343 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 752 stars today | A lightweight, powerful framework for multi-agent workflows |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 155 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [SDF Public Access Unix System](https://sdf.org/?ssh) | 30 | 8 |
-| [Ben Lerner's Big Feelings](https://www.vulture.com/article/ben-lerner-transcription-interview.html) | 18 | 3 |
-| [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design) | 20 | 3 |
-| [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) | 705 | 395 |
-| [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) | 165 | 65 |
+| [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) | 230 | 131 |
+| [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/) | 49 | 19 |
+| [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/) | 25 | 17 |
+| [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/) | 105 | 59 |
+| [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977) | 80 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
