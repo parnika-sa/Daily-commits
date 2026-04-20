@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-19 22:35:14 UTC",
-    "fetched_at_ist": "2026-04-20 04:05:14 IST",
+    "fetched_at_utc": "2026-04-20 05:38:25 UTC",
+    "fetched_at_ist": "2026-04-20 11:08:25 IST",
     "item_count": 5,
-    "content_hash": "50da0a63466ea0e90e83732f8784b386ae776cfe9bbd74aab10fab2d50ab219a",
-    "previous_hash": "e2894cd66a12917ac64f7925b389aa242886e8609b1004b08fa9d08106635827",
+    "content_hash": "db04ed83cfca589550926a879a48068efe483524eb2b60ba2e08d2969f8a46ac",
+    "previous_hash": "50da0a63466ea0e90e83732f8784b386ae776cfe9bbd74aab10fab2d50ab219a",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47824463,
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 410,
-      "comments": 265
+      "score": 647,
+      "comments": 367
+    },
+    {
+      "id": 47822734,
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "score": 142,
+      "comments": 58
+    },
+    {
+      "id": 47827259,
+      "title": "Stop trying to engineer your way out of listening to people",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "score": 114,
+      "comments": 30
     },
     {
       "id": 47826100,
       "title": "The Bromine Chokepoint",
       "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 116,
-      "comments": 55
+      "score": 181,
+      "comments": 88
     },
     {
-      "id": 47827383,
-      "title": "Swiss authorities want to reduce dependency on Microsoft",
-      "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
-      "score": 142,
-      "comments": 51
-    },
-    {
-      "id": 47826104,
-      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
-      "url": "https://www.vincentgregoire.com/faceoff/",
-      "score": 77,
-      "comments": 25
-    },
-    {
-      "id": 47826852,
-      "title": "I wrote a CHIP-8 emulator in my own programming language",
-      "url": "https://github.com/navid-m/chip8emu",
-      "score": 29,
-      "comments": 7
+      "id": 47829178,
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "score": 42,
+      "comments": 11
     }
   ]
 }

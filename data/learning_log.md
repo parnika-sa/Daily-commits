@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-20 (last updated: 04:49 IST)
+
+## 📅 2026-04-20 (last updated: 11:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-18 05:31:21 IST | d37180d4ea45 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-20 04:05:14 IST | 50da0a63466e | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-20 11:08:25 IST | db04ed83cfca | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-20 04:49:42 IST | 5a1e1eed624c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 944 stars today
 
 ### 📰 Hacker News Stories
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 410
-- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 116
-- [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532) — Score: 142
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 77
-- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu) — Score: 29
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 647
+- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) — Score: 142
+- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/) — Score: 114
+- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 181
+- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/) — Score: 42
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,877.0 🔴 -2.59%
