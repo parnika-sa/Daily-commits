@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-21 (last updated: 00:11 IST)
+
+## 📅 2026-04-21 (last updated: 01:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 17:43:12 IST | 9d741dec3497 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-21 00:11:46 IST | c442384da6df | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-21 01:13:59 IST | c8d03b3ae239 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-20 17:43:12 IST | 0381a5191627 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 263 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) — Score: 327
-- [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/) — Score: 256
-- [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf) — Score: 49
-- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) — Score: 247
-- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) — Score: 559
+- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) — Score: 385
+- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) — Score: 600
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) — Score: 276
+- [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/) — Score: 48
+- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance) — Score: 170
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,362.0 🔴 -0.35%
@@ -44,24 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $626.45 🟢 +0.52%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-20 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
