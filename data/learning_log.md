@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-20 (last updated: 21:12 IST)
+
+## 📅 2026-04-20 (last updated: 22:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 17:43:12 IST | 9d741dec3497 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-20 21:12:54 IST | 121d09cb0856 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-20 22:14:52 IST | cf1f9faee362 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-20 17:43:12 IST | 0381a5191627 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 263 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) — Score: 124
-- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8) — Score: 160
-- [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/) — Score: 358
-- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) — Score: 140
-- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) — Score: 441
+- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) — Score: 198
+- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) — Score: 51
+- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8) — Score: 258
+- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) — Score: 481
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) — Score: 169
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,362.0 🔴 -0.35%
