@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-21 (last updated: 15:50 IST)
+
+## 📅 2026-04-21 (last updated: 17:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 17:43:12 IST | 9d741dec3497 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-21 01:13:59 IST | c8d03b3ae239 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-21 17:06:25 IST | 7881763658fb | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-21 15:50:29 IST | 763adbb1ecfd | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 263 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) — Score: 385
-- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) — Score: 600
-- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) — Score: 276
-- [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/) — Score: 48
-- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance) — Score: 170
+- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) — Score: 1872
+- [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph) — Score: 20
+- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic) — Score: 228
+- [MNT Reform is an open hardware laptop, designed and assembled in Germany](http://mnt.stanleylieber.com/reform/) — Score: 68
+- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice) — Score: 70
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,509.0 🟢 +1.52%
