@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-22 (last updated: 07:58 IST)
+
+## 📅 2026-04-22 (last updated: 17:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 17:43:12 IST | 9d741dec3497 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-22 04:06:03 IST | b47ff2fb9b72 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-22 17:01:41 IST | bb1b3e233e9f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-22 07:58:37 IST | a87acff402a4 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 263 stars today
 
 ### 📰 Hacker News Stories
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) — Score: 141
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) — Score: 224
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) — Score: 175
-- [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) — Score: 77
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro) — Score: 722
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) — Score: 171
+- [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) — Score: 390
+- [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) — Score: 34
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) — Score: 859
+- [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/) — Score: 49
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,126.0 🟢 +1.76%
