@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-22 11:31:41 UTC",
-    "fetched_at_ist": "2026-04-22 17:01:41 IST",
+    "fetched_at_utc": "2026-04-22 12:43:36 UTC",
+    "fetched_at_ist": "2026-04-22 18:13:36 IST",
     "item_count": 5,
-    "content_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
-    "previous_hash": "b47ff2fb9b724ee25ff5cf5415f530acbacdf66e7a44861376ca4a854e4719c0",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "1f270bbfc561f7682bbdb2862082ee442b6cd438f34d3ac0947ec195ec207e25",
+    "previous_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47861270,
       "title": "Windows 9x Subsystem for Linux",
       "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 171,
-      "comments": 43
+      "score": 262,
+      "comments": 63
     },
     {
-      "id": 47842569,
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 390,
-      "comments": 113
+      "id": 47862386,
+      "title": "3.4M Solar Panels",
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "score": 38,
+      "comments": 1
+    },
+    {
+      "id": 47862331,
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "url": "https://cli.github.com/telemetry",
+      "score": 32,
+      "comments": 7
     },
     {
       "id": 47861087,
       "title": "How the Heck Does GPS Work?",
       "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "score": 34,
-      "comments": 10
+      "score": 70,
+      "comments": 14
     },
     {
-      "id": 47852835,
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 859,
-      "comments": 702
-    },
-    {
-      "id": 47832720,
-      "title": "All your agents are going async",
-      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-      "score": 49,
-      "comments": 31
+      "id": 47842569,
+      "title": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 433,
+      "comments": 123
     }
   ]
 }
