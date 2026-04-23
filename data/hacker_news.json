@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-23 19:39:08 UTC",
-    "fetched_at_ist": "2026-04-24 01:09:08 IST",
+    "fetched_at_utc": "2026-04-23 20:36:17 UTC",
+    "fetched_at_ist": "2026-04-24 02:06:17 IST",
     "item_count": 5,
-    "content_hash": "5b15893a1faed96a8c4b2bb3fb457b5d3ed498e3b7cc6683529100cedfef651a",
-    "previous_hash": "33699bc7b2b58916ee2ed60b12cb53e4cbe6941bdc0911fbae348a3d00f3879d",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "9f2df29118cc96022330188bd4dca1bea151c0d813f93ae783f162bbbf10b1d8",
+    "previous_hash": "5b15893a1faed96a8c4b2bb3fb457b5d3ed498e3b7cc6683529100cedfef651a",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47879092,
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 531,
-      "comments": 208
-    },
-    {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 287,
-      "comments": 164
-    },
-    {
-      "id": 47876043,
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 447,
-      "comments": 217
-    },
-    {
-      "id": 47879986,
-      "title": "Meta to cut 10% of jobs, or 8k employees",
-      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 100,
-      "comments": 39
+      "score": 706,
+      "comments": 330
     },
     {
       "id": 47880189,
       "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
       "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "score": 17,
-      "comments": 6
+      "score": 72,
+      "comments": 32
+    },
+    {
+      "id": 47876043,
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 482,
+      "comments": 226
+    },
+    {
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 371,
+      "comments": 256
+    },
+    {
+      "id": 47879986,
+      "title": "Meta to cut 10% of jobs, or 8k employees",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "score": 248,
+      "comments": 179
     }
   ]
 }
