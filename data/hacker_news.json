@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-22 12:43:36 UTC",
-    "fetched_at_ist": "2026-04-22 18:13:36 IST",
+    "fetched_at_utc": "2026-04-23 18:03:44 UTC",
+    "fetched_at_ist": "2026-04-23 23:33:44 IST",
     "item_count": 5,
-    "content_hash": "1f270bbfc561f7682bbdb2862082ee442b6cd438f34d3ac0947ec195ec207e25",
-    "previous_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "33699bc7b2b58916ee2ed60b12cb53e4cbe6941bdc0911fbae348a3d00f3879d",
+    "previous_hash": "1f270bbfc561f7682bbdb2862082ee442b6cd438f34d3ac0947ec195ec207e25",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47861270,
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 262,
-      "comments": 63
+      "id": 47877366,
+      "title": "France confirms data breach at government agency that manages citizens' IDs",
+      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "score": 267,
+      "comments": 93
     },
     {
-      "id": 47862386,
-      "title": "3.4M Solar Panels",
-      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "score": 38,
-      "comments": 1
+      "id": 47876043,
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 363,
+      "comments": 172
     },
     {
-      "id": 47862331,
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "url": "https://cli.github.com/telemetry",
-      "score": 32,
-      "comments": 7
+      "id": 47878208,
+      "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
+      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "score": 109,
+      "comments": 86
     },
     {
-      "id": 47861087,
-      "title": "How the Heck Does GPS Work?",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "score": 70,
-      "comments": 14
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 29,
+      "comments": 8
     },
     {
-      "id": 47842569,
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 433,
-      "comments": 123
+      "id": 47878117,
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "score": 26,
+      "comments": 8
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-23 15:20:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-23 18:03:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
-- BTC: **$78,422.0** ↓ (-0.78%)
-- HN top story: **Windows 9x Subsystem for Linux**
+- Top GitHub repo: **huggingface/ml-intern**
+- BTC: **$77,858.0** ↓ (-1.38%)
+- HN top story: **France confirms data breach at government agency that manages citizens' IDs**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-20 12:13:12 UTC | `9d741dec3497` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-22 12:43:36 UTC | `1f270bbfc561` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-23 15:20:55 UTC | `8a7f69a0f17b` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-04-23 18:03:43 UTC | `622511d163c1` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-23 18:03:44 UTC | `33699bc7b2b5` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-23 18:03:43 UTC | `f7474f95a630` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-23` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `41` day(s) |
-| Last Commit (IST) | `2026-04-23 20:50:55 IST` |
+| Last Commit (IST) | `2026-04-23 22:26:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-20 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-21 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-22 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-04-23 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,422.0 | -0.78% | 🔴 |
-| Ethereum | $2,338.28 | -2.54% | 🔴 |
-| Solana | $86.22 | -2.46% | 🔴 |
-| Bnb | $638.18 | -1.75% | 🔴 |
+| Bitcoin | $77,858.0 | -1.38% | 🔴 |
+| Ethereum | $2,311.67 | -3.78% | 🔴 |
+| Solana | $85.35 | -2.92% | 🔴 |
+| Bnb | $634.23 | -1.81% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,254 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 149 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 695 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 393 stars today | A community-supported supercharged document management system: scan, index and a… |
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 263 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 343 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 752 stars today | A lightweight, powerful framework for multi-agent workflows |
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 155 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 530 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,023 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 574 stars today | "RAG-Anything: All-in-One RAG Framework" |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,366 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 427 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 384 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI … |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,388 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 771 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) | 262 | 63 |
-| [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html) | 38 | 1 |
-| [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry) | 32 | 7 |
-| [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) | 70 | 14 |
-| [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) | 433 | 123 |
+| [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/) | 267 | 93 |
+| [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised) | 363 | 172 |
+| ['Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/) | 109 | 86 |
+| [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | 29 | 8 |
+| [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) | 26 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

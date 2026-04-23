@@ -2,74 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-20 12:13:12 UTC",
-    "fetched_at_ist": "2026-04-20 17:43:12 IST",
-    "item_count": 10,
-    "content_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
-    "previous_hash": "d37180d4ea45cb269c07fe2f1197b8bcd5840ac03ba672a9d438a14d4c8d3110",
-    "new_repos_vs_previous": 9,
+    "fetched_at_utc": "2026-04-23 18:03:43 UTC",
+    "fetched_at_ist": "2026-04-23 23:33:43 IST",
+    "item_count": 16,
+    "content_hash": "622511d163c1186f3120b15ec07ac97aac86d1ac9c81911d4b95301a92a06796",
+    "previous_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
+    "new_repos_vs_previous": 15,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "name": "huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
-      "stars_today": "1,254 stars today"
+      "stars_today": "530 stars today"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars_today": "1,023 stars today"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars_today": "574 stars today"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars_today": "1,366 stars today"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "149 stars today"
+      "stars_today": "427 stars today"
     },
     {
-      "name": "thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "language": "TypeScript",
-      "stars_today": "695 stars today"
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars_today": "384 stars today"
     },
     {
-      "name": "paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "393 stars today"
+      "stars_today": "2,388 stars today"
     },
     {
-      "name": "tractorjuice/arc-kit",
-      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "language": "HTML",
-      "stars_today": "263 stars today"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "name": "open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
-      "stars_today": "343 stars today"
+      "stars_today": "771 stars today"
     },
     {
-      "name": "openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
-      "language": "Python",
-      "stars_today": "752 stars today"
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "177 stars today"
     },
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "stars_today": "155 stars today"
+      "name": "PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars_today": "76 stars today"
     },
     {
-      "name": "pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "stars_today": "154 stars today"
+      "name": "cline/cline",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "language": "TypeScript",
+      "stars_today": "103 stars today"
     },
     {
-      "name": "XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "stars_today": "52 stars today"
+      "name": "microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars_today": "80 stars today"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+      "language": "TypeScript",
+      "stars_today": "302 stars today"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "491 stars today"
+    },
+    {
+      "name": "chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "stars_today": "214 stars today"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Unknown",
+      "stars_today": "176 stars today"
     }
   ]
 }
