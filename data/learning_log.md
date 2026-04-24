@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-24 (last updated: 17:34 IST)
+
+## 📅 2026-04-24 (last updated: 21:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-24 17:34:17 IST | b824e7f89365 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-24 21:04:45 IST | 61c018130c0f | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-24 17:34:17 IST | c8f9ab90d308 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781) — Score: 43
-- [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no) — Score: 110
-- [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p) — Score: 32
-- [DeepSeek v4](https://api-docs.deepseek.com/) — Score: 1122
-- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel) — Score: 83
+- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) — Score: 67
+- [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817) — Score: 25
+- [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s) — Score: 59
+- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel) — Score: 202
+- [DeepSeek v4](https://api-docs.deepseek.com/) — Score: 1457
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,305.0 🟢 +0.71%
