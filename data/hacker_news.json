@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 00:01:04 UTC",
-    "fetched_at_ist": "2026-04-24 05:31:04 IST",
+    "fetched_at_utc": "2026-04-24 06:03:21 UTC",
+    "fetched_at_ist": "2026-04-24 11:33:21 IST",
     "item_count": 5,
-    "content_hash": "627832f97c71325af3d2dcb9f2fa4a2053fdfb9ee5253d5adc9609563cee205b",
-    "previous_hash": "9f2df29118cc96022330188bd4dca1bea151c0d813f93ae783f162bbbf10b1d8",
+    "content_hash": "40a1d8b688a0da29f41a0c2cc3f6529245e7a4e7a5c166bf07151ab86c4b2665",
+    "previous_hash": "627832f97c71325af3d2dcb9f2fa4a2053fdfb9ee5253d5adc9609563cee205b",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47884971,
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 463,
+      "comments": 189
+    },
+    {
+      "id": 47884768,
+      "title": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "score": 103,
+      "comments": 23
+    },
     {
       "id": 47879092,
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 995,
-      "comments": 645
+      "score": 1244,
+      "comments": 839
+    },
+    {
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 642,
+      "comments": 495
     },
     {
       "id": 47876043,
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 610,
-      "comments": 286
-    },
-    {
-      "id": 47882697,
-      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "score": 51,
-      "comments": 21
-    },
-    {
-      "id": 47878117,
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 140,
-      "comments": 82
-    },
-    {
-      "id": 47883108,
-      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-      "score": 78,
-      "comments": 25
+      "score": 711,
+      "comments": 348
     }
   ]
 }
