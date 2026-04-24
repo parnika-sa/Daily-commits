@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-24 08:20:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-24 12:04:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **huggingface/ml-intern**
-- BTC: **$77,863.0** ↓ (-0.28%)
-- HN top story: **DeepSeek v4**
+- Top GitHub repo: **Alishahryar1/free-claude-code**
+- BTC: **$78,305.0** ↑ (+0.71%)
+- HN top story: **UK Biobank leak: Health details of 500 000 people are offered for sale**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-24 06:03:20 UTC | `ec8cd6c1737d` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-24 06:03:21 UTC | `40a1d8b688a0` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-24 08:20:38 UTC | `543099374df2` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-04-24 12:04:17 UTC | `d7ce1aea2d7b` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-24 12:04:17 UTC | `b824e7f89365` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-24 12:04:17 UTC | `c8f9ab90d308` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-24` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-24 15:29:30 IST` |
+| Last Commit (IST) | `2026-04-24 16:38:33 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-21 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-22 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-23 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-24 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-04-24 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,863.0 | -0.28% | 🔴 |
-| Ethereum | $2,317.27 | -1.11% | 🔴 |
-| Solana | $85.53 | -0.46% | 🔴 |
-| Bnb | $636.34 | +0.04% | 🟢 |
+| Bitcoin | $78,305.0 | +0.71% | 🟢 |
+| Ethereum | $2,331.07 | +0.05% | 🟢 |
+| Solana | $86.3 | +0.49% | 🟢 |
+| Bnb | $638.41 | +0.76% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 720 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,011 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 590 stars today | "RAG-Anything: All-in-One RAG Framework" |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,383 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 429 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 316 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena… |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,962 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 720 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | Go | 350 stars today | Vulnerability scanner written in Go which uses the data provided by https://osv.… |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,383 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,011 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 776 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 74 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | 252 stars today | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DeepSeek v4](https://api-docs.deepseek.com/) | 463 | 189 |
-| [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) | 103 | 23 |
-| [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | 1244 | 839 |
-| [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | 642 | 495 |
-| [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) | 711 | 348 |
+| [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781) | 43 | 5 |
+| [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no) | 110 | 62 |
+| [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p) | 32 | 32 |
+| [DeepSeek v4](https://api-docs.deepseek.com/) | 1122 | 773 |
+| [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel) | 83 | 20 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

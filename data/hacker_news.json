@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 06:03:21 UTC",
-    "fetched_at_ist": "2026-04-24 11:33:21 IST",
+    "fetched_at_utc": "2026-04-24 12:04:17 UTC",
+    "fetched_at_ist": "2026-04-24 17:34:17 IST",
     "item_count": 5,
-    "content_hash": "40a1d8b688a0da29f41a0c2cc3f6529245e7a4e7a5c166bf07151ab86c4b2665",
-    "previous_hash": "627832f97c71325af3d2dcb9f2fa4a2053fdfb9ee5253d5adc9609563cee205b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b824e7f8936582e775cbdead1f31ddd3923febcbb0b8a0aa7f9351b2f66b1262",
+    "previous_hash": "40a1d8b688a0da29f41a0c2cc3f6529245e7a4e7a5c166bf07151ab86c4b2665",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47888557,
+      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "score": 43,
+      "comments": 5
+    },
+    {
+      "id": 47887683,
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "score": 110,
+      "comments": 62
+    },
+    {
+      "id": 47888372,
+      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "score": 32,
+      "comments": 32
+    },
+    {
       "id": 47884971,
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 463,
-      "comments": 189
+      "score": 1122,
+      "comments": 773
     },
     {
-      "id": 47884768,
-      "title": "Why I Write (1946)",
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "score": 103,
-      "comments": 23
-    },
-    {
-      "id": 47879092,
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1244,
-      "comments": 839
-    },
-    {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 642,
-      "comments": 495
-    },
-    {
-      "id": 47876043,
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 711,
-      "comments": 348
+      "id": 47887334,
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "score": 83,
+      "comments": 20
     }
   ]
 }

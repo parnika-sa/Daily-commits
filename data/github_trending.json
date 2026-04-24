@@ -2,15 +2,21 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-24 06:03:20 UTC",
-    "fetched_at_ist": "2026-04-24 11:33:20 IST",
-    "item_count": 16,
-    "content_hash": "ec8cd6c1737d56f9cab282ff229f393786fa1a3fe89b331e56f6a99a5140005b",
-    "previous_hash": "eebd72dfacadf5a3385b5016f6e2a3531bca3892bf0fc4d3c503b30c994f13cf",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-04-24 12:04:17 UTC",
+    "fetched_at_ist": "2026-04-24 17:34:17 IST",
+    "item_count": 11,
+    "content_hash": "d7ce1aea2d7b8464a61413cacd8278a663a1c205612ed24053914091fc0bcab7",
+    "previous_hash": "ec8cd6c1737d56f9cab282ff229f393786fa1a3fe89b331e56f6a99a5140005b",
+    "new_repos_vs_previous": 6,
+    "top_repo_changed": true
   },
   "repos": [
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars_today": "1,962 stars today"
+    },
     {
       "name": "huggingface/ml-intern",
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
@@ -18,16 +24,10 @@
       "stars_today": "720 stars today"
     },
     {
-      "name": "zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "language": "TypeScript",
-      "stars_today": "1,011 stars today"
-    },
-    {
-      "name": "HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "language": "Python",
-      "stars_today": "590 stars today"
+      "name": "google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars_today": "350 stars today"
     },
     {
       "name": "Z4nzu/hackingtool",
@@ -36,22 +36,10 @@
       "stars_today": "1,383 stars today"
     },
     {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "429 stars today"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_today": "316 stars today"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "language": "Python",
-      "stars_today": "1,962 stars today"
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars_today": "1,011 stars today"
     },
     {
       "name": "open-metadata/OpenMetadata",
@@ -60,52 +48,34 @@
       "stars_today": "776 stars today"
     },
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "language": "Jupyter Notebook",
-      "stars_today": "208 stars today"
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "stars_today": "74 stars today"
     },
     {
-      "name": "PowerShell/PowerShell",
-      "description": "PowerShell for every system!",
-      "language": "C#",
-      "stars_today": "67 stars today"
+      "name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars_today": "252 stars today"
     },
     {
-      "name": "cline/cline",
-      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-      "language": "TypeScript",
-      "stars_today": "123 stars today"
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "817 stars today"
     },
     {
-      "name": "microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "C++",
-      "stars_today": "49 stars today"
+      "name": "deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "stars_today": "29 stars today"
     },
     {
-      "name": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
-      "language": "TypeScript",
-      "stars_today": "238 stars today"
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars_today": "285 stars today"
-    },
-    {
-      "name": "chiphuyen/aie-book",
-      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
-      "language": "Jupyter Notebook",
-      "stars_today": "215 stars today"
-    },
-    {
-      "name": "VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "language": "Unknown",
-      "stars_today": "228 stars today"
+      "name": "microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars_today": "22 stars today"
     }
   ]
 }
