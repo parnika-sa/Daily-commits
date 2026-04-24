@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 16:36:56 UTC",
-    "fetched_at_ist": "2026-04-24 22:06:56 IST",
+    "fetched_at_utc": "2026-04-24 17:35:38 UTC",
+    "fetched_at_ist": "2026-04-24 23:05:38 IST",
     "item_count": 5,
-    "content_hash": "3cbbe88d8ead0ec769fa77dd61f7f8cc6e506d87c9a9f406ca73743884293d03",
-    "previous_hash": "61c018130c0fcb22cdf13dee2ba3b583190a2443a7d9e956d0338568add2d5be",
+    "content_hash": "2ac142e15c5c8372c7484c006dbea883f5274ffa801db25032af62880f92edef",
+    "previous_hash": "3cbbe88d8ead0ec769fa77dd61f7f8cc6e506d87c9a9f406ca73743884293d03",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47890799,
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 138,
-      "comments": 33
+      "score": 185,
+      "comments": 47
+    },
+    {
+      "id": 47892291,
+      "title": "SDL Now Supports DOS",
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "score": 46,
+      "comments": 17
     },
     {
       "id": 47892019,
       "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 50,
-      "comments": 8
+      "score": 256,
+      "comments": 132
     },
     {
-      "id": 47891801,
-      "title": "Why I'm Done Making Desktop Applications (2009)",
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "score": 42,
-      "comments": 21
+      "id": 47884971,
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 1581,
+      "comments": 1224
     },
     {
       "id": 47891019,
       "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "score": 148,
-      "comments": 106
-    },
-    {
-      "id": 47890873,
-      "title": "Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "score": 39,
-      "comments": 11
+      "score": 236,
+      "comments": 187
     }
   ]
 }
