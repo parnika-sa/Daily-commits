@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 15:34:45 UTC",
-    "fetched_at_ist": "2026-04-24 21:04:45 IST",
+    "fetched_at_utc": "2026-04-24 16:36:56 UTC",
+    "fetched_at_ist": "2026-04-24 22:06:56 IST",
     "item_count": 5,
-    "content_hash": "61c018130c0fcb22cdf13dee2ba3b583190a2443a7d9e956d0338568add2d5be",
-    "previous_hash": "b824e7f8936582e775cbdead1f31ddd3923febcbb0b8a0aa7f9351b2f66b1262",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "3cbbe88d8ead0ec769fa77dd61f7f8cc6e506d87c9a9f406ca73743884293d03",
+    "previous_hash": "61c018130c0fcb22cdf13dee2ba3b583190a2443a7d9e956d0338568add2d5be",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47890799,
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 67,
-      "comments": 19
+      "score": 138,
+      "comments": 33
     },
     {
-      "id": 47890873,
-      "title": "Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "score": 25,
-      "comments": 4
+      "id": 47892019,
+      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "score": 50,
+      "comments": 8
+    },
+    {
+      "id": 47891801,
+      "title": "Why I'm Done Making Desktop Applications (2009)",
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "score": 42,
+      "comments": 21
     },
     {
       "id": 47891019,
       "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "score": 59,
-      "comments": 26
+      "score": 148,
+      "comments": 106
     },
     {
-      "id": 47887334,
-      "title": "Spinel: Ruby AOT Native Compiler",
-      "url": "https://github.com/matz/spinel",
-      "score": 202,
-      "comments": 51
-    },
-    {
-      "id": 47884971,
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 1457,
-      "comments": 1058
+      "id": 47890873,
+      "title": "Different Language Models Learn Similar Number Representations",
+      "url": "https://arxiv.org/abs/2604.20817",
+      "score": 39,
+      "comments": 11
     }
   ]
 }
