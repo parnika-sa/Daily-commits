@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 17:35:38 UTC",
-    "fetched_at_ist": "2026-04-24 23:05:38 IST",
+    "fetched_at_utc": "2026-04-24 23:36:09 UTC",
+    "fetched_at_ist": "2026-04-25 05:06:09 IST",
     "item_count": 5,
-    "content_hash": "2ac142e15c5c8372c7484c006dbea883f5274ffa801db25032af62880f92edef",
-    "previous_hash": "3cbbe88d8ead0ec769fa77dd61f7f8cc6e506d87c9a9f406ca73743884293d03",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "54d686653164b1f3e25dc4d5ddaf4c93e925cc78d24fdbabcbb033d90f6076d2",
+    "previous_hash": "2ac142e15c5c8372c7484c006dbea883f5274ffa801db25032af62880f92edef",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47890799,
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 185,
-      "comments": 47
+      "id": 47892074,
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "score": 218,
+      "comments": 286
     },
     {
-      "id": 47892291,
-      "title": "SDL Now Supports DOS",
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "score": 46,
-      "comments": 17
+      "id": 47894747,
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "score": 122,
+      "comments": 23
     },
     {
-      "id": 47892019,
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 256,
-      "comments": 132
+      "id": 47864056,
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "score": 73,
+      "comments": 11
     },
     {
-      "id": 47884971,
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 1581,
-      "comments": 1224
+      "id": 47895765,
+      "title": "Google Flow Music",
+      "url": "https://www.flowmusic.app/",
+      "score": 57,
+      "comments": 24
     },
     {
-      "id": 47891019,
-      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "score": 236,
-      "comments": 187
+      "id": 47894435,
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "score": 127,
+      "comments": 66
     }
   ]
 }
