@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-25 12:42:35 UTC",
-    "fetched_at_ist": "2026-04-25 18:12:35 IST",
+    "fetched_at_utc": "2026-04-25 14:36:22 UTC",
+    "fetched_at_ist": "2026-04-25 20:06:22 IST",
     "item_count": 5,
-    "content_hash": "a1c6c272d51c99b8028856f8fa62926f7f13e0ea21bfaaa3b5647f227763ea81",
-    "previous_hash": "54d686653164b1f3e25dc4d5ddaf4c93e925cc78d24fdbabcbb033d90f6076d2",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d5fd8aa847afa2423e80efce23922e678f6b0803cea5e818b7b67ef7226f6845",
+    "previous_hash": "a1c6c272d51c99b8028856f8fa62926f7f13e0ea21bfaaa3b5647f227763ea81",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47863570,
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 144,
+      "comments": 21
+    },
+    {
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 272,
-      "comments": 128
+      "score": 346,
+      "comments": 194
     },
     {
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 638,
-      "comments": 626
+      "score": 680,
+      "comments": 671
     },
     {
-      "id": 47857563,
-      "title": "How to Implement an FPS Counter",
-      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-      "score": 52,
-      "comments": 5
+      "id": 47900398,
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "score": 46,
+      "comments": 6
     },
     {
-      "id": 47862541,
-      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 86,
-      "comments": 14
-    },
-    {
-      "id": 47899844,
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "score": 104,
-      "comments": 48
+      "id": 47900506,
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
+      "score": 44,
+      "comments": 16
     }
   ]
 }
