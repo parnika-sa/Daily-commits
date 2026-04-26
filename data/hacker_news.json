@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 14:37:15 UTC",
-    "fetched_at_ist": "2026-04-26 20:07:15 IST",
+    "fetched_at_utc": "2026-04-26 19:40:02 UTC",
+    "fetched_at_ist": "2026-04-27 01:10:02 IST",
     "item_count": 5,
-    "content_hash": "bfe795f6e801ca97067250f2d2fc14c65bd218a31938919e10c83a1d829942cd",
-    "previous_hash": "79766c999c725436e1ae277ea2c36dfe98774a45caa3e4d3f034af2c35de3aa0",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "b5acac20a28c04cea2636c1a01b1bc1fc3d86c573c9e64cc441711c264005a2d",
+    "previous_hash": "bfe795f6e801ca97067250f2d2fc14c65bd218a31938919e10c83a1d829942cd",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47911780,
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "score": 228,
+      "comments": 75
+    },
+    {
+      "id": 47911977,
+      "title": "Dillo Browser Release 3.3.0",
+      "url": "https://dillo-browser.org/release/3.3.0/",
+      "score": 70,
+      "comments": 7
+    },
     {
       "id": 47909226,
       "title": "Asahi Linux Progress Linux 7.0",
       "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 244,
-      "comments": 71
+      "score": 518,
+      "comments": 226
     },
     {
-      "id": 47908833,
-      "title": "Statecharts: hierarchical state machines",
-      "url": "https://statecharts.dev/",
-      "score": 137,
-      "comments": 34
+      "id": 47911350,
+      "title": "Clay PCB Tutorial",
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "score": 136,
+      "comments": 88
     },
     {
-      "id": 47903126,
-      "title": "Amateur armed with ChatGPT solves an Erdős problem",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 519,
-      "comments": 350
-    },
-    {
-      "id": 47905984,
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 307,
-      "comments": 194
-    },
-    {
-      "id": 47876071,
-      "title": "Show HN: Turning a Gaussian Splat into a videogame",
-      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-      "score": 89,
-      "comments": 19
+      "id": 47911524,
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "score": 106,
+      "comments": 134
     }
   ]
 }
