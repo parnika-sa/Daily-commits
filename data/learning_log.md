@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-26 (last updated: 18:14 IST)
+
+## 📅 2026-04-26 (last updated: 20:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-26 18:14:38 IST | 79766c999c72 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-26 20:07:15 IST | bfe795f6e801 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-26 03:57:42 IST | a2882ed2348a | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/) — Score: 51
-- [Statecharts: hierarchical state machines](https://statecharts.dev/) — Score: 76
-- [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) — Score: 463
-- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) — Score: 276
-- [The West forgot how to make things, now it’s forgetting how to code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) — Score: 571
+- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/) — Score: 244
+- [Statecharts: hierarchical state machines](https://statecharts.dev/) — Score: 137
+- [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) — Score: 519
+- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) — Score: 307
+- [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/) — Score: 89
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,542.0 🔴 -0.05%

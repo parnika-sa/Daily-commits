@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 12:44:38 UTC",
-    "fetched_at_ist": "2026-04-26 18:14:38 IST",
+    "fetched_at_utc": "2026-04-26 14:37:15 UTC",
+    "fetched_at_ist": "2026-04-26 20:07:15 IST",
     "item_count": 5,
-    "content_hash": "79766c999c725436e1ae277ea2c36dfe98774a45caa3e4d3f034af2c35de3aa0",
-    "previous_hash": "c3c1be27b6fd5b8bd5f307dab0eee21aecdde7d50e464be7dbc6c82e28d79c13",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "bfe795f6e801ca97067250f2d2fc14c65bd218a31938919e10c83a1d829942cd",
+    "previous_hash": "79766c999c725436e1ae277ea2c36dfe98774a45caa3e4d3f034af2c35de3aa0",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47909226,
       "title": "Asahi Linux Progress Linux 7.0",
       "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 51,
-      "comments": 0
+      "score": 244,
+      "comments": 71
     },
     {
       "id": 47908833,
       "title": "Statecharts: hierarchical state machines",
       "url": "https://statecharts.dev/",
-      "score": 76,
-      "comments": 13
+      "score": 137,
+      "comments": 34
     },
     {
       "id": 47903126,
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 463,
-      "comments": 302
+      "score": 519,
+      "comments": 350
     },
     {
       "id": 47905984,
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 276,
-      "comments": 165
+      "score": 307,
+      "comments": 194
     },
     {
-      "id": 47907879,
-      "title": "The West forgot how to make things, now it’s forgetting how to code",
-      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 571,
-      "comments": 333
+      "id": 47876071,
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "score": 89,
+      "comments": 19
     }
   ]
 }
