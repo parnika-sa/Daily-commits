@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-28 (last updated: 04:11 IST)
+
+## 📅 2026-04-28 (last updated: 05:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-28 04:11:07 IST | 9a8ba05091ef | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-28 05:06:31 IST | b194ed4667d8 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-27 23:49:03 IST | 2e01afc91f82 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [NPM Website Is Down](https://status.npmjs.org) — Score: 85
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 680
-- [Is my blue your blue?](https://ismy.blue/) — Score: 180
-- [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) — Score: 49
-- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) — Score: 141
+- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 705
+- [Is my blue your blue?](https://ismy.blue/) — Score: 256
+- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) — Score: 65
+- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) — Score: 149
+- [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar) — Score: 70
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,795.0 🔴 -1.85%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-27 22:41:07 UTC",
-    "fetched_at_ist": "2026-04-28 04:11:07 IST",
+    "fetched_at_utc": "2026-04-27 23:36:31 UTC",
+    "fetched_at_ist": "2026-04-28 05:06:31 IST",
     "item_count": 5,
-    "content_hash": "9a8ba05091ef634e41921192afd6b57836f8681a7e5085639c832bbf5cd36865",
-    "previous_hash": "269f905824ef34958752e6342c2bbe6a624073e2e61fee5d770e940379be0f73",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "b194ed4667d818d23995bdf6ad33d420d46247b2ef1f5479ff0df79ad05cd003",
+    "previous_hash": "9a8ba05091ef634e41921192afd6b57836f8681a7e5085639c832bbf5cd36865",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47927526,
-      "title": "NPM Website Is Down",
-      "url": "https://status.npmjs.org",
-      "score": 85,
-      "comments": 29
-    },
-    {
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 680,
-      "comments": 614
+      "score": 705,
+      "comments": 632
     },
     {
       "id": 47926861,
       "title": "Is my blue your blue?",
       "url": "https://ismy.blue/",
-      "score": 180,
-      "comments": 107
+      "score": 256,
+      "comments": 165
     },
     {
       "id": 47927070,
-      "title": "Three men are facing 44 charges in Toronto SMS Blaster arrests",
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
       "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 49,
-      "comments": 19
+      "score": 65,
+      "comments": 31
     },
     {
       "id": 47924813,
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
-      "score": 141,
-      "comments": 20
+      "score": 149,
+      "comments": 21
+    },
+    {
+      "id": 47907175,
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "score": 70,
+      "comments": 8
     }
   ]
 }
