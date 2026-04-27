@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 19:40:02 UTC",
-    "fetched_at_ist": "2026-04-27 01:10:02 IST",
+    "fetched_at_utc": "2026-04-27 07:43:47 UTC",
+    "fetched_at_ist": "2026-04-27 13:13:47 IST",
     "item_count": 5,
-    "content_hash": "b5acac20a28c04cea2636c1a01b1bc1fc3d86c573c9e64cc441711c264005a2d",
-    "previous_hash": "bfe795f6e801ca97067250f2d2fc14c65bd218a31938919e10c83a1d829942cd",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "269f905824ef34958752e6342c2bbe6a624073e2e61fee5d770e940379be0f73",
+    "previous_hash": "b5acac20a28c04cea2636c1a01b1bc1fc3d86c573c9e64cc441711c264005a2d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47911780,
-      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 228,
-      "comments": 75
+      "id": 47875795,
+      "title": "Flipdiscs",
+      "url": "https://flipdisc.io",
+      "score": 178,
+      "comments": 29
     },
     {
-      "id": 47911977,
-      "title": "Dillo Browser Release 3.3.0",
-      "url": "https://dillo-browser.org/release/3.3.0/",
-      "score": 70,
-      "comments": 7
+      "id": 47914165,
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 705,
+      "comments": 374
     },
     {
-      "id": 47909226,
-      "title": "Asahi Linux Progress Linux 7.0",
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 518,
-      "comments": 226
+      "id": 47916890,
+      "title": "TurboQuant: A first-principles walkthrough",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "score": 114,
+      "comments": 14
     },
     {
-      "id": 47911350,
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 136,
-      "comments": 88
+      "id": 47908051,
+      "title": "Self-updating screenshots",
+      "url": "https://interblah.net/self-updating-screenshots",
+      "score": 249,
+      "comments": 36
     },
     {
-      "id": 47911524,
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 106,
-      "comments": 134
+      "id": 47913650,
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "score": 439,
+      "comments": 322
     }
   ]
 }
