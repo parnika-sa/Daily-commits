@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 21:35:15 UTC",
-    "fetched_at_ist": "2026-04-29 03:05:15 IST",
+    "fetched_at_utc": "2026-04-28 22:37:24 UTC",
+    "fetched_at_ist": "2026-04-29 04:07:24 IST",
     "item_count": 5,
-    "content_hash": "3e4164cc545684db12246f04bd54962cf70ee3aa51dbd28411a35ea264135da9",
-    "previous_hash": "b876ebf4c7995d00e72a8b46d5ba0ec4466fcd2c623019792aa7040fcfc913d3",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "d06fa37373da65fac34ea41666e4b8be3bf3a1d8dc793b82f0b1f420406a9876",
+    "previous_hash": "3e4164cc545684db12246f04bd54962cf70ee3aa51dbd28411a35ea264135da9",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 929,
-      "comments": 265
+      "score": 1209,
+      "comments": 341
+    },
+    {
+      "id": 47940921,
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 110,
+      "comments": 19
     },
     {
       "id": 47939320,
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 103,
-      "comments": 37
-    },
-    {
-      "id": 47940389,
-      "title": "I won a championship that doesn't exist",
-      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 27,
-      "comments": 11
+      "score": 128,
+      "comments": 44
     },
     {
       "id": 47937349,
       "title": "Warp is now Open-Source",
       "url": "https://github.com/warpdotdev/warp",
-      "score": 137,
-      "comments": 61
+      "score": 192,
+      "comments": 108
     },
     {
       "id": 47885644,
       "title": "Intel Arc Pro B70 Review",
       "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-      "score": 42,
-      "comments": 13
+      "score": 66,
+      "comments": 38
     }
   ]
 }
