@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-28 (last updated: 12:56 IST)
+
+## 📅 2026-04-28 (last updated: 15:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-28 05:06:31 IST | b194ed4667d8 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-28 15:09:56 IST | f7200667a1ad | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-28 12:56:57 IST | ea35de8359dd | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 705
-- [Is my blue your blue?](https://ismy.blue/) — Score: 256
-- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) — Score: 65
-- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) — Score: 149
-- [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar) — Score: 70
+- [GTFOBins](https://gtfobins.org/) — Score: 167
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) — Score: 355
+- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 877
+- [Can You Find the Comet?](https://apod.nasa.gov/apod/ap260427.html) — Score: 31
+- [Is my blue your blue?](https://ismy.blue/) — Score: 531
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,633.0 🔴 -1.35%
