@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 09:39:56 UTC",
-    "fetched_at_ist": "2026-04-28 15:09:56 IST",
+    "fetched_at_utc": "2026-04-28 15:36:24 UTC",
+    "fetched_at_ist": "2026-04-28 21:06:24 IST",
     "item_count": 5,
-    "content_hash": "f7200667a1ad59cea5685822df5e08f5f62340a6433dd9a43d02fb650872cd60",
-    "previous_hash": "b194ed4667d818d23995bdf6ad33d420d46247b2ef1f5479ff0df79ad05cd003",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b876ebf4c7995d00e72a8b46d5ba0ec4466fcd2c623019792aa7040fcfc913d3",
+    "previous_hash": "f7200667a1ad59cea5685822df5e08f5f62340a6433dd9a43d02fb650872cd60",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47931035,
-      "title": "GTFOBins",
-      "url": "https://gtfobins.org/",
-      "score": 167,
-      "comments": 50
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 356,
+      "comments": 143
     },
     {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 355,
-      "comments": 125
+      "id": 47933236,
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "score": 155,
+      "comments": 101
     },
     {
-      "id": 47921248,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 877,
-      "comments": 755
+      "id": 47934261,
+      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "url": "https://www.lumara-space.app/",
+      "score": 54,
+      "comments": 12
     },
     {
-      "id": 47918891,
-      "title": "Can You Find the Comet?",
-      "url": "https://apod.nasa.gov/apod/ap260427.html",
-      "score": 31,
-      "comments": 7
+      "id": 47915023,
+      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
+      "score": 35,
+      "comments": 11
     },
     {
-      "id": 47926861,
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "score": 531,
-      "comments": 367
+      "id": 47934269,
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "score": 168,
+      "comments": 71
     }
   ]
 }

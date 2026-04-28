@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-28 (last updated: 16:55 IST)
+
+## 📅 2026-04-28 (last updated: 21:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-28 15:09:56 IST | f7200667a1ad | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-28 21:06:24 IST | b876ebf4c799 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-28 16:55:45 IST | a047a50d1233 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [GTFOBins](https://gtfobins.org/) — Score: 167
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) — Score: 355
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 877
-- [Can You Find the Comet?](https://apod.nasa.gov/apod/ap260427.html) — Score: 31
-- [Is my blue your blue?](https://ismy.blue/) — Score: 531
+- [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend) — Score: 356
+- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice) — Score: 155
+- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/) — Score: 54
+- [Deep under Antarctic ice, a long-predicted cosmic whisper breaks through](https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html) — Score: 35
+- [OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/) — Score: 168
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,409.0 🔴 -1.88%
