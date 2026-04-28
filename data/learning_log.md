@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-29 (last updated: 04:07 IST)
+
+## 📅 2026-04-29 (last updated: 05:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-29 04:07:24 IST | d06fa37373da | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-29 05:05:47 IST | 8f39ba014d26 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-29 01:49:57 IST | 1917d45fe9c0 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 1209
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) — Score: 110
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 128
-- [Warp is now Open-Source](https://github.com/warpdotdev/warp) — Score: 192
-- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) — Score: 66
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 1373
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) — Score: 177
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 153
+- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html) — Score: 32
+- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) — Score: 85
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,350.0 🔴 -0.77%
