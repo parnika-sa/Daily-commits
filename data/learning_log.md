@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-29 (last updated: 01:49 IST)
+
+## 📅 2026-04-29 (last updated: 03:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-28 21:06:24 IST | b876ebf4c799 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-29 03:05:15 IST | 3e4164cc5456 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-29 01:49:57 IST | 1917d45fe9c0 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,011 stars today
 
 ### 📰 Hacker News Stories
-- [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend) — Score: 356
-- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice) — Score: 155
-- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/) — Score: 54
-- [Deep under Antarctic ice, a long-predicted cosmic whisper breaks through](https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html) — Score: 35
-- [OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/) — Score: 168
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 929
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 103
+- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/) — Score: 27
+- [Warp is now Open-Source](https://github.com/warpdotdev/warp) — Score: 137
+- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) — Score: 42
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,350.0 🔴 -0.77%
