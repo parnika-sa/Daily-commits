@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 23:35:47 UTC",
-    "fetched_at_ist": "2026-04-29 05:05:47 IST",
+    "fetched_at_utc": "2026-04-29 09:30:53 UTC",
+    "fetched_at_ist": "2026-04-29 15:00:53 IST",
     "item_count": 5,
-    "content_hash": "8f39ba014d2615c26292646e5f8702801c8d1803afd0c9a260853dc797e5e2d5",
-    "previous_hash": "d06fa37373da65fac34ea41666e4b8be3bf3a1d8dc793b82f0b1f420406a9876",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "448f932378ce1b2a50f908ee1e75fe0330e334fdf649670cb60532068f372928",
+    "previous_hash": "8f39ba014d2615c26292646e5f8702801c8d1803afd0c9a260853dc797e5e2d5",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 1373,
-      "comments": 424
+      "score": 2561,
+      "comments": 750
     },
     {
-      "id": 47940921,
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 177,
-      "comments": 34
+      "id": 47943499,
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 276,
+      "comments": 115
     },
     {
-      "id": 47939320,
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 153,
-      "comments": 52
+      "id": 47945522,
+      "title": "Tell HN: An update from the new Tindie team",
+      "url": "https://news.ycombinator.com/item?id=47945522",
+      "score": 26,
+      "comments": 8
     },
     {
-      "id": 47941590,
-      "title": "Carrot Disclosure: Forgejo",
-      "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
-      "score": 32,
-      "comments": 2
+      "id": 47944864,
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "score": 61,
+      "comments": 7
     },
     {
-      "id": 47885644,
-      "title": "Intel Arc Pro B70 Review",
-      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-      "score": 85,
-      "comments": 52
+      "id": 47942437,
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 333,
+      "comments": 225
     }
   ]
 }
