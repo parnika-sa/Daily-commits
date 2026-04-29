@@ -16,44 +16,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-29 (last updated: 20:55 IST)
+
+## 📅 2026-04-29 (last updated: 23:41 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-04-24 17:34:17 IST | d7ce1aea2d7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-29 15:00:53 IST | 448f932378ce | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-04-29 20:55:42 IST | 3942a7abef9e | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 16 | 2026-04-29 23:41:18 IST | bb3ca83b5085 | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-29 23:41:20 IST | d16c41a4eba0 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-29 23:41:18 IST | ae59a79734cb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** (Python) — Use claude-code for free in the terminal, VSCode extension or via discord like o  
-  ⭐ 1,962 stars today
-- **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** (Python) — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh  
-  ⭐ 720 stars today
-- **[google/osv-scanner](https://github.com/google/osv-scanner)** (Go) — Vulnerability scanner written in Go which uses the data provided by https://osv.  
-  ⭐ 350 stars today
-- **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** (Python) — ALL IN ONE Hacking Tool For Hackers  
-  ⭐ 1,383 stars today
-- **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** (TypeScript) — Code search MCP for Claude Code. Make entire codebase the context for any coding  
-  ⭐ 1,011 stars today
+- **[warpdotdev/warp](https://github.com/warpdotdev/warp)** (Rust) — Warp is an agentic development environment, born out of the terminal.  
+  ⭐ 11,955 stars today
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .claude directory.  
+  ⭐ 7,356 stars today
+- **[HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)** (Python) — Useful tool to track location or mobile number  
+  ⭐ 1,036 stars today
+- **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** (Python) — A curated list of practical Codex skills for automating workflows across the Cod  
+  ⭐ 1,180 stars today
+- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** (Rust) — Coding Agent Harness  
+  ⭐ 386 stars today
 
 ### 📰 Hacker News Stories
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 2561
-- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) — Score: 276
-- [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522) — Score: 26
-- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) — Score: 61
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) — Score: 333
+- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 872
+- [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/) — Score: 47
+- [We need a federation of forges](https://blog.tangled.org/federation/) — Score: 374
+- [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) — Score: 74
+- [Online age verification is the hill to die on](https://x.com/GlennMeder/status/2049088498163216560) — Score: 297
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,218.0 🟢 +0.32%
-- Ethereum: $2,287.64 🟢 +0.63%
-- Solana: $83.39 🟢 +0.03%
-- Bnb: $618.47 🔴 -0.64%
+- Bitcoin: $75,525.0 🔴 -0.83%
+- Ethereum: $2,250.26 🔴 -1.69%
+- Solana: $82.71 🔴 -1.11%
+- Bnb: $615.85 🔴 -1.20%
 
 ---
 ## 📅 2026-04-28 (last updated: 22:48 IST)

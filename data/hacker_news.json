@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-29 09:30:53 UTC",
-    "fetched_at_ist": "2026-04-29 15:00:53 IST",
+    "fetched_at_utc": "2026-04-29 18:11:20 UTC",
+    "fetched_at_ist": "2026-04-29 23:41:20 IST",
     "item_count": 5,
-    "content_hash": "448f932378ce1b2a50f908ee1e75fe0330e334fdf649670cb60532068f372928",
-    "previous_hash": "8f39ba014d2615c26292646e5f8702801c8d1803afd0c9a260853dc797e5e2d5",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "d16c41a4eba04a2f8d85b303daa528f6ce26e696343d2537cea58a0842037d9d",
+    "previous_hash": "448f932378ce1b2a50f908ee1e75fe0330e334fdf649670cb60532068f372928",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47939579,
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2561,
-      "comments": 750
+      "id": 47949027,
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "score": 872,
+      "comments": 301
     },
     {
-      "id": 47943499,
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 276,
-      "comments": 115
+      "id": 47951582,
+      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+      "url": "https://deepmind.google/research/publications/231971/",
+      "score": 47,
+      "comments": 36
     },
     {
-      "id": 47945522,
-      "title": "Tell HN: An update from the new Tindie team",
-      "url": "https://news.ycombinator.com/item?id=47945522",
-      "score": 26,
-      "comments": 8
+      "id": 47948603,
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 374,
+      "comments": 199
     },
     {
-      "id": 47944864,
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 61,
-      "comments": 7
+      "id": 47950510,
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 74,
+      "comments": 12
     },
     {
-      "id": 47942437,
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 333,
-      "comments": 225
+      "id": 47950091,
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "score": 297,
+      "comments": 182
     }
   ]
 }

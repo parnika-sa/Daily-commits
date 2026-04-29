@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-29 15:25:42 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-29 18:11:20 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Alishahryar1/free-claude-code**
-- BTC: **$76,218.0** ↑ (+0.32%)
-- HN top story: **Ghostty is leaving GitHub**
+- Top GitHub repo: **warpdotdev/warp**
+- BTC: **$75,525.0** ↓ (-0.83%)
+- HN top story: **Zed 1.0**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-04-24 12:04:17 UTC | `d7ce1aea2d7b` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-29 09:30:53 UTC | `448f932378ce` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-04-29 15:25:42 UTC | `3942a7abef9e` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 16 | 2026-04-29 18:11:18 UTC | `bb3ca83b5085` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-29 18:11:20 UTC | `d16c41a4eba0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-29 18:11:18 UTC | `ae59a79734cb` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-29` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `44` day(s) |
-| Last Commit (IST) | `2026-04-29 20:55:43 IST` |
+| Last Commit (IST) | `2026-04-29 22:28:23 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-26 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-04-27 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-28 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-04-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-04-29 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,218.0 | +0.32% | 🟢 |
-| Ethereum | $2,287.64 | +0.63% | 🟢 |
-| Solana | $83.39 | +0.03% | 🟢 |
-| Bnb | $618.47 | -0.64% | 🔴 |
+| Bitcoin | $75,525.0 | -0.83% | 🔴 |
+| Ethereum | $2,250.26 | -1.69% | 🔴 |
+| Solana | $82.71 | -1.11% | 🔴 |
+| Bnb | $615.85 | -1.20% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,962 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 720 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | Go | 350 stars today | Vulnerability scanner written in Go which uses the data provided by https://osv.… |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,383 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,011 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 776 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 74 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | 252 stars today | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar… |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 11,955 stars today | Warp is an agentic development environment, born out of the terminal. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 7,356 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 1,036 stars today | Useful tool to track location or mobile number |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 1,180 stars today | A curated list of practical Codex skills for automating workflows across the Cod… |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 386 stars today | Coding Agent Harness |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 777 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,688 stars today | Open-Source Frontier Voice AI |
+| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | 461 stars today | Deepseek to API: A lightweight, high-performance full-stack middleware convertin… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) | 2561 | 750 |
-| [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) | 276 | 115 |
-| [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522) | 26 | 8 |
-| [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) | 61 | 7 |
-| [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) | 333 | 225 |
+| [Zed 1.0](https://zed.dev/blog/zed-1-0) | 872 | 301 |
+| [The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness](https://deepmind.google/research/publications/231971/) | 47 | 36 |
+| [We need a federation of forges](https://blog.tangled.org/federation/) | 374 | 199 |
+| [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) | 74 | 12 |
+| [Online age verification is the hill to die on](https://x.com/GlennMeder/status/2049088498163216560) | 297 | 182 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
