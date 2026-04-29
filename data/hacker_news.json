@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-29 18:11:20 UTC",
-    "fetched_at_ist": "2026-04-29 23:41:20 IST",
+    "fetched_at_utc": "2026-04-29 23:44:57 UTC",
+    "fetched_at_ist": "2026-04-30 05:14:57 IST",
     "item_count": 5,
-    "content_hash": "d16c41a4eba04a2f8d85b303daa528f6ce26e696343d2537cea58a0842037d9d",
-    "previous_hash": "448f932378ce1b2a50f908ee1e75fe0330e334fdf649670cb60532068f372928",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "e5a4a8787c345be4deb1618ccfb92f33e42c3b9e04cf38397008c30775790a4d",
+    "previous_hash": "d16c41a4eba04a2f8d85b303daa528f6ce26e696343d2537cea58a0842037d9d",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47949027,
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 872,
-      "comments": 301
+      "score": 1435,
+      "comments": 452
     },
     {
-      "id": 47951582,
-      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-      "url": "https://deepmind.google/research/publications/231971/",
-      "score": 47,
-      "comments": 36
+      "id": 47952181,
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "score": 459,
+      "comments": 219
     },
     {
-      "id": 47948603,
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 374,
-      "comments": 199
+      "id": 47955297,
+      "title": "Germany has become the largest ammunition producer in the world",
+      "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+      "score": 86,
+      "comments": 46
     },
     {
-      "id": 47950510,
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 74,
-      "comments": 12
+      "id": 47952722,
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 929,
+      "comments": 371
     },
     {
-      "id": 47950091,
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 297,
-      "comments": 182
+      "id": 47953541,
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "score": 120,
+      "comments": 25
     }
   ]
 }
