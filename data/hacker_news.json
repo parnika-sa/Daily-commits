@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-30 22:43:00 UTC",
-    "fetched_at_ist": "2026-05-01 04:13:00 IST",
+    "fetched_at_utc": "2026-04-30 23:36:20 UTC",
+    "fetched_at_ist": "2026-05-01 05:06:20 IST",
     "item_count": 5,
-    "content_hash": "19d806abaa1064efe6de3f299ed54027f8f174efbd203551a0a031c58b0d20d1",
-    "previous_hash": "f660dd2b29fa598fcc0a9ee8cb6f32cc6777dafd274e472f8771dca0c26ad6c6",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "a8975969aa1c582aefe8f5d37fee96b0d4a3ff1e25f34b543f68238fac225e0c",
+    "previous_hash": "19d806abaa1064efe6de3f299ed54027f8f174efbd203551a0a031c58b0d20d1",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47967786,
       "title": "Rivian allows you to disable all internet connectivity",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 274,
-      "comments": 116
+      "score": 352,
+      "comments": 137
     },
     {
       "id": 47967262,
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
       "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "score": 248,
-      "comments": 98
+      "score": 322,
+      "comments": 136
     },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 368,
-      "comments": 104
-    },
-    {
-      "id": 47964617,
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 290,
-      "comments": 91
+      "score": 383,
+      "comments": 114
     },
     {
       "id": 47951295,
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 42,
-      "comments": 15
+      "score": 85,
+      "comments": 36
+    },
+    {
+      "id": 47965108,
+      "title": "CopyFail was not disclosed to distro developers?",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 315,
+      "comments": 261
     }
   ]
 }
