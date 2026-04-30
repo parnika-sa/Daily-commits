@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-30 18:05:37 UTC",
-    "fetched_at_ist": "2026-04-30 23:35:37 IST",
+    "fetched_at_utc": "2026-04-30 22:43:00 UTC",
+    "fetched_at_ist": "2026-05-01 04:13:00 IST",
     "item_count": 5,
-    "content_hash": "f660dd2b29fa598fcc0a9ee8cb6f32cc6777dafd274e472f8771dca0c26ad6c6",
-    "previous_hash": "a55bc2b217d4c4cc9ca1e70a4ccd8298a59d2debc3f014e881ac1606f0d4ac03",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "19d806abaa1064efe6de3f299ed54027f8f174efbd203551a0a031c58b0d20d1",
+    "previous_hash": "f660dd2b29fa598fcc0a9ee8cb6f32cc6777dafd274e472f8771dca0c26ad6c6",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47967786,
+      "title": "Rivian allows you to disable all internet connectivity",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 274,
+      "comments": 116
+    },
+    {
+      "id": 47967262,
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "score": 248,
+      "comments": 98
+    },
+    {
       "id": 47965060,
-      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 120,
-      "comments": 12
+      "score": 368,
+      "comments": 104
     },
     {
       "id": 47964617,
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 114,
-      "comments": 22
+      "score": 290,
+      "comments": 91
     },
     {
-      "id": 47961319,
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 569,
-      "comments": 456
-    },
-    {
-      "id": 47965503,
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 34,
-      "comments": 4
-    },
-    {
-      "id": 47963204,
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 415,
-      "comments": 286
+      "id": 47951295,
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 42,
+      "comments": 15
     }
   ]
 }
