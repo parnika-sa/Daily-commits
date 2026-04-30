@@ -16,44 +16,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-30 (last updated: 20:51 IST)
+
+## 📅 2026-04-30 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-29 23:41:18 IST | bb3ca83b5085 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-30 15:02:31 IST | a55bc2b217d4 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-30 20:51:33 IST | b6337b6197e7 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-30 23:35:37 IST | f660dd2b29fa | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-30 23:35:37 IST | e82badcdc533 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[warpdotdev/warp](https://github.com/warpdotdev/warp)** (Rust) — Warp is an agentic development environment, born out of the terminal.  
-  ⭐ 11,955 stars today
+  ⭐ 8,262 stars today
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** (Python) — TradingAgents: Multi-Agents LLM Financial Trading Framework  
+  ⭐ 2,203 stars today
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .claude directory.  
-  ⭐ 7,356 stars today
-- **[HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)** (Python) — Useful tool to track location or mobile number  
-  ⭐ 1,036 stars today
-- **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** (Python) — A curated list of practical Codex skills for automating workflows across the Cod  
-  ⭐ 1,180 stars today
-- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** (Rust) — Coding Agent Harness  
-  ⭐ 386 stars today
+  ⭐ 6,175 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,623 stars today
+- **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** (TypeScript) — No description  
+  ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) — Score: 567
-- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) — Score: 225
-- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1835
-- [The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) — Score: 263
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) — Score: 230
+- [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 120
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) — Score: 114
+- [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) — Score: 569
+- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) — Score: 34
+- [Claude Code refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168) — Score: 415
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,370.0 🟢 +0.21%
-- Ethereum: $2,263.38 🔴 -1.01%
-- Solana: $83.22 🔴 -0.20%
-- Bnb: $616.68 🔴 -0.27%
+- Bitcoin: $76,315.0 🟢 +0.46%
+- Ethereum: $2,260.18 🔴 -0.64%
+- Solana: $83.19 🟢 +0.17%
+- Bnb: $617.65 🔴 -0.19%
 
 ---
 ## 📅 2026-04-29 (last updated: 23:41 IST)

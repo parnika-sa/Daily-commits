@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-30 09:32:31 UTC",
-    "fetched_at_ist": "2026-04-30 15:02:31 IST",
+    "fetched_at_utc": "2026-04-30 18:05:37 UTC",
+    "fetched_at_ist": "2026-04-30 23:35:37 IST",
     "item_count": 5,
-    "content_hash": "a55bc2b217d4c4cc9ca1e70a4ccd8298a59d2debc3f014e881ac1606f0d4ac03",
-    "previous_hash": "e5a4a8787c345be4deb1618ccfb92f33e42c3b9e04cf38397008c30775790a4d",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f660dd2b29fa598fcc0a9ee8cb6f32cc6777dafd274e472f8771dca0c26ad6c6",
+    "previous_hash": "a55bc2b217d4c4cc9ca1e70a4ccd8298a59d2debc3f014e881ac1606f0d4ac03",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47957688,
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 567,
-      "comments": 318
+      "id": 47965060,
+      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 120,
+      "comments": 12
     },
     {
-      "id": 47927627,
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 225,
-      "comments": 42
+      "id": 47964617,
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 114,
+      "comments": 22
     },
     {
-      "id": 47949027,
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1835,
-      "comments": 590
+      "id": 47961319,
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 569,
+      "comments": 456
     },
     {
-      "id": 47957294,
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 263,
-      "comments": 105
+      "id": 47965503,
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 34,
+      "comments": 4
     },
     {
-      "id": 47957101,
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 230,
-      "comments": 41
+      "id": 47963204,
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 415,
+      "comments": 286
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-30 15:21:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-30 18:05:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **warpdotdev/warp**
-- BTC: **$76,370.0** ↑ (+0.21%)
-- HN top story: **Where the goblins came from**
+- BTC: **$76,315.0** ↑ (+0.46%)
+- HN top story: **The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-29 18:11:18 UTC | `bb3ca83b5085` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-30 09:32:31 UTC | `a55bc2b217d4` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-30 15:21:33 UTC | `b6337b6197e7` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-30 18:05:36 UTC | `246ce3868695` | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-30 18:05:37 UTC | `f660dd2b29fa` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-30 18:05:37 UTC | `e82badcdc533` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-30` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `44` day(s) |
-| Last Commit (IST) | `2026-04-30 20:51:33 IST` |
+| Last Commit (IST) | `2026-04-30 22:23:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-27 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-28 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-04-29 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-04-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,370.0 | +0.21% | 🟢 |
-| Ethereum | $2,263.38 | -1.01% | 🔴 |
-| Solana | $83.22 | -0.20% | 🔴 |
-| Bnb | $616.68 | -0.27% | 🔴 |
+| Bitcoin | $76,315.0 | +0.46% | 🟢 |
+| Ethereum | $2,260.18 | -0.64% | 🔴 |
+| Solana | $83.19 | +0.17% | 🟢 |
+| Bnb | $617.65 | -0.19% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 11,955 stars today | Warp is an agentic development environment, born out of the terminal. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 7,356 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | 1,036 stars today | Useful tool to track location or mobile number |
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 1,180 stars today | A curated list of practical Codex skills for automating workflows across the Cod… |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 386 stars today | Coding Agent Harness |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 777 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,688 stars today | Open-Source Frontier Voice AI |
-| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | 461 stars today | Deepseek to API: A lightweight, high-performance full-stack middleware convertin… |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 8,262 stars today | Warp is an agentic development environment, born out of the terminal. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,203 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 6,175 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,623 stars today | An agentic skills framework & software development methodology that works. |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 314 stars today | No description |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 307 stars today | A collective list of free APIs |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 670 stars today | Coding Agent Harness |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 723 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) | 567 | 318 |
-| [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) | 225 | 42 |
-| [Zed 1.0](https://zed.dev/blog/zed-1-0) | 1835 | 590 |
-| [The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) | 263 | 105 |
-| [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) | 230 | 41 |
+| [The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) | 120 | 12 |
+| [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) | 114 | 22 |
+| [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) | 569 | 456 |
+| [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) | 34 | 4 |
+| [Claude Code refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168) | 415 | 286 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
