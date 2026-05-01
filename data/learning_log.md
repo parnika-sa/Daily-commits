@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 13:05 IST)
+
+## 📅 2026-05-01 (last updated: 14:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-01 13:05:44 IST | 7264593b75f2 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-01 06:56:07 IST | 9cbedaddd287 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-01 14:50:13 IST | 04078a9be2b1 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[warpdotdev/warp](https://github.com/warpdotdev/warp)** (Rust) — Warp is an agentic development environment, born out of the terminal.  
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) — Score: 386
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,547.0 🟢 +0.30%
-- Ethereum: $2,262.72 🔴 -0.48%
-- Solana: $83.38 🔴 -0.56%
-- Bnb: $616.19 🔴 -0.60%
+- Bitcoin: $77,296.0 🟢 +1.64%
+- Ethereum: $2,283.45 🟢 +1.13%
+- Solana: $84.05 🟢 +1.12%
+- Bnb: $617.87 🟢 +0.16%
 
 ---
 ## 📅 2026-04-30 (last updated: 23:35 IST)
