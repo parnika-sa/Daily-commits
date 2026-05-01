@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 21:37:03 UTC",
-    "fetched_at_ist": "2026-05-02 03:07:03 IST",
+    "fetched_at_utc": "2026-05-01 22:33:23 UTC",
+    "fetched_at_ist": "2026-05-02 04:03:23 IST",
     "item_count": 5,
-    "content_hash": "ae98aa740d629e3689785f3812601029454ed985ece7cee24df937615fb4d976",
-    "previous_hash": "ae294dbf9cfa4892bcbe5984b3f90a519bb7c82ed28ab9d1e58098368f80272c",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "430a1654bb6141bfcf115bd84322f35a1259d945e9eed61f56c523e8ceb0e03b",
+    "previous_hash": "ae98aa740d629e3689785f3812601029454ed985ece7cee24df937615fb4d976",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47979839,
-      "title": "Credit cards are vulnerable to brute force attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "score": 65,
-      "comments": 60
-    },
-    {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 85,
-      "comments": 100
+      "score": 141,
+      "comments": 165
+    },
+    {
+      "id": 47979839,
+      "title": "Credit cards are vulnerable to brute force attacks",
+      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+      "score": 124,
+      "comments": 109
     },
     {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 124,
-      "comments": 63
+      "score": 152,
+      "comments": 81
+    },
+    {
+      "id": 47950070,
+      "title": "The Smelly Baby Problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "score": 20,
+      "comments": 5
     },
     {
       "id": 47979438,
       "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
       "url": "https://github.com/xodn348/destiny",
-      "score": 26,
-      "comments": 14
-    },
-    {
-      "id": 47975571,
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 194,
-      "comments": 216
+      "score": 36,
+      "comments": 29
     }
   ]
 }

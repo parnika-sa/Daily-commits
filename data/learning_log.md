@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-02 (last updated: 03:07 IST)
+
+## 📅 2026-05-02 (last updated: 04:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-02 03:07:03 IST | ae98aa740d62 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-02 04:03:23 IST | 430a1654bb61 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 19:47:11 IST | aca0de574f20 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) — Score: 65
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) — Score: 85
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 124
-- [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny) — Score: 26
-- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 194
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) — Score: 141
+- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) — Score: 124
+- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 152
+- [The Smelly Baby Problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) — Score: 20
+- [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny) — Score: 36
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,681.0 🟢 +3.32%
