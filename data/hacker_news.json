@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 22:33:23 UTC",
-    "fetched_at_ist": "2026-05-02 04:03:23 IST",
+    "fetched_at_utc": "2026-05-01 23:35:59 UTC",
+    "fetched_at_ist": "2026-05-02 05:05:59 IST",
     "item_count": 5,
-    "content_hash": "430a1654bb6141bfcf115bd84322f35a1259d945e9eed61f56c523e8ceb0e03b",
-    "previous_hash": "ae98aa740d629e3689785f3812601029454ed985ece7cee24df937615fb4d976",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "57c0ecdf16b3751569eeacc3c2eb6b316b5e260e024a12e5116c7985b8e33d79",
+    "previous_hash": "430a1654bb6141bfcf115bd84322f35a1259d945e9eed61f56c523e8ceb0e03b",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 141,
-      "comments": 165
-    },
-    {
-      "id": 47979839,
-      "title": "Credit cards are vulnerable to brute force attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "score": 124,
-      "comments": 109
+      "score": 200,
+      "comments": 212
     },
     {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 152,
-      "comments": 81
+      "score": 189,
+      "comments": 102
     },
     {
       "id": 47950070,
-      "title": "The Smelly Baby Problem",
+      "title": "The smelly baby problem",
       "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 20,
-      "comments": 5
+      "score": 48,
+      "comments": 17
     },
     {
-      "id": 47979438,
-      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-      "url": "https://github.com/xodn348/destiny",
-      "score": 36,
-      "comments": 29
+      "id": 47975571,
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975571",
+      "score": 209,
+      "comments": 235
+    },
+    {
+      "id": 47955789,
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "score": 61,
+      "comments": 65
     }
   ]
 }
