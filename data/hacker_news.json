@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 15:31:08 UTC",
-    "fetched_at_ist": "2026-05-01 21:01:08 IST",
+    "fetched_at_utc": "2026-05-01 16:36:41 UTC",
+    "fetched_at_ist": "2026-05-01 22:06:41 IST",
     "item_count": 5,
-    "content_hash": "ecbde42dd0d5a2d7effb8555a65e703fbfc9322bd17d7efce6dd83d14a66a8de",
-    "previous_hash": "7264593b75f2f7723fd6366d2ea223d63fa1505464450acd861c509a9f9a7ea3",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "616f0d353e7a307a18437ddfea88922fb6d9f9471f6f2a40474eae1524c11a49",
+    "previous_hash": "ecbde42dd0d5a2d7effb8555a65e703fbfc9322bd17d7efce6dd83d14a66a8de",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47975472,
-      "title": "GhostBox – disposable little machines from the Global Free Tier.",
-      "url": "https://www.ghost.charity/",
-      "score": 45,
-      "comments": 16
-    },
-    {
-      "id": 47973376,
-      "title": "Your Website Is Not for You",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "score": 174,
-      "comments": 109
-    },
-    {
-      "id": 47973755,
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "url": "https://www.pagetable.com/?p=1854",
-      "score": 62,
-      "comments": 15
+      "id": 47975571,
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975571",
+      "score": 74,
+      "comments": 76
     },
     {
       "id": 47975592,
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "score": 8,
-      "comments": 2
+      "score": 41,
+      "comments": 8
+    },
+    {
+      "id": 47976415,
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "score": 15,
+      "comments": 4
+    },
+    {
+      "id": 47975570,
+      "title": "Ask HN: Who wants to be hired? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975570",
+      "score": 38,
+      "comments": 74
     },
     {
       "id": 47975392,
-      "title": "Sally McKee, who coined the term \"the Memory Wall\", has died",
+      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
       "url": "https://www.online-tribute.com/SallyMcKee",
-      "score": 14,
-      "comments": 2
+      "score": 34,
+      "comments": 4
     }
   ]
 }

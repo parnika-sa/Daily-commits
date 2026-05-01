@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 21:01 IST)
+
+## 📅 2026-05-01 (last updated: 22:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-01 21:01:08 IST | ecbde42dd0d5 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-01 22:06:41 IST | 616f0d353e7a | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 19:47:11 IST | aca0de574f20 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/) — Score: 45
-- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/) — Score: 174
-- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854) — Score: 62
-- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 8
-- [Sally McKee, who coined the term "the Memory Wall", has died](https://www.online-tribute.com/SallyMcKee) — Score: 14
+- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 74
+- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 41
+- [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) — Score: 15
+- [Ask HN: Who wants to be hired? (May 2026)](https://news.ycombinator.com/item?id=47975570) — Score: 38
+- [Sally McKee, who coined the term "the memory wall", has died](https://www.online-tribute.com/SallyMcKee) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,681.0 🟢 +3.32%
