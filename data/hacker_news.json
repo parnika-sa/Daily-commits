@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 17:39:33 UTC",
-    "fetched_at_ist": "2026-05-01 23:09:33 IST",
+    "fetched_at_utc": "2026-05-01 20:41:52 UTC",
+    "fetched_at_ist": "2026-05-02 02:11:52 IST",
     "item_count": 5,
-    "content_hash": "f8f4304670a6bdc4de21d4fadfd77d3f15ac69e6ec966429c7212e9e413c1184",
-    "previous_hash": "616f0d353e7a307a18437ddfea88922fb6d9f9471f6f2a40474eae1524c11a49",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "ae294dbf9cfa4892bcbe5984b3f90a519bb7c82ed28ab9d1e58098368f80272c",
+    "previous_hash": "f8f4304670a6bdc4de21d4fadfd77d3f15ac69e6ec966429c7212e9e413c1184",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47976415,
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "score": 169,
-      "comments": 181
+      "id": 47977748,
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 80,
+      "comments": 40
     },
     {
       "id": 47975571,
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 116,
-      "comments": 115
+      "score": 181,
+      "comments": 198
+    },
+    {
+      "id": 47976856,
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+      "score": 125,
+      "comments": 126
+    },
+    {
+      "id": 47978370,
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "score": 140,
+      "comments": 20
     },
     {
       "id": 47975592,
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "score": 53,
-      "comments": 12
-    },
-    {
-      "id": 47976529,
-      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-      "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-      "score": 153,
-      "comments": 57
-    },
-    {
-      "id": 47975570,
-      "title": "Ask HN: Who wants to be hired? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975570",
-      "score": 61,
-      "comments": 110
+      "score": 95,
+      "comments": 21
     }
   ]
 }

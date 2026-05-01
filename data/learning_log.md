@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-02 (last updated: 23:09 IST)
+
+## 📅 2026-05-02 (last updated: 02:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-01 23:09:33 IST | f8f4304670a6 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-02 02:11:52 IST | ae294dbf9cfa | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 19:47:11 IST | aca0de574f20 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) — Score: 169
-- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 116
-- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 53
-- [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/) — Score: 153
-- [Ask HN: Who wants to be hired? (May 2026)](https://news.ycombinator.com/item?id=47975570) — Score: 61
+- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 80
+- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 181
+- [Spotify adds 'Verified' badges to distinguish human artists from AI](https://www.bbc.com/news/articles/c5yerr4m1yno) — Score: 125
+- [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/) — Score: 140
+- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 95
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,681.0 🟢 +3.32%
