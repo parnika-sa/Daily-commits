@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 19:47 IST)
+
+## 📅 2026-05-01 (last updated: 21:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-01 13:05:44 IST | 7264593b75f2 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-01 21:01:08 IST | ecbde42dd0d5 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 19:47:11 IST | aca0de574f20 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 553
-- [New copy of earliest poem in English, written 1,3k years ago, discovered in Rome](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/) — Score: 37
-- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) — Score: 313
-- [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) — Score: 464
-- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) — Score: 386
+- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/) — Score: 45
+- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/) — Score: 174
+- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854) — Score: 62
+- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 8
+- [Sally McKee, who coined the term "the Memory Wall", has died](https://www.online-tribute.com/SallyMcKee) — Score: 14
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,681.0 🟢 +3.32%

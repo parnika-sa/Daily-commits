@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 07:35:44 UTC",
-    "fetched_at_ist": "2026-05-01 13:05:44 IST",
+    "fetched_at_utc": "2026-05-01 15:31:08 UTC",
+    "fetched_at_ist": "2026-05-01 21:01:08 IST",
     "item_count": 5,
-    "content_hash": "7264593b75f2f7723fd6366d2ea223d63fa1505464450acd861c509a9f9a7ea3",
-    "previous_hash": "a8975969aa1c582aefe8f5d37fee96b0d4a3ff1e25f34b543f68238fac225e0c",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "ecbde42dd0d5a2d7effb8555a65e703fbfc9322bd17d7efce6dd83d14a66a8de",
+    "previous_hash": "7264593b75f2f7723fd6366d2ea223d63fa1505464450acd861c509a9f9a7ea3",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47965060,
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 553,
-      "comments": 183
+      "id": 47975472,
+      "title": "GhostBox – disposable little machines from the Global Free Tier.",
+      "url": "https://www.ghost.charity/",
+      "score": 45,
+      "comments": 16
     },
     {
-      "id": 47946899,
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 37,
+      "id": 47973376,
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 174,
+      "comments": 109
+    },
+    {
+      "id": 47973755,
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "url": "https://www.pagetable.com/?p=1854",
+      "score": 62,
+      "comments": 15
+    },
+    {
+      "id": 47975592,
+      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "score": 8,
       "comments": 2
     },
     {
-      "id": 47951295,
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 313,
-      "comments": 164
-    },
-    {
-      "id": 47965108,
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 464,
-      "comments": 347
-    },
-    {
-      "id": 47964617,
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 386,
-      "comments": 131
+      "id": 47975392,
+      "title": "Sally McKee, who coined the term \"the Memory Wall\", has died",
+      "url": "https://www.online-tribute.com/SallyMcKee",
+      "score": 14,
+      "comments": 2
     }
   ]
 }
