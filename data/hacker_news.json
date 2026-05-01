@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 20:41:52 UTC",
-    "fetched_at_ist": "2026-05-02 02:11:52 IST",
+    "fetched_at_utc": "2026-05-01 21:37:03 UTC",
+    "fetched_at_ist": "2026-05-02 03:07:03 IST",
     "item_count": 5,
-    "content_hash": "ae294dbf9cfa4892bcbe5984b3f90a519bb7c82ed28ab9d1e58098368f80272c",
-    "previous_hash": "f8f4304670a6bdc4de21d4fadfd77d3f15ac69e6ec966429c7212e9e413c1184",
+    "content_hash": "ae98aa740d629e3689785f3812601029454ed985ece7cee24df937615fb4d976",
+    "previous_hash": "ae294dbf9cfa4892bcbe5984b3f90a519bb7c82ed28ab9d1e58098368f80272c",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47979839,
+      "title": "Credit cards are vulnerable to brute force attacks",
+      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+      "score": 65,
+      "comments": 60
+    },
+    {
+      "id": 47979583,
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "score": 85,
+      "comments": 100
+    },
+    {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 80,
-      "comments": 40
+      "score": 124,
+      "comments": 63
+    },
+    {
+      "id": 47979438,
+      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
+      "url": "https://github.com/xodn348/destiny",
+      "score": 26,
+      "comments": 14
     },
     {
       "id": 47975571,
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 181,
-      "comments": 198
-    },
-    {
-      "id": 47976856,
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "score": 125,
-      "comments": 126
-    },
-    {
-      "id": 47978370,
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 140,
-      "comments": 20
-    },
-    {
-      "id": 47975592,
-      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "score": 95,
-      "comments": 21
+      "score": 194,
+      "comments": 216
     }
   ]
 }
