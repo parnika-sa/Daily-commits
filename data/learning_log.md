@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 06:56 IST)
+
+## 📅 2026-05-01 (last updated: 13:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-01 05:06:20 IST | a8975969aa1c | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-01 13:05:44 IST | 7264593b75f2 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 06:56:07 IST | 9cbedaddd287 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) — Score: 352
-- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/) — Score: 322
-- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 383
-- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) — Score: 85
-- [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10) — Score: 315
+- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 553
+- [New copy of earliest poem in English, written 1,3k years ago, discovered in Rome](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/) — Score: 37
+- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) — Score: 313
+- [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) — Score: 464
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) — Score: 386
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,547.0 🟢 +0.30%

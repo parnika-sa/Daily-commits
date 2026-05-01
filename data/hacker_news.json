@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-30 23:36:20 UTC",
-    "fetched_at_ist": "2026-05-01 05:06:20 IST",
+    "fetched_at_utc": "2026-05-01 07:35:44 UTC",
+    "fetched_at_ist": "2026-05-01 13:05:44 IST",
     "item_count": 5,
-    "content_hash": "a8975969aa1c582aefe8f5d37fee96b0d4a3ff1e25f34b543f68238fac225e0c",
-    "previous_hash": "19d806abaa1064efe6de3f299ed54027f8f174efbd203551a0a031c58b0d20d1",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "7264593b75f2f7723fd6366d2ea223d63fa1505464450acd861c509a9f9a7ea3",
+    "previous_hash": "a8975969aa1c582aefe8f5d37fee96b0d4a3ff1e25f34b543f68238fac225e0c",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47967786,
-      "title": "Rivian allows you to disable all internet connectivity",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 352,
-      "comments": 137
-    },
-    {
-      "id": 47967262,
-      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "score": 322,
-      "comments": 136
-    },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 383,
-      "comments": 114
+      "score": 553,
+      "comments": 183
+    },
+    {
+      "id": 47946899,
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "score": 37,
+      "comments": 2
     },
     {
       "id": 47951295,
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 85,
-      "comments": 36
+      "score": 313,
+      "comments": 164
     },
     {
       "id": 47965108,
-      "title": "CopyFail was not disclosed to distro developers?",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 315,
-      "comments": 261
+      "score": 464,
+      "comments": 347
+    },
+    {
+      "id": 47964617,
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 386,
+      "comments": 131
     }
   ]
 }
