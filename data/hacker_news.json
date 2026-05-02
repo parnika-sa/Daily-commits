@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 04:36:00 UTC",
-    "fetched_at_ist": "2026-05-02 10:06:00 IST",
+    "fetched_at_utc": "2026-05-02 17:38:37 UTC",
+    "fetched_at_ist": "2026-05-02 23:08:37 IST",
     "item_count": 5,
-    "content_hash": "9362530047ff7ed9b221787f04ad1ffe0bbaf12fa7b0d6184b62c837d27752c3",
-    "previous_hash": "57c0ecdf16b3751569eeacc3c2eb6b316b5e260e024a12e5116c7985b8e33d79",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "77b22f96494828508eb123fd7a1058c17e8b610512d836dca6889a9ffdd7c95c",
+    "previous_hash": "9362530047ff7ed9b221787f04ad1ffe0bbaf12fa7b0d6184b62c837d27752c3",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47979583,
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 373,
-      "comments": 337
+      "id": 47987256,
+      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "score": 268,
+      "comments": 127
     },
     {
-      "id": 47983226,
-      "title": "Ask Jeeves Shut Down",
-      "url": "https://www.ask.com/",
-      "score": 38,
-      "comments": 12
+      "id": 47984852,
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "score": 172,
+      "comments": 60
     },
     {
-      "id": 47954394,
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 121,
-      "comments": 11
+      "id": 47948526,
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "score": 73,
+      "comments": 13
     },
     {
-      "id": 47977748,
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 284,
-      "comments": 157
+      "id": 47960015,
+      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 14,
+      "comments": 0
     },
     {
-      "id": 47949794,
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 30,
-      "comments": 2
+      "id": 47983352,
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 564,
+      "comments": 245
     }
   ]
 }

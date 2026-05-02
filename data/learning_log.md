@@ -22,18 +22,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-02 (last updated: 19:58 IST)
+
+## 📅 2026-05-02 (last updated: 23:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 23:35:36 IST | 246ce3868695 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-02 10:06:00 IST | 9362530047ff | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-02 23:08:37 IST | 77b22f964948 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-02 19:58:02 IST | b827f458059d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 314 stars today
 
 ### 📰 Hacker News Stories
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) — Score: 373
-- [Ask Jeeves Shut Down](https://www.ask.com/) — Score: 38
-- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003) — Score: 121
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 284
-- [To Restore an Island Paradise, Add Fungi](https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi) — Score: 30
+- [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462) — Score: 268
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) — Score: 172
+- [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman) — Score: 73
+- [Inventions for battery reuse and recycling increase more than 7-fold in last 10y](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) — Score: 14
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) — Score: 564
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,420.0 🟢 +0.21%
