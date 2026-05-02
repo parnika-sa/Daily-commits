@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 23:35:59 UTC",
-    "fetched_at_ist": "2026-05-02 05:05:59 IST",
+    "fetched_at_utc": "2026-05-02 04:36:00 UTC",
+    "fetched_at_ist": "2026-05-02 10:06:00 IST",
     "item_count": 5,
-    "content_hash": "57c0ecdf16b3751569eeacc3c2eb6b316b5e260e024a12e5116c7985b8e33d79",
-    "previous_hash": "430a1654bb6141bfcf115bd84322f35a1259d945e9eed61f56c523e8ceb0e03b",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "9362530047ff7ed9b221787f04ad1ffe0bbaf12fa7b0d6184b62c837d27752c3",
+    "previous_hash": "57c0ecdf16b3751569eeacc3c2eb6b316b5e260e024a12e5116c7985b8e33d79",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47979583,
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 200,
-      "comments": 212
+      "score": 373,
+      "comments": 337
+    },
+    {
+      "id": 47983226,
+      "title": "Ask Jeeves Shut Down",
+      "url": "https://www.ask.com/",
+      "score": 38,
+      "comments": 12
+    },
+    {
+      "id": 47954394,
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "score": 121,
+      "comments": 11
     },
     {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 189,
-      "comments": 102
+      "score": 284,
+      "comments": 157
     },
     {
-      "id": 47950070,
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 48,
-      "comments": 17
-    },
-    {
-      "id": 47975571,
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 209,
-      "comments": 235
-    },
-    {
-      "id": 47955789,
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 61,
-      "comments": 65
+      "id": 47949794,
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "score": 30,
+      "comments": 2
     }
   ]
 }
