@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 17:38:37 UTC",
-    "fetched_at_ist": "2026-05-02 23:08:37 IST",
+    "fetched_at_utc": "2026-05-02 18:34:00 UTC",
+    "fetched_at_ist": "2026-05-03 00:04:00 IST",
     "item_count": 5,
-    "content_hash": "77b22f96494828508eb123fd7a1058c17e8b610512d836dca6889a9ffdd7c95c",
-    "previous_hash": "9362530047ff7ed9b221787f04ad1ffe0bbaf12fa7b0d6184b62c837d27752c3",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "17d6465085f98f16388770728942c308b075cb11587c2d30d81e8ff0c7e84538",
+    "previous_hash": "77b22f96494828508eb123fd7a1058c17e8b610512d836dca6889a9ffdd7c95c",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47987256,
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "score": 268,
-      "comments": 127
-    },
-    {
-      "id": 47984852,
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 172,
-      "comments": 60
-    },
-    {
-      "id": 47948526,
-      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
-      "url": "https://github.com/EnterpriseDB/barman",
-      "score": 73,
+      "id": 47988776,
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 89,
       "comments": 13
+    },
+    {
+      "id": 47988504,
+      "title": "Videolan Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 30,
+      "comments": 4
+    },
+    {
+      "id": 47987333,
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "score": 68,
+      "comments": 75
     },
     {
       "id": 47960015,
       "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
       "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 14,
-      "comments": 0
+      "score": 50,
+      "comments": 4
     },
     {
-      "id": 47983352,
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 564,
-      "comments": 245
+      "id": 47984852,
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "score": 186,
+      "comments": 70
     }
   ]
 }
