@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-02 04:36:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-02 06:29:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **warpdotdev/warp**
-- BTC: **$78,335.0** ↑ (+2.30%)
+- BTC: **$78,145.0** ↑ (+1.33%)
 - HN top story: **Ti-84 Evo**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-30 18:05:36 UTC | `246ce3868695` | +6 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-02 04:36:00 UTC | `9362530047ff` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-05-02 01:17:30 UTC | `ccbd9da52c2c` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-05-02 06:29:47 UTC | `59e2dd93917c` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-02` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-05-02 06:47:30 IST` |
+| Last Commit (IST) | `2026-05-02 10:06:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-29 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-05-02 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-02 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,335.0 | +2.30% | 🟢 |
-| Ethereum | $2,297.4 | +1.48% | 🟢 |
-| Solana | $83.85 | +0.60% | 🟢 |
-| Bnb | $616.21 | +0.01% | 🟢 |
+| Bitcoin | $78,145.0 | +1.33% | 🟢 |
+| Ethereum | $2,297.86 | +0.61% | 🟢 |
+| Solana | $83.61 | -0.54% | 🔴 |
+| Bnb | $614.96 | -0.43% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
