@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-03 15:29:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-03 18:01:24 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **ruvnet/ruflo**
-- BTC: **$78,743.0** ↑ (+0.48%)
-- HN top story: **Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case**
+- BTC: **$78,717.0** ↑ (+0.43%)
+- HN top story: **What Chromium versions are major browsers are on?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-05-03 12:02:45 UTC | `575cfa58859d` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-03 14:41:45 UTC | `c28c108ee2b2` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-03 15:29:44 UTC | `7fe50ef0ecf5` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-05-03 18:01:23 UTC | `8db805560fac` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-03 18:01:24 UTC | `7e8afa0fd08b` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-03 18:01:24 UTC | `e0626220721c` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-03` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-05-03 21:40:12 IST` |
+| Last Commit (IST) | `2026-05-03 22:36:18 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-02 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-05-03 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-05-03 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,743.0 | +0.48% | 🟢 |
-| Ethereum | $2,330.33 | +1.05% | 🟢 |
-| Solana | $84.29 | +0.39% | 🟢 |
-| Bnb | $620.05 | +0.40% | 🟢 |
+| Bitcoin | $78,717.0 | +0.43% | 🟢 |
+| Ethereum | $2,331.45 | +1.13% | 🟢 |
+| Solana | $84.18 | +0.22% | 🟢 |
+| Bnb | $619.62 | +0.20% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
@@ -66,7 +66,7 @@
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,834 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 3,315 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,117 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 564 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 389 stars today | Coding agent for DeepSeek models that runs in your terminal |
 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 478 stars today | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 322 stars today | Claude Agent SDK with a web browsing tool |
 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 264 stars today | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow… |
@@ -76,11 +76,11 @@
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679) | 60 | 30 |
-| [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) | 88 | 14 |
-| [Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html) | 64 | 10 |
-| [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) | 319 | 150 |
-| [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) | 422 | 108 |
+| [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/) | 53 | 14 |
+| [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) | 28 | 5 |
+| [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) | 340 | 191 |
+| [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html) | 69 | 22 |
+| [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html) | 117 | 81 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
