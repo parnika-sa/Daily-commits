@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-03 (last updated: 17:32 IST)
+
+## 📅 2026-05-03 (last updated: 20:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-05-03 17:32:45 IST | 575cfa58859d | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-03 17:32:46 IST | ed36d3346986 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-03 20:11:45 IST | c28c108ee2b2 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-03 17:32:45 IST | 8ee02fbd37f3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 478 stars today
 
 ### 📰 Hacker News Stories
-- [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) — Score: 271
-- [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) — Score: 24
-- [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) — Score: 366
-- [Dav2d](https://code.videolan.org/videolan/dav2d) — Score: 504
-- [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) — Score: 329
+- [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679) — Score: 60
+- [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) — Score: 88
+- [Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html) — Score: 64
+- [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) — Score: 319
+- [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) — Score: 422
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,667.0 🟢 +0.72%
