@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-03 11:25:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-03 12:02:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **TauricResearch/TradingAgents**
-- BTC: **$78,490.0** ↑ (+0.37%)
+- Top GitHub repo: **ruvnet/ruflo**
+- BTC: **$78,667.0** ↑ (+0.72%)
 - HN top story: **A couple million lines of Haskell: Production engineering at Mercury**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 8 | 2026-05-03 00:05:28 UTC | `71cc2488a8d4` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-03 10:37:24 UTC | `699d78f1d6bc` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-05-03 11:25:00 UTC | `a0457e4ba928` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-05-03 12:02:45 UTC | `575cfa58859d` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-03 12:02:46 UTC | `ed36d3346986` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-05-03 12:02:45 UTC | `8ee02fbd37f3` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-03` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-05-03 16:07:25 IST` |
+| Last Commit (IST) | `2026-05-03 16:55:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-02 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-05-03 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-05-03 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,490.0 | +0.37% | 🟢 |
-| Ethereum | $2,313.43 | +0.43% | 🟢 |
-| Solana | $83.86 | +0.11% | 🟢 |
-| Bnb | $617.96 | +0.42% | 🟢 |
+| Bitcoin | $78,667.0 | +0.72% | 🟢 |
+| Ethereum | $2,321.2 | +0.86% | 🟢 |
+| Solana | $83.99 | +0.38% | 🟢 |
+| Bnb | $619.21 | +0.60% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,225 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,299 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 346 stars today | Claude Agent SDK with a web browsing tool |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,064 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 181 stars today | No description |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 482 stars today | Coding Agent Harness |
-| [ShareX/ShareX](https://github.com/ShareX/ShareX) | C# | 152 stars today | ShareX is a free and open-source application that enables users to capture or re… |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | Unknown | 694 stars today | A complete computer science study plan to become a software engineer. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,834 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 3,315 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,117 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 564 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 478 stars today | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 322 stars today | Claude Agent SDK with a web browsing tool |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 264 stars today | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow… |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 587 stars today | Coding Agent Harness |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) | 226 | 96 |
-| [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) | 338 | 75 |
-| [Dav2d](https://code.videolan.org/videolan/dav2d) | 483 | 133 |
-| [Unverified Evaluations in Dusk's PLONK](https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/) | 24 | 2 |
-| [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) | 301 | 71 |
+| [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) | 271 | 111 |
+| [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) | 24 | 2 |
+| [This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/) | 366 | 82 |
+| [Dav2d](https://code.videolan.org/videolan/dav2d) | 504 | 137 |
+| [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) | 329 | 80 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

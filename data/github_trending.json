@@ -2,62 +2,68 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-03 00:05:28 UTC",
-    "fetched_at_ist": "2026-05-03 05:35:28 IST",
-    "item_count": 8,
-    "content_hash": "71cc2488a8d478bf49feeba290093bd7165fe7d0c9ff7fad2082d6a52f50d5e7",
-    "previous_hash": "246ce3868695e6886ac84ccc346cf62f9c7791ca5130cbc602de0cc64c329ff6",
+    "fetched_at_utc": "2026-05-03 12:02:45 UTC",
+    "fetched_at_ist": "2026-05-03 17:32:45 IST",
+    "item_count": 9,
+    "content_hash": "575cfa58859df0c5f540280f17ba0e23e24b51282310e72e95ad63e0a5af8870",
+    "previous_hash": "71cc2488a8d478bf49feeba290093bd7165fe7d0c9ff7fad2082d6a52f50d5e7",
     "new_repos_vs_previous": 4,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "2,225 stars today"
-    },
-    {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "1,299 stars today"
+      "stars_today": "1,834 stars today"
     },
     {
-      "name": "browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "language": "JavaScript",
-      "stars_today": "346 stars today"
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "3,315 stars today"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "1,064 stars today"
+      "stars_today": "1,117 stars today"
     },
     {
-      "name": "Flowseal/zapret-discord-youtube",
-      "description": "No description",
-      "language": "Batchfile",
-      "stars_today": "181 stars today"
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "564 stars today"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "478 stars today"
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "322 stars today"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": "264 stars today"
     },
     {
       "name": "1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_today": "482 stars today"
+      "stars_today": "587 stars today"
     },
     {
-      "name": "ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-      "language": "C#",
-      "stars_today": "152 stars today"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "Unknown",
-      "stars_today": "694 stars today"
+      "name": "openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars_today": "14 stars today"
     }
   ]
 }
