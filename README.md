@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-02 23:25:25 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-03 00:05:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **warpdotdev/warp**
-- BTC: **$78,737.0** ↑ (+0.84%)
+- Top GitHub repo: **TauricResearch/TradingAgents**
+- BTC: **$78,706.0** ↑ (+0.61%)
 - HN top story: **VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-30 18:05:36 UTC | `246ce3868695` | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-02 22:37:29 UTC | `d39980d98525` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-02 23:25:25 UTC | `4b6b6c981efb` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 8 | 2026-05-03 00:05:28 UTC | `71cc2488a8d4` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-03 00:05:29 UTC | `af50d4567a4a` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-05-03 00:05:29 UTC | `bc2f91dfe9bc` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-03` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `46` day(s) |
-| Last Commit (IST) | `2026-05-03 04:07:29 IST` |
+| Last Commit (IST) | `2026-05-03 04:55:25 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-02 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-05-03 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-05-03 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,737.0 | +0.84% | 🟢 |
-| Ethereum | $2,321.51 | +1.34% | 🟢 |
-| Solana | $84.39 | +0.90% | 🟢 |
-| Bnb | $618.45 | +0.59% | 🟢 |
+| Bitcoin | $78,706.0 | +0.61% | 🟢 |
+| Ethereum | $2,315.47 | +0.92% | 🟢 |
+| Solana | $84.22 | +0.66% | 🟢 |
+| Bnb | $618.26 | +0.50% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 8,262 stars today | Warp is an agentic development environment, born out of the terminal. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,203 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 6,175 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,623 stars today | An agentic skills framework & software development methodology that works. |
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 314 stars today | No description |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 307 stars today | A collective list of free APIs |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 670 stars today | Coding Agent Harness |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 723 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,225 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,299 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 346 stars today | Claude Agent SDK with a web browsing tool |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,064 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 181 stars today | No description |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 482 stars today | Coding Agent Harness |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | C# | 152 stars today | ShareX is a free and open-source application that enables users to capture or re… |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | Unknown | 694 stars today | A complete computer science study plan to become a software engineer. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) | 385 | 182 |
-| [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) | 64 | 10 |
-| [Dav2d](https://code.videolan.org/videolan/dav2d) | 264 | 89 |
-| [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/) | 51 | 12 |
-| [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago) | 39 | 8 |
+| [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) | 584 | 254 |
+| [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) | 117 | 22 |
+| [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/) | 104 | 16 |
+| [Dav2d](https://code.videolan.org/videolan/dav2d) | 303 | 99 |
+| [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago) | 78 | 16 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

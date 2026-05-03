@@ -2,92 +2,62 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-30 18:05:36 UTC",
-    "fetched_at_ist": "2026-04-30 23:35:36 IST",
-    "item_count": 13,
-    "content_hash": "246ce3868695e6886ac84ccc346cf62f9c7791ca5130cbc602de0cc64c329ff6",
-    "previous_hash": "bb3ca83b50854829c4ec2cb0f3289bd1678db0d32b43f096f2eb0482c699d503",
-    "new_repos_vs_previous": 6,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-05-03 00:05:28 UTC",
+    "fetched_at_ist": "2026-05-03 05:35:28 IST",
+    "item_count": 8,
+    "content_hash": "71cc2488a8d478bf49feeba290093bd7165fe7d0c9ff7fad2082d6a52f50d5e7",
+    "previous_hash": "246ce3868695e6886ac84ccc346cf62f9c7791ca5130cbc602de0cc64c329ff6",
+    "new_repos_vs_previous": 4,
+    "top_repo_changed": true
   },
   "repos": [
-    {
-      "name": "warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "8,262 stars today"
-    },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,203 stars today"
+      "stars_today": "2,225 stars today"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "6,175 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,623 stars today"
-    },
-    {
-      "name": "lukilabs/craft-agents-oss",
-      "description": "No description",
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "314 stars today"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": "307 stars today"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "670 stars today"
-    },
-    {
-      "name": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "723 stars today"
-    },
-    {
-      "name": "HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "stars_today": "830 stars today"
-    },
-    {
-      "name": "iamgio/quarkdown",
-      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-      "language": "Kotlin",
-      "stars_today": "799 stars today"
-    },
-    {
-      "name": "ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "stars_today": "379 stars today"
-    },
-    {
-      "name": "ForrestKnight/open-source-cs",
-      "description": "Video discussing this curriculum:",
-      "language": "Unknown",
-      "stars_today": "133 stars today"
+      "stars_today": "1,299 stars today"
     },
     {
       "name": "browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars_today": "54 stars today"
+      "stars_today": "346 stars today"
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "1,064 stars today"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "No description",
+      "language": "Batchfile",
+      "stars_today": "181 stars today"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "482 stars today"
+    },
+    {
+      "name": "ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars_today": "152 stars today"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars_today": "694 stars today"
     }
   ]
 }

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 22:37:29 UTC",
-    "fetched_at_ist": "2026-05-03 04:07:29 IST",
+    "fetched_at_utc": "2026-05-03 00:05:29 UTC",
+    "fetched_at_ist": "2026-05-03 05:35:29 IST",
     "item_count": 5,
-    "content_hash": "d39980d985258a46f9ef0782df78eccb8d7f34766386c592a5cbc7ef5e305fb0",
-    "previous_hash": "a03d12161d5a3348e7b59f4e0445861e47c0b9642d9aed9198a0ebbaadd571a4",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "af50d4567a4a7c45b6f4ccb3be181162f7829ec352f508c20e4dab5e6d604b65",
+    "previous_hash": "d39980d985258a46f9ef0782df78eccb8d7f34766386c592a5cbc7ef5e305fb0",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47989883,
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 385,
-      "comments": 182
+      "score": 584,
+      "comments": 254
     },
     {
       "id": 47990606,
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 64,
-      "comments": 10
-    },
-    {
-      "id": 47988504,
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 264,
-      "comments": 89
+      "score": 117,
+      "comments": 22
     },
     {
       "id": 47990318,
       "title": "This Month in Ladybird - April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 51,
-      "comments": 12
+      "score": 104,
+      "comments": 16
+    },
+    {
+      "id": 47988504,
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 303,
+      "comments": 99
     },
     {
       "id": 47990284,
       "title": "Neanderthals ran 'fat factories' 125,000 years ago",
       "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "score": 39,
-      "comments": 8
+      "score": 78,
+      "comments": 16
     }
   ]
 }
