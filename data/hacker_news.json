@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-04 22:30:32 UTC",
-    "fetched_at_ist": "2026-05-05 04:00:32 IST",
+    "fetched_at_utc": "2026-05-04 23:32:41 UTC",
+    "fetched_at_ist": "2026-05-05 05:02:41 IST",
     "item_count": 5,
-    "content_hash": "7800dc14c75ea7a25ba6f85f4e211f051a324bf25e9e49a8dc160722add5cada",
-    "previous_hash": "204cfbbb2f0be47e908a061bb5f30dcfc7d7b393bc51f3b1dd277ab96ba22395",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "a4e4763a687b0d349591ad5042e462906af0a5f848e1bef0d7c2a5f44602c101",
+    "previous_hash": "7800dc14c75ea7a25ba6f85f4e211f051a324bf25e9e49a8dc160722add5cada",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48013919,
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 142,
-      "comments": 63
+      "score": 190,
+      "comments": 83
     },
     {
       "id": 48011184,
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 324,
-      "comments": 226
+      "score": 352,
+      "comments": 248
     },
     {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 986,
-      "comments": 485
-    },
-    {
-      "id": 48014325,
-      "title": "Formatting a 25M-line codebase overnight",
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 70,
-      "comments": 37
+      "score": 1051,
+      "comments": 509
     },
     {
       "id": 48012162,
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 138,
-      "comments": 61
+      "score": 150,
+      "comments": 68
+    },
+    {
+      "id": 48015097,
+      "title": "Pulitzer Prize Winners 2026",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "score": 41,
+      "comments": 13
     }
   ]
 }
