@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-04 (last updated: 12:51 IST)
+
+## 📅 2026-05-04 (last updated: 15:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-05-04 05:40:09 IST | f8310efa49d3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-04 05:40:10 IST | a0aa66371f68 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-04 15:04:12 IST | 204cfbbb2f0b | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-04 12:51:32 IST | f415b95e8098 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 497 stars today
 
 ### 📰 Hacker News Stories
-- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) — Score: 103
-- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) — Score: 30
-- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) — Score: 224
-- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) — Score: 173
-- [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html) — Score: 74
+- [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/) — Score: 221
+- [Debunking the CIA's “magic” heartbeat sensor [video]](https://www.youtube.com/watch?v=SVTPv4sI_Jc) — Score: 10
+- [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/) — Score: 34
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) — Score: 371
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude) — Score: 449
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,838.0 🟢 +1.88%
