@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-03 22:41:23 UTC",
-    "fetched_at_ist": "2026-05-04 04:11:23 IST",
+    "fetched_at_utc": "2026-05-04 00:10:10 UTC",
+    "fetched_at_ist": "2026-05-04 05:40:10 IST",
     "item_count": 5,
-    "content_hash": "a9c9247e2bea4c7aadfceb4f1e03ebf945dd092d34017c619e3af10c17e553ce",
-    "previous_hash": "7e8afa0fd08bfa4c0bcf15d3be8bb63cde800eb68d3c498707aefae261b302ed",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a0aa66371f688f32d38232ca5a45ec21937b0f9afdd31dd604b020283eff0bea",
+    "previous_hash": "a9c9247e2bea4c7aadfceb4f1e03ebf945dd092d34017c619e3af10c17e553ce",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48002136,
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 103,
+      "comments": 43
+    },
+    {
+      "id": 48002607,
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "score": 30,
+      "comments": 7
+    },
+    {
       "id": 47999636,
       "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 192,
-      "comments": 60
-    },
-    {
-      "id": 47991981,
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 201,
-      "comments": 150
+      "score": 224,
+      "comments": 75
     },
     {
       "id": 47998946,
       "title": "Southwest Headquarters Tour",
       "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 159,
-      "comments": 38
+      "score": 173,
+      "comments": 50
     },
     {
       "id": 47974682,
       "title": "US–Indian space mission maps extreme subsidence in Mexico City",
       "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 58,
-      "comments": 20
-    },
-    {
-      "id": 47997947,
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "score": 186,
-      "comments": 70
+      "score": 74,
+      "comments": 38
     }
   ]
 }
