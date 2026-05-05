@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-06 (last updated: 01:45 IST)
+
+## 📅 2026-05-06 (last updated: 03:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-05 17:30:37 IST | 458179cdcdbf | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-05 17:30:38 IST | 5e4de8653323 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-06 03:02:07 IST | a9f88200129c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-06 01:45:31 IST | d064b8a42173 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) — Score: 221
-- [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/) — Score: 80
-- [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) — Score: 47
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) — Score: 569
-- [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings) — Score: 176
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) — Score: 264
+- [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) — Score: 353
+- [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) — Score: 298
+- [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) — Score: 216
+- [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) — Score: 1071
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,692.0 🟢 +2.05%

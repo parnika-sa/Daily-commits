@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-05 12:00:38 UTC",
-    "fetched_at_ist": "2026-05-05 17:30:38 IST",
+    "fetched_at_utc": "2026-05-05 21:32:07 UTC",
+    "fetched_at_ist": "2026-05-06 03:02:07 IST",
     "item_count": 5,
-    "content_hash": "5e4de86533237cbd4ca3a11668a21cdf3bb947ee0463059383ef60e9994c976d",
-    "previous_hash": "6ac383efa90e3179b510cf6a498b18fe30d616e4f812971a13b4c80e7498e91d",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a9f88200129c92710df6aa5b7abf585669dc5c07b86ffe946be26dc9221be3d3",
+    "previous_hash": "5e4de86533237cbd4ca3a11668a21cdf3bb947ee0463059383ef60e9994c976d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48019163,
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 221,
-      "comments": 108
+      "id": 48027897,
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "score": 264,
+      "comments": 82
     },
     {
-      "id": 47962032,
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 80,
-      "comments": 58
+      "id": 48024540,
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 353,
+      "comments": 158
     },
     {
-      "id": 48020063,
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 47,
-      "comments": 22
+      "id": 48023861,
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 298,
+      "comments": 195
     },
     {
-      "id": 48016880,
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 569,
-      "comments": 402
+      "id": 48024859,
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 216,
+      "comments": 119
     },
     {
-      "id": 48018066,
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "score": 176,
-      "comments": 140
+      "id": 48019219,
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 1071,
+      "comments": 737
     }
   ]
 }
