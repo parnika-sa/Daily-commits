@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-05 (last updated: 06:47 IST)
+
+## 📅 2026-05-05 (last updated: 10:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-05-04 05:40:09 IST | f8310efa49d3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-05 05:02:41 IST | a4e4763a687b | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-05 10:06:00 IST | 6ac383efa90e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-05 06:47:37 IST | 7638ddca6320 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 497 stars today
 
 ### 📰 Hacker News Stories
-- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) — Score: 190
-- [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/) — Score: 352
-- [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) — Score: 1051
-- [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup) — Score: 150
-- [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026) — Score: 41
+- [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) — Score: 92
+- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) — Score: 283
+- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/) — Score: 19
+- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated) — Score: 42
+- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) — Score: 334
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,214.0 🟢 +2.21%
