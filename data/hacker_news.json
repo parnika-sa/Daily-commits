@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-05 04:36:00 UTC",
-    "fetched_at_ist": "2026-05-05 10:06:00 IST",
+    "fetched_at_utc": "2026-05-05 12:00:38 UTC",
+    "fetched_at_ist": "2026-05-05 17:30:38 IST",
     "item_count": 5,
-    "content_hash": "6ac383efa90e3179b510cf6a498b18fe30d616e4f812971a13b4c80e7498e91d",
-    "previous_hash": "a4e4763a687b0d349591ad5042e462906af0a5f848e1bef0d7c2a5f44602c101",
+    "content_hash": "5e4de86533237cbd4ca3a11668a21cdf3bb947ee0463059383ef60e9994c976d",
+    "previous_hash": "6ac383efa90e3179b510cf6a498b18fe30d616e4f812971a13b4c80e7498e91d",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48017298,
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 92,
-      "comments": 38
+      "id": 48019163,
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "score": 221,
+      "comments": 108
+    },
+    {
+      "id": 47962032,
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 80,
+      "comments": 58
+    },
+    {
+      "id": 48020063,
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "score": 47,
+      "comments": 22
     },
     {
       "id": 48016880,
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 283,
-      "comments": 191
+      "score": 569,
+      "comments": 402
     },
     {
-      "id": 48017813,
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 19,
-      "comments": 5
-    },
-    {
-      "id": 48017399,
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-      "score": 42,
-      "comments": 2
-    },
-    {
-      "id": 48013919,
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 334,
-      "comments": 110
+      "id": 48018066,
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "score": 176,
+      "comments": 140
     }
   ]
 }
