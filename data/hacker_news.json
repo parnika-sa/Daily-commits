@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 14:43:59 UTC",
-    "fetched_at_ist": "2026-05-06 20:13:59 IST",
+    "fetched_at_utc": "2026-05-06 19:41:29 UTC",
+    "fetched_at_ist": "2026-05-07 01:11:29 IST",
     "item_count": 5,
-    "content_hash": "85b193379d99f0eb23893c60a783b0930ce44fda067ac67ce4200569191801c7",
-    "previous_hash": "9661eb1c51791dc40299450f384aeab3a41e479fd23f71a04e8826510237afd1",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "921f6f1e1368d00414372f444c76116ccb42de7716d24d44c48dd06f9a0009b1",
+    "previous_hash": "85b193379d99f0eb23893c60a783b0930ce44fda067ac67ce4200569191801c7",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48034587,
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "url": "https://red-squares.cian.lol/",
-      "score": 532,
-      "comments": 113
+      "id": 48037555,
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "score": 595,
+      "comments": 190
+    },
+    {
+      "id": 48038001,
+      "title": "Appearing Productive in the Workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 272,
+      "comments": 89
+    },
+    {
+      "id": 48038827,
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "score": 94,
+      "comments": 35
+    },
+    {
+      "id": 48027455,
+      "title": "A Theory of Deep Learning",
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "score": 30,
+      "comments": 8
     },
     {
       "id": 48006967,
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 193,
-      "comments": 126
-    },
-    {
-      "id": 48034762,
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "score": 73,
-      "comments": 13
-    },
-    {
-      "id": 48031684,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 481,
-      "comments": 258
-    },
-    {
-      "id": 48013234,
-      "title": "The Thinking Plant's Man (2025)",
-      "url": "https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/",
-      "score": 19,
-      "comments": 0
+      "score": 398,
+      "comments": 273
     }
   ]
 }
