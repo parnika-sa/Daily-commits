@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-05 23:30:28 UTC",
-    "fetched_at_ist": "2026-05-06 05:00:28 IST",
+    "fetched_at_utc": "2026-05-06 07:42:09 UTC",
+    "fetched_at_ist": "2026-05-06 13:12:09 IST",
     "item_count": 5,
-    "content_hash": "e4d32853d0b7fb9f150b1faed063e9f5a46badd6e50dca78af875ae1dccf0b79",
-    "previous_hash": "adc4975ac72fd149b71b2d361cca2c2b26f887c7773a81139772dfd2f25b879f",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "9316b41980904065f47133635a68d0fea0f17c355aee490067930b9bfcc7d116",
+    "previous_hash": "e4d32853d0b7fb9f150b1faed063e9f5a46badd6e50dca78af875ae1dccf0b79",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48031684,
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 241,
+      "comments": 133
+    },
+    {
+      "id": 48005432,
+      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "score": 81,
+      "comments": 5
+    },
+    {
+      "id": 48031261,
+      "title": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "score": 239,
+      "comments": 136
+    },
     {
       "id": 48027897,
       "title": ".de TLD offline due to DNSSEC?",
       "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 473,
-      "comments": 201
+      "score": 639,
+      "comments": 310
     },
     {
-      "id": 48024540,
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 404,
-      "comments": 180
-    },
-    {
-      "id": 48028842,
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 79,
-      "comments": 52
-    },
-    {
-      "id": 48024859,
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 269,
-      "comments": 136
-    },
-    {
-      "id": 48019219,
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1188,
-      "comments": 804
+      "id": 48031867,
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "score": 61,
+      "comments": 43
     }
   ]
 }
