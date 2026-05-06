@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 12:04:11 UTC",
-    "fetched_at_ist": "2026-05-06 17:34:11 IST",
+    "fetched_at_utc": "2026-05-06 14:43:59 UTC",
+    "fetched_at_ist": "2026-05-06 20:13:59 IST",
     "item_count": 5,
-    "content_hash": "9661eb1c51791dc40299450f384aeab3a41e479fd23f71a04e8826510237afd1",
-    "previous_hash": "9316b41980904065f47133635a68d0fea0f17c355aee490067930b9bfcc7d116",
+    "content_hash": "85b193379d99f0eb23893c60a783b0930ce44fda067ac67ce4200569191801c7",
+    "previous_hash": "9661eb1c51791dc40299450f384aeab3a41e479fd23f71a04e8826510237afd1",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48034587,
       "title": "Show HN: Red Squares – GitHub outages as contributions",
       "url": "https://red-squares.cian.lol/",
-      "score": 191,
-      "comments": 44
-    },
-    {
-      "id": 48031684,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 391,
-      "comments": 209
-    },
-    {
-      "id": 48031261,
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 409,
-      "comments": 213
-    },
-    {
-      "id": 48005432,
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 212,
-      "comments": 27
+      "score": 532,
+      "comments": 113
     },
     {
       "id": 48006967,
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 17,
-      "comments": 2
+      "score": 193,
+      "comments": 126
+    },
+    {
+      "id": 48034762,
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "score": 73,
+      "comments": 13
+    },
+    {
+      "id": 48031684,
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 481,
+      "comments": 258
+    },
+    {
+      "id": 48013234,
+      "title": "The Thinking Plant's Man (2025)",
+      "url": "https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/",
+      "score": 19,
+      "comments": 0
     }
   ]
 }
