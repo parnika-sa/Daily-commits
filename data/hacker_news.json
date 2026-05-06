@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 19:41:29 UTC",
-    "fetched_at_ist": "2026-05-07 01:11:29 IST",
+    "fetched_at_utc": "2026-05-06 22:44:05 UTC",
+    "fetched_at_ist": "2026-05-07 04:14:05 IST",
     "item_count": 5,
-    "content_hash": "921f6f1e1368d00414372f444c76116ccb42de7716d24d44c48dd06f9a0009b1",
-    "previous_hash": "85b193379d99f0eb23893c60a783b0930ce44fda067ac67ce4200569191801c7",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "0ea4e4241a63ae1c0a18a13b8ec659affcf36073de56514a56f4a47a7ade3c4a",
+    "previous_hash": "921f6f1e1368d00414372f444c76116ccb42de7716d24d44c48dd06f9a0009b1",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 595,
-      "comments": 190
+      "score": 881,
+      "comments": 297
     },
     {
       "id": 48038001,
-      "title": "Appearing Productive in the Workplace",
+      "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 272,
-      "comments": 89
+      "score": 559,
+      "comments": 220
+    },
+    {
+      "id": 48037128,
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "score": 290,
+      "comments": 307
+    },
+    {
+      "id": 48039362,
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "score": 147,
+      "comments": 137
     },
     {
       "id": 48038827,
       "title": "From Supabase to Clerk to Better Auth",
       "url": "https://blog.val.town/better-auth",
-      "score": 94,
-      "comments": 35
-    },
-    {
-      "id": 48027455,
-      "title": "A Theory of Deep Learning",
-      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-      "score": 30,
-      "comments": 8
-    },
-    {
-      "id": 48006967,
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 398,
-      "comments": 273
+      "score": 165,
+      "comments": 95
     }
   ]
 }
