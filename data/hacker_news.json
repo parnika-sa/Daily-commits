@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 07:42:09 UTC",
-    "fetched_at_ist": "2026-05-06 13:12:09 IST",
+    "fetched_at_utc": "2026-05-06 12:04:11 UTC",
+    "fetched_at_ist": "2026-05-06 17:34:11 IST",
     "item_count": 5,
-    "content_hash": "9316b41980904065f47133635a68d0fea0f17c355aee490067930b9bfcc7d116",
-    "previous_hash": "e4d32853d0b7fb9f150b1faed063e9f5a46badd6e50dca78af875ae1dccf0b79",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9661eb1c51791dc40299450f384aeab3a41e479fd23f71a04e8826510237afd1",
+    "previous_hash": "9316b41980904065f47133635a68d0fea0f17c355aee490067930b9bfcc7d116",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48034587,
+      "title": "Show HN: Red Squares – GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "score": 191,
+      "comments": 44
+    },
+    {
       "id": 48031684,
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 241,
-      "comments": 133
-    },
-    {
-      "id": 48005432,
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 81,
-      "comments": 5
+      "score": 391,
+      "comments": 209
     },
     {
       "id": 48031261,
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 239,
-      "comments": 136
+      "score": 409,
+      "comments": 213
     },
     {
-      "id": 48027897,
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 639,
-      "comments": 310
+      "id": 48005432,
+      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "score": 212,
+      "comments": 27
     },
     {
-      "id": 48031867,
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "score": 61,
-      "comments": 43
+      "id": 48006967,
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 17,
+      "comments": 2
     }
   ]
 }

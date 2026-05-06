@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-06 07:42:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-06 12:04:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Hmbown/DeepSeek-TUI**
-- BTC: **$81,127.0** ↑ (+1.14%)
-- HN top story: **Agents can now create Cloudflare accounts, buy domains, and deploy**
+- BTC: **$82,451.0** ↑ (+1.83%)
+- HN top story: **Show HN: Red Squares – GitHub outages as contributions**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-05 12:00:37 UTC | `458179cdcdbf` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-06 07:42:09 UTC | `9316b4198090` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-06 01:15:30 UTC | `410a295bfbc5` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-05-06 12:04:10 UTC | `9e3716ef03c9` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-06 12:04:11 UTC | `9661eb1c5179` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-06 12:04:10 UTC | `b6b82daeaaf6` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-06` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `47` day(s) |
-| Last Commit (IST) | `2026-05-06 13:12:09 IST` |
+| Last Commit (IST) | `2026-05-06 15:30:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-03 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-05-04 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-05-06 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,127.0 | +1.14% | 🟢 |
-| Ethereum | $2,367.34 | +0.33% | 🟢 |
-| Solana | $86.5 | +2.56% | 🟢 |
-| Bnb | $632.54 | +1.21% | 🟢 |
+| Bitcoin | $82,451.0 | +1.83% | 🟢 |
+| Ethereum | $2,410.43 | +1.36% | 🟢 |
+| Solana | $89.86 | +5.78% | 🟢 |
+| Bnb | $652.75 | +3.88% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 1,274 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 2,598 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 409 stars today | An autonomous agent for deep financial research |
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 535 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
-| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | 665 stars today | VSCode theme based off the easemate IDE and Jetbrains islands theme |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 306 stars today | Context window optimization for AI coding agents. Sandboxes tool output, 98% red… |
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | 166 stars today | Incremental engine for long horizon agents 🌟 Star if you like it! |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,189 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 2,434 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 629 stars today | Production-grade engineering skills for AI coding agents. |
+| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | 57 stars today | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 927 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 197 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 87 stars today | Truly independent web browser |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 213 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 659 stars today | An autonomous agent for deep financial research |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) | 241 | 133 |
-| [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2) | 81 | 5 |
-| [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) | 239 | 136 |
-| [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) | 639 | 310 |
-| [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now) | 61 | 43 |
+| [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/) | 191 | 44 |
+| [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) | 391 | 209 |
+| [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) | 409 | 213 |
+| [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2) | 212 | 27 |
+| [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) | 17 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
