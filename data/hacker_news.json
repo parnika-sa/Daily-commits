@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 23:35:39 UTC",
-    "fetched_at_ist": "2026-05-07 05:05:39 IST",
+    "fetched_at_utc": "2026-05-07 07:37:35 UTC",
+    "fetched_at_ist": "2026-05-07 13:07:35 IST",
     "item_count": 5,
-    "content_hash": "918e76147161247634a15101d65d4ede9b671a5da750f2543d52d42567c87138",
-    "previous_hash": "0ea4e4241a63ae1c0a18a13b8ec659affcf36073de56514a56f4a47a7ade3c4a",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "d39feb256973c9e4596de7191600e2e73f7ff51bd4851ded8be48b4446e329c1",
+    "previous_hash": "918e76147161247634a15101d65d4ede9b671a5da750f2543d52d42567c87138",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 935,
-      "comments": 317
-    },
-    {
-      "id": 48042918,
-      "title": "UK businesses brace for jet fuel rationing",
-      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-      "score": 43,
-      "comments": 12
+      "score": 1329,
+      "comments": 405
     },
     {
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 606,
-      "comments": 236
+      "score": 1032,
+      "comments": 390
     },
     {
-      "id": 48037128,
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 318,
-      "comments": 343
+      "id": 48044638,
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
+      "score": 105,
+      "comments": 38
     },
     {
-      "id": 48039362,
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 175,
-      "comments": 161
+      "id": 48045012,
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "score": 66,
+      "comments": 25
+    },
+    {
+      "id": 48042434,
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
+      "score": 178,
+      "comments": 45
     }
   ]
 }
