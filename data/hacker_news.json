@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-07 16:43:19 UTC",
-    "fetched_at_ist": "2026-05-07 22:13:19 IST",
+    "fetched_at_utc": "2026-05-07 18:14:04 UTC",
+    "fetched_at_ist": "2026-05-07 23:44:04 IST",
     "item_count": 5,
-    "content_hash": "286bb14fc1ea29e512957853f7f06dcf23d8d5bbce7372147c7a46cac3e899f3",
-    "previous_hash": "e6958ad79c4a322128cfbd51f9c4fdbc20274f24ed0eac7bcf507aa915738c0c",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "e690582f5a52daf2114b1c7c54a790fdd22d83627d964fb08e2f7ea232dac7e3",
+    "previous_hash": "286bb14fc1ea29e512957853f7f06dcf23d8d5bbce7372147c7a46cac3e899f3",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48049653,
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 269,
-      "comments": 91
+      "score": 347,
+      "comments": 144
     },
     {
       "id": 48050278,
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 94,
-      "comments": 21
+      "score": 152,
+      "comments": 41
     },
     {
-      "id": 48051025,
-      "title": "I switched from Mac to a Lenovo Chromebook, and you can too",
-      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-      "score": 28,
-      "comments": 14
+      "id": 48051562,
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 58,
+      "comments": 20
     },
     {
       "id": 48049208,
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00796-2",
-      "score": 147,
-      "comments": 86
+      "score": 229,
+      "comments": 146
     },
     {
-      "id": 48051080,
-      "title": "Authorities say Flock cameras' data allegedly used for immigration enforcement",
-      "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
-      "score": 34,
-      "comments": 17
+      "id": 48050751,
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 78,
+      "comments": 21
     }
   ]
 }

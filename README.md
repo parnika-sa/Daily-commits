@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-07 16:43:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-07 18:14:04 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,869.0** ↓ (-1.85%)
+- BTC: **$80,099.0** ↓ (-1.55%)
 - HN top story: **The map that keeps Burning Man honest**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-07 12:03:58 UTC | `e57d2b73d657` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-07 16:43:19 UTC | `286bb14fc1ea` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-07 12:03:59 UTC | `5435e0915d23` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-05-07 18:14:03 UTC | `ace3337a27f1` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-07 18:14:04 UTC | `e690582f5a52` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-05-07 18:14:03 UTC | `0ea2f2fc2c2b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-07` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `48` day(s) |
-| Last Commit (IST) | `2026-05-07 20:17:48 IST` |
+| Last Commit (IST) | `2026-05-07 22:13:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-04 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-05-07 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,869.0 | -1.85% | 🔴 |
-| Ethereum | $2,330.49 | -3.26% | 🔴 |
-| Solana | $89.61 | -0.27% | 🔴 |
-| Bnb | $647.95 | -0.73% | 🔴 |
+| Bitcoin | $80,099.0 | -1.55% | 🔴 |
+| Ethereum | $2,298.48 | -1.89% | 🔴 |
+| Solana | $88.76 | +0.09% | 🟢 |
+| Bnb | $643.69 | -0.75% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 641 stars today | No description |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 6,175 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,367 stars today | No description |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 5,787 stars today | Coding agent for DeepSeek models that runs in your terminal |
 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 654 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 230 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 532 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 800 stars today | Production-grade engineering skills for AI coding agents. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 459 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 564 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,058 stars today | Production-grade engineering skills for AI coding agents. |
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 953 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 406 stars today | An open source template for building cloud agents. |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 160 stars today | An open source template for building cloud agents. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) | 269 | 91 |
-| [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | 94 | 21 |
-| [I switched from Mac to a Lenovo Chromebook, and you can too](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html) | 28 | 14 |
-| [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2) | 147 | 86 |
-| [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/) | 34 | 17 |
+| [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) | 347 | 144 |
+| [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | 152 | 41 |
+| [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) | 58 | 20 |
+| [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2) | 229 | 146 |
+| [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) | 78 | 21 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
