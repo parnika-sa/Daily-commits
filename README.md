@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-06 23:35:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-07 01:22:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Hmbown/DeepSeek-TUI**
-- BTC: **$81,784.0** ↑ (+0.40%)
+- BTC: **$81,051.0** ↓ (-0.23%)
 - HN top story: **Valve releases Steam Controller CAD files under Creative Commons license**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-06 12:04:10 UTC | `9e3716ef03c9` | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-06 23:35:39 UTC | `918e76147161` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-06 16:18:37 UTC | `a420d68e4d34` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-07 01:22:15 UTC | `96076aeebe88` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +8 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-07` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `48` day(s) |
-| Last Commit (IST) | `2026-05-07 04:14:05 IST` |
+| Last Commit (IST) | `2026-05-07 05:05:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-04 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-07 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-07 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,784.0 | +0.40% | 🟢 |
-| Ethereum | $2,363.02 | -0.70% | 🔴 |
-| Solana | $89.06 | +4.02% | 🟢 |
-| Bnb | $649.77 | +2.89% | 🟢 |
+| Bitcoin | $81,051.0 | -0.23% | 🔴 |
+| Ethereum | $2,324.34 | -2.00% | 🔴 |
+| Solana | $88.17 | +1.64% | 🟢 |
+| Bnb | $643.4 | +1.57% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
