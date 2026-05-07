@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-07 07:37:35 UTC",
-    "fetched_at_ist": "2026-05-07 13:07:35 IST",
+    "fetched_at_utc": "2026-05-07 12:04:00 UTC",
+    "fetched_at_ist": "2026-05-07 17:34:00 IST",
     "item_count": 5,
-    "content_hash": "d39feb256973c9e4596de7191600e2e73f7ff51bd4851ded8be48b4446e329c1",
-    "previous_hash": "918e76147161247634a15101d65d4ede9b671a5da750f2543d52d42567c87138",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "e6958ad79c4a322128cfbd51f9c4fdbc20274f24ed0eac7bcf507aa915738c0c",
+    "previous_hash": "d39feb256973c9e4596de7191600e2e73f7ff51bd4851ded8be48b4446e329c1",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1329,
-      "comments": 405
+      "score": 1502,
+      "comments": 496
     },
     {
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1032,
-      "comments": 390
+      "score": 1268,
+      "comments": 501
     },
     {
-      "id": 48044638,
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "score": 105,
-      "comments": 38
-    },
-    {
-      "id": 48045012,
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 66,
-      "comments": 25
+      "id": 48014521,
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "score": 41,
+      "comments": 15
     },
     {
       "id": 48042434,
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 178,
-      "comments": 45
+      "score": 328,
+      "comments": 89
+    },
+    {
+      "id": 48044638,
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
+      "score": 170,
+      "comments": 83
     }
   ]
 }

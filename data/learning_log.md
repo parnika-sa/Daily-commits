@@ -12,44 +12,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-07 (last updated: 13:07 IST)
+
+## 📅 2026-05-07 (last updated: 17:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-06 17:34:10 IST | 9e3716ef03c9 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-07 13:07:35 IST | d39feb256973 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-05-07 06:52:15 IST | 96076aeebe88 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-05-07 17:33:58 IST | e57d2b73d657 | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-07 17:34:00 IST | e6958ad79c4a | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-05-07 17:33:59 IST | 5435e0915d23 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[anthropics/financial-services](https://github.com/anthropics/financial-services)** (Python) — No description  
+  ⭐ 641 stars today
 - **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** (Rust) — Coding agent for DeepSeek models that runs in your terminal  
-  ⭐ 2,434 stars today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 629 stars today
-- **[PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)** (Python) — ⚡ TabPFN: Foundation Model for Tabular Data ⚡  
-  ⭐ 57 stars today
-- **[docusealco/docuseal](https://github.com/docusealco/docuseal)** (Ruby) — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️  
-  ⭐ 927 stars today
+  ⭐ 6,175 stars today
+- **[z-lab/dflash](https://github.com/z-lab/dflash)** (Python) — DFlash: Block Diffusion for Flash Speculative Decoding  
+  ⭐ 654 stars today
+- **[InsForge/InsForge](https://github.com/InsForge/InsForge)** (TypeScript) — InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A  
+  ⭐ 230 stars today
 - **[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)** (Python) — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs  
-  ⭐ 197 stars today
+  ⭐ 532 stars today
 
 ### 📰 Hacker News Stories
-- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) — Score: 1329
-- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) — Score: 1032
-- [Permacomputing Principles](https://permacomputing.net/principles/) — Score: 105
-- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/) — Score: 66
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) — Score: 178
+- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) — Score: 1502
+- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) — Score: 1268
+- [Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)](https://www.ticalc.org/programming/columns/83plus-bas/cherny/) — Score: 41
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) — Score: 328
+- [Permacomputing Principles](https://permacomputing.net/principles/) — Score: 170
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $81,051.0 🔴 -0.23%
-- Ethereum: $2,324.34 🔴 -2.00%
-- Solana: $88.17 🟢 +1.64%
-- Bnb: $643.4 🟢 +1.57%
+- Bitcoin: $80,869.0 🔴 -1.85%
+- Ethereum: $2,330.49 🔴 -3.26%
+- Solana: $89.61 🔴 -0.27%
+- Bnb: $647.95 🔴 -0.73%
 
 ---
 ## 📅 2026-05-06 (last updated: 21:48 IST)
