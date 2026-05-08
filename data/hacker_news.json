@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-08 00:04:52 UTC",
-    "fetched_at_ist": "2026-05-08 05:34:52 IST",
+    "fetched_at_utc": "2026-05-08 16:42:48 UTC",
+    "fetched_at_ist": "2026-05-08 22:12:48 IST",
     "item_count": 5,
-    "content_hash": "673c7a767b94248d4d6a864fd74ab38748b485acc7f87463618a8903433ea497",
-    "previous_hash": "e690582f5a52daf2114b1c7c54a790fdd22d83627d964fb08e2f7ea232dac7e3",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b305d4c92225f04cb9f397337e91dcb6a8ae4794cf1fd8934369a6b74a727935",
+    "previous_hash": "673c7a767b94248d4d6a864fd74ab38748b485acc7f87463618a8903433ea497",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48053623,
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 346,
-      "comments": 165
+      "id": 48064312,
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "score": 59,
+      "comments": 16
     },
     {
-      "id": 48055913,
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 81,
-      "comments": 4
+      "id": 48063199,
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 141,
+      "comments": 48
     },
     {
-      "id": 48056227,
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 33,
-      "comments": 5
+      "id": 48061566,
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 209,
+      "comments": 79
     },
     {
-      "id": 48049653,
-      "title": "The Burning Man MOOP Map",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 510,
-      "comments": 274
+      "id": 48063521,
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "score": 56,
+      "comments": 12
     },
     {
-      "id": 48051562,
-      "title": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 292,
-      "comments": 157
+      "id": 48062117,
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 595,
+      "comments": 505
     }
   ]
 }

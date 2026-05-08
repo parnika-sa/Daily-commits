@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-08 (last updated: 15:48 IST)
+
+## 📅 2026-05-08 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-08 05:34:51 IST | afd58718b031 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-08 05:34:52 IST | 673c7a767b94 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-08 22:12:48 IST | b305d4c92225 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-08 15:48:04 IST | 52cca3f0abde | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 559 stars today
 
 ### 📰 Hacker News Stories
-- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) — Score: 346
-- [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) — Score: 81
-- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) — Score: 33
-- [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/) — Score: 510
-- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) — Score: 292
+- [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/) — Score: 59
+- [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/) — Score: 141
+- [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/) — Score: 209
+- [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/) — Score: 56
+- [Poland is now among the 20 largest economies](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) — Score: 595
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,816.0 🔴 -1.32%
