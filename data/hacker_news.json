@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-08 21:32:11 UTC",
-    "fetched_at_ist": "2026-05-09 03:02:11 IST",
+    "fetched_at_utc": "2026-05-08 22:35:41 UTC",
+    "fetched_at_ist": "2026-05-09 04:05:41 IST",
     "item_count": 5,
-    "content_hash": "0ca4399a421ee603d78b02ded755f1583ea02f8fa1dcfbb712cea76392d9850c",
-    "previous_hash": "b305d4c92225f04cb9f397337e91dcb6a8ae4794cf1fd8934369a6b74a727935",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "7b0a60bf6c957d97e4ce25f46341fb8755ead02fc1d4466a283e20dbf7086269",
+    "previous_hash": "0ca4399a421ee603d78b02ded755f1583ea02f8fa1dcfbb712cea76392d9850c",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48067870,
-      "title": "Discord Incident",
-      "url": "https://discordstatus.com",
-      "score": 73,
-      "comments": 34
+      "id": 48067119,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 287,
+      "comments": 83
     },
     {
       "id": 48066524,
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 123,
-      "comments": 55
-    },
-    {
-      "id": 48036289,
-      "title": "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
-      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-      "score": 58,
-      "comments": 8
-    },
-    {
-      "id": 48065360,
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 216,
-      "comments": 68
+      "score": 161,
+      "comments": 69
     },
     {
       "id": 48067734,
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 44,
-      "comments": 29
+      "score": 81,
+      "comments": 40
+    },
+    {
+      "id": 48065360,
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 240,
+      "comments": 74
+    },
+    {
+      "id": 48068947,
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "score": 21,
+      "comments": 7
     }
   ]
 }

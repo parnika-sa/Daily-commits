@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-09 (last updated: 03:02 IST)
+
+## 📅 2026-05-09 (last updated: 04:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-08 05:34:51 IST | afd58718b031 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-09 03:02:11 IST | 0ca4399a421e | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-09 04:05:41 IST | 7b0a60bf6c95 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-09 01:45:58 IST | 3428191ae0a3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 559 stars today
 
 ### 📰 Hacker News Stories
-- [Discord Incident](https://discordstatus.com) — Score: 73
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 123
-- [Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/) — Score: 58
-- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 216
-- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 44
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 287
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 161
+- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 81
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 240
+- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/) — Score: 21
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,214.0 🟢 +0.11%
