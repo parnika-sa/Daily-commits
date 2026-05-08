@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-07 18:14:04 UTC",
-    "fetched_at_ist": "2026-05-07 23:44:04 IST",
+    "fetched_at_utc": "2026-05-08 00:04:52 UTC",
+    "fetched_at_ist": "2026-05-08 05:34:52 IST",
     "item_count": 5,
-    "content_hash": "e690582f5a52daf2114b1c7c54a790fdd22d83627d964fb08e2f7ea232dac7e3",
-    "previous_hash": "286bb14fc1ea29e512957853f7f06dcf23d8d5bbce7372147c7a46cac3e899f3",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "673c7a767b94248d4d6a864fd74ab38748b485acc7f87463618a8903433ea497",
+    "previous_hash": "e690582f5a52daf2114b1c7c54a790fdd22d83627d964fb08e2f7ea232dac7e3",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48049653,
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 347,
-      "comments": 144
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 346,
+      "comments": 165
     },
     {
-      "id": 48050278,
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 152,
-      "comments": 41
+      "id": 48055913,
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 81,
+      "comments": 4
+    },
+    {
+      "id": 48056227,
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 33,
+      "comments": 5
+    },
+    {
+      "id": 48049653,
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 510,
+      "comments": 274
     },
     {
       "id": 48051562,
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 58,
-      "comments": 20
-    },
-    {
-      "id": 48049208,
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "url": "https://www.nature.com/articles/d41586-026-00796-2",
-      "score": 229,
-      "comments": 146
-    },
-    {
-      "id": 48050751,
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "score": 78,
-      "comments": 21
+      "score": 292,
+      "comments": 157
     }
   ]
 }

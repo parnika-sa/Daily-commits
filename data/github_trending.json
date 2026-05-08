@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-07 18:14:03 UTC",
-    "fetched_at_ist": "2026-05-07 23:44:03 IST",
+    "fetched_at_utc": "2026-05-08 00:04:51 UTC",
+    "fetched_at_ist": "2026-05-08 05:34:51 IST",
     "item_count": 13,
-    "content_hash": "ace3337a27f19be7965f12ce7610792c44ec19d9d78b1bba879dad6458ac5655",
-    "previous_hash": "e57d2b73d65765cfa3eacb75b8cf236588ca43a620e7796ad21f749e1f7d21e2",
+    "content_hash": "afd58718b031b7f1686c85e16b3c58d9a2f62ae3976b1b5e4c038a42df83e911",
+    "previous_hash": "ace3337a27f19be7965f12ce7610792c44ec19d9d78b1bba879dad6458ac5655",
     "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
@@ -15,79 +15,79 @@
       "name": "anthropics/financial-services",
       "description": "No description",
       "language": "Python",
-      "stars_today": "1,367 stars today"
+      "stars_today": "1,343 stars today"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars_today": "5,787 stars today"
+      "stars_today": "5,799 stars today"
     },
     {
       "name": "z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars_today": "654 stars today"
+      "stars_today": "671 stars today"
     },
     {
       "name": "InsForge/InsForge",
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
-      "stars_today": "459 stars today"
+      "stars_today": "460 stars today"
     },
     {
       "name": "LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars_today": "564 stars today"
+      "stars_today": "559 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "3,058 stars today"
+      "stars_today": "3,062 stars today"
     },
     {
       "name": "VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars_today": "953 stars today"
+      "stars_today": "943 stars today"
     },
     {
       "name": "vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars_today": "160 stars today"
+      "stars_today": "131 stars today"
     },
     {
       "name": "docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars_today": "899 stars today"
+      "stars_today": "900 stars today"
     },
     {
       "name": "decolua/9router",
       "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "249 stars today"
+      "stars_today": "149 stars today"
     },
     {
       "name": "PriorLabs/TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Python",
-      "stars_today": "233 stars today"
+      "stars_today": "230 stars today"
     },
     {
       "name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_today": "431 stars today"
+      "stars_today": "390 stars today"
     },
     {
       "name": "Augani/openreel-video",
       "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
       "language": "TypeScript",
-      "stars_today": "208 stars today"
+      "stars_today": "233 stars today"
     }
   ]
 }

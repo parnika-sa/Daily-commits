@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-07 18:14:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-08 00:04:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,099.0** ↓ (-1.55%)
-- HN top story: **The map that keeps Burning Man honest**
+- BTC: **$80,016.0** ↓ (-1.76%)
+- HN top story: **Dirtyfrag: Universal Linux LPE**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-07 18:14:03 UTC | `ace3337a27f1` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-07 18:14:04 UTC | `e690582f5a52` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-07 18:14:03 UTC | `0ea2f2fc2c2b` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-05-08 00:04:51 UTC | `afd58718b031` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-08 00:04:52 UTC | `673c7a767b94` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-08 00:04:52 UTC | `1cdca0072839` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-08` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `48` day(s) |
-| Last Commit (IST) | `2026-05-08 03:29:21 IST` |
+| Last Commit (IST) | `2026-05-08 04:31:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-07 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-08 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-05-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,099.0 | -1.55% | 🔴 |
-| Ethereum | $2,298.48 | -1.89% | 🔴 |
-| Solana | $88.76 | +0.09% | 🟢 |
-| Bnb | $643.69 | -0.75% | 🔴 |
+| Bitcoin | $80,016.0 | -1.76% | 🔴 |
+| Ethereum | $2,291.49 | -2.54% | 🔴 |
+| Solana | $88.42 | -0.79% | 🔴 |
+| Bnb | $636.92 | -1.76% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,367 stars today | No description |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 5,787 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 654 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 459 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 564 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,058 stars today | Production-grade engineering skills for AI coding agents. |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 953 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 160 stars today | An open source template for building cloud agents. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,343 stars today | No description |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 5,799 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 671 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 460 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 559 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,062 stars today | Production-grade engineering skills for AI coding agents. |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 943 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 131 stars today | An open source template for building cloud agents. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) | 347 | 144 |
-| [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | 152 | 41 |
-| [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) | 58 | 20 |
-| [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2) | 229 | 146 |
-| [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) | 78 | 21 |
+| [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) | 346 | 165 |
+| [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) | 81 | 4 |
+| [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) | 33 | 5 |
+| [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/) | 510 | 274 |
+| [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) | 292 | 157 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

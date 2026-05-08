@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-08 (last updated: 23:44 IST)
+
+## 📅 2026-05-08 (last updated: 05:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-07 23:44:03 IST | ace3337a27f1 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-07 23:44:04 IST | e690582f5a52 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-07 23:44:03 IST | 0ea2f2fc2c2b | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-05-08 05:34:51 IST | afd58718b031 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-08 05:34:52 IST | 673c7a767b94 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-08 05:34:52 IST | 1cdca0072839 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[anthropics/financial-services](https://github.com/anthropics/financial-services)** (Python) — No description  
-  ⭐ 1,367 stars today
+  ⭐ 1,343 stars today
 - **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** (Rust) — Coding agent for DeepSeek models that runs in your terminal  
-  ⭐ 5,787 stars today
+  ⭐ 5,799 stars today
 - **[z-lab/dflash](https://github.com/z-lab/dflash)** (Python) — DFlash: Block Diffusion for Flash Speculative Decoding  
-  ⭐ 654 stars today
+  ⭐ 671 stars today
 - **[InsForge/InsForge](https://github.com/InsForge/InsForge)** (TypeScript) — InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A  
-  ⭐ 459 stars today
+  ⭐ 460 stars today
 - **[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)** (Python) — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs  
-  ⭐ 564 stars today
+  ⭐ 559 stars today
 
 ### 📰 Hacker News Stories
-- [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) — Score: 347
-- [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) — Score: 152
-- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) — Score: 58
-- [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2) — Score: 229
-- [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) — Score: 78
+- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) — Score: 346
+- [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) — Score: 81
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) — Score: 33
+- [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/) — Score: 510
+- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) — Score: 292
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,099.0 🔴 -1.55%
-- Ethereum: $2,298.48 🔴 -1.89%
-- Solana: $88.76 🟢 +0.09%
-- Bnb: $643.69 🔴 -0.75%
+- Bitcoin: $80,016.0 🔴 -1.76%
+- Ethereum: $2,291.49 🔴 -2.54%
+- Solana: $88.42 🔴 -0.79%
+- Bnb: $636.92 🔴 -1.76%
 
 ---
 ## 📅 2026-05-07 (last updated: 23:44 IST)
