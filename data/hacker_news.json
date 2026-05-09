@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 12:41:40 UTC",
-    "fetched_at_ist": "2026-05-09 18:11:40 IST",
+    "fetched_at_utc": "2026-05-09 18:03:36 UTC",
+    "fetched_at_ist": "2026-05-09 23:33:36 IST",
     "item_count": 5,
-    "content_hash": "55e2473166f3e02079ef8425605e59cf8468247d2a3717d796abe64f49fc577b",
-    "previous_hash": "7c53533bfbe8c8dfe62b98a191fa466af773d4d34af68c0236bd7ffb5d225779",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "f356a59ac2452e236f5cce49414f6acefedeb0409f4ff4769519fe0383443b0c",
+    "previous_hash": "55e2473166f3e02079ef8425605e59cf8468247d2a3717d796abe64f49fc577b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48074265,
       "title": "Internet Archive Switzerland",
       "url": "https://internetarchive.ch/",
-      "score": 32,
-      "comments": 9
+      "score": 330,
+      "comments": 49
     },
     {
-      "id": 48071262,
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 398,
-      "comments": 237
+      "id": 48076465,
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "score": 18,
+      "comments": 7
+    },
+    {
+      "id": 48075528,
+      "title": "PipeDream on the Acorn Archimedes",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "score": 49,
+      "comments": 14
+    },
+    {
+      "id": 48073246,
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "score": 212,
+      "comments": 77
     },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1147,
-      "comments": 397
-    },
-    {
-      "id": 48074087,
-      "title": "Forking the Web",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "score": 11,
-      "comments": 2
-    },
-    {
-      "id": 48071940,
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 203,
-      "comments": 119
+      "score": 1346,
+      "comments": 490
     }
   ]
 }

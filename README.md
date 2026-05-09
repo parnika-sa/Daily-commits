@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-09 12:41:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-09 18:03:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,390.0** ↑ (+0.85%)
+- BTC: **$80,831.0** ↑ (+0.80%)
 - HN top story: **Internet Archive Switzerland**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-08 00:04:51 UTC | `afd58718b031` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-09 12:41:40 UTC | `55e2473166f3` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-09 08:21:46 UTC | `22f1b8e6aa70` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-09 18:03:35 UTC | `954cd5b1c200` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-09 18:03:36 UTC | `f356a59ac245` | +3 new stories, top changed: no |
+| Crypto | 4 | 2026-05-09 18:03:35 UTC | `30dc01671f0e` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-09` |
-| Commits Today | `17` / `100` |
-| Remaining Today | `83` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Commits Today | `18` / `100` |
+| Remaining Today | `82` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
 | Streak | `49` day(s) |
-| Last Commit (IST) | `2026-05-09 21:36:14 IST` |
+| Last Commit (IST) | `2026-05-09 22:40:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-07 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-08 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-05-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
+| 2026-05-09 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,390.0 | +0.85% | 🟢 |
-| Ethereum | $2,318.36 | +1.64% | 🟢 |
-| Solana | $93.76 | +6.47% | 🟢 |
-| Bnb | $650.26 | +2.18% | 🟢 |
+| Bitcoin | $80,831.0 | +0.80% | 🟢 |
+| Ethereum | $2,330.81 | +0.89% | 🟢 |
+| Solana | $93.2 | +1.58% | 🟢 |
+| Bnb | $650.18 | +0.56% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,343 stars today | No description |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 5,799 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 671 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 460 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 559 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,062 stars today | Production-grade engineering skills for AI coding agents. |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 943 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 131 stars today | An open source template for building cloud agents. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 3,077 stars today | No description |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 549 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 518 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 1,162 stars today | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 294 stars today | 💻 vibe coding 2026 | Your first modern programming course for beginners to maste… |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 144 stars today | Open-source AI coworker, with memory |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 159 stars today | Chrome DevTools for coding agents |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 595 stars today | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Internet Archive Switzerland](https://internetarchive.ch/) | 32 | 9 |
-| [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) | 398 | 237 |
-| [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) | 1147 | 397 |
-| [Forking the Web](https://dillo-browser.org/lab/web-fork/) | 11 | 2 |
-| [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) | 203 | 119 |
+| [Internet Archive Switzerland](https://internetarchive.ch/) | 330 | 49 |
+| [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/) | 18 | 7 |
+| [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/) | 49 | 14 |
+| [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597) | 212 | 77 |
+| [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) | 1346 | 490 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
