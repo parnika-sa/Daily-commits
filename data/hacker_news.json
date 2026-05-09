@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 11:42:14 UTC",
-    "fetched_at_ist": "2026-05-09 17:12:14 IST",
+    "fetched_at_utc": "2026-05-09 12:41:40 UTC",
+    "fetched_at_ist": "2026-05-09 18:11:40 IST",
     "item_count": 5,
-    "content_hash": "7c53533bfbe8c8dfe62b98a191fa466af773d4d34af68c0236bd7ffb5d225779",
-    "previous_hash": "96c2d1471caf667b2ed3f6b20d71cea5b232235d7bd6e54e59ef0c7d190e5d76",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "55e2473166f3e02079ef8425605e59cf8468247d2a3717d796abe64f49fc577b",
+    "previous_hash": "7c53533bfbe8c8dfe62b98a191fa466af773d4d34af68c0236bd7ffb5d225779",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48074265,
+      "title": "Internet Archive Switzerland",
+      "url": "https://internetarchive.ch/",
+      "score": 32,
+      "comments": 9
+    },
     {
       "id": 48071262,
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 359,
-      "comments": 198
+      "score": 398,
+      "comments": 237
     },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1106,
-      "comments": 384
+      "score": 1147,
+      "comments": 397
+    },
+    {
+      "id": 48074087,
+      "title": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "score": 11,
+      "comments": 2
     },
     {
       "id": 48071940,
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 182,
-      "comments": 97
-    },
-    {
-      "id": 48051951,
-      "title": "OpenAI’s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 342,
-      "comments": 86
-    },
-    {
-      "id": 48042204,
-      "title": "Making Julia as Fast as C++ (2019)",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "score": 16,
-      "comments": 3
+      "score": 203,
+      "comments": 119
     }
   ]
 }
