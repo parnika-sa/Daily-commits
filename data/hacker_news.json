@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 18:03:36 UTC",
-    "fetched_at_ist": "2026-05-09 23:33:36 IST",
+    "fetched_at_utc": "2026-05-09 23:38:35 UTC",
+    "fetched_at_ist": "2026-05-10 05:08:35 IST",
     "item_count": 5,
-    "content_hash": "f356a59ac2452e236f5cce49414f6acefedeb0409f4ff4769519fe0383443b0c",
-    "previous_hash": "55e2473166f3e02079ef8425605e59cf8468247d2a3717d796abe64f49fc577b",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "34882a93bc7e36741887008ba05768af114ec5504af044004de5569a5494c33e",
+    "previous_hash": "f356a59ac2452e236f5cce49414f6acefedeb0409f4ff4769519fe0383443b0c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48073680,
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 339,
+      "comments": 335
+    },
+    {
+      "id": 48078575,
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 28,
+      "comments": 9
+    },
+    {
       "id": 48074265,
       "title": "Internet Archive Switzerland",
-      "url": "https://internetarchive.ch/",
-      "score": 330,
-      "comments": 49
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 509,
+      "comments": 73
     },
     {
-      "id": 48076465,
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 18,
-      "comments": 7
+      "id": 48076815,
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "score": 55,
+      "comments": 12
     },
     {
-      "id": 48075528,
-      "title": "PipeDream on the Acorn Archimedes",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "score": 49,
-      "comments": 14
-    },
-    {
-      "id": 48073246,
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "score": 212,
-      "comments": 77
-    },
-    {
-      "id": 48067119,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1346,
-      "comments": 490
+      "id": 48076173,
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "score": 230,
+      "comments": 121
     }
   ]
 }

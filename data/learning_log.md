@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-10 (last updated: 00:50 IST)
+
+## 📅 2026-05-10 (last updated: 05:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-09 23:33:35 IST | 954cd5b1c200 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-09 23:33:36 IST | f356a59ac245 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-10 05:08:35 IST | 34882a93bc7e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-10 00:50:47 IST | 5633388b036d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 294 stars today
 
 ### 📰 Hacker News Stories
-- [Internet Archive Switzerland](https://internetarchive.ch/) — Score: 330
-- [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/) — Score: 18
-- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/) — Score: 49
-- [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597) — Score: 212
-- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 1346
+- [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) — Score: 339
+- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) — Score: 28
+- [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) — Score: 509
+- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go) — Score: 55
+- [I’ve banned query strings](https://chrismorgan.info/no-query-strings) — Score: 230
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,835.0 🟢 +1.00%
