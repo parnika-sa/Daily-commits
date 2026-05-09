@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-09 (last updated: 06:50 IST)
+
+## 📅 2026-05-09 (last updated: 10:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-08 05:34:51 IST | afd58718b031 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-09 05:06:13 IST | c54234204854 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-09 10:11:47 IST | 105a36ae2a66 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-09 06:50:52 IST | 96d2e46e71d5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 559 stars today
 
 ### 📰 Hacker News Stories
-- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 403
-- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 100
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 187
-- [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) — Score: 25
-- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 256
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 776
+- [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) — Score: 202
+- [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html) — Score: 66
+- [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso) — Score: 56
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 287
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,292.0 🟢 +0.74%
