@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 04:41:47 UTC",
-    "fetched_at_ist": "2026-05-09 10:11:47 IST",
+    "fetched_at_utc": "2026-05-09 06:36:32 UTC",
+    "fetched_at_ist": "2026-05-09 12:06:32 IST",
     "item_count": 5,
-    "content_hash": "105a36ae2a668539c99119417a5f5445e5be816a63116864ac845dc4b256dd9a",
-    "previous_hash": "c542342048549934bd38337ecbe68dbb7847168fc3aa8d6565dfdc4d2b5ee066",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "96c2d1471caf667b2ed3f6b20d71cea5b232235d7bd6e54e59ef0c7d190e5d76",
+    "previous_hash": "105a36ae2a668539c99119417a5f5445e5be816a63116864ac845dc4b256dd9a",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48071262,
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 144,
+      "comments": 49
+    },
+    {
+      "id": 48071940,
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 61,
+      "comments": 20
+    },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 776,
-      "comments": 262
+      "score": 874,
+      "comments": 289
     },
     {
       "id": 48051951,
       "title": "OpenAI's WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 202,
-      "comments": 55
+      "score": 245,
+      "comments": 62
     },
     {
       "id": 48046436,
       "title": "Mythical Man Month",
       "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 66,
-      "comments": 50
-    },
-    {
-      "id": 48040306,
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 56,
-      "comments": 13
-    },
-    {
-      "id": 48066524,
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 287,
-      "comments": 123
+      "score": 105,
+      "comments": 82
     }
   ]
 }
