@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-10 (last updated: 17:01 IST)
+
+## 📅 2026-05-10 (last updated: 18:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-09 23:33:35 IST | 954cd5b1c200 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-10 17:01:20 IST | eaf31db9c7d1 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-10 18:09:55 IST | 61d1bb48077d | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-10 12:54:42 IST | 471325c89af5 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 294 stars today
 
 ### 📰 Hacker News Stories
-- [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/) — Score: 72
-- [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) — Score: 589
-- [The One Dollar Counterfeiter](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html) — Score: 156
-- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky) — Score: 298
-- [Casio S100X Japanese Lacquer Edition (JP Page Only)](https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/) — Score: 156
+- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/) — Score: 59
+- [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/) — Score: 120
+- [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) — Score: 32
+- [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) — Score: 607
+- [The One Dollar Counterfeiter](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html) — Score: 187
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,770.0 🟢 +0.66%
