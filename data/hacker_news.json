@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 23:38:35 UTC",
-    "fetched_at_ist": "2026-05-10 05:08:35 IST",
+    "fetched_at_utc": "2026-05-10 10:36:26 UTC",
+    "fetched_at_ist": "2026-05-10 16:06:26 IST",
     "item_count": 5,
-    "content_hash": "34882a93bc7e36741887008ba05768af114ec5504af044004de5569a5494c33e",
-    "previous_hash": "f356a59ac2452e236f5cce49414f6acefedeb0409f4ff4769519fe0383443b0c",
+    "content_hash": "13d6eeecb09b5e4782171c0af47774114830923ec5b5876cb3873664bf7cc56d",
+    "previous_hash": "34882a93bc7e36741887008ba05768af114ec5504af044004de5569a5494c33e",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48047930,
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "score": 37,
+      "comments": 7
+    },
+    {
       "id": 48073680,
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 339,
-      "comments": 335
+      "score": 577,
+      "comments": 537
     },
     {
-      "id": 48078575,
-      "title": "Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 28,
-      "comments": 9
+      "id": 48048684,
+      "title": "The One Dollar Counterfeiter",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "score": 130,
+      "comments": 41
     },
     {
-      "id": 48074265,
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 509,
-      "comments": 73
+      "id": 48080587,
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "score": 292,
+      "comments": 133
     },
     {
-      "id": 48076815,
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
-      "score": 55,
-      "comments": 12
-    },
-    {
-      "id": 48076173,
-      "title": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "score": 230,
-      "comments": 121
+      "id": 48037223,
+      "title": "We see something that works, and then we understand it",
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+      "score": 103,
+      "comments": 32
     }
   ]
 }
