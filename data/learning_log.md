@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-10 (last updated: 06:54 IST)
+
+## 📅 2026-05-10 (last updated: 12:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-09 23:33:35 IST | 954cd5b1c200 | +10 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-10 05:08:35 IST | 34882a93bc7e | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-10 06:54:36 IST | 5f631fc21abd | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-10 12:54:42 IST | 471325c89af5 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[anthropics/financial-services](https://github.com/anthropics/financial-services)** (Python) — No description  
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [I’ve banned query strings](https://chrismorgan.info/no-query-strings) — Score: 230
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,606.0 🟢 +0.44%
-- Ethereum: $2,322.06 🟢 +0.53%
-- Solana: $92.78 🟢 +0.28%
-- Bnb: $645.64 🔴 -1.02%
+- Bitcoin: $80,770.0 🟢 +0.66%
+- Ethereum: $2,329.69 🟢 +0.58%
+- Solana: $93.49 🔴 -0.19%
+- Bnb: $648.73 🔴 -0.39%
 
 ---
 ## 📅 2026-05-09 (last updated: 23:33 IST)
