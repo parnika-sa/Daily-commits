@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-12 (last updated: 23:56 IST)
+
+## 📅 2026-05-12 (last updated: 03:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-11 22:14:52 IST | 59f03287d589 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-12 03:11:38 IST | 54665541b3e0 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-11 23:56:10 IST | 2f0bf4526c31 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 427
-- [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html) — Score: 100
-- [Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) — Score: 14
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1953
-- [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) — Score: 276
+- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) — Score: 64
+- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 81
+- [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) — Score: 183
+- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) — Score: 16
+- [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/) — Score: 162
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,919.0 🟢 +0.70%
@@ -44,17 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $662.73 🟢 +0.22%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-11 (last updated: 23:56 IST)
 
 ### 🧪 Source Integrity Snapshot
