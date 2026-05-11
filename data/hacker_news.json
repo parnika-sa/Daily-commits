@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 21:41:38 UTC",
-    "fetched_at_ist": "2026-05-12 03:11:38 IST",
+    "fetched_at_utc": "2026-05-11 22:38:35 UTC",
+    "fetched_at_ist": "2026-05-12 04:08:35 IST",
     "item_count": 5,
-    "content_hash": "54665541b3e0c06b537d03f4218ba5052af074e996576840f5f723d2e162c6cb",
-    "previous_hash": "59f03287d589f79058a481247fa11b6931dac122c435a122c7614a5479567903",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "2aceedff993cf38785663f5a3b305af388072a5b7db4c877893b2b44e9bc4512",
+    "previous_hash": "54665541b3e0c06b537d03f4218ba5052af074e996576840f5f723d2e162c6cb",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48100706,
+      "title": "TanStack NPM Packages Compromised",
+      "url": "https://github.com/TanStack/router/issues/7383",
+      "score": 230,
+      "comments": 58
+    },
+    {
+      "id": 48100500,
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 140,
+      "comments": 87
+    },
+    {
+      "id": 48094641,
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 60,
+      "comments": 34
+    },
+    {
       "id": 48099616,
       "title": "Library for fast mapping of Java records to native memory",
       "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 64,
-      "comments": 19
+      "score": 79,
+      "comments": 21
     },
     {
       "id": 48098261,
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 81,
-      "comments": 23
-    },
-    {
-      "id": 48060077,
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 183,
-      "comments": 58
-    },
-    {
-      "id": 48100662,
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 16,
-      "comments": 7
-    },
-    {
-      "id": 48098537,
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 162,
-      "comments": 79
+      "score": 114,
+      "comments": 27
     }
   ]
 }

@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-12 (last updated: 03:11 IST)
+
+## 📅 2026-05-12 (last updated: 04:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-12 03:11:38 IST | 54665541b3e0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-12 04:08:35 IST | 2aceedff993c | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-11 23:56:10 IST | 2f0bf4526c31 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) — Score: 64
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 81
-- [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) — Score: 183
-- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) — Score: 16
-- [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/) — Score: 162
+- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383) — Score: 230
+- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/) — Score: 140
+- [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) — Score: 60
+- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) — Score: 79
+- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 114
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,919.0 🟢 +0.70%
