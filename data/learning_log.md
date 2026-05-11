@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-11 (last updated: 17:04 IST)
+
+## 📅 2026-05-11 (last updated: 22:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-11 17:04:33 IST | babbbdb72b3b | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-11 22:14:52 IST | 59f03287d589 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-11 05:36:14 IST | 98f138436780 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 47
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1666
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) — Score: 1246
-- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) — Score: 435
-- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) — Score: 197
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 427
+- [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html) — Score: 100
+- [Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) — Score: 14
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1953
+- [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) — Score: 276
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,119.0 🟢 +1.84%

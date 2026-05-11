@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 11:34:33 UTC",
-    "fetched_at_ist": "2026-05-11 17:04:33 IST",
+    "fetched_at_utc": "2026-05-11 16:44:52 UTC",
+    "fetched_at_ist": "2026-05-11 22:14:52 IST",
     "item_count": 5,
-    "content_hash": "babbbdb72b3bd7086da6278ba6d0c9c684aa7a620a35ad182c8ba4e73a676d5f",
-    "previous_hash": "20e147097fbb7052da114552ff15eb50157b2984ba55a1ff1c63b13ead2f149a",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "59f03287d589f79058a481247fa11b6931dac122c435a122c7614a5479567903",
+    "previous_hash": "babbbdb72b3bd7086da6278ba6d0c9c684aa7a620a35ad182c8ba4e73a676d5f",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48093100,
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 47,
-      "comments": 19
+      "score": 427,
+      "comments": 151
+    },
+    {
+      "id": 48085685,
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "score": 100,
+      "comments": 7
+    },
+    {
+      "id": 48060077,
+      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 14,
+      "comments": 1
     },
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1666,
-      "comments": 547
+      "score": 1953,
+      "comments": 656
     },
     {
-      "id": 48085821,
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1246,
-      "comments": 522
-    },
-    {
-      "id": 48090029,
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 435,
-      "comments": 212
-    },
-    {
-      "id": 48090521,
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 197,
-      "comments": 85
+      "id": 48092028,
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 276,
+      "comments": 144
     }
   ]
 }
