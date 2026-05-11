@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-11 (last updated: 10:03 IST)
+
+## 📅 2026-05-11 (last updated: 17:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-11 10:03:43 IST | 20e147097fbb | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-11 17:04:33 IST | babbbdb72b3b | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-11 05:36:14 IST | 98f138436780 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1081
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) — Score: 770
-- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) — Score: 46
-- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) — Score: 146
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) — Score: 182
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 47
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1666
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) — Score: 1246
+- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) — Score: 435
+- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) — Score: 197
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,119.0 🟢 +1.84%

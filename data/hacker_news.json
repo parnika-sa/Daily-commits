@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 04:33:43 UTC",
-    "fetched_at_ist": "2026-05-11 10:03:43 IST",
+    "fetched_at_utc": "2026-05-11 11:34:33 UTC",
+    "fetched_at_ist": "2026-05-11 17:04:33 IST",
     "item_count": 5,
-    "content_hash": "20e147097fbb7052da114552ff15eb50157b2984ba55a1ff1c63b13ead2f149a",
-    "previous_hash": "1d29fb3d1b90f97d44a57ff3199d60466812cd9ed37e580fc413fe08d744568f",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "babbbdb72b3bd7086da6278ba6d0c9c684aa7a620a35ad182c8ba4e73a676d5f",
+    "previous_hash": "20e147097fbb7052da114552ff15eb50157b2984ba55a1ff1c63b13ead2f149a",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48093100,
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "score": 47,
+      "comments": 19
+    },
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1081,
-      "comments": 376
+      "score": 1666,
+      "comments": 547
     },
     {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 770,
-      "comments": 350
-    },
-    {
-      "id": 48090521,
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 46,
-      "comments": 18
+      "score": 1246,
+      "comments": 522
     },
     {
       "id": 48090029,
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 146,
-      "comments": 59
+      "score": 435,
+      "comments": 212
     },
     {
-      "id": 48089091,
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 182,
-      "comments": 67
+      "id": 48090521,
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 197,
+      "comments": 85
     }
   ]
 }
