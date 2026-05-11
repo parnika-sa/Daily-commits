@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-12 (last updated: 04:08 IST)
+
+## 📅 2026-05-12 (last updated: 05:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-12 04:08:35 IST | 2aceedff993c | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-12 05:08:20 IST | 63c0cc404be7 | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-05-11 23:56:10 IST | 2f0bf4526c31 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383) — Score: 230
-- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/) — Score: 140
-- [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) — Score: 60
-- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) — Score: 79
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 114
+- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383) — Score: 371
+- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 152
+- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) — Score: 89
+- [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) — Score: 86
+- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/) — Score: 219
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,919.0 🟢 +0.70%

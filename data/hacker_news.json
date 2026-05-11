@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 22:38:35 UTC",
-    "fetched_at_ist": "2026-05-12 04:08:35 IST",
+    "fetched_at_utc": "2026-05-11 23:38:20 UTC",
+    "fetched_at_ist": "2026-05-12 05:08:20 IST",
     "item_count": 5,
-    "content_hash": "2aceedff993cf38785663f5a3b305af388072a5b7db4c877893b2b44e9bc4512",
-    "previous_hash": "54665541b3e0c06b537d03f4218ba5052af074e996576840f5f723d2e162c6cb",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "63c0cc404be7721a94bac18d0302b12a9a2c4d1fe31d585a151f4b54ae3a7af0",
+    "previous_hash": "2aceedff993cf38785663f5a3b305af388072a5b7db4c877893b2b44e9bc4512",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48100706,
       "title": "TanStack NPM Packages Compromised",
       "url": "https://github.com/TanStack/router/issues/7383",
-      "score": 230,
-      "comments": 58
-    },
-    {
-      "id": 48100500,
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 140,
-      "comments": 87
-    },
-    {
-      "id": 48094641,
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "score": 60,
-      "comments": 34
-    },
-    {
-      "id": 48099616,
-      "title": "Library for fast mapping of Java records to native memory",
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 79,
-      "comments": 21
+      "score": 371,
+      "comments": 115
     },
     {
       "id": 48098261,
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 114,
-      "comments": 27
+      "score": 152,
+      "comments": 30
+    },
+    {
+      "id": 48099616,
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 89,
+      "comments": 23
+    },
+    {
+      "id": 48094641,
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 86,
+      "comments": 60
+    },
+    {
+      "id": 48100500,
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 219,
+      "comments": 180
     }
   ]
 }
