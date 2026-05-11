@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-10 19:21:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-11 00:06:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bytedance/UI-TARS-desktop**
-- BTC: **$81,415.0** ↑ (+0.64%)
-- HN top story: **Tracesofhumanity.org by Joanna Rutkowska**
+- BTC: **$82,119.0** ↑ (+1.84%)
+- HN top story: **Hardware Attestation as Monopoly Enabler**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-10 18:04:06 UTC | `f0a387236a7d` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-10 18:04:07 UTC | `8d0344e0f0a2` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-10 19:21:24 UTC | `85018f89ed25` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-05-11 00:06:14 UTC | `47d6a4ff459a` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-11 00:06:15 UTC | `1d29fb3d1b90` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-11 00:06:14 UTC | `98f138436780` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-11` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `50` day(s) |
-| Last Commit (IST) | `2026-05-11 03:32:34 IST` |
+| Last Commit (IST) | `2026-05-11 04:36:26 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-08 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-09 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-05-10 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-05-11 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-11 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,415.0 | +0.64% | 🟢 |
-| Ethereum | $2,361.02 | +1.39% | 🟢 |
-| Solana | $96.34 | +3.30% | 🟢 |
-| Bnb | $660.73 | +1.53% | 🟢 |
+| Bitcoin | $82,119.0 | +1.84% | 🟢 |
+| Ethereum | $2,371.27 | +2.02% | 🟢 |
+| Solana | $96.51 | +3.68% | 🟢 |
+| Bnb | $663.97 | +2.32% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 656 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,479 stars today | No description |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 1,092 stars today | Production-grade engineering skills for AI coding agents. |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 567 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 255 stars today | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 187 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 642 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 604 stars today | 3D Gaussian Splat Editor |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 669 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,449 stars today | No description |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 1,065 stars today | Production-grade engineering skills for AI coding agents. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 496 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 163 stars today | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 185 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 635 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 579 stars today | 3D Gaussian Splat Editor |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/) | 21 | 4 |
-| [Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem](https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a) | 32 | 17 |
-| [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) | 448 | 352 |
-| [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do) | 104 | 52 |
-| [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/) | 241 | 78 |
+| [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) | 759 | 285 |
+| [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) | 450 | 223 |
+| [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) | 352 | 84 |
+| [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) | 25 | 10 |
+| [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) | 36 | 16 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

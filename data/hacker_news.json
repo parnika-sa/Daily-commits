@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-10 18:04:07 UTC",
-    "fetched_at_ist": "2026-05-10 23:34:07 IST",
+    "fetched_at_utc": "2026-05-11 00:06:15 UTC",
+    "fetched_at_ist": "2026-05-11 05:36:15 IST",
     "item_count": 5,
-    "content_hash": "8d0344e0f0a2e2378750573901adad83093f30353bedaaa090906f51e63cc2ca",
-    "previous_hash": "61d1bb48077dcb971aa979a77cc755f1f6310895bf69f64342a617ca6951a318",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "1d29fb3d1b90f97d44a57ff3199d60466812cd9ed37e580fc413fe08d744568f",
+    "previous_hash": "8d0344e0f0a2e2378750573901adad83093f30353bedaaa090906f51e63cc2ca",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48085782,
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
-      "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 21,
-      "comments": 4
+      "id": 48086190,
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 759,
+      "comments": 285
     },
     {
-      "id": 48075429,
-      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-      "score": 32,
-      "comments": 17
+      "id": 48085821,
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 450,
+      "comments": 223
     },
     {
-      "id": 48073201,
-      "title": "I returned to AWS, and was reminded why I left",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 448,
-      "comments": 352
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 352,
+      "comments": 84
     },
     {
-      "id": 48083007,
-      "title": "What's a Mathematician to Do?",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "score": 104,
-      "comments": 52
+      "id": 48089091,
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 25,
+      "comments": 10
     },
     {
-      "id": 48082968,
-      "title": "Space Cadet Pinball on Linux",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "score": 241,
-      "comments": 78
+      "id": 48088576,
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "score": 36,
+      "comments": 16
     }
   ]
 }
