@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 00:06:15 UTC",
-    "fetched_at_ist": "2026-05-11 05:36:15 IST",
+    "fetched_at_utc": "2026-05-11 04:33:43 UTC",
+    "fetched_at_ist": "2026-05-11 10:03:43 IST",
     "item_count": 5,
-    "content_hash": "1d29fb3d1b90f97d44a57ff3199d60466812cd9ed37e580fc413fe08d744568f",
-    "previous_hash": "8d0344e0f0a2e2378750573901adad83093f30353bedaaa090906f51e63cc2ca",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "20e147097fbb7052da114552ff15eb50157b2984ba55a1ff1c63b13ead2f149a",
+    "previous_hash": "1d29fb3d1b90f97d44a57ff3199d60466812cd9ed37e580fc413fe08d744568f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 759,
-      "comments": 285
+      "score": 1081,
+      "comments": 376
     },
     {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 450,
-      "comments": 223
+      "score": 770,
+      "comments": 350
     },
     {
-      "id": 48086082,
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 352,
-      "comments": 84
+      "id": 48090521,
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 46,
+      "comments": 18
+    },
+    {
+      "id": 48090029,
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 146,
+      "comments": 59
     },
     {
       "id": 48089091,
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 25,
-      "comments": 10
-    },
-    {
-      "id": 48088576,
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 36,
-      "comments": 16
+      "score": 182,
+      "comments": 67
     }
   ]
 }
