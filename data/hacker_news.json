@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-12 07:38:18 UTC",
-    "fetched_at_ist": "2026-05-12 13:08:18 IST",
+    "fetched_at_utc": "2026-05-12 17:30:08 UTC",
+    "fetched_at_ist": "2026-05-12 23:00:08 IST",
     "item_count": 5,
-    "content_hash": "1e0b95eebf9a5ffa34638eb772faf5da6769fe7cc682a972154c4870ab144520",
-    "previous_hash": "63c0cc404be7721a94bac18d0302b12a9a2c4d1fe31d585a151f4b54ae3a7af0",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "ef14dc131083fd99bc212ff3c98cc07c8272632e7a8d7aea18f4288bfc65dece",
+    "previous_hash": "1e0b95eebf9a5ffa34638eb772faf5da6769fe7cc682a972154c4870ab144520",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48100706,
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 769,
-      "comments": 286
+      "id": 48107997,
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 256,
+      "comments": 18
     },
     {
-      "id": 48102700,
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 171,
-      "comments": 41
+      "id": 48109224,
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 577,
+      "comments": 197
     },
     {
-      "id": 48104428,
-      "title": "Screenshots of Old Desktop OSes",
-      "url": "http://www.typewritten.org/Media/",
-      "score": 61,
-      "comments": 16
+      "id": 48109970,
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 67,
+      "comments": 30
     },
     {
-      "id": 48100433,
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 417,
-      "comments": 430
+      "id": 48106024,
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 410,
+      "comments": 76
     },
     {
-      "id": 48098261,
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 313,
-      "comments": 65
+      "id": 48109962,
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 20,
+      "comments": 8
     }
   ]
 }

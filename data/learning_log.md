@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-12 (last updated: 20:48 IST)
+
+## 📅 2026-05-12 (last updated: 23:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-12 13:08:18 IST | 1e0b95eebf9a | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-12 23:00:08 IST | ef14dc131083 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-12 20:48:11 IST | 9fdff6f60db7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) — Score: 769
-- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) — Score: 171
-- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/) — Score: 61
-- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) — Score: 417
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) — Score: 313
+- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) — Score: 256
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — Score: 577
+- [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/) — Score: 67
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) — Score: 410
+- [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,524.0 🔴 -0.55%
