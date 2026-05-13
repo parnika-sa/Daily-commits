@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-13 (last updated: 18:01 IST)
+
+## 📅 2026-05-13 (last updated: 21:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-13 18:01:57 IST | 12b0e52f622d | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-13 21:03:42 IST | 52f809816b5b | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-13 06:52:09 IST | cdd084c64b3b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) — Score: 125
-- [Preserving Fisher-Price Pixter](https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter) — Score: 35
-- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419) — Score: 224
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) — Score: 504
-- [New stainless steel can survive conditions for hydrogen production in seawater](https://www.sciencedaily.com/releases/2026/05/260510030950.htm) — Score: 109
+- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) — Score: 514
+- [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/) — Score: 266
+- [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/) — Score: 56
+- [Reverting the incremental GC in Python 3.14 and 3.15](https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014) — Score: 69
+- [Preserving Fisher-Price Pixter](https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter) — Score: 133
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,896.0 🔴 -0.49%

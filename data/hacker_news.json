@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-13 12:31:57 UTC",
-    "fetched_at_ist": "2026-05-13 18:01:57 IST",
+    "fetched_at_utc": "2026-05-13 15:33:42 UTC",
+    "fetched_at_ist": "2026-05-13 21:03:42 IST",
     "item_count": 5,
-    "content_hash": "12b0e52f622dabf2a09f38ebeb26474f58085e2533f84efd04d54ab2e2d65ed5",
-    "previous_hash": "c1c4530a77b99737dafb162b4330a6bd2bb983270c62e465edd83602f85e442a",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "52f809816b5b0bedff9b602f7e3e776359461e359d03d6af48f353427fca83d5",
+    "previous_hash": "12b0e52f622dabf2a09f38ebeb26474f58085e2533f84efd04d54ab2e2d65ed5",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48120629,
       "title": "I Moved My Digital Stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 125,
-      "comments": 61
+      "score": 514,
+      "comments": 353
+    },
+    {
+      "id": 48121266,
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 266,
+      "comments": 156
+    },
+    {
+      "id": 48122635,
+      "title": "Setting up a free *.city.state.us locality domain",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 56,
+      "comments": 3
+    },
+    {
+      "id": 48077924,
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 69,
+      "comments": 9
     },
     {
       "id": 48091812,
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 35,
-      "comments": 0
-    },
-    {
-      "id": 48117810,
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "score": 224,
-      "comments": 53
-    },
-    {
-      "id": 48115127,
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 504,
-      "comments": 222
-    },
-    {
-      "id": 48089921,
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 109,
-      "comments": 35
+      "score": 133,
+      "comments": 17
     }
   ]
 }
