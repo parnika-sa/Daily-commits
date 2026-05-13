@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-14 (last updated: 01:12 IST)
+
+## 📅 2026-05-14 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-14 01:12:06 IST | c86d6ff15703 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-14 04:06:50 IST | 44c4c344eb82 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-13 06:52:09 IST | cdd084c64b3b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 363
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 136
-- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) — Score: 117
-- [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/) — Score: 13
-- [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy) — Score: 96
+- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 351
+- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 434
+- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) — Score: 202
+- [In-person examinations at Princeton will be proctored starting July 1](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) — Score: 162
+- [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/) — Score: 40
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,896.0 🔴 -0.49%
