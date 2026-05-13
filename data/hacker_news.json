@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-13 22:36:50 UTC",
-    "fetched_at_ist": "2026-05-14 04:06:50 IST",
+    "fetched_at_utc": "2026-05-13 23:40:35 UTC",
+    "fetched_at_ist": "2026-05-14 05:10:35 IST",
     "item_count": 5,
-    "content_hash": "44c4c344eb8220d7db71269a385de52cb5e2053180c05c97a56aac53539dec7f",
-    "previous_hash": "c86d6ff15703b772d5a493841c12de30ff2e18208df18db03680781cdb84cce6",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "57674dde1ec88176a82475dbb6d37afb0f132b71a5e1c4083e7321d4e912f58c",
+    "previous_hash": "44c4c344eb8220d7db71269a385de52cb5e2053180c05c97a56aac53539dec7f",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48087887,
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 351,
-      "comments": 237
+      "score": 430,
+      "comments": 274
     },
     {
       "id": 48122635,
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 434,
-      "comments": 138
+      "score": 455,
+      "comments": 148
     },
     {
       "id": 48073979,
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 202,
-      "comments": 164
+      "score": 238,
+      "comments": 177
     },
     {
       "id": 48126848,
-      "title": "In-person examinations at Princeton will be proctored starting July 1",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 162,
-      "comments": 219
+      "score": 201,
+      "comments": 254
     },
     {
       "id": 48096760,
       "title": "Chess puzzle I found in my dad's old book",
       "url": "https://ardoedo.it/kempelen/",
-      "score": 40,
-      "comments": 7
+      "score": 53,
+      "comments": 14
     }
   ]
 }
