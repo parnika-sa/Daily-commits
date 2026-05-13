@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-12 17:30:08 UTC",
-    "fetched_at_ist": "2026-05-12 23:00:08 IST",
+    "fetched_at_utc": "2026-05-13 10:41:24 UTC",
+    "fetched_at_ist": "2026-05-13 16:11:24 IST",
     "item_count": 5,
-    "content_hash": "ef14dc131083fd99bc212ff3c98cc07c8272632e7a8d7aea18f4288bfc65dece",
-    "previous_hash": "1e0b95eebf9a5ffa34638eb772faf5da6769fe7cc682a972154c4870ab144520",
+    "content_hash": "c1c4530a77b99737dafb162b4330a6bd2bb983270c62e465edd83602f85e442a",
+    "previous_hash": "ef14dc131083fd99bc212ff3c98cc07c8272632e7a8d7aea18f4288bfc65dece",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48107997,
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 256,
-      "comments": 18
+      "id": 48117810,
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "score": 191,
+      "comments": 47
     },
     {
-      "id": 48109224,
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 577,
-      "comments": 197
+      "id": 48115127,
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 446,
+      "comments": 185
     },
     {
-      "id": 48109970,
-      "title": "The Future of Obsidian Plugins",
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 67,
-      "comments": 30
+      "id": 48111545,
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 796,
+      "comments": 1303
     },
     {
-      "id": 48106024,
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 410,
-      "comments": 76
+      "id": 48111896,
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 474,
+      "comments": 154
     },
     {
-      "id": 48109962,
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "score": 20,
-      "comments": 8
+      "id": 48089921,
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "score": 57,
+      "comments": 24
     }
   ]
 }
