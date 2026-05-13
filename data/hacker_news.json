@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-13 15:33:42 UTC",
-    "fetched_at_ist": "2026-05-13 21:03:42 IST",
+    "fetched_at_utc": "2026-05-13 19:42:06 UTC",
+    "fetched_at_ist": "2026-05-14 01:12:06 IST",
     "item_count": 5,
-    "content_hash": "52f809816b5b0bedff9b602f7e3e776359461e359d03d6af48f353427fca83d5",
-    "previous_hash": "12b0e52f622dabf2a09f38ebeb26474f58085e2533f84efd04d54ab2e2d65ed5",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "c86d6ff15703b772d5a493841c12de30ff2e18208df18db03680781cdb84cce6",
+    "previous_hash": "52f809816b5b0bedff9b602f7e3e776359461e359d03d6af48f353427fca83d5",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48120629,
-      "title": "I Moved My Digital Stack to Europe",
-      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 514,
-      "comments": 353
-    },
-    {
-      "id": 48121266,
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 266,
-      "comments": 156
-    },
-    {
       "id": 48122635,
-      "title": "Setting up a free *.city.state.us locality domain",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 56,
-      "comments": 3
+      "score": 363,
+      "comments": 114
     },
     {
-      "id": 48077924,
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 69,
-      "comments": 9
+      "id": 48087887,
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 136,
+      "comments": 105
     },
     {
-      "id": 48091812,
-      "title": "Preserving Fisher-Price Pixter",
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 133,
-      "comments": 17
+      "id": 48073979,
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 117,
+      "comments": 86
+    },
+    {
+      "id": 48126156,
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "score": 13,
+      "comments": 2
+    },
+    {
+      "id": 48080755,
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "score": 96,
+      "comments": 46
     }
   ]
 }
