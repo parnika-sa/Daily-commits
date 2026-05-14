@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-15 (last updated: 17:45 IST)
+
+## 📅 2026-05-15 (last updated: 02:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-14 16:09:28 IST | 2ab1a24648ea | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-15 02:12:49 IST | 89cf5761a7f9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-14 17:45:59 IST | 7bb946d0378a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — Score: 267
-- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/) — Score: 265
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 745
-- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/) — Score: 57
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 564
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 346
+- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) — Score: 373
+- [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) — Score: 75
+- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) — Score: 186
+- [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification) — Score: 94
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,321.0 🔴 -1.47%
@@ -44,16 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $671.6 🔴 -1.16%
 
 ---
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-14 (last updated: 17:45 IST)
 
 ### 🧪 Source Integrity Snapshot
