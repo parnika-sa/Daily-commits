@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 01:31:27 UTC",
-    "fetched_at_ist": "2026-05-14 07:01:27 IST",
+    "fetched_at_utc": "2026-05-14 05:32:03 UTC",
+    "fetched_at_ist": "2026-05-14 11:02:03 IST",
     "item_count": 5,
-    "content_hash": "6f85fa4b0519bff45e797efb8f9323b798caed965a9313c6dbaf06561226153c",
-    "previous_hash": "57674dde1ec88176a82475dbb6d37afb0f132b71a5e1c4083e7321d4e912f58c",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "8e418091592fd16be5235f2a3062db6ce870cdf4ba45f45b3bfad3b4d76c563e",
+    "previous_hash": "6f85fa4b0519bff45e797efb8f9323b798caed965a9313c6dbaf06561226153c",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48129561,
-      "title": "The Other Half of AI Safety",
-      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "score": 31,
-      "comments": 24
+      "id": 48130950,
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 89,
+      "comments": 37
+    },
+    {
+      "id": 48129694,
+      "title": "Scorched Earth 2000 – Web",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 186,
+      "comments": 72
     },
     {
       "id": 48087887,
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 514,
-      "comments": 339
+      "score": 617,
+      "comments": 416
     },
     {
-      "id": 48122635,
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 484,
-      "comments": 154
+      "id": 48130123,
+      "title": "Cisco workforce reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 111,
+      "comments": 84
     },
     {
-      "id": 48073979,
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 267,
-      "comments": 194
-    },
-    {
-      "id": 48095782,
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "url": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 35,
-      "comments": 4
+      "id": 48130711,
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "score": 14,
+      "comments": 1
     }
   ]
 }
