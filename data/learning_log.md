@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-14 (last updated: 05:10 IST)
+
+## 📅 2026-05-14 (last updated: 07:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-14 05:10:35 IST | 57674dde1ec8 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-14 07:01:27 IST | 6f85fa4b0519 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-13 06:52:09 IST | cdd084c64b3b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 430
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 455
-- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) — Score: 238
-- [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) — Score: 201
-- [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/) — Score: 53
+- [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety) — Score: 31
+- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 514
+- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 484
+- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) — Score: 267
+- [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo) — Score: 35
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,896.0 🔴 -0.49%
