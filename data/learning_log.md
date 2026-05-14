@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-14 (last updated: 13:46 IST)
+
+## 📅 2026-05-14 (last updated: 16:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-14 11:02:03 IST | 8e418091592f | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-14 16:09:28 IST | 2ab1a24648ea | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-14 13:46:13 IST | 521fc150027c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 163 stars today
 
 ### 📰 Hacker News Stories
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — Score: 89
-- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/) — Score: 186
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 617
-- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward) — Score: 111
-- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/) — Score: 14
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — Score: 267
+- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/) — Score: 265
+- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) — Score: 745
+- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/) — Score: 57
+- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 564
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,797.0 🔴 -1.52%

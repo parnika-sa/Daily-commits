@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 05:32:03 UTC",
-    "fetched_at_ist": "2026-05-14 11:02:03 IST",
+    "fetched_at_utc": "2026-05-14 10:39:28 UTC",
+    "fetched_at_ist": "2026-05-14 16:09:28 IST",
     "item_count": 5,
-    "content_hash": "8e418091592fd16be5235f2a3062db6ce870cdf4ba45f45b3bfad3b4d76c563e",
-    "previous_hash": "6f85fa4b0519bff45e797efb8f9323b798caed965a9313c6dbaf06561226153c",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "2ab1a24648ead93e6ce17f95b6e144387dc42aae0a78503188ed4ff95cef4566",
+    "previous_hash": "8e418091592fd16be5235f2a3062db6ce870cdf4ba45f45b3bfad3b4d76c563e",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48130950,
       "title": "Claude for Small Business",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 89,
-      "comments": 37
+      "score": 267,
+      "comments": 192
     },
     {
       "id": 48129694,
       "title": "Scorched Earth 2000 – Web",
       "url": "http://www.scorch2000.com/web/",
-      "score": 186,
-      "comments": 72
+      "score": 265,
+      "comments": 100
     },
     {
       "id": 48087887,
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 617,
-      "comments": 416
+      "score": 745,
+      "comments": 483
     },
     {
-      "id": 48130123,
-      "title": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "score": 111,
-      "comments": 84
+      "id": 48132030,
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "url": "https://classic7.lol/",
+      "score": 57,
+      "comments": 50
     },
     {
-      "id": 48130711,
-      "title": "Arena AI Model ELO History",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
-      "score": 14,
-      "comments": 1
+      "id": 48122635,
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 564,
+      "comments": 174
     }
   ]
 }
