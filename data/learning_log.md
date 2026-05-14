@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-14 (last updated: 16:09 IST)
+
+## 📅 2026-05-14 (last updated: 17:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-14 16:09:28 IST | 2ab1a24648ea | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-14 13:46:13 IST | 521fc150027c | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-14 17:45:59 IST | 7bb946d0378a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) — Score: 564
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $79,797.0 🔴 -1.52%
-- Ethereum: $2,267.19 🔴 -1.55%
-- Solana: $90.98 🔴 -4.39%
-- Bnb: $670.14 🔴 -1.28%
+- Bitcoin: $79,321.0 🔴 -1.47%
+- Ethereum: $2,251.87 🔴 -2.31%
+- Solana: $90.81 🔴 -3.90%
+- Bnb: $671.6 🔴 -1.16%
 
 ---
 ## 📅 2026-05-13 (last updated: 21:03 IST)
