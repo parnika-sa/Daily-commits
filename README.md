@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-15 06:07:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-15 09:22:57 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **ruvnet/RuView**
-- BTC: **$80,395.0** ↑ (+0.70%)
+- BTC: **$80,500.0** ↑ (+0.92%)
 - HN top story: **Mullvad exit IPs are surprisingly identifying**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 06:07:07 UTC | `bb2bdf3a8856` | +14 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-15 06:07:08 UTC | `3c70f276241b` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-15 06:07:07 UTC | `ded301ba7c22` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-15 09:22:57 UTC | `595626ed84e0` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-15` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `52` day(s) |
-| Last Commit (IST) | `2026-05-15 07:55:04 IST` |
+| Last Commit (IST) | `2026-05-15 11:37:09 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-12 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-13 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-05-15 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-05-15 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,395.0 | +0.70% | 🟢 |
-| Ethereum | $2,248.26 | -0.96% | 🔴 |
-| Solana | $90.75 | -0.54% | 🔴 |
-| Bnb | $676.8 | +1.10% | 🟢 |
+| Bitcoin | $80,500.0 | +0.92% | 🟢 |
+| Ethereum | $2,253.83 | -0.38% | 🔴 |
+| Solana | $91.08 | +0.18% | 🟢 |
+| Bnb | $683.42 | +1.72% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 

@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 11:37 IST)
+
+## 📅 2026-05-15 (last updated: 14:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-15 11:37:08 IST | 3c70f276241b | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-15 11:37:07 IST | ded301ba7c22 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-15 14:52:57 IST | 595626ed84e0 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [A few words on DS4](https://antirez.com/news/165) — Score: 251
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,395.0 🟢 +0.70%
-- Ethereum: $2,248.26 🔴 -0.96%
-- Solana: $90.75 🔴 -0.54%
-- Bnb: $676.8 🟢 +1.10%
+- Bitcoin: $80,500.0 🟢 +0.92%
+- Ethereum: $2,253.83 🔴 -0.38%
+- Solana: $91.08 🟢 +0.18%
+- Bnb: $683.42 🟢 +1.72%
 
 ---
 ## 📅 2026-05-14 (last updated: 17:45 IST)
