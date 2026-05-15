@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 07:55 IST)
+
+## 📅 2026-05-15 (last updated: 11:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-05-11 05:36:14 IST | 47d6a4ff459a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-15 02:12:49 IST | 89cf5761a7f9 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-15 07:55:04 IST | 57e8ae19429f | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-15 11:37:08 IST | 3c70f276241b | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-15 11:37:07 IST | ded301ba7c22 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (TypeScript) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and  
-  ⭐ 669 stars today
-- **[anthropics/financial-services](https://github.com/anthropics/financial-services)** (Python) — No description  
-  ⭐ 1,449 stars today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 1,065 stars today
-- **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** (Python) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replac  
-  ⭐ 496 stars today
-- **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** (Python) — "AI-Trader: 100% Fully-Automated Agent-Native Trading"  
-  ⭐ 163 stars today
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
+  ⭐ 1,715 stars today
+- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
+  ⭐ 3,329 stars today
+- **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** (TypeScript) — #1 Persistent memory for AI coding agents based on real-world benchmarks  
+  ⭐ 1,879 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,780 stars today
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** (Python) — A set of ready to use Agent Skills for research, science, engineering, analysis,  
+  ⭐ 654 stars today
 
 ### 📰 Hacker News Stories
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 346
-- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) — Score: 373
-- [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) — Score: 75
-- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) — Score: 186
-- [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification) — Score: 94
+- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) — Score: 228
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) — Score: 82
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 749
+- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) — Score: 38
+- [A few words on DS4](https://antirez.com/news/165) — Score: 251
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,938.0 🟢 +1.67%
-- Ethereum: $2,266.27 🟢 +0.18%
-- Solana: $91.78 🟢 +0.80%
-- Bnb: $678.86 🟢 +0.68%
+- Bitcoin: $80,395.0 🟢 +0.70%
+- Ethereum: $2,248.26 🔴 -0.96%
+- Solana: $90.75 🔴 -0.54%
+- Bnb: $676.8 🟢 +1.10%
 
 ---
 ## 📅 2026-05-14 (last updated: 17:45 IST)

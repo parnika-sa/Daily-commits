@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-15 02:25:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-15 06:07:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bytedance/UI-TARS-desktop**
-- BTC: **$80,938.0** ↑ (+1.67%)
-- HN top story: **Removing the modem and GPS from my 2024 RAV4 hybrid**
+- Top GitHub repo: **ruvnet/RuView**
+- BTC: **$80,395.0** ↑ (+0.70%)
+- HN top story: **Mullvad exit IPs are surprisingly identifying**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-05-11 00:06:14 UTC | `47d6a4ff459a` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-14 20:42:49 UTC | `89cf5761a7f9` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-15 02:25:04 UTC | `57e8ae19429f` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-05-15 06:07:07 UTC | `bb2bdf3a8856` | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-15 06:07:08 UTC | `3c70f276241b` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-15 06:07:07 UTC | `ded301ba7c22` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-15` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `52` day(s) |
-| Last Commit (IST) | `2026-05-15 05:17:14 IST` |
+| Last Commit (IST) | `2026-05-15 07:55:04 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-12 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-13 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-05-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-15 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,938.0 | +1.67% | 🟢 |
-| Ethereum | $2,266.27 | +0.18% | 🟢 |
-| Solana | $91.78 | +0.80% | 🟢 |
-| Bnb | $678.86 | +0.68% | 🟢 |
+| Bitcoin | $80,395.0 | +0.70% | 🟢 |
+| Ethereum | $2,248.26 | -0.96% | 🔴 |
+| Solana | $90.75 | -0.54% | 🔴 |
+| Bnb | $676.8 | +1.10% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 669 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,449 stars today | No description |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 1,065 stars today | Production-grade engineering skills for AI coding agents. |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 496 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 163 stars today | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 185 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 635 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 579 stars today | 3D Gaussian Splat Editor |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,715 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,329 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 1,879 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,780 stars today | An agentic skills framework & software development methodology that works. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 654 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 363 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 83 stars today | We write your reusable computer vision tools. 💜 |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 215 stars today | Agent for collecting, processing, aggregating, and writing metrics, logs, and ot… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) | 346 | 169 |
-| [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) | 373 | 99 |
-| [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) | 75 | 10 |
-| [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) | 186 | 44 |
-| [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification) | 94 | 50 |
+| [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) | 228 | 105 |
+| [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) | 82 | 47 |
+| [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) | 749 | 407 |
+| [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) | 38 | 4 |
+| [A few words on DS4](https://antirez.com/news/165) | 251 | 85 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

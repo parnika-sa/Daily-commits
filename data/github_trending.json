@@ -2,86 +2,104 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-11 00:06:14 UTC",
-    "fetched_at_ist": "2026-05-11 05:36:14 IST",
-    "item_count": 12,
-    "content_hash": "47d6a4ff459aaf4b173fec633ef829bd99b8dc782b4506afa9221b70f5a8a9d6",
-    "previous_hash": "f0a387236a7dc148690278d58429ab0603b93edf11e7865d4f24cd5d891839da",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-05-15 06:07:07 UTC",
+    "fetched_at_ist": "2026-05-15 11:37:07 IST",
+    "item_count": 15,
+    "content_hash": "bb2bdf3a88569c14415e53d5d0346d206cdc2d574cff26b6985b022f649435bd",
+    "previous_hash": "47d6a4ff459aaf4b173fec633ef829bd99b8dc782b4506afa9221b70f5a8a9d6",
+    "new_repos_vs_previous": 14,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "1,715 stars today"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "3,329 stars today"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "669 stars today"
+      "stars_today": "1,879 stars today"
     },
     {
-      "name": "anthropics/financial-services",
-      "description": "No description",
-      "language": "Python",
-      "stars_today": "1,449 stars today"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,065 stars today"
+      "stars_today": "1,780 stars today"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "654 stars today"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "363 stars today"
+    },
+    {
+      "name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_today": "83 stars today"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars_today": "215 stars today"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_today": "1,128 stars today"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars_today": "851 stars today"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars_today": "62 stars today"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "496 stars today"
+      "stars_today": "1,354 stars today"
     },
     {
-      "name": "HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,987 stars today"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
-      "stars_today": "163 stars today"
+      "stars_today": "1,232 stars today"
     },
     {
-      "name": "jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "stars_today": "185 stars today"
-    },
-    {
-      "name": "datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_today": "635 stars today"
-    },
-    {
-      "name": "playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "579 stars today"
-    },
-    {
-      "name": "lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "language": "Python",
-      "stars_today": "174 stars today"
-    },
-    {
-      "name": "decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_today": "803 stars today"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,081 stars today"
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "language": "Python",
-      "stars_today": "748 stars today"
+      "stars_today": "915 stars today"
     }
   ]
 }

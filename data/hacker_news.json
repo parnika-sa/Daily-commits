@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 20:42:49 UTC",
-    "fetched_at_ist": "2026-05-15 02:12:49 IST",
+    "fetched_at_utc": "2026-05-15 06:07:08 UTC",
+    "fetched_at_ist": "2026-05-15 11:37:08 IST",
     "item_count": 5,
-    "content_hash": "89cf5761a7f9bbd2747ab42488743498b3aaa7249f07e962a0069c0437da98e4",
-    "previous_hash": "2ab1a24648ead93e6ce17f95b6e144387dc42aae0a78503188ed4ff95cef4566",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3c70f276241bed2f28e476e6ee90d96515b7cad9ec16b07f8f2926c64530829e",
+    "previous_hash": "89cf5761a7f9bbd2747ab42488743498b3aaa7249f07e962a0069c0437da98e4",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48143880,
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "score": 228,
+      "comments": 105
+    },
+    {
+      "id": 48144494,
+      "title": "How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "score": 82,
+      "comments": 47
+    },
+    {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 346,
-      "comments": 169
+      "score": 749,
+      "comments": 407
     },
     {
-      "id": 48137145,
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 373,
-      "comments": 99
+      "id": 48144380,
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "score": 38,
+      "comments": 4
     },
     {
-      "id": 48139219,
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 75,
-      "comments": 10
-    },
-    {
-      "id": 48138268,
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 186,
-      "comments": 44
-    },
-    {
-      "id": 48139355,
-      "title": "The AI Zombification of Universities",
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
-      "score": 94,
-      "comments": 50
+      "id": 48142108,
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "score": 251,
+      "comments": 85
     }
   ]
 }
