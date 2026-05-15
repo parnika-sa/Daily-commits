@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 18:46 IST)
+
+## 📅 2026-05-15 (last updated: 21:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-15 17:02:16 IST | cd570cc13a4a | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-15 21:03:46 IST | 6cea103607fb | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-15 18:46:55 IST | 789d98c8ca25 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 654 stars today
 
 ### 📰 Hacker News Stories
-- [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/) — Score: 146
-- [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html) — Score: 19
-- [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm) — Score: 82
-- [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer) — Score: 9
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 903
+- [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai) — Score: 202
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) — Score: 87
+- [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html) — Score: 166
+- [ASCII by Jason Scott](https://ascii.textfiles.com/) — Score: 36
+- [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/) — Score: 312
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,089.0 🟢 +0.41%
