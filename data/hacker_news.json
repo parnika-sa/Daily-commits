@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 06:07:08 UTC",
-    "fetched_at_ist": "2026-05-15 11:37:08 IST",
+    "fetched_at_utc": "2026-05-15 11:32:16 UTC",
+    "fetched_at_ist": "2026-05-15 17:02:16 IST",
     "item_count": 5,
-    "content_hash": "3c70f276241bed2f28e476e6ee90d96515b7cad9ec16b07f8f2926c64530829e",
-    "previous_hash": "89cf5761a7f9bbd2747ab42488743498b3aaa7249f07e962a0069c0437da98e4",
+    "content_hash": "cd570cc13a4a401bffd3b90a63d06db171907abb97c3f9189d44f8aaa3b622c9",
+    "previous_hash": "3c70f276241bed2f28e476e6ee90d96515b7cad9ec16b07f8f2926c64530829e",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48143880,
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 228,
-      "comments": 105
+      "id": 48146129,
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "url": "https://explorer.samismith.com/",
+      "score": 146,
+      "comments": 33
     },
     {
-      "id": 48144494,
-      "title": "How Claude Code works in large codebases",
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "id": 48147058,
+      "title": "O(x)Caml in Space",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "score": 19,
+      "comments": 0
+    },
+    {
+      "id": 48146369,
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "url": "https://github.com/Andyyyy64/whichllm",
       "score": 82,
-      "comments": 47
+      "comments": 10
+    },
+    {
+      "id": 48146908,
+      "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "score": 9,
+      "comments": 1
     },
     {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 749,
-      "comments": 407
-    },
-    {
-      "id": 48144380,
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 38,
-      "comments": 4
-    },
-    {
-      "id": 48142108,
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "score": 251,
-      "comments": 85
+      "score": 903,
+      "comments": 467
     }
   ]
 }

@@ -11,13 +11,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 14:52 IST)
+
+## 📅 2026-05-15 (last updated: 17:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-15 11:37:08 IST | 3c70f276241b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-15 17:02:16 IST | cd570cc13a4a | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-15 14:52:57 IST | 595626ed84e0 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 654 stars today
 
 ### 📰 Hacker News Stories
-- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) — Score: 228
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) — Score: 82
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 749
-- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) — Score: 38
-- [A few words on DS4](https://antirez.com/news/165) — Score: 251
+- [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/) — Score: 146
+- [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html) — Score: 19
+- [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm) — Score: 82
+- [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer) — Score: 9
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 903
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,500.0 🟢 +0.92%
