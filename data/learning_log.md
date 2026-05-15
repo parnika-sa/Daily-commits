@@ -12,19 +12,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 17:02 IST)
+
+## 📅 2026-05-15 (last updated: 18:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-15 17:02:16 IST | cd570cc13a4a | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-15 14:52:57 IST | 595626ed84e0 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-15 18:46:55 IST | 789d98c8ca25 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
@@ -46,10 +47,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 903
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,500.0 🟢 +0.92%
-- Ethereum: $2,253.83 🔴 -0.38%
-- Solana: $91.08 🟢 +0.18%
-- Bnb: $683.42 🟢 +1.72%
+- Bitcoin: $80,089.0 🟢 +0.41%
+- Ethereum: $2,246.01 🔴 -0.59%
+- Solana: $90.26 🔴 -1.17%
+- Bnb: $681.52 🟢 +0.84%
 
 ---
 ## 📅 2026-05-14 (last updated: 17:45 IST)
