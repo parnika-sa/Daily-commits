@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-17 (last updated: 00:51 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 8 | 2026-05-16 23:35:36 IST | 9b9d6de56e1b | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-16 23:35:37 IST | e44d834a9dd3 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-17 00:51:43 IST | b70d363f744b | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[oven-sh/bun](https://github.com/oven-sh/bun)** (Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager –   
+  ⭐ 414 stars today
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** (Python) — A set of ready to use Agent Skills for research, science, engineering, analysis,  
+  ⭐ 669 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,281 stars today
+- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** (JavaScript) — Open-source alternative to AI video platforms — Free AI image & video generation  
+  ⭐ 393 stars today
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** (Swift) — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  
+  ⭐ 745 stars today
+
+### 📰 Hacker News Stories
+- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) — Score: 103
+- [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) — Score: 67
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 198
+- [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x) — Score: 40
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) — Score: 243
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $78,217.0 🔴 -1.13%
+- Ethereum: $2,180.04 🔴 -1.95%
+- Solana: $86.76 🔴 -3.11%
+- Bnb: $657.24 🔴 -2.36%
+
+---
 
 
 
