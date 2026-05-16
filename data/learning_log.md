@@ -12,14 +12,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 10:08 IST)
+
+## 📅 2026-05-16 (last updated: 15:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-16 10:08:00 IST | 55886d3df2be | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-16 04:57:52 IST | dbfb86f5b3a7 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-16 15:48:00 IST | bb801575d37e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
@@ -46,10 +47,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) — Score: 76
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $79,064.0 🔴 -2.76%
-- Ethereum: $2,223.82 🔴 -3.10%
-- Solana: $89.24 🔴 -3.55%
-- Bnb: $671.82 🔴 -1.03%
+- Bitcoin: $77,859.0 🔴 -3.26%
+- Ethereum: $2,169.06 🔴 -3.83%
+- Solana: $85.76 🔴 -5.78%
+- Bnb: $652.14 🔴 -4.74%
 
 ---
 ## 📅 2026-05-15 (last updated: 21:03 IST)
