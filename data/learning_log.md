@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 16:59 IST)
+
+## 📅 2026-05-16 (last updated: 18:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-16 10:08:00 IST | 55886d3df2be | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-16 18:07:22 IST | a1e114790f95 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 16:59:40 IST | b5eacd35fdde | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 654 stars today
 
 ### 📰 Hacker News Stories
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 792
-- [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending) — Score: 60
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 999
-- [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/) — Score: 24
-- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) — Score: 76
+- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) — Score: 74
+- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) — Score: 27
+- [Futhark by Example](https://futhark-lang.org/examples.html) — Score: 46
+- [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) — Score: 38
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 995
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,080.0 🔴 -3.13%
