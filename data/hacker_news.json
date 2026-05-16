@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-16 12:37:22 UTC",
-    "fetched_at_ist": "2026-05-16 18:07:22 IST",
+    "fetched_at_utc": "2026-05-16 18:05:37 UTC",
+    "fetched_at_ist": "2026-05-16 23:35:37 IST",
     "item_count": 5,
-    "content_hash": "a1e114790f95e7f68324c93c2b75d9bb2dad97b5aea8f3c48631d3690792848e",
-    "previous_hash": "55886d3df2befd09f359bbb065f5de58c327efbe9f0560c65dc65f0f23e174a5",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e44d834a9dd3287edfd8ed389e096ad8fb83fe1ea446085d9134f53b9cb09e9b",
+    "previous_hash": "a1e114790f95e7f68324c93c2b75d9bb2dad97b5aea8f3c48631d3690792848e",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48158506,
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 74,
-      "comments": 14
+      "id": 48161861,
+      "title": "You don't know HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "score": 103,
+      "comments": 15
     },
     {
-      "id": 48159241,
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 27,
-      "comments": 7
+      "id": 48160914,
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "score": 67,
+      "comments": 22
     },
     {
-      "id": 48158606,
-      "title": "Futhark by Example",
-      "url": "https://futhark-lang.org/examples.html",
-      "score": 46,
-      "comments": 8
+      "id": 48159445,
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 198,
+      "comments": 88
     },
     {
-      "id": 48158494,
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "score": 38,
-      "comments": 18
+      "id": 48120162,
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://codeberg.org/hails/wsl9x",
+      "score": 40,
+      "comments": 20
     },
     {
-      "id": 48150431,
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "score": 995,
-      "comments": 206
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 243,
+      "comments": 157
     }
   ]
 }

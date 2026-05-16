@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-16 12:37:22 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-16 18:05:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **ruvnet/RuView**
-- BTC: **$78,080.0** ↓ (-3.13%)
-- HN top story: **Δ-Mem: Efficient Online Memory for Large Language Models**
+- Top GitHub repo: **oven-sh/bun**
+- BTC: **$78,183.0** ↓ (-1.56%)
+- HN top story: **You don't know HTML Lists**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-15 06:07:07 UTC | `bb2bdf3a8856` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-16 12:37:22 UTC | `a1e114790f95` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-16 11:29:40 UTC | `b5eacd35fdde` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-05-16 18:05:36 UTC | `9b9d6de56e1b` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-16 18:05:37 UTC | `e44d834a9dd3` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-16 18:05:36 UTC | `ea0bfc3a0f07` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-16` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `52` day(s) |
-| Last Commit (IST) | `2026-05-16 21:39:45 IST` |
+| Last Commit (IST) | `2026-05-16 22:43:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-13 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-15 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-05-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-05-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,080.0 | -3.13% | 🔴 |
-| Ethereum | $2,176.17 | -3.68% | 🔴 |
-| Solana | $86.12 | -5.66% | 🔴 |
-| Bnb | $654.93 | -4.78% | 🔴 |
+| Bitcoin | $78,183.0 | -1.56% | 🔴 |
+| Ethereum | $2,178.92 | -2.26% | 🔴 |
+| Solana | $86.79 | -3.52% | 🔴 |
+| Bnb | $655.74 | -2.91% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,715 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,329 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 1,879 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,780 stars today | An agentic skills framework & software development methodology that works. |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 654 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 363 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 83 stars today | We write your reusable computer vision tools. 💜 |
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | 215 stars today | Agent for collecting, processing, aggregating, and writing metrics, logs, and ot… |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 414 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 669 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,281 stars today | An agentic skills framework & software development methodology that works. |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 393 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 745 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,601 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 990 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 397 stars today | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool call… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) | 74 | 14 |
-| [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) | 27 | 7 |
-| [Futhark by Example](https://futhark-lang.org/examples.html) | 46 | 8 |
-| [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) | 38 | 18 |
-| [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) | 995 | 206 |
+| [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) | 103 | 15 |
+| [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) | 67 | 22 |
+| [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) | 198 | 88 |
+| [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x) | 40 | 20 |
+| [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) | 243 | 157 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 18:07 IST)
+
+## 📅 2026-05-16 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-16 18:07:22 IST | a1e114790f95 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-16 16:59:40 IST | b5eacd35fdde | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-05-16 23:35:36 IST | 9b9d6de56e1b | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-16 23:35:37 IST | e44d834a9dd3 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-16 23:35:36 IST | ea0bfc3a0f07 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
-  ⭐ 1,715 stars today
-- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
-  ⭐ 3,329 stars today
-- **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** (TypeScript) — #1 Persistent memory for AI coding agents based on real-world benchmarks  
-  ⭐ 1,879 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,780 stars today
+- **[oven-sh/bun](https://github.com/oven-sh/bun)** (Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager –   
+  ⭐ 414 stars today
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** (Python) — A set of ready to use Agent Skills for research, science, engineering, analysis,  
-  ⭐ 654 stars today
+  ⭐ 669 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,281 stars today
+- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** (JavaScript) — Open-source alternative to AI video platforms — Free AI image & video generation  
+  ⭐ 393 stars today
+- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** (Swift) — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  
+  ⭐ 745 stars today
 
 ### 📰 Hacker News Stories
-- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) — Score: 74
-- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) — Score: 27
-- [Futhark by Example](https://futhark-lang.org/examples.html) — Score: 46
-- [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) — Score: 38
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 995
+- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) — Score: 103
+- [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) — Score: 67
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 198
+- [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x) — Score: 40
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) — Score: 243
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,080.0 🔴 -3.13%
-- Ethereum: $2,176.17 🔴 -3.68%
-- Solana: $86.12 🔴 -5.66%
-- Bnb: $654.93 🔴 -4.78%
+- Bitcoin: $78,183.0 🔴 -1.56%
+- Ethereum: $2,178.92 🔴 -2.26%
+- Solana: $86.79 🔴 -3.52%
+- Bnb: $655.74 🔴 -2.91%
 
 ---
 ## 📅 2026-05-15 (last updated: 21:03 IST)
