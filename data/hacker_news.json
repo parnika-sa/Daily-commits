@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 15:33:46 UTC",
-    "fetched_at_ist": "2026-05-15 21:03:46 IST",
+    "fetched_at_utc": "2026-05-16 04:38:00 UTC",
+    "fetched_at_ist": "2026-05-16 10:08:00 IST",
     "item_count": 5,
-    "content_hash": "6cea103607fbaa1bedc330ce92cb31029b26ef5fb3c7601d73671df506faf7c3",
-    "previous_hash": "cd570cc13a4a401bffd3b90a63d06db171907abb97c3f9189d44f8aaa3b622c9",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "55886d3df2befd09f359bbb065f5de58c327efbe9f0560c65dc65f0f23e174a5",
+    "previous_hash": "6cea103607fbaa1bedc330ce92cb31029b26ef5fb3c7601d73671df506faf7c3",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48148391,
-      "title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
-      "url": "https://turso.tech/blog/the-wonders-of-ai",
-      "score": 202,
-      "comments": 125
+      "id": 48150431,
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "score": 792,
+      "comments": 182
     },
     {
-      "id": 48148460,
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 87,
-      "comments": 31
+      "id": 48149259,
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 60,
+      "comments": 7
     },
     {
-      "id": 48147058,
-      "title": "O(x)Caml in Space",
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "score": 166,
-      "comments": 27
+      "id": 48153379,
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 999,
+      "comments": 439
     },
     {
-      "id": 48148726,
-      "title": "ASCII by Jason Scott",
-      "url": "https://ascii.textfiles.com/",
-      "score": 36,
-      "comments": 3
+      "id": 48114208,
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 24,
+      "comments": 9
     },
     {
-      "id": 48146129,
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "url": "https://explorer.samismith.com/",
-      "score": 312,
-      "comments": 81
+      "id": 48155324,
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "score": 76,
+      "comments": 65
     }
   ]
 }

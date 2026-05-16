@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 04:57 IST)
+
+## 📅 2026-05-16 (last updated: 10:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-15 11:37:07 IST | bb2bdf3a8856 | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-15 21:03:46 IST | 6cea103607fb | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-16 10:08:00 IST | 55886d3df2be | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 04:57:52 IST | dbfb86f5b3a7 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 654 stars today
 
 ### 📰 Hacker News Stories
-- [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai) — Score: 202
-- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) — Score: 87
-- [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html) — Score: 166
-- [ASCII by Jason Scott](https://ascii.textfiles.com/) — Score: 36
-- [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/) — Score: 312
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 792
+- [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending) — Score: 60
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 999
+- [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/) — Score: 24
+- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) — Score: 76
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,064.0 🔴 -2.76%
