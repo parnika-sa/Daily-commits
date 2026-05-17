@@ -15,14 +15,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 14:47 IST)
+
+## 📅 2026-05-17 (last updated: 19:55 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-05-17 05:36:10 IST | af83e32890de | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-17 05:36:11 IST | a7bb6372b881 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-17 14:47:23 IST | 84984144ce03 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-17 19:55:49 IST | 50636909fd48 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
@@ -49,10 +50,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 284
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,115.0 🟢 +0.14%
-- Ethereum: $2,189.08 🟢 +0.73%
-- Solana: $86.85 🟢 +0.66%
-- Bnb: $654.1 🟢 +0.07%
+- Bitcoin: $77,954.0 🔴 -0.00%
+- Ethereum: $2,184.12 🟢 +0.38%
+- Solana: $86.19 🟢 +0.09%
+- Bnb: $652.15 🟢 +0.06%
 
 ---
 ## 📅 2026-05-16 (last updated: 23:35 IST)
