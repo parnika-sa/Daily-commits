@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-16 19:21:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-17 00:06:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **oven-sh/bun**
-- BTC: **$78,217.0** ↓ (-1.13%)
-- HN top story: **You don't know HTML Lists**
+- BTC: **$78,191.0** ↓ (-1.20%)
+- HN top story: **Zerostack – A Unix-inspired coding agent written in pure Rust**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 8 | 2026-05-16 18:05:36 UTC | `9b9d6de56e1b` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-16 18:05:37 UTC | `e44d834a9dd3` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-16 19:21:43 UTC | `b70d363f744b` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-05-17 00:06:10 UTC | `af83e32890de` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-17 00:06:11 UTC | `a7bb6372b881` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-17 00:06:10 UTC | `9c78bbc91129` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-17` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `53` day(s) |
-| Last Commit (IST) | `2026-05-17 03:33:10 IST` |
+| Last Commit (IST) | `2026-05-17 04:35:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-15 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-05-17 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-17 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,217.0 | -1.13% | 🔴 |
-| Ethereum | $2,180.04 | -1.95% | 🔴 |
-| Solana | $86.76 | -3.11% | 🔴 |
-| Bnb | $657.24 | -2.36% | 🔴 |
+| Bitcoin | $78,191.0 | -1.20% | 🔴 |
+| Ethereum | $2,182.85 | -1.92% | 🔴 |
+| Solana | $86.62 | -2.91% | 🔴 |
+| Bnb | $656.53 | -2.44% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 414 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 669 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,281 stars today | An agentic skills framework & software development methodology that works. |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 393 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 745 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,601 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 990 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 397 stars today | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool call… |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 397 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 673 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,305 stars today | An agentic skills framework & software development methodology that works. |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 317 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 749 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,549 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,010 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 416 stars today | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool call… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) | 103 | 15 |
-| [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) | 67 | 22 |
-| [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) | 198 | 88 |
-| [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x) | 40 | 20 |
-| [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) | 243 | 157 |
+| [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) | 84 | 25 |
+| [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) | 37 | 11 |
+| [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) | 15 | 0 |
+| [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) | 53 | 0 |
+| [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) | 284 | 118 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
