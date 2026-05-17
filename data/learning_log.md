@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 12:50 IST)
+
+## 📅 2026-05-17 (last updated: 14:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-05-17 05:36:10 IST | af83e32890de | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-17 05:36:11 IST | a7bb6372b881 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-17 12:50:35 IST | 34332106236c | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-17 14:47:23 IST | 84984144ce03 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[oven-sh/bun](https://github.com/oven-sh/bun)** (Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager –   
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 284
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,036.0 🔴 -0.32%
-- Ethereum: $2,182.29 🔴 -0.62%
-- Solana: $86.77 🔴 -0.61%
-- Bnb: $654.34 🔴 -0.62%
+- Bitcoin: $78,115.0 🟢 +0.14%
+- Ethereum: $2,189.08 🟢 +0.73%
+- Solana: $86.85 🟢 +0.66%
+- Bnb: $654.1 🟢 +0.07%
 
 ---
 ## 📅 2026-05-16 (last updated: 23:35 IST)
