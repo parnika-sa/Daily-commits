@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-18 (last updated: 02:09 IST)
+
+## 📅 2026-05-18 (last updated: 03:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-05-17 05:36:10 IST | af83e32890de | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-18 02:09:58 IST | ef913fd23dfd | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-18 03:06:57 IST | 2da4fc549262 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-17 19:55:49 IST | 50636909fd48 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 749 stars today
 
 ### 📰 Hacker News Stories
-- [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) — Score: 91
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 177
-- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) — Score: 61
-- [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) — Score: 523
-- [Hindenburg’s Smoking Room](https://www.airships.net/hindenburg-smoking-room/) — Score: 102
+- [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip) — Score: 36
+- [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) — Score: 115
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 198
+- [Multi-Species Canopy Latrines in Costa Rican Cloud Forests](https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964) — Score: 20
+- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) — Score: 78
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,954.0 🔴 -0.00%
