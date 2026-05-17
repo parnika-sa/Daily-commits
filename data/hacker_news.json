@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 18:41:56 UTC",
-    "fetched_at_ist": "2026-05-18 00:11:56 IST",
+    "fetched_at_utc": "2026-05-17 20:39:58 UTC",
+    "fetched_at_ist": "2026-05-18 02:09:58 IST",
     "item_count": 5,
-    "content_hash": "ec9de4c2d9b903699f7db7c4e46616e6e5f220cba1c78af739ae4405ad9722e0",
-    "previous_hash": "e33e31860e9829a25e31040691bfea049828bdfde50b254038eed0cc64323c6e",
+    "content_hash": "ef913fd23dfde0e958d46d274e6d7fcf4e14934b9ebe2b4e2c3186a85e542866",
+    "previous_hash": "ec9de4c2d9b903699f7db7c4e46616e6e5f220cba1c78af739ae4405ad9722e0",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48170798,
-      "title": "Americans Are Smashing Flock Cameras",
-      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "score": 269,
-      "comments": 218
-    },
-    {
-      "id": 48170799,
-      "title": "The occasional ECONNRESET",
-      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "score": 31,
-      "comments": 3
+      "id": 48147351,
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "score": 91,
+      "comments": 56
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 130,
-      "comments": 77
+      "score": 177,
+      "comments": 92
     },
     {
-      "id": 48147351,
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "score": 27,
-      "comments": 3
+      "id": 48170799,
+      "title": "The occasional ECONNRESET",
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "score": 61,
+      "comments": 14
     },
     {
-      "id": 48168221,
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 350,
-      "comments": 271
+      "id": 48168856,
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 523,
+      "comments": 223
+    },
+    {
+      "id": 48140556,
+      "title": "Hindenburg’s Smoking Room",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "score": 102,
+      "comments": 52
     }
   ]
 }
