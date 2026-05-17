@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 00:06:11 UTC",
-    "fetched_at_ist": "2026-05-17 05:36:11 IST",
+    "fetched_at_utc": "2026-05-17 15:34:58 UTC",
+    "fetched_at_ist": "2026-05-17 21:04:58 IST",
     "item_count": 5,
-    "content_hash": "a7bb6372b881609cf239deeb50c83140bb7ae4b66ab2b663c74f71ba603d7ae0",
-    "previous_hash": "e44d834a9dd3287edfd8ed389e096ad8fb83fe1ea446085d9134f53b9cb09e9b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "1ac8282f751bc75feb7f09cff37013746b4efe4fc0c9ed90873326e78e97d509",
+    "previous_hash": "a7bb6372b881609cf239deeb50c83140bb7ae4b66ab2b663c74f71ba603d7ae0",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48164287,
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 84,
-      "comments": 25
+      "id": 48168221,
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 202,
+      "comments": 135
     },
     {
-      "id": 48164294,
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "score": 37,
-      "comments": 11
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 215,
+      "comments": 144
     },
     {
-      "id": 48164432,
-      "title": "A Nicer Voltmeter Clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 15,
-      "comments": 0
+      "id": 48168668,
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "score": 35,
+      "comments": 6
     },
     {
-      "id": 48109756,
-      "title": "A molecule with half-Möbius topology",
-      "url": "https://www.science.org/doi/10.1126/science.aea3321",
-      "score": 53,
-      "comments": 0
+      "id": 48168856,
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 153,
+      "comments": 64
     },
     {
-      "id": 48159445,
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 284,
-      "comments": 118
+      "id": 48168056,
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "score": 155,
+      "comments": 110
     }
   ]
 }

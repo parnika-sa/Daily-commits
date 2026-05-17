@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 19:55 IST)
+
+## 📅 2026-05-17 (last updated: 21:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-05-17 05:36:10 IST | af83e32890de | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-17 05:36:11 IST | a7bb6372b881 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-17 21:04:58 IST | 1ac8282f751b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-17 19:55:49 IST | 50636909fd48 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 749 stars today
 
 ### 📰 Hacker News Stories
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) — Score: 84
-- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) — Score: 37
-- [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) — Score: 15
-- [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) — Score: 53
-- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 284
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) — Score: 202
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) — Score: 215
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 35
+- [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) — Score: 153
+- [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) — Score: 155
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,954.0 🔴 -0.00%
