@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 22:33:43 UTC",
-    "fetched_at_ist": "2026-05-18 04:03:43 IST",
+    "fetched_at_utc": "2026-05-17 23:39:32 UTC",
+    "fetched_at_ist": "2026-05-18 05:09:32 IST",
     "item_count": 5,
-    "content_hash": "9193471972bf9542d5193b3456c5046398b4c82322f57331da5b8b3bb58fb4de",
-    "previous_hash": "2da4fc5492626084e3b3f7f53b6464a3dce8577fdc8ef1dd0aeccfe9da464633",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "fce0a4c07eb418d4fb1591a2fad7705ab13c23ea0e0a028ad4c335ea38b60d63",
+    "previous_hash": "9193471972bf9542d5193b3456c5046398b4c82322f57331da5b8b3bb58fb4de",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 48172505,
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "url": "https://spectrum.ieee.org/payphone-voip",
-      "score": 76,
-      "comments": 15
-    },
     {
       "id": 48173268,
       "title": "Prolog Coding Horror",
       "url": "https://www.metalevel.at/prolog/horror",
-      "score": 23,
+      "score": 39,
+      "comments": 10
+    },
+    {
+      "id": 48173547,
+      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "score": 21,
+      "comments": 2
+    },
+    {
+      "id": 48173429,
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "score": 21,
       "comments": 3
     },
     {
-      "id": 48147351,
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "score": 127,
-      "comments": 102
+      "id": 48173708,
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "url": "https://xca-attacks.github.io/fabricked/",
+      "score": 11,
+      "comments": 1
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 207,
-      "comments": 113
-    },
-    {
-      "id": 48140368,
-      "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
-      "score": 29,
-      "comments": 3
+      "score": 217,
+      "comments": 114
     }
   ]
 }
