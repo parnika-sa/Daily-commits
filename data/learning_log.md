@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-18 (last updated: 03:06 IST)
+
+## 📅 2026-05-18 (last updated: 04:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-05-17 05:36:10 IST | af83e32890de | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-18 03:06:57 IST | 2da4fc549262 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-18 04:03:43 IST | 9193471972bf | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-05-17 19:55:49 IST | 50636909fd48 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 749 stars today
 
 ### 📰 Hacker News Stories
-- [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip) — Score: 36
-- [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) — Score: 115
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 198
-- [Multi-Species Canopy Latrines in Costa Rican Cloud Forests](https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964) — Score: 20
-- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) — Score: 78
+- [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip) — Score: 76
+- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) — Score: 23
+- [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) — Score: 127
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 207
+- [Multi-Species Canopy Latrines in Costa Rican Cloud Forests](https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964) — Score: 29
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,954.0 🔴 -0.00%

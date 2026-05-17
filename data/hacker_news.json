@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 21:36:57 UTC",
-    "fetched_at_ist": "2026-05-18 03:06:57 IST",
+    "fetched_at_utc": "2026-05-17 22:33:43 UTC",
+    "fetched_at_ist": "2026-05-18 04:03:43 IST",
     "item_count": 5,
-    "content_hash": "2da4fc5492626084e3b3f7f53b6464a3dce8577fdc8ef1dd0aeccfe9da464633",
-    "previous_hash": "ef913fd23dfde0e958d46d274e6d7fcf4e14934b9ebe2b4e2c3186a85e542866",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "9193471972bf9542d5193b3456c5046398b4c82322f57331da5b8b3bb58fb4de",
+    "previous_hash": "2da4fc5492626084e3b3f7f53b6464a3dce8577fdc8ef1dd0aeccfe9da464633",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48172505,
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont",
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
       "url": "https://spectrum.ieee.org/payphone-voip",
-      "score": 36,
+      "score": 76,
+      "comments": 15
+    },
+    {
+      "id": 48173268,
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "score": 23,
       "comments": 3
     },
     {
       "id": 48147351,
       "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
       "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "score": 115,
-      "comments": 85
+      "score": 127,
+      "comments": 102
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 198,
-      "comments": 104
+      "score": 207,
+      "comments": 113
     },
     {
       "id": 48140368,
       "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
       "url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964",
-      "score": 20,
+      "score": 29,
       "comments": 3
-    },
-    {
-      "id": 48170799,
-      "title": "The occasional ECONNRESET",
-      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "score": 78,
-      "comments": 18
     }
   ]
 }
