@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 16:37:26 UTC",
-    "fetched_at_ist": "2026-05-17 22:07:26 IST",
+    "fetched_at_utc": "2026-05-17 17:39:09 UTC",
+    "fetched_at_ist": "2026-05-17 23:09:09 IST",
     "item_count": 5,
-    "content_hash": "ebf30dbe69022b43632a0d63ca72cdc2dcf0412654fac244ade054fdf9640a8d",
-    "previous_hash": "1ac8282f751bc75feb7f09cff37013746b4efe4fc0c9ed90873326e78e97d509",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "e33e31860e9829a25e31040691bfea049828bdfde50b254038eed0cc64323c6e",
+    "previous_hash": "ebf30dbe69022b43632a0d63ca72cdc2dcf0412654fac244ade054fdf9640a8d",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48168221,
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 272,
-      "comments": 205
+      "id": 48170798,
+      "title": "Americans Are Smashing Flock Cameras",
+      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "score": 74,
+      "comments": 39
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 73,
-      "comments": 31
+      "score": 107,
+      "comments": 59
+    },
+    {
+      "id": 48168221,
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 315,
+      "comments": 252
     },
     {
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 254,
-      "comments": 118
+      "score": 343,
+      "comments": 147
     },
     {
       "id": 48168058,
       "title": "Native all the way, until you need text",
       "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 251,
-      "comments": 166
-    },
-    {
-      "id": 48168056,
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 223,
-      "comments": 179
+      "score": 273,
+      "comments": 186
     }
   ]
 }
