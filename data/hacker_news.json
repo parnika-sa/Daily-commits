@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 21:36:10 UTC",
-    "fetched_at_ist": "2026-05-19 03:06:10 IST",
+    "fetched_at_utc": "2026-05-18 22:36:44 UTC",
+    "fetched_at_ist": "2026-05-19 04:06:44 IST",
     "item_count": 5,
-    "content_hash": "720bc1a693bb7c1c3632e61c03fae70980ab147a7f69c805636f6926520fb94e",
-    "previous_hash": "bce516addae67a1630f0a00c04a53523bb56e6d95abaebbbdd615e68b15a6ed6",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "2805d4e326cef9560397adcc6149315bcfa3630b1a4465e62d4cff7b25cee110",
+    "previous_hash": "720bc1a693bb7c1c3632e61c03fae70980ab147a7f69c805636f6926520fb94e",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 265,
-      "comments": 187
+      "score": 297,
+      "comments": 211
+    },
+    {
+      "id": 48185789,
+      "title": "Who will buy your services if you fire us all?",
+      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
+      "score": 125,
+      "comments": 98
     },
     {
       "id": 48184322,
       "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
       "url": "https://hyperpolyglot.org/lisp",
-      "score": 67,
-      "comments": 8
+      "score": 86,
+      "comments": 15
     },
     {
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 340,
-      "comments": 168
+      "score": 361,
+      "comments": 173
     },
     {
       "id": 48183301,
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 69,
-      "comments": 75
-    },
-    {
-      "id": 48179677,
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "score": 457,
-      "comments": 243
+      "score": 94,
+      "comments": 104
     }
   ]
 }
