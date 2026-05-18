@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 22:36:44 UTC",
-    "fetched_at_ist": "2026-05-19 04:06:44 IST",
+    "fetched_at_utc": "2026-05-18 23:43:32 UTC",
+    "fetched_at_ist": "2026-05-19 05:13:32 IST",
     "item_count": 5,
-    "content_hash": "2805d4e326cef9560397adcc6149315bcfa3630b1a4465e62d4cff7b25cee110",
-    "previous_hash": "720bc1a693bb7c1c3632e61c03fae70980ab147a7f69c805636f6926520fb94e",
+    "content_hash": "387cca47359e8faac8db1ed8877aa914a18ae9b3b286f6ad76db347a477a6808",
+    "previous_hash": "2805d4e326cef9560397adcc6149315bcfa3630b1a4465e62d4cff7b25cee110",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 297,
-      "comments": 211
+      "score": 325,
+      "comments": 231
     },
     {
-      "id": 48185789,
-      "title": "Who will buy your services if you fire us all?",
-      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
-      "score": 125,
-      "comments": 98
+      "id": 48187054,
+      "title": "Click",
+      "url": "https://clickclickclick.click/",
+      "score": 32,
+      "comments": 2
     },
     {
       "id": 48184322,
       "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
       "url": "https://hyperpolyglot.org/lisp",
-      "score": 86,
-      "comments": 15
+      "score": 109,
+      "comments": 20
     },
     {
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 361,
-      "comments": 173
+      "score": 380,
+      "comments": 183
     },
     {
       "id": 48183301,
       "title": "We let AIs run radio stations",
       "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 94,
-      "comments": 104
+      "score": 116,
+      "comments": 123
     }
   ]
 }
