@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 23:39:32 UTC",
-    "fetched_at_ist": "2026-05-18 05:09:32 IST",
+    "fetched_at_utc": "2026-05-18 01:33:57 UTC",
+    "fetched_at_ist": "2026-05-18 07:03:57 IST",
     "item_count": 5,
-    "content_hash": "fce0a4c07eb418d4fb1591a2fad7705ab13c23ea0e0a028ad4c335ea38b60d63",
-    "previous_hash": "9193471972bf9542d5193b3456c5046398b4c82322f57331da5b8b3bb58fb4de",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "0930b40918491f6f1f7ed0c42c40766819fbfd6fa40e2c2462dbe2739f36edcb",
+    "previous_hash": "fce0a4c07eb418d4fb1591a2fad7705ab13c23ea0e0a028ad4c335ea38b60d63",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48173268,
-      "title": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "score": 39,
-      "comments": 10
-    },
-    {
-      "id": 48173547,
-      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
-      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-      "score": 21,
-      "comments": 2
-    },
-    {
       "id": 48173429,
       "title": "GenCAD",
       "url": "https://gencad.github.io/",
-      "score": 21,
-      "comments": 3
-    },
-    {
-      "id": 48173708,
-      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-      "url": "https://xca-attacks.github.io/fabricked/",
-      "score": 11,
-      "comments": 1
+      "score": 91,
+      "comments": 19
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 217,
-      "comments": 114
+      "score": 248,
+      "comments": 117
+    },
+    {
+      "id": 48173268,
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "score": 56,
+      "comments": 21
+    },
+    {
+      "id": 48152754,
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "score": 29,
+      "comments": 1
+    },
+    {
+      "id": 48173468,
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "score": 84,
+      "comments": 69
     }
   ]
 }
