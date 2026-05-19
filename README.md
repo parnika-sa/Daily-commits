@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-19 01:34:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-19 12:12:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **oven-sh/bun**
-- BTC: **$76,381.0** ↓ (-2.14%)
-- HN top story: **Click (2016)**
+- Top GitHub repo: **tinyhumansai/openhuman**
+- BTC: **$76,702.0** ↓ (-0.86%)
+- HN top story: **Gaussian Splat of a Strawberry**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 8 | 2026-05-17 00:06:10 UTC | `af83e32890de` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-19 01:34:53 UTC | `a76b8dcd2df8` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-18 18:16:55 UTC | `88674d4ee442` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 18 | 2026-05-19 12:12:56 UTC | `cd81f70e1aff` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-19 12:12:58 UTC | `f22aa72c78c6` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-19 12:12:57 UTC | `6324750fb768` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-19` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `54` day(s) |
-| Last Commit (IST) | `2026-05-19 11:19:27 IST` |
+| Last Commit (IST) | `2026-05-19 14:29:45 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-18 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-05-19 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-05-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,381.0 | -2.14% | 🔴 |
-| Ethereum | $2,098.63 | -3.80% | 🔴 |
-| Solana | $83.93 | -2.56% | 🔴 |
-| Bnb | $638.83 | -1.92% | 🔴 |
+| Bitcoin | $76,702.0 | -0.86% | 🔴 |
+| Ethereum | $2,111.03 | -1.43% | 🔴 |
+| Solana | $84.46 | -0.88% | 🔴 |
+| Bnb | $639.65 | -0.51% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 397 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 673 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,305 stars today | An agentic skills framework & software development methodology that works. |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 317 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 749 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,549 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,010 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 416 stars today | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool call… |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,991 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1,027 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 3,184 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,620 stars today | An agentic skills framework & software development methodology that works. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 127 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 1,244 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 1,466 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Rust | 667 stars today | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Click (2016)](https://clickclickclick.click/) | 189 | 40 |
-| [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) | 89 | 46 |
-| [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 354 | 251 |
-| [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) | 125 | 28 |
-| [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) | 407 | 188 |
+| [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849) | 110 | 45 |
+| [Photo GIMP – A Patch for GIMP 3 for Photoshop Users](https://github.com/Diolinux/PhotoGIMP) | 50 | 24 |
+| [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314) | 105 | 25 |
+| [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/) | 11 | 0 |
+| [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent) | 11 | 22 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
