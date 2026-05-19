@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 23:43:32 UTC",
-    "fetched_at_ist": "2026-05-19 05:13:32 IST",
+    "fetched_at_utc": "2026-05-19 01:34:53 UTC",
+    "fetched_at_ist": "2026-05-19 07:04:53 IST",
     "item_count": 5,
-    "content_hash": "387cca47359e8faac8db1ed8877aa914a18ae9b3b286f6ad76db347a477a6808",
-    "previous_hash": "2805d4e326cef9560397adcc6149315bcfa3630b1a4465e62d4cff7b25cee110",
+    "content_hash": "a76b8dcd2df8ecc6ce0b89d06a35b578d57df3d46b56af2b43b2dfad9488a4b8",
+    "previous_hash": "387cca47359e8faac8db1ed8877aa914a18ae9b3b286f6ad76db347a477a6808",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48187054,
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "score": 189,
+      "comments": 40
+    },
+    {
+      "id": 48187201,
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "score": 89,
+      "comments": 46
+    },
     {
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 325,
-      "comments": 231
-    },
-    {
-      "id": 48187054,
-      "title": "Click",
-      "url": "https://clickclickclick.click/",
-      "score": 32,
-      "comments": 2
+      "score": 354,
+      "comments": 251
     },
     {
       "id": 48184322,
       "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
       "url": "https://hyperpolyglot.org/lisp",
-      "score": 109,
-      "comments": 20
+      "score": 125,
+      "comments": 28
     },
     {
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 380,
-      "comments": 183
-    },
-    {
-      "id": 48183301,
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 116,
-      "comments": 123
+      "score": 407,
+      "comments": 188
     }
   ]
 }
