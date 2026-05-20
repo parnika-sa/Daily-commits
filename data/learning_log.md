@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-20 (last updated: 05:13 IST)
+
+## 📅 2026-05-20 (last updated: 15:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-05-19 17:42:56 IST | cd81f70e1aff | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-20 05:13:54 IST | 5adcbcf2452a | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-20 15:09:03 IST | b58988573411 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-19 17:42:57 IST | 6324750fb768 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 127 stars today
 
 ### 📰 Hacker News Stories
-- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) — Score: 478
-- [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks) — Score: 59
-- [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) — Score: 524
-- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) — Score: 307
-- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) — Score: 143
+- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) — Score: 196
+- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) — Score: 774
+- [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) — Score: 771
+- [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/) — Score: 69
+- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) — Score: 542
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,702.0 🔴 -0.86%

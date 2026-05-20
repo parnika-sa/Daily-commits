@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-19 23:43:54 UTC",
-    "fetched_at_ist": "2026-05-20 05:13:54 IST",
+    "fetched_at_utc": "2026-05-20 09:39:03 UTC",
+    "fetched_at_ist": "2026-05-20 15:09:03 IST",
     "item_count": 5,
-    "content_hash": "5adcbcf2452a2f3a68106dae9cbd112efe0750d5d0075e1b7bddbc3933496cc8",
-    "previous_hash": "d0696e110cf3336a4da0ec26718ee1d1a7506a86f8315df035524c0352c884a2",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "b58988573411a6f2e3fd4260b3a603ee8f597088aa2d2290ab3f9a54391e4d4f",
+    "previous_hash": "5adcbcf2452a2f3a68106dae9cbd112efe0750d5d0075e1b7bddbc3933496cc8",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48201973,
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "score": 196,
+      "comments": 44
+    },
     {
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 478,
-      "comments": 374
-    },
-    {
-      "id": 48200569,
-      "title": "Remove AI Watermarks",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "score": 59,
-      "comments": 36
+      "score": 774,
+      "comments": 550
     },
     {
       "id": 48195009,
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 524,
-      "comments": 116
+      "score": 771,
+      "comments": 170
+    },
+    {
+      "id": 48203536,
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "score": 69,
+      "comments": 12
     },
     {
       "id": 48197370,
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 307,
-      "comments": 476
-    },
-    {
-      "id": 48198291,
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "score": 143,
-      "comments": 67
+      "score": 542,
+      "comments": 717
     }
   ]
 }
