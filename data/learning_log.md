@@ -12,44 +12,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-20 (last updated: 17:40 IST)
+
+## 📅 2026-05-20 (last updated: 23:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-20 17:40:26 IST | 54d34cf0f2aa | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-20 17:40:27 IST | 91d2c969408a | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 17:40:27 IST | 9a619e1df4d5 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 17 | 2026-05-20 23:40:32 IST | e28b2b943db5 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-20 23:40:33 IST | 20af6d689198 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-20 23:40:32 IST | d7194ee4a1a5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
-  ⭐ 1,850 stars today
+  ⭐ 1,910 stars today
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** (Python) — Academic Research Skills for Claude Code: research → write → review → revise → f  
-  ⭐ 3,164 stars today
+  ⭐ 1,639 stars today
 - **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
-  ⭐ 3,973 stars today
+  ⭐ 3,603 stars today
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 1,955 stars today
+  ⭐ 2,620 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
   ⭐ 762 stars today
 
 ### 📰 Hacker News Stories
-- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) — Score: 268
-- [Map of Metal](https://mapofmetal.com/) — Score: 39
-- [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) — Score: 69
-- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) — Score: 838
-- [The weird, wild story of humanity's obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold) — Score: 25
+- [Incident Report: May 19, 2026 – GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) — Score: 130
+- [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/) — Score: 66
+- [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7) — Score: 434
+- [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) — Score: 201
+- [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) — Score: 39
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,372.0 🟢 +0.88%
-- Ethereum: $2,128.65 🟢 +0.87%
-- Solana: $84.72 🟢 +0.41%
-- Bnb: $643.2 🟢 +0.55%
+- Bitcoin: $77,453.0 🟢 +0.77%
+- Ethereum: $2,136.76 🟢 +0.98%
+- Solana: $86.37 🟢 +2.00%
+- Bnb: $648.91 🟢 +1.34%
 
 ---
 ## 📅 2026-05-19 (last updated: 17:42 IST)

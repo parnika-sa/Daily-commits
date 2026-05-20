@@ -2,38 +2,38 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-20 12:10:26 UTC",
-    "fetched_at_ist": "2026-05-20 17:40:26 IST",
+    "fetched_at_utc": "2026-05-20 18:10:32 UTC",
+    "fetched_at_ist": "2026-05-20 23:40:32 IST",
     "item_count": 17,
-    "content_hash": "54d34cf0f2aadb9b36cd6755b687d50776e3cb21982030307462caf0562d8057",
-    "previous_hash": "cd81f70e1aff8c3420c4dedcfb3e00b43fe04df2941880b5122bc5322a546a1c",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": true
+    "content_hash": "e28b2b943db5f80f0d0929c2f3f6667c6a6d29dfdce8abcb35dd982289e24815",
+    "previous_hash": "54d34cf0f2aadb9b36cd6755b687d50776e3cb21982030307462caf0562d8057",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "1,850 stars today"
+      "stars_today": "1,910 stars today"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "3,164 stars today"
+      "stars_today": "1,639 stars today"
     },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,973 stars today"
+      "stars_today": "3,603 stars today"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "1,955 stars today"
+      "stars_today": "2,620 stars today"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -45,7 +45,7 @@
       "name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_today": "1,038 stars today"
+      "stars_today": "930 stars today"
     },
     {
       "name": "can1357/oh-my-pi",
@@ -57,31 +57,31 @@
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,623 stars today"
+      "stars_today": "1,776 stars today"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "171 stars today"
+      "stars_today": "706 stars today"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,120 stars today"
+      "stars_today": "1,714 stars today"
     },
     {
       "name": "rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars_today": "1,870 stars today"
+      "stars_today": "726 stars today"
     },
     {
       "name": "truelockmc/streambert",
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "language": "JavaScript",
-      "stars_today": "925 stars today"
+      "stars_today": "652 stars today"
     },
     {
       "name": "opentoonz/opentoonz",
@@ -99,19 +99,19 @@
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "1,609 stars today"
+      "stars_today": "1,121 stars today"
     },
     {
       "name": "ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars_today": "549 stars today"
+      "stars_today": "343 stars today"
     },
     {
       "name": "HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars_today": "503 stars today"
+      "stars_today": "692 stars today"
     }
   ]
 }

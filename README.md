@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-20 12:10:27 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-20 18:10:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **colbymchenry/codegraph**
-- BTC: **$77,372.0** ↑ (+0.88%)
-- HN top story: **Everything in C is undefined behavior**
+- BTC: **$77,453.0** ↑ (+0.77%)
+- HN top story: **Incident Report: May 19, 2026 – GCP Account Suspension**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-20 12:10:26 UTC | `54d34cf0f2aa` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-20 12:10:27 UTC | `91d2c969408a` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 12:10:27 UTC | `9a619e1df4d5` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 17 | 2026-05-20 18:10:32 UTC | `e28b2b943db5` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-20 18:10:33 UTC | `20af6d689198` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-20 18:10:32 UTC | `d7194ee4a1a5` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-20` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `54` day(s) |
-| Last Commit (IST) | `2026-05-20 17:40:27 IST` |
+| Last Commit (IST) | `2026-05-20 21:23:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-18 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-19 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-05-20 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-05-20 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,372.0 | +0.88% | 🟢 |
-| Ethereum | $2,128.65 | +0.87% | 🟢 |
-| Solana | $84.72 | +0.41% | 🟢 |
-| Bnb | $643.2 | +0.55% | 🟢 |
+| Bitcoin | $77,453.0 | +0.77% | 🟢 |
+| Ethereum | $2,136.76 | +0.98% | 🟢 |
+| Solana | $86.37 | +2.00% | 🟢 |
+| Bnb | $648.91 | +1.34% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 1,850 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 3,164 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,973 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 1,955 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 1,910 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 1,639 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,603 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,620 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 762 stars today | Learn it. Build it. Ship it for others. |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1,038 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 930 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | 237 stars today | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,623 stars today | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,776 stars today | An agentic skills framework & software development methodology that works. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) | 268 | 362 |
-| [Map of Metal](https://mapofmetal.com/) | 39 | 11 |
-| [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) | 69 | 57 |
-| [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) | 838 | 580 |
-| [The weird, wild story of humanity's obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold) | 25 | 29 |
+| [Incident Report: May 19, 2026 – GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) | 130 | 45 |
+| [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/) | 66 | 4 |
+| [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7) | 434 | 166 |
+| [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) | 201 | 93 |
+| [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) | 39 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

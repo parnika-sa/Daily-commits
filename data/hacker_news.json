@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-20 12:10:27 UTC",
-    "fetched_at_ist": "2026-05-20 17:40:27 IST",
+    "fetched_at_utc": "2026-05-20 18:10:33 UTC",
+    "fetched_at_ist": "2026-05-20 23:40:33 IST",
     "item_count": 5,
-    "content_hash": "91d2c969408aeb2a8fb0314cfe20bcd285818f2d5c65172dfcfb14e5c229dae2",
-    "previous_hash": "b58988573411a6f2e3fd4260b3a603ee8f597088aa2d2290ab3f9a54391e4d4f",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "20af6d68919842cffa7d1106d77b8a873a2867f27beacc299d8eddc07629d72f",
+    "previous_hash": "91d2c969408aeb2a8fb0314cfe20bcd285818f2d5c65172dfcfb14e5c229dae2",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48203698,
-      "title": "Everything in C is undefined behavior",
-      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "score": 268,
-      "comments": 362
+      "id": 48204770,
+      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 130,
+      "comments": 45
     },
     {
-      "id": 48205699,
-      "title": "Map of Metal",
-      "url": "https://mapofmetal.com/",
+      "id": 48209558,
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+      "score": 66,
+      "comments": 4
+    },
+    {
+      "id": 48205626,
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 434,
+      "comments": 166
+    },
+    {
+      "id": 48206340,
+      "title": "Saying Goodbye to Asm.js",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "score": 201,
+      "comments": 93
+    },
+    {
+      "id": 48174920,
+      "title": "How fast is N tokens per second really?",
+      "url": "https://mikeveerman.github.io/tokenspeed/",
       "score": 39,
-      "comments": 11
-    },
-    {
-      "id": 48205415,
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "score": 69,
-      "comments": 57
-    },
-    {
-      "id": 48196570,
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 838,
-      "comments": 580
-    },
-    {
-      "id": 48205026,
-      "title": "The weird, wild story of humanity's obsession with gold",
-      "url": "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold",
-      "score": 25,
-      "comments": 29
+      "comments": 8
     }
   ]
 }
