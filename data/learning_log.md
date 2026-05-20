@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-21 (last updated: 01:59 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 17 | 2026-05-20 23:40:32 IST | e28b2b943db5 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-20 23:40:33 IST | 20af6d689198 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 01:59:22 IST | 7c3552a0ef66 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
+  ⭐ 1,910 stars today
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** (Python) — Academic Research Skills for Claude Code: research → write → review → revise → f  
+  ⭐ 1,639 stars today
+- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
+  ⭐ 3,603 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,620 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 762 stars today
+
+### 📰 Hacker News Stories
+- [Incident Report: May 19, 2026 – GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) — Score: 130
+- [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/) — Score: 66
+- [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7) — Score: 434
+- [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) — Score: 201
+- [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) — Score: 39
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $77,528.0 🟢 +0.87%
+- Ethereum: $2,132.2 🟢 +0.87%
+- Solana: $85.72 🟢 +1.63%
+- Bnb: $649.15 🟢 +1.48%
+
+---
 
 
 

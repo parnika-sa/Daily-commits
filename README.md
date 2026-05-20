@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-20 18:10:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-20 20:29:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **colbymchenry/codegraph**
-- BTC: **$77,453.0** ↑ (+0.77%)
+- BTC: **$77,528.0** ↑ (+0.87%)
 - HN top story: **Incident Report: May 19, 2026 – GCP Account Suspension**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-05-20 18:10:32 UTC | `e28b2b943db5` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-20 18:10:33 UTC | `20af6d689198` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 18:10:32 UTC | `d7194ee4a1a5` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-20 20:29:22 UTC | `7c3552a0ef66` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-05-20` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
-| Streak | `54` day(s) |
-| Last Commit (IST) | `2026-05-20 21:23:52 IST` |
+| Date (IST) | `2026-05-21` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-05-20 23:40:33 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-05-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-15 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-16 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-18 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-19 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-20 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-05-21 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,453.0 | +0.77% | 🟢 |
-| Ethereum | $2,136.76 | +0.98% | 🟢 |
-| Solana | $86.37 | +2.00% | 🟢 |
-| Bnb | $648.91 | +1.34% | 🟢 |
+| Bitcoin | $77,528.0 | +0.87% | 🟢 |
+| Ethereum | $2,132.2 | +0.87% | 🟢 |
+| Solana | $85.72 | +1.63% | 🟢 |
+| Bnb | $649.15 | +1.48% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
