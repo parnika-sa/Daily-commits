@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-21 (last updated: 07:02 IST)
+
+## 📅 2026-05-21 (last updated: 17:43 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-20 23:40:32 IST | e28b2b943db5 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-21 07:02:59 IST | 284d07c8f5c1 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-21 01:59:22 IST | 7c3552a0ef66 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-21 17:43:27 IST | 739f6fb9797e | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 17:43:26 IST | acdf0ff563cb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 674 stars today
 - **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
-  ⭐ 1,910 stars today
-- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** (Python) — Academic Research Skills for Claude Code: research → write → review → revise → f  
-  ⭐ 1,639 stars today
-- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
-  ⭐ 3,603 stars today
+  ⭐ 2,123 stars today
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,620 stars today
-- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 762 stars today
+  ⭐ 2,679 stars today
+- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
+  ⭐ 96 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) — Score: 716
-- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) — Score: 527
-- [DOS Zone](https://dos.zone/) — Score: 83
-- [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) — Score: 110
-- [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) — Score: 248
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 112
+- [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) — Score: 41
+- [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux) — Score: 81
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) — Score: 1227
+- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) — Score: 901
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,528.0 🟢 +0.87%
-- Ethereum: $2,132.2 🟢 +0.87%
-- Solana: $85.72 🟢 +1.63%
-- Bnb: $649.15 🟢 +1.48%
+- Bitcoin: $77,132.0 🔴 -0.32%
+- Ethereum: $2,112.44 🔴 -0.78%
+- Solana: $85.52 🟢 +0.94%
+- Bnb: $648.13 🟢 +0.79%
 
 ---
 ## 📅 2026-05-20 (last updated: 23:40 IST)

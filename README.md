@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-21 01:32:59 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-21 12:13:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **colbymchenry/codegraph**
-- BTC: **$77,528.0** ↑ (+0.87%)
-- HN top story: **An OpenAI model has disproved a central conjecture in discrete geometry**
+- Top GitHub repo: **anthropics/claude-plugins-official**
+- BTC: **$77,132.0** ↓ (-0.32%)
+- HN top story: **Flipper One – we need your help**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-20 18:10:32 UTC | `e28b2b943db5` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-21 01:32:59 UTC | `284d07c8f5c1` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-20 20:29:22 UTC | `7c3552a0ef66` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-05-21 12:13:26 UTC | `ab6c8b17ee80` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-21 12:13:27 UTC | `739f6fb9797e` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 12:13:26 UTC | `acdf0ff563cb` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-21` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `55` day(s) |
-| Last Commit (IST) | `2026-05-21 11:22:16 IST` |
+| Last Commit (IST) | `2026-05-21 14:27:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-18 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-19 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-20 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-05-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-21 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,528.0 | +0.87% | 🟢 |
-| Ethereum | $2,132.2 | +0.87% | 🟢 |
-| Solana | $85.72 | +1.63% | 🟢 |
-| Bnb | $649.15 | +1.48% | 🟢 |
+| Bitcoin | $77,132.0 | -0.32% | 🔴 |
+| Ethereum | $2,112.44 | -0.78% | 🔴 |
+| Solana | $85.52 | +0.94% | 🟢 |
+| Bnb | $648.13 | +0.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 1,910 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 1,639 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,603 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,620 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 762 stars today | Learn it. Build it. Ship it for others. |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 930 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | 237 stars today | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,776 stars today | An agentic skills framework & software development methodology that works. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 674 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,123 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,679 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [dotnet/skills](https://github.com/dotnet/skills) | C# | 96 stars today | Repository for skills to assist AI coding agents with .NET and C# |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,743 stars today | An agentic skills framework & software development methodology that works. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 890 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 741 stars today | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 132 stars today | Chrome DevTools for coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) | 716 | 515 |
-| [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) | 527 | 187 |
-| [DOS Zone](https://dos.zone/) | 83 | 19 |
-| [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) | 110 | 28 |
-| [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) | 248 | 87 |
+| [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) | 112 | 40 |
+| [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) | 41 | 9 |
+| [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux) | 81 | 46 |
+| [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) | 1227 | 896 |
+| [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) | 901 | 377 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
