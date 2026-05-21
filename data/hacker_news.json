@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-21 12:13:27 UTC",
-    "fetched_at_ist": "2026-05-21 17:43:27 IST",
+    "fetched_at_utc": "2026-05-21 19:43:49 UTC",
+    "fetched_at_ist": "2026-05-22 01:13:49 IST",
     "item_count": 5,
-    "content_hash": "739f6fb9797e184408f6305313f3952b4f5f5af03013c0cf7a332adc13435dd5",
-    "previous_hash": "284d07c8f5c18de27e608b367a451eb1f5dc94f2cc066ed20cb4b8f3c3718193",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "f8f1d55dfd8e8c46d83082aa8aea5bca0d2edbee9a425dd36c2ab15fdb6a754d",
+    "previous_hash": "739f6fb9797e184408f6305313f3952b4f5f5af03013c0cf7a332adc13435dd5",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48226588,
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 274,
+      "comments": 87
+    },
+    {
+      "id": 48226944,
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "score": 108,
+      "comments": 20
+    },
+    {
+      "id": 48225297,
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "score": 220,
+      "comments": 66
+    },
+    {
+      "id": 48225838,
+      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "score": 102,
+      "comments": 25
+    },
+    {
       "id": 48220647,
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 112,
-      "comments": 40
-    },
-    {
-      "id": 48220696,
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 41,
-      "comments": 9
-    },
-    {
-      "id": 48219918,
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "url": "https://github.com/helvesec/rmux",
-      "score": 81,
-      "comments": 46
-    },
-    {
-      "id": 48212493,
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1227,
-      "comments": 896
-    },
-    {
-      "id": 48207660,
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 901,
-      "comments": 377
+      "score": 870,
+      "comments": 376
     }
   ]
 }

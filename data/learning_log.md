@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-22 (last updated: 01:13 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-22 01:13:49 IST | f8f1d55dfd8e | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 17:43:26 IST | acdf0ff563cb | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 674 stars today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
+  ⭐ 2,123 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,679 stars today
+- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
+  ⭐ 96 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,743 stars today
+
+### 📰 Hacker News Stories
+- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) — Score: 274
+- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html) — Score: 108
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 220
+- [More than 340 local news outlets are limiting the Internet Archive's access](https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/) — Score: 102
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 870
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $77,132.0 🔴 -0.32%
+- Ethereum: $2,112.44 🔴 -0.78%
+- Solana: $85.52 🟢 +0.94%
+- Bnb: $648.13 🟢 +0.79%
+
+---
 
 
 
