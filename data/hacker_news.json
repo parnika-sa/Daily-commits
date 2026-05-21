@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-20 23:38:47 UTC",
-    "fetched_at_ist": "2026-05-21 05:08:47 IST",
+    "fetched_at_utc": "2026-05-21 01:32:59 UTC",
+    "fetched_at_ist": "2026-05-21 07:02:59 IST",
     "item_count": 5,
-    "content_hash": "0a539e1ac1e8a1002241653e0d9350d8c22d6aa15d7a6457d8fb63afe26dc83f",
-    "previous_hash": "20af6d68919842cffa7d1106d77b8a873a2867f27beacc299d8eddc07629d72f",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "284d07c8f5c18de27e608b367a451eb1f5dc94f2cc066ed20cb4b8f3c3718193",
+    "previous_hash": "0a539e1ac1e8a1002241653e0d9350d8c22d6aa15d7a6457d8fb63afe26dc83f",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 607,
-      "comments": 410
+      "score": 716,
+      "comments": 515
     },
     {
       "id": 48207660,
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 430,
-      "comments": 137
+      "score": 527,
+      "comments": 187
     },
     {
       "id": 48215418,
       "title": "DOS Zone",
       "url": "https://dos.zone/",
-      "score": 21,
-      "comments": 5
+      "score": 83,
+      "comments": 19
+    },
+    {
+      "id": 48213651,
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "score": 110,
+      "comments": 28
     },
     {
       "id": 48212046,
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 196,
-      "comments": 75
-    },
-    {
-      "id": 48174920,
-      "title": "How fast is N tokens per second really?",
-      "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 268,
-      "comments": 67
+      "score": 248,
+      "comments": 87
     }
   ]
 }
