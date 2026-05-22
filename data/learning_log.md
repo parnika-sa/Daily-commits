@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-23 (last updated: 22:52 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-22 12:03:45 IST | 06e03c05d120 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-22 22:52:52 IST | 22fdeeb1acb6 | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 674 stars today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
+  ⭐ 2,123 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,679 stars today
+- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
+  ⭐ 96 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,743 stars today
+
+### 📰 Hacker News Stories
+- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269) — Score: 28
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 793
+- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me) — Score: 18
+- [The surprising story behind the first British person in space](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space) — Score: 21
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 241
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $76,804.0 🔴 -1.19%
+- Ethereum: $2,120.86 🔴 -0.90%
+- Solana: $86.71 🔴 -0.51%
+- Bnb: $660.13 🟢 +0.67%
+
+---
 
 
 
