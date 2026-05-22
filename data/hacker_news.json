@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-22 02:33:57 UTC",
-    "fetched_at_ist": "2026-05-22 08:03:57 IST",
+    "fetched_at_utc": "2026-05-22 06:33:45 UTC",
+    "fetched_at_ist": "2026-05-22 12:03:45 IST",
     "item_count": 5,
-    "content_hash": "d3d8c9bb9874d6dd90dcbdc1f2784a45f19e53391fd678c7c8e618835a0ea139",
-    "previous_hash": "f8f1d55dfd8e8c46d83082aa8aea5bca0d2edbee9a425dd36c2ab15fdb6a754d",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "06e03c05d120f72faccf75dd1d1ac5e0efb9bed2b66d263433c5aeb6cfa19e41",
+    "previous_hash": "d3d8c9bb9874d6dd90dcbdc1f2784a45f19e53391fd678c7c8e618835a0ea139",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48231226,
-      "title": "It is time to build a new internet",
-      "url": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
-      "score": 10,
-      "comments": 5
+      "id": 48232118,
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "score": 28,
+      "comments": 1
     },
     {
       "id": 48225297,
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 605,
-      "comments": 138
+      "score": 793,
+      "comments": 174
     },
     {
-      "id": 48227860,
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 139,
-      "comments": 29
+      "id": 48231938,
+      "title": "Slumber a TUI HTTP Client",
+      "url": "https://slumber.lucaspickering.me",
+      "score": 18,
+      "comments": 0
+    },
+    {
+      "id": 48209691,
+      "title": "The surprising story behind the first British person in space",
+      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+      "score": 21,
+      "comments": 0
     },
     {
       "id": 48227397,
       "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
       "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 171,
-      "comments": 94
-    },
-    {
-      "id": 48192605,
-      "title": "The Death of the Brick and Mortar Toy Store",
-      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-      "score": 21,
-      "comments": 13
+      "score": 241,
+      "comments": 129
     }
   ]
 }
