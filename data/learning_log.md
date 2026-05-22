@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-22 (last updated: 12:03 IST)
+
+## 📅 2026-05-22 (last updated: 17:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-22 12:03:45 IST | 06e03c05d120 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-22 02:47:32 IST | 6e8952c9094a | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-22 17:54:17 IST | a98e9472ccf4 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 241
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,696.0 🟢 +0.08%
-- Ethereum: $2,136.49 🟢 +0.11%
-- Solana: $87.47 🟢 +1.52%
-- Bnb: $657.9 🟢 +1.18%
+- Bitcoin: $77,418.0 🟢 +0.47%
+- Ethereum: $2,131.49 🟢 +0.95%
+- Solana: $87.41 🟢 +2.19%
+- Bnb: $658.3 🟢 +1.64%
 
 ---
 ## 📅 2026-05-21 (last updated: 17:43 IST)
