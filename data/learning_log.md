@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-22 (last updated: 02:47 IST)
+
+## 📅 2026-05-22 (last updated: 08:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-22 01:13:49 IST | f8f1d55dfd8e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-22 08:03:57 IST | d3d8c9bb9874 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-22 02:47:32 IST | 6e8952c9094a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) — Score: 274
-- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html) — Score: 108
-- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 220
-- [More than 340 local news outlets are limiting the Internet Archive's access](https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/) — Score: 102
-- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 870
+- [It is time to build a new internet](https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/) — Score: 10
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 605
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) — Score: 139
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 171
+- [The Death of the Brick and Mortar Toy Store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/) — Score: 21
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,696.0 🟢 +0.08%
