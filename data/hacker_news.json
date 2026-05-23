@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-22 06:33:45 UTC",
-    "fetched_at_ist": "2026-05-22 12:03:45 IST",
+    "fetched_at_utc": "2026-05-23 06:43:47 UTC",
+    "fetched_at_ist": "2026-05-23 12:13:47 IST",
     "item_count": 5,
-    "content_hash": "06e03c05d120f72faccf75dd1d1ac5e0efb9bed2b66d263433c5aeb6cfa19e41",
-    "previous_hash": "d3d8c9bb9874d6dd90dcbdc1f2784a45f19e53391fd678c7c8e618835a0ea139",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "5e99a95e667fab726962e777d11ce8afe793da36ac792236f4fcf4178a4a1200",
+    "previous_hash": "06e03c05d120f72faccf75dd1d1ac5e0efb9bed2b66d263433c5aeb6cfa19e41",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48232118,
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "url": "https://arxiv.org/abs/2605.19269",
-      "score": 28,
-      "comments": 1
+      "id": 48241997,
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 341,
+      "comments": 108
     },
     {
-      "id": 48225297,
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 793,
-      "comments": 174
+      "id": 48207043,
+      "title": "Sp.h is the standard library that C deserves",
+      "url": "https://spader.zone/sp/",
+      "score": 74,
+      "comments": 42
     },
     {
-      "id": 48231938,
-      "title": "Slumber a TUI HTTP Client",
-      "url": "https://slumber.lucaspickering.me",
-      "score": 18,
-      "comments": 0
+      "id": 48237163,
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 609,
+      "comments": 300
     },
     {
-      "id": 48209691,
-      "title": "The surprising story behind the first British person in space",
-      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "score": 21,
-      "comments": 0
+      "id": 48240419,
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "score": 395,
+      "comments": 230
     },
     {
-      "id": 48227397,
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 241,
-      "comments": 129
+      "id": 48242278,
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "score": 129,
+      "comments": 81
     }
   ]
 }

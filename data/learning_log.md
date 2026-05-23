@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 05:45 IST)
+
+## 📅 2026-05-23 (last updated: 12:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-22 12:03:45 IST | 06e03c05d120 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 12:13:47 IST | 5e99a95e667f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 05:45:02 IST | 54a786de7fc4 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269) — Score: 28
-- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 793
-- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me) — Score: 18
-- [The surprising story behind the first British person in space](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space) — Score: 21
-- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 241
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 341
+- [Sp.h is the standard library that C deserves](https://spader.zone/sp/) — Score: 74
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 609
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 395
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) — Score: 129
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,438.0 🔴 -2.53%
