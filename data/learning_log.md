@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 20:49 IST)
+
+## 📅 2026-05-23 (last updated: 22:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 18:11:15 IST | 912f308ab29b | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 22:00:24 IST | 52565a92defe | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 20:49:57 IST | 49355927ce4e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 26
-- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html) — Score: 15
-- [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) — Score: 76
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 535
-- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) — Score: 72
+- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 169
+- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 84
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 136
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 35
+- [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,527.0 🔴 -1.59%
