@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 16:30:24 UTC",
-    "fetched_at_ist": "2026-05-23 22:00:24 IST",
+    "fetched_at_utc": "2026-05-23 17:41:23 UTC",
+    "fetched_at_ist": "2026-05-23 23:11:23 IST",
     "item_count": 5,
-    "content_hash": "52565a92defe1d2947c63806964e39b1065a32cb10c816fbba615ff81417316a",
-    "previous_hash": "912f308ab29bc873db2b3eb2c7f99521447127c39655c6a8bc7e755decdafeef",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e5ad9d6a2261305215a7c898faaed370a3ddf83c8604530a60efdc54501a0dab",
+    "previous_hash": "52565a92defe1d2947c63806964e39b1065a32cb10c816fbba615ff81417316a",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48247325,
-      "title": "On The <dl>",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 169,
-      "comments": 54
-    },
-    {
       "id": 48247876,
       "title": "Oura says it gets government demands for user data",
       "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "score": 84,
-      "comments": 46
+      "score": 158,
+      "comments": 80
     },
     {
-      "id": 48247004,
-      "title": "80386 Microcode Disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 136,
-      "comments": 22
+      "id": 48247325,
+      "title": "On The <dl>",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 229,
+      "comments": 66
+    },
+    {
+      "id": 48248954,
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "score": 20,
+      "comments": 4
     },
     {
       "id": 48248014,
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 35,
-      "comments": 7
+      "score": 57,
+      "comments": 13
     },
     {
-      "id": 48199314,
-      "title": "PHP's Oddities",
-      "url": "https://flowtwo.io/post/php%27s-oddities",
-      "score": 19,
-      "comments": 16
+      "id": 48247004,
+      "title": "80386 Microcode Disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 157,
+      "comments": 24
     }
   ]
 }

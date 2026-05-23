@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 22:00 IST)
+
+## 📅 2026-05-23 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 22:00:24 IST | 52565a92defe | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 23:11:23 IST | e5ad9d6a2261 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 20:49:57 IST | 49355927ce4e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 169
-- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 84
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 136
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 35
-- [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities) — Score: 19
+- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 158
+- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 229
+- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — Score: 20
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 57
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 157
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,527.0 🔴 -1.59%
