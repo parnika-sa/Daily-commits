@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 17:09 IST)
+
+## 📅 2026-05-23 (last updated: 18:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 17:09:23 IST | a647240864bc | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-23 18:11:15 IST | 912f308ab29b | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 15:52:20 IST | 54b34911b7b8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 504
-- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) — Score: 60
-- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 705
-- [The quadratic sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html) — Score: 63
-- [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) — Score: 27
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 26
+- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html) — Score: 15
+- [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) — Score: 76
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 535
+- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) — Score: 72
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,630.0 🔴 -3.36%

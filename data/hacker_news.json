@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 11:39:23 UTC",
-    "fetched_at_ist": "2026-05-23 17:09:23 IST",
+    "fetched_at_utc": "2026-05-23 12:41:15 UTC",
+    "fetched_at_ist": "2026-05-23 18:11:15 IST",
     "item_count": 5,
-    "content_hash": "a647240864bccce2d0174362496a246207c5cd494cb26faf3e98c5efcca8525f",
-    "previous_hash": "5e99a95e667fab726962e777d11ce8afe793da36ac792236f4fcf4178a4a1200",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "912f308ab29bc873db2b3eb2c7f99521447127c39655c6a8bc7e755decdafeef",
+    "previous_hash": "a647240864bccce2d0174362496a246207c5cd494cb26faf3e98c5efcca8525f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48241997,
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 504,
-      "comments": 178
+      "id": 48247004,
+      "title": "80386 Microcode Disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 26,
+      "comments": 2
     },
     {
-      "id": 48245262,
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "score": 60,
-      "comments": 27
-    },
-    {
-      "id": 48237163,
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 705,
-      "comments": 339
-    },
-    {
-      "id": 48206387,
-      "title": "The quadratic sandwich",
-      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 63,
-      "comments": 4
+      "id": 48246889,
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "url": "https://horace.io/brrr_intro.html",
+      "score": 15,
+      "comments": 5
     },
     {
       "id": 48246614,
       "title": "US tech firms share Dutch regulator officials' names with Senate",
       "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 27,
-      "comments": 6
+      "score": 76,
+      "comments": 38
+    },
+    {
+      "id": 48241997,
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 535,
+      "comments": 186
+    },
+    {
+      "id": 48245262,
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "score": 72,
+      "comments": 32
     }
   ]
 }
