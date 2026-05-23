@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-24 (last updated: 04:05 IST)
+
+## 📅 2026-05-24 (last updated: 05:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 04:05:23 IST | d56761837122 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-24 05:10:20 IST | aed77e17da52 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-23 20:49:57 IST | 49355927ce4e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 185
-- [.NET (OK, C#) gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/) — Score: 90
-- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 160
-- [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go) — Score: 10
-- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 322
+- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 218
+- [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) — Score: 34
+- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 185
+- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 332
+- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) — Score: 12
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,527.0 🔴 -1.59%

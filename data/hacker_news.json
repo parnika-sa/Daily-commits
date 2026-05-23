@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 22:35:23 UTC",
-    "fetched_at_ist": "2026-05-24 04:05:23 IST",
+    "fetched_at_utc": "2026-05-23 23:40:20 UTC",
+    "fetched_at_ist": "2026-05-24 05:10:20 IST",
     "item_count": 5,
-    "content_hash": "d567618371226c0c7e05e41d3ccc26c726e947b05085712508e23b20e13459f9",
-    "previous_hash": "38ebff1f891b078b7f59498eca94c44074b4b5b34574571defb693d0f98639e9",
+    "content_hash": "aed77e17da52a37abe9d013ed36930198f7192b517265ab76cb6d61a86429597",
+    "previous_hash": "d567618371226c0c7e05e41d3ccc26c726e947b05085712508e23b20e13459f9",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48250144,
       "title": "It's time to talk about my writerdeck",
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 185,
-      "comments": 103
+      "score": 218,
+      "comments": 121
     },
     {
-      "id": 48234954,
-      "title": ".NET (OK, C#) gets union types",
-      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
-      "score": 90,
-      "comments": 71
+      "id": 48252192,
+      "title": "Don't Roll Your Own",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "score": 34,
+      "comments": 19
     },
     {
       "id": 48214311,
       "title": "My two-part desk setup (2025)",
       "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 160,
-      "comments": 103
-    },
-    {
-      "id": 48252060,
-      "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-      "score": 10,
-      "comments": 0
+      "score": 185,
+      "comments": 114
     },
     {
       "id": 48247325,
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 322,
-      "comments": 102
+      "score": 332,
+      "comments": 103
+    },
+    {
+      "id": 48232721,
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "url": "https://sales-and-dungeons.app/",
+      "score": 12,
+      "comments": 2
     }
   ]
 }
