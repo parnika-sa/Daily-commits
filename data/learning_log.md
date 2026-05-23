@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-24 (last updated: 00:12 IST)
+
+## 📅 2026-05-24 (last updated: 02:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 00:12:13 IST | 741a38d4ff1e | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-24 02:08:57 IST | 1e0ba5c9a803 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 20:49:57 IST | 49355927ce4e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 260
-- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — Score: 40
-- [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 59
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 74
-- [Hengefinder: Finding When the Sun Aligns with Your Street](https://victoriaritvo.com/blog/hengefinder/) — Score: 26
+- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 88
+- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 300
+- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) — Score: 344
+- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — Score: 62
+- [Hengefinder: Finding When the Sun Aligns with Your Street](https://victoriaritvo.com/blog/hengefinder/) — Score: 59
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,527.0 🔴 -1.59%
