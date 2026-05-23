@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 06:43:47 UTC",
-    "fetched_at_ist": "2026-05-23 12:13:47 IST",
+    "fetched_at_utc": "2026-05-23 11:39:23 UTC",
+    "fetched_at_ist": "2026-05-23 17:09:23 IST",
     "item_count": 5,
-    "content_hash": "5e99a95e667fab726962e777d11ce8afe793da36ac792236f4fcf4178a4a1200",
-    "previous_hash": "06e03c05d120f72faccf75dd1d1ac5e0efb9bed2b66d263433c5aeb6cfa19e41",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "a647240864bccce2d0174362496a246207c5cd494cb26faf3e98c5efcca8525f",
+    "previous_hash": "5e99a95e667fab726962e777d11ce8afe793da36ac792236f4fcf4178a4a1200",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48241997,
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 341,
-      "comments": 108
+      "score": 504,
+      "comments": 178
     },
     {
-      "id": 48207043,
-      "title": "Sp.h is the standard library that C deserves",
-      "url": "https://spader.zone/sp/",
-      "score": 74,
-      "comments": 42
+      "id": 48245262,
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "score": 60,
+      "comments": 27
     },
     {
       "id": 48237163,
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 609,
-      "comments": 300
+      "score": 705,
+      "comments": 339
     },
     {
-      "id": 48240419,
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 395,
-      "comments": 230
+      "id": 48206387,
+      "title": "The quadratic sandwich",
+      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+      "score": 63,
+      "comments": 4
     },
     {
-      "id": 48242278,
-      "title": "Sleep research led to a new sleep apnea drug",
-      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 129,
-      "comments": 81
+      "id": 48246614,
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "score": 27,
+      "comments": 6
     }
   ]
 }
