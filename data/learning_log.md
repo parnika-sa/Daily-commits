@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 12:13 IST)
+
+## 📅 2026-05-23 (last updated: 15:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-23 12:13:47 IST | 5e99a95e667f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-23 05:45:02 IST | 54a786de7fc4 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-23 15:52:20 IST | 54b34911b7b8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) — Score: 129
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,438.0 🔴 -2.53%
-- Ethereum: $2,065.13 🔴 -3.01%
-- Solana: $84.3 🔴 -3.10%
-- Bnb: $650.5 🔴 -1.02%
+- Bitcoin: $74,630.0 🔴 -3.36%
+- Ethereum: $2,027.11 🔴 -4.40%
+- Solana: $82.19 🔴 -5.42%
+- Bnb: $638.77 🔴 -2.53%
 
 ---
 ## 📅 2026-05-22 (last updated: 22:52 IST)
