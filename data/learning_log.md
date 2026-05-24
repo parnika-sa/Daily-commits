@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-24 (last updated: 15:45 IST)
+
+## 📅 2026-05-24 (last updated: 20:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 07:04:49 IST | 7be851385bd1 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-24 20:12:30 IST | 4f91e97c9baa | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-24 15:45:46 IST | 27206484039e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 289
-- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) — Score: 16
-- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) — Score: 25
-- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 215
-- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) — Score: 42
+- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) — Score: 62
+- [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/) — Score: 25
+- [Childhood Computing](https://susam.net/childhood-computing.html) — Score: 55
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 25
+- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) — Score: 183
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,837.0 🟢 +2.96%

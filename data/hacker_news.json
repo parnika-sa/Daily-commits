@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 01:34:49 UTC",
-    "fetched_at_ist": "2026-05-24 07:04:49 IST",
+    "fetched_at_utc": "2026-05-24 14:42:30 UTC",
+    "fetched_at_ist": "2026-05-24 20:12:30 IST",
     "item_count": 5,
-    "content_hash": "7be851385bd18ae098221a56b521667820819e0170d25e9c433ea2ec797200ec",
-    "previous_hash": "aed77e17da52a37abe9d013ed36930198f7192b517265ab76cb6d61a86429597",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "4f91e97c9baabf696206e24765db4a43ea52819afa570bac9b3bf436348849d9",
+    "previous_hash": "7be851385bd18ae098221a56b521667820819e0170d25e9c433ea2ec797200ec",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48250144,
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 289,
-      "comments": 149
-    },
-    {
-      "id": 48253060,
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 16,
-      "comments": 3
-    },
-    {
-      "id": 48252535,
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "score": 25,
+      "id": 48256475,
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "score": 62,
       "comments": 6
     },
     {
-      "id": 48214311,
-      "title": "My two-part desk setup (2025)",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 215,
-      "comments": 126
+      "id": 48257058,
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+      "score": 25,
+      "comments": 1
     },
     {
-      "id": 48232721,
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "url": "https://sales-and-dungeons.app/",
-      "score": 42,
-      "comments": 14
+      "id": 48256597,
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "score": 55,
+      "comments": 26
+    },
+    {
+      "id": 48256953,
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 25,
+      "comments": 13
+    },
+    {
+      "id": 48223997,
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "score": 183,
+      "comments": 29
     }
   ]
 }
