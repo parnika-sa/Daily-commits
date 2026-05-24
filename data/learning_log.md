@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-24 (last updated: 05:10 IST)
+
+## 📅 2026-05-24 (last updated: 07:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 05:10:20 IST | aed77e17da52 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-24 07:04:49 IST | 7be851385bd1 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-23 20:49:57 IST | 49355927ce4e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,743 stars today
 
 ### 📰 Hacker News Stories
-- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 218
-- [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) — Score: 34
-- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 185
-- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 332
-- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) — Score: 12
+- [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 289
+- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) — Score: 16
+- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) — Score: 25
+- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 215
+- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) — Score: 42
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,527.0 🔴 -1.59%
