@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-26 (last updated: 04:09 IST)
+
+## 📅 2026-05-26 (last updated: 05:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-26 04:09:43 IST | 4b6d0273ddca | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-26 05:13:32 IST | 44c24be5fc61 | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-05-26 01:50:18 IST | fa21e768e568 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) — Score: 52
-- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) — Score: 97
-- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 215
-- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) — Score: 466
-- [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) — Score: 30
+- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) — Score: 133
+- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) — Score: 118
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 234
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) — Score: 535
+- [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) — Score: 42
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,399.0 🟢 +1.05%
