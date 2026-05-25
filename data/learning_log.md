@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-25 (last updated: 20:12 IST)
+
+## 📅 2026-05-25 (last updated: 05:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-21 17:43:26 IST | ab6c8b17ee80 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 20:12:30 IST | 4f91e97c9baa | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-24 15:45:46 IST | 27206484039e | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-25 05:42:45 IST | ed7866a144d3 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-25 05:42:44 IST | 37bc33f4343a | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
+  ⭐ 3,999 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 1,853 stars today
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 674 stars today
-- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
-  ⭐ 2,123 stars today
+  ⭐ 1,173 stars today
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
+  ⭐ 550 stars today
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,679 stars today
-- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
-  ⭐ 96 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,743 stars today
+  ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) — Score: 62
-- [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/) — Score: 25
-- [Childhood Computing](https://susam.net/childhood-computing.html) — Score: 55
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 25
-- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) — Score: 183
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) — Score: 97
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 398
+- [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/) — Score: 224
+- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) — Score: 77
+- [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/) — Score: 43
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,837.0 🟢 +2.96%
-- Ethereum: $2,117.38 🟢 +4.46%
-- Solana: $86.18 🟢 +5.02%
-- Bnb: $658.4 🟢 +3.07%
+- Bitcoin: $77,091.0 🟢 +0.66%
+- Ethereum: $2,103.17 🔴 -0.49%
+- Solana: $85.28 🔴 -0.34%
+- Bnb: $657.96 🟢 +0.36%
 
 ---
 ## 📅 2026-05-24 (last updated: 20:12 IST)

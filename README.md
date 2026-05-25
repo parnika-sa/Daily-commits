@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-24 14:42:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-25 00:12:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$76,837.0** ↑ (+2.96%)
-- HN top story: **Mastering Dyalog APL**
+- Top GitHub repo: **Lum1104/Understand-Anything**
+- BTC: **$77,091.0** ↑ (+0.66%)
+- HN top story: **Show HN: Audiomass – a free, open-source multitrack audio editor for the web**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-21 12:13:26 UTC | `ab6c8b17ee80` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 14:42:30 UTC | `4f91e97c9baa` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-24 10:15:46 UTC | `27206484039e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-05-25 00:12:44 UTC | `f212c28fcab0` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-25 00:12:45 UTC | `ed7866a144d3` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-25 00:12:44 UTC | `37bc33f4343a` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-25` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-05-25 03:39:31 IST` |
+| Last Commit (IST) | `2026-05-25 04:42:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-05-25 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,837.0 | +2.96% | 🟢 |
-| Ethereum | $2,117.38 | +4.46% | 🟢 |
-| Solana | $86.18 | +5.02% | 🟢 |
-| Bnb | $658.4 | +3.07% | 🟢 |
+| Bitcoin | $77,091.0 | +0.66% | 🟢 |
+| Ethereum | $2,103.17 | -0.49% | 🔴 |
+| Solana | $85.28 | -0.34% | 🔴 |
+| Bnb | $657.96 | +0.36% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 674 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,123 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,679 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [dotnet/skills](https://github.com/dotnet/skills) | C# | 96 stars today | Repository for skills to assist AI coding agents with .NET and C# |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,743 stars today | An agentic skills framework & software development methodology that works. |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 890 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 741 stars today | Free, Open Source, Self-Hosted WhatsApp API Gateway |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 132 stars today | Chrome DevTools for coding agents |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,999 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,853 stars today | Learn it. Build it. Ship it for others. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,173 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 550 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,551 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 456 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 553 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 3,003 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) | 62 | 6 |
-| [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/) | 25 | 1 |
-| [Childhood Computing](https://susam.net/childhood-computing.html) | 55 | 26 |
-| [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) | 25 | 13 |
-| [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) | 183 | 29 |
+| [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) | 97 | 25 |
+| [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) | 398 | 189 |
+| [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/) | 224 | 157 |
+| [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) | 77 | 51 |
+| [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/) | 43 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

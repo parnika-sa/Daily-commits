@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 14:42:30 UTC",
-    "fetched_at_ist": "2026-05-24 20:12:30 IST",
+    "fetched_at_utc": "2026-05-25 00:12:45 UTC",
+    "fetched_at_ist": "2026-05-25 05:42:45 IST",
     "item_count": 5,
-    "content_hash": "4f91e97c9baabf696206e24765db4a43ea52819afa570bac9b3bf436348849d9",
-    "previous_hash": "7be851385bd18ae098221a56b521667820819e0170d25e9c433ea2ec797200ec",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "ed7866a144d37e066418e706f135c0ecc4c5e55031bf87ce9df68ccd85487830",
+    "previous_hash": "4f91e97c9baabf696206e24765db4a43ea52819afa570bac9b3bf436348849d9",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48256475,
-      "title": "Mastering Dyalog APL",
-      "url": "https://mastering.dyalog.com/README.html",
-      "score": 62,
-      "comments": 6
-    },
-    {
-      "id": 48257058,
-      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
-      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-      "score": 25,
-      "comments": 1
-    },
-    {
-      "id": 48256597,
-      "title": "Childhood Computing",
-      "url": "https://susam.net/childhood-computing.html",
-      "score": 55,
-      "comments": 26
+      "id": 48258015,
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 97,
+      "comments": 25
     },
     {
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 25,
-      "comments": 13
+      "score": 398,
+      "comments": 189
     },
     {
-      "id": 48223997,
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 183,
-      "comments": 29
+      "id": 48259990,
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "score": 224,
+      "comments": 157
+    },
+    {
+      "id": 48259861,
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "score": 77,
+      "comments": 51
+    },
+    {
+      "id": 48216146,
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "score": 43,
+      "comments": 6
     }
   ]
 }
