@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-25 00:12:45 UTC",
-    "fetched_at_ist": "2026-05-25 05:42:45 IST",
+    "fetched_at_utc": "2026-05-25 15:33:56 UTC",
+    "fetched_at_ist": "2026-05-25 21:03:56 IST",
     "item_count": 5,
-    "content_hash": "ed7866a144d37e066418e706f135c0ecc4c5e55031bf87ce9df68ccd85487830",
-    "previous_hash": "4f91e97c9baabf696206e24765db4a43ea52819afa570bac9b3bf436348849d9",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "759950ffc80631096c45802367e49a30c3d736ac1cc23c5d91bf7dc8b751a109",
+    "previous_hash": "ed7866a144d37e066418e706f135c0ecc4c5e55031bf87ce9df68ccd85487830",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48258015,
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "score": 97,
-      "comments": 25
+      "id": 48266051,
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "score": 406,
+      "comments": 335
     },
     {
-      "id": 48256953,
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 398,
-      "comments": 189
-    },
-    {
-      "id": 48259990,
-      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
-      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-      "score": 224,
-      "comments": 157
-    },
-    {
-      "id": 48259861,
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "id": 48266906,
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "score": 77,
-      "comments": 51
+      "comments": 7
     },
     {
-      "id": 48216146,
-      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
-      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
-      "score": 43,
-      "comments": 6
+      "id": 48265206,
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 450,
+      "comments": 180
+    },
+    {
+      "id": 48267126,
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "score": 29,
+      "comments": 3
+    },
+    {
+      "id": 48266485,
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "score": 201,
+      "comments": 88
     }
   ]
 }
