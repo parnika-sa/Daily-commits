@@ -13,19 +13,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-25 (last updated: 21:03 IST)
+
+## 📅 2026-05-25 (last updated: 22:51 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-25 21:03:56 IST | 759950ffc806 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-25 17:49:29 IST | ef35eb301ec3 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-25 22:51:44 IST | 33c34002ce68 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -47,10 +48,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) — Score: 201
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,292.0 🟢 +0.35%
-- Ethereum: $2,113.57 🔴 -0.24%
-- Solana: $85.79 🔴 -0.67%
-- Bnb: $667.32 🟢 +1.25%
+- Bitcoin: $77,566.0 🟢 +1.36%
+- Ethereum: $2,130.35 🟢 +1.43%
+- Solana: $86.08 🟢 +0.73%
+- Bnb: $662.73 🟢 +0.98%
 
 ---
 ## 📅 2026-05-24 (last updated: 20:12 IST)
