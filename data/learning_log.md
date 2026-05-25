@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-26 (last updated: 01:50 IST)
+
+## 📅 2026-05-26 (last updated: 03:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-25 21:03:56 IST | 759950ffc806 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-26 03:09:58 IST | fbf2067c1fa8 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-26 01:50:18 IST | fa21e768e568 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) — Score: 406
-- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) — Score: 77
-- [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) — Score: 450
-- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) — Score: 29
-- [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) — Score: 201
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 186
+- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) — Score: 55
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) — Score: 367
+- [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) — Score: 1181
+- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) — Score: 115
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,399.0 🟢 +1.05%
