@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-26 (last updated: 06:59 IST)
+
+## 📅 2026-05-26 (last updated: 11:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-26 05:13:32 IST | 44c24be5fc61 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-26 11:12:32 IST | c8da1b3dc01e | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files) — Score: 133
-- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) — Score: 118
-- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 234
-- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) — Score: 535
-- [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) — Score: 42
+- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) — Score: 385
+- [Notes on Pope Leo XIV's Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/) — Score: 17
+- [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk) — Score: 186
+- [The User Is Visibly Frustrated](https://pscanf.com/s/354/) — Score: 14
+- [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) — Score: 135
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,701.0 🔴 -0.47%
