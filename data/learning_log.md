@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-26 (last updated: 05:13 IST)
+
+## 📅 2026-05-26 (last updated: 06:59 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-26 05:13:32 IST | 44c24be5fc61 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-05-26 01:50:18 IST | fa21e768e568 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee) — Score: 42
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,399.0 🟢 +1.05%
-- Ethereum: $2,119.65 🟢 +1.25%
-- Solana: $85.74 🟢 +0.92%
-- Bnb: $662.21 🟢 +1.08%
+- Bitcoin: $76,701.0 🔴 -0.47%
+- Ethereum: $2,094.6 🔴 -0.38%
+- Solana: $84.2 🔴 -1.42%
+- Bnb: $657.59 🔴 -0.15%
 
 ---
 ## 📅 2026-05-25 (last updated: 22:51 IST)
