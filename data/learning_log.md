@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 20:12 IST)
+
+## 📅 2026-05-27 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-27 20:12:03 IST | cf11af8e5c3c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-27 23:13:59 IST | 6f32c308308d | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) — Score: 918
-- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about) — Score: 126
-- [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode) — Score: 29
-- [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391) — Score: 151
-- [Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data](https://www.thonking.ai/p/strangely-matrix-multiplications) — Score: 41
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) — Score: 1672
+- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/) — Score: 187
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 45
+- [PostHog will train AI models with your data (opted-in by default)](https://posthog.com/blog/training-ai-models) — Score: 116
+- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) — Score: 129
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,701.0 🔴 -0.47%

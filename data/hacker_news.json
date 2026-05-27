@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-27 14:42:03 UTC",
-    "fetched_at_ist": "2026-05-27 20:12:03 IST",
+    "fetched_at_utc": "2026-05-27 17:43:59 UTC",
+    "fetched_at_ist": "2026-05-27 23:13:59 IST",
     "item_count": 5,
-    "content_hash": "cf11af8e5c3c930d78f63278c0e3eeabc29888f81ace92bab3c44e300d7c188c",
-    "previous_hash": "54f55ff38af7efee92e49040ed6a1d798c254c49a84ab5f202f60385b5cb2673",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "6f32c308308d12706694e67edbff9e2634ac42a4e710a637497ad6653ab00fb3",
+    "previous_hash": "cf11af8e5c3c930d78f63278c0e3eeabc29888f81ace92bab3c44e300d7c188c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48292224,
       "title": "I'm Tired of Talking to AI",
       "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 918,
-      "comments": 511
+      "score": 1672,
+      "comments": 794
     },
     {
-      "id": 48291947,
-      "title": "Mini Micro Fantasy Computer",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 126,
-      "comments": 55
+      "id": 48295679,
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 187,
+      "comments": 82
     },
     {
-      "id": 48293014,
-      "title": "XLIDE: VBA without excel",
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "score": 29,
-      "comments": 5
+      "id": 48296794,
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 45,
+      "comments": 30
     },
     {
-      "id": 48291225,
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "score": 151,
-      "comments": 59
+      "id": 48296359,
+      "title": "PostHog will train AI models with your data (opted-in by default)",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "score": 116,
+      "comments": 89
     },
     {
-      "id": 48247005,
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "score": 41,
-      "comments": 4
+      "id": 48296649,
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 129,
+      "comments": 46
     }
   ]
 }
