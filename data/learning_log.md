@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 09:09 IST)
+
+## 📅 2026-05-27 (last updated: 20:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-27 09:09:24 IST | 54f55ff38af7 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-27 20:12:03 IST | cf11af8e5c3c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) — Score: 263
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) — Score: 100
-- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) — Score: 29
-- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 274
-- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 179
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) — Score: 918
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about) — Score: 126
+- [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode) — Score: 29
+- [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391) — Score: 151
+- [Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data](https://www.thonking.ai/p/strangely-matrix-multiplications) — Score: 41
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,701.0 🔴 -0.47%
