@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 03:12 IST)
+
+## 📅 2026-05-27 (last updated: 09:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-27 03:12:49 IST | e78c1dc6beb0 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-27 09:09:24 IST | 54f55ff38af7 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) — Score: 88
-- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 155
-- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 94
-- [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) — Score: 95
-- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit) — Score: 83
+- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) — Score: 263
+- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) — Score: 100
+- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) — Score: 29
+- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 274
+- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 179
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,701.0 🔴 -0.47%
