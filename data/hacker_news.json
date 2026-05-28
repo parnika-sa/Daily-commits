@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-28 12:04:16 UTC",
-    "fetched_at_ist": "2026-05-28 17:34:16 IST",
+    "fetched_at_utc": "2026-05-28 16:32:07 UTC",
+    "fetched_at_ist": "2026-05-28 22:02:07 IST",
     "item_count": 5,
-    "content_hash": "27451af99b52baca5a4ba0254114b4880c5be218e2135c481cea3aa247356e16",
-    "previous_hash": "82e1fea9c55ef4987be8a9dd69acd3e8a7416c50e6e481c7a5018ff036421c0c",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "3bb465d8e940308d13fd870f6bdd8c0da4dd6234e6e490a131841f27dde2b74c",
+    "previous_hash": "27451af99b52baca5a4ba0254114b4880c5be218e2135c481cea3aa247356e16",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48282180,
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "score": 70,
+      "comments": 25
+    },
+    {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 967,
-      "comments": 580
+      "score": 1166,
+      "comments": 694
     },
     {
-      "id": 48305446,
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 92,
-      "comments": 30
+      "id": 48308376,
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 46,
+      "comments": 27
     },
     {
-      "id": 48304260,
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "score": 242,
-      "comments": 98
+      "id": 48309302,
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "score": 119,
+      "comments": 58
     },
     {
-      "id": 48302220,
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "score": 170,
-      "comments": 64
-    },
-    {
-      "id": 48307231,
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 67,
-      "comments": 18
+      "id": 48310280,
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "score": 10,
+      "comments": 3
     }
   ]
 }

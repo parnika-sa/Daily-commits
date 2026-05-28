@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-28 (last updated: 17:34 IST)
+
+## 📅 2026-05-28 (last updated: 22:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-28 17:34:15 IST | d645bb1ae59e | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-28 17:34:16 IST | 27451af99b52 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-28 22:02:07 IST | 3bb465d8e940 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-28 17:34:16 IST | 353cc060f2b5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 519 stars today
 
 ### 📰 Hacker News Stories
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 967
-- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) — Score: 92
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 242
-- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) — Score: 170
-- [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/) — Score: 67
+- [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730) — Score: 70
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 1166
+- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev) — Score: 46
+- [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) — Score: 119
+- [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/) — Score: 10
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,329.0 🔴 -3.07%
