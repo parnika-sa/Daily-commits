@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-28 16:32:07 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-28 19:18:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$73,329.0** ↓ (-3.07%)
+- BTC: **$73,367.0** ↓ (-2.04%)
 - HN top story: **Indoor Wi-Fi Roaming with OpenWRT**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-28 12:04:15 UTC | `d645bb1ae59e` | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-28 16:32:07 UTC | `3bb465d8e940` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-28 12:04:16 UTC | `353cc060f2b5` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-28 19:18:33 UTC | `306c470e083f` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-05-28` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| Streak | `59` day(s) |
-| Last Commit (IST) | `2026-05-28 17:34:17 IST` |
+| Date (IST) | `2026-05-29` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-05-28 22:02:07 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-25 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-29 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,329.0 | -3.07% | 🔴 |
-| Ethereum | $1,985.41 | -4.37% | 🔴 |
-| Solana | $80.73 | -3.52% | 🔴 |
-| Bnb | $631.29 | -3.37% | 🔴 |
+| Bitcoin | $73,367.0 | -2.04% | 🔴 |
+| Ethereum | $2,016.39 | -1.79% | 🔴 |
+| Solana | $82.37 | -1.76% | 🔴 |
+| Bnb | $639.81 | -1.95% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

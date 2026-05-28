@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-29 (last updated: 00:48 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 16 | 2026-05-28 17:34:15 IST | d645bb1ae59e | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-28 22:02:07 IST | 3bb465d8e940 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-29 00:48:33 IST | 306c470e083f | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
+  ⭐ 1,742 stars today
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
+  ⭐ 2,062 stars today
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** (Shell) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen  
+  ⭐ 2,715 stars today
+- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
+  ⭐ 664 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — The open alternative to Salesforce, designed for AI.  
+  ⭐ 519 stars today
+
+### 📰 Hacker News Stories
+- [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730) — Score: 70
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 1166
+- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev) — Score: 46
+- [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) — Score: 119
+- [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/) — Score: 10
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $73,367.0 🔴 -2.04%
+- Ethereum: $2,016.39 🔴 -1.79%
+- Solana: $82.37 🔴 -1.76%
+- Bnb: $639.81 🔴 -1.95%
+
+---
 
 
 
