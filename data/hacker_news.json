@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-27 17:43:59 UTC",
-    "fetched_at_ist": "2026-05-27 23:13:59 IST",
+    "fetched_at_utc": "2026-05-28 00:12:40 UTC",
+    "fetched_at_ist": "2026-05-28 05:42:40 IST",
     "item_count": 5,
-    "content_hash": "6f32c308308d12706694e67edbff9e2634ac42a4e710a637497ad6653ab00fb3",
-    "previous_hash": "cf11af8e5c3c930d78f63278c0e3eeabc29888f81ace92bab3c44e300d7c188c",
+    "content_hash": "40ee54e1c2ced76bf8529b9c478430c5f15d09d10c4124fe557ec15940c39e48",
+    "previous_hash": "6f32c308308d12706694e67edbff9e2634ac42a4e710a637497ad6653ab00fb3",
     "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48292224,
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1672,
-      "comments": 794
-    },
-    {
-      "id": 48295679,
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 187,
-      "comments": 82
+      "id": 48299753,
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 463,
+      "comments": 269
     },
     {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 45,
-      "comments": 30
+      "score": 599,
+      "comments": 724
     },
     {
-      "id": 48296359,
-      "title": "PostHog will train AI models with your data (opted-in by default)",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "score": 116,
-      "comments": 89
+      "id": 48301603,
+      "title": "Internet traffic in Iran increasing",
+      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+      "score": 42,
+      "comments": 25
     },
     {
-      "id": 48296649,
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 129,
-      "comments": 46
+      "id": 48299220,
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 150,
+      "comments": 151
+    },
+    {
+      "id": 48297645,
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 262,
+      "comments": 98
     }
   ]
 }

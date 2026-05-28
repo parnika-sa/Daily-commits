@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-27 17:43:59 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-28 00:12:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$76,701.0** ↓ (-0.47%)
-- HN top story: **I'm Tired of Talking to AI**
+- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
+- BTC: **$74,393.0** ↓ (-1.95%)
+- HN top story: **YouTube to automatically label AI-generated videos**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-25 00:12:44 UTC | `f212c28fcab0` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-27 17:43:59 UTC | `6f32c308308d` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-05-26 01:29:59 UTC | `7213d948167f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-05-28 00:12:39 UTC | `0456f31f9d73` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-28 00:12:40 UTC | `40ee54e1c2ce` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-28 00:12:39 UTC | `2b6297182c03` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-28` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-05-28 03:20:01 IST` |
+| Last Commit (IST) | `2026-05-28 04:40:35 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-25 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-28 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-05-28 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,701.0 | -0.47% | 🔴 |
-| Ethereum | $2,094.6 | -0.38% | 🔴 |
-| Solana | $84.2 | -1.42% | 🔴 |
-| Bnb | $657.59 | -0.15% | 🔴 |
+| Bitcoin | $74,393.0 | -1.95% | 🔴 |
+| Ethereum | $2,020.74 | -2.65% | 🔴 |
+| Solana | $82.4 | -1.65% | 🔴 |
+| Bnb | $646.87 | -1.47% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,999 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,853 stars today | Learn it. Build it. Ship it for others. |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,173 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 550 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,551 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 456 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 553 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 3,003 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,742 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 4,465 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 664 stars today | A skill file for removing AI tells from prose |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2,062 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 695 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 2,715 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 211 stars today | Fully automatic censorship removal for language models |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 401 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) | 1672 | 794 |
-| [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/) | 187 | 82 |
-| [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) | 45 | 30 |
-| [PostHog will train AI models with your data (opted-in by default)](https://posthog.com/blog/training-ai-models) | 116 | 89 |
-| [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) | 129 | 46 |
+| [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 463 | 269 |
+| [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) | 599 | 724 |
+| [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d) | 42 | 25 |
+| [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) | 150 | 151 |
+| [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) | 262 | 98 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

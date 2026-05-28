@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-28 (last updated: 23:13 IST)
+
+## 📅 2026-05-28 (last updated: 05:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-25 05:42:44 IST | f212c28fcab0 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-27 23:13:59 IST | 6f32c308308d | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-05-26 06:59:59 IST | 7213d948167f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-05-28 05:42:39 IST | 0456f31f9d73 | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-28 05:42:40 IST | 40ee54e1c2ce | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-28 05:42:39 IST | 2b6297182c03 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
+  ⭐ 1,742 stars today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
-  ⭐ 3,999 stars today
-- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 1,853 stars today
-- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 1,173 stars today
+  ⭐ 4,465 stars today
+- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
+  ⭐ 664 stars today
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
+  ⭐ 2,062 stars today
 - **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
-  ⭐ 550 stars today
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,551 stars today
+  ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) — Score: 1672
-- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/) — Score: 187
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 45
-- [PostHog will train AI models with your data (opted-in by default)](https://posthog.com/blog/training-ai-models) — Score: 116
-- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) — Score: 129
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 463
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 599
+- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d) — Score: 42
+- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) — Score: 150
+- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) — Score: 262
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,701.0 🔴 -0.47%
-- Ethereum: $2,094.6 🔴 -0.38%
-- Solana: $84.2 🔴 -1.42%
-- Bnb: $657.59 🔴 -0.15%
+- Bitcoin: $74,393.0 🔴 -1.95%
+- Ethereum: $2,020.74 🔴 -2.65%
+- Solana: $82.4 🔴 -1.65%
+- Bnb: $646.87 🔴 -1.47%
 
 ---
 ## 📅 2026-05-27 (last updated: 23:13 IST)
