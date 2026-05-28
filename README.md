@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-28 08:30:35 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-28 12:04:16 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$74,393.0** ↓ (-1.95%)
-- HN top story: **A Eureka machine that thinks like nature and explores what AI cannot**
+- BTC: **$73,329.0** ↓ (-3.07%)
+- HN top story: **YouTube to automatically label AI-generated videos**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-28 00:12:39 UTC | `0456f31f9d73` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-28 08:30:35 UTC | `82e1fea9c55e` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-28 00:12:39 UTC | `2b6297182c03` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-05-28 12:04:15 UTC | `d645bb1ae59e` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-28 12:04:16 UTC | `27451af99b52` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-28 12:04:16 UTC | `353cc060f2b5` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-28` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-05-28 10:08:52 IST` |
+| Last Commit (IST) | `2026-05-28 14:00:35 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-25 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-28 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-28 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,393.0 | -1.95% | 🔴 |
-| Ethereum | $2,020.74 | -2.65% | 🔴 |
-| Solana | $82.4 | -1.65% | 🔴 |
-| Bnb | $646.87 | -1.47% | 🔴 |
+| Bitcoin | $73,329.0 | -3.07% | 🔴 |
+| Ethereum | $1,985.41 | -4.37% | 🔴 |
+| Solana | $80.73 | -3.52% | 🔴 |
+| Bnb | $631.29 | -3.37% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,742 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 4,465 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 664 stars today | A skill file for removing AI tells from prose |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2,062 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 695 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 2,715 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 211 stars today | Fully automatic censorship removal for language models |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 401 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 664 stars today | A skill file for removing AI tells from prose |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 519 stars today | The open alternative to Salesforce, designed for AI. |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 2,222 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 1,163 stars today | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,263 stars today | Python tool for converting files and office documents to Markdown. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) | 43 | 4 |
-| [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 837 | 502 |
-| [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) | 95 | 29 |
-| [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) | 168 | 70 |
-| [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) | 839 | 967 |
+| [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 967 | 580 |
+| [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) | 92 | 30 |
+| [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) | 242 | 98 |
+| [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) | 170 | 64 |
+| [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/) | 67 | 18 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

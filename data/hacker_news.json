@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-28 08:30:35 UTC",
-    "fetched_at_ist": "2026-05-28 14:00:35 IST",
+    "fetched_at_utc": "2026-05-28 12:04:16 UTC",
+    "fetched_at_ist": "2026-05-28 17:34:16 IST",
     "item_count": 5,
-    "content_hash": "82e1fea9c55ef4987be8a9dd69acd3e8a7416c50e6e481c7a5018ff036421c0c",
-    "previous_hash": "b94001677617918b40eef4a7cefb9d0a5193b5be839245f5d03d8691fe447905",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "27451af99b52baca5a4ba0254114b4880c5be218e2135c481cea3aa247356e16",
+    "previous_hash": "82e1fea9c55ef4987be8a9dd69acd3e8a7416c50e6e481c7a5018ff036421c0c",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48305446,
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 43,
-      "comments": 4
-    },
-    {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 837,
-      "comments": 502
+      "score": 967,
+      "comments": 580
     },
     {
-      "id": 48302220,
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "score": 95,
-      "comments": 29
+      "id": 48305446,
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 92,
+      "comments": 30
     },
     {
       "id": 48304260,
       "title": "Hallucinate – Massively Multiplayer Online Rave",
       "url": "https://hallucinate.site",
-      "score": 168,
-      "comments": 70
+      "score": 242,
+      "comments": 98
     },
     {
-      "id": 48296794,
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 839,
-      "comments": 967
+      "id": 48302220,
+      "title": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 170,
+      "comments": 64
+    },
+    {
+      "id": 48307231,
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 67,
+      "comments": 18
     }
   ]
 }

@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-28 (last updated: 14:00 IST)
+
+## 📅 2026-05-28 (last updated: 17:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-05-28 05:42:39 IST | 0456f31f9d73 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-28 14:00:35 IST | 82e1fea9c55e | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-28 05:42:39 IST | 2b6297182c03 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-05-28 17:34:15 IST | d645bb1ae59e | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-28 17:34:16 IST | 27451af99b52 | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-28 17:34:16 IST | 353cc060f2b5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
   ⭐ 1,742 stars today
-- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
-  ⭐ 4,465 stars today
-- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
-  ⭐ 664 stars today
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
   ⭐ 2,062 stars today
-- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
-  ⭐ 695 stars today
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** (Shell) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen  
+  ⭐ 2,715 stars today
+- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
+  ⭐ 664 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — The open alternative to Salesforce, designed for AI.  
+  ⭐ 519 stars today
 
 ### 📰 Hacker News Stories
-- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) — Score: 43
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 837
-- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) — Score: 95
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 168
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 839
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 967
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) — Score: 92
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 242
+- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) — Score: 170
+- [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/) — Score: 67
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,393.0 🔴 -1.95%
-- Ethereum: $2,020.74 🔴 -2.65%
-- Solana: $82.4 🔴 -1.65%
-- Bnb: $646.87 🔴 -1.47%
+- Bitcoin: $73,329.0 🔴 -3.07%
+- Ethereum: $1,985.41 🔴 -4.37%
+- Solana: $80.73 🔴 -3.52%
+- Bnb: $631.29 🔴 -3.37%
 
 ---
 ## 📅 2026-05-27 (last updated: 23:13 IST)

@@ -2,13 +2,13 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-28 00:12:39 UTC",
-    "fetched_at_ist": "2026-05-28 05:42:39 IST",
-    "item_count": 17,
-    "content_hash": "0456f31f9d73df9a458759addf495720a664115088ed7bcd472a1ffa9c9fae82",
-    "previous_hash": "f212c28fcab03179093f02ffdccee506f3138fbf1acd51c8392dedb708da0995",
-    "new_repos_vs_previous": 13,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-05-28 12:04:15 UTC",
+    "fetched_at_ist": "2026-05-28 17:34:15 IST",
+    "item_count": 16,
+    "content_hash": "d645bb1ae59e8c155483f59288130f3c744a104e2bf1b19522aa1c576eb9c488",
+    "previous_hash": "0456f31f9d73df9a458759addf495720a664115088ed7bcd472a1ffa9c9fae82",
+    "new_repos_vs_previous": 7,
+    "top_repo_changed": false
   },
   "repos": [
     {
@@ -18,28 +18,10 @@
       "stars_today": "1,742 stars today"
     },
     {
-      "name": "Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "stars_today": "4,465 stars today"
-    },
-    {
-      "name": "hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "Unknown",
-      "stars_today": "664 stars today"
-    },
-    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "2,062 stars today"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "695 stars today"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -48,22 +30,10 @@
       "stars_today": "2,715 stars today"
     },
     {
-      "name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars_today": "211 stars today"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "401 stars today"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "886 stars today"
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars_today": "664 stars today"
     },
     {
       "name": "twentyhq/twenty",
@@ -72,22 +42,10 @@
       "stars_today": "519 stars today"
     },
     {
-      "name": "Chachamaru127/claude-code-harness",
-      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
-      "language": "Shell",
-      "stars_today": "87 stars today"
-    },
-    {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
       "stars_today": "2,222 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,511 stars today"
     },
     {
       "name": "byoungd/English-level-up-tips",
@@ -96,22 +54,58 @@
       "stars_today": "1,163 stars today"
     },
     {
-      "name": "iii-hq/iii",
-      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
-      "language": "Rust",
-      "stars_today": "376 stars today"
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": "1,263 stars today"
     },
     {
-      "name": "Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
-      "language": "JavaScript",
-      "stars_today": "728 stars today"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,511 stars today"
     },
     {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "68 stars today"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "739 stars today"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "72 stars today"
+      "stars_today": "4,465 stars today"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars_today": "210 stars today"
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "language": "Python",
+      "stars_today": "53 stars today"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": "180 stars today"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": "686 stars today"
     }
   ]
 }
