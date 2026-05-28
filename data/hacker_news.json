@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-28 00:12:40 UTC",
-    "fetched_at_ist": "2026-05-28 05:42:40 IST",
+    "fetched_at_utc": "2026-05-28 04:38:52 UTC",
+    "fetched_at_ist": "2026-05-28 10:08:52 IST",
     "item_count": 5,
-    "content_hash": "40ee54e1c2ced76bf8529b9c478430c5f15d09d10c4124fe557ec15940c39e48",
-    "previous_hash": "6f32c308308d12706694e67edbff9e2634ac42a4e710a637497ad6653ab00fb3",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "b94001677617918b40eef4a7cefb9d0a5193b5be839245f5d03d8691fe447905",
+    "previous_hash": "40ee54e1c2ced76bf8529b9c478430c5f15d09d10c4124fe557ec15940c39e48",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 463,
-      "comments": 269
+      "score": 629,
+      "comments": 378
+    },
+    {
+      "id": 48302745,
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 758,
+      "comments": 433
+    },
+    {
+      "id": 48304260,
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "score": 17,
+      "comments": 0
     },
     {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 599,
-      "comments": 724
-    },
-    {
-      "id": 48301603,
-      "title": "Internet traffic in Iran increasing",
-      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
-      "score": 42,
-      "comments": 25
+      "score": 712,
+      "comments": 878
     },
     {
       "id": 48299220,
       "title": "What Apple and Google are doing to push notifications",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 150,
-      "comments": 151
-    },
-    {
-      "id": 48297645,
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 262,
-      "comments": 98
+      "score": 213,
+      "comments": 223
     }
   ]
 }

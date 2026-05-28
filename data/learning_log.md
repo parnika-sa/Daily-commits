@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-28 (last updated: 05:42 IST)
+
+## 📅 2026-05-28 (last updated: 10:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-05-28 05:42:39 IST | 0456f31f9d73 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-28 05:42:40 IST | 40ee54e1c2ce | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-28 10:08:52 IST | b94001677617 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-28 05:42:39 IST | 2b6297182c03 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 463
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 599
-- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d) — Score: 42
-- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) — Score: 150
-- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) — Score: 262
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 629
+- [Can we have the day off?](https://mlsu.io/posts/day-off/) — Score: 758
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 17
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 712
+- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) — Score: 213
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,393.0 🔴 -1.95%
