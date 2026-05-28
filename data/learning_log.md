@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-28 (last updated: 10:08 IST)
+
+## 📅 2026-05-28 (last updated: 14:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-05-28 05:42:39 IST | 0456f31f9d73 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-28 10:08:52 IST | b94001677617 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-28 14:00:35 IST | 82e1fea9c55e | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-28 05:42:39 IST | 2b6297182c03 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 695 stars today
 
 ### 📰 Hacker News Stories
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 629
-- [Can we have the day off?](https://mlsu.io/posts/day-off/) — Score: 758
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 17
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 712
-- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) — Score: 213
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/) — Score: 43
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) — Score: 837
+- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/) — Score: 95
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site) — Score: 168
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) — Score: 839
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,393.0 🔴 -1.95%

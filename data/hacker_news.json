@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-28 04:38:52 UTC",
-    "fetched_at_ist": "2026-05-28 10:08:52 IST",
+    "fetched_at_utc": "2026-05-28 08:30:35 UTC",
+    "fetched_at_ist": "2026-05-28 14:00:35 IST",
     "item_count": 5,
-    "content_hash": "b94001677617918b40eef4a7cefb9d0a5193b5be839245f5d03d8691fe447905",
-    "previous_hash": "40ee54e1c2ced76bf8529b9c478430c5f15d09d10c4124fe557ec15940c39e48",
+    "content_hash": "82e1fea9c55ef4987be8a9dd69acd3e8a7416c50e6e481c7a5018ff036421c0c",
+    "previous_hash": "b94001677617918b40eef4a7cefb9d0a5193b5be839245f5d03d8691fe447905",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48305446,
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 43,
+      "comments": 4
+    },
     {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 629,
-      "comments": 378
+      "score": 837,
+      "comments": 502
     },
     {
-      "id": 48302745,
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "score": 758,
-      "comments": 433
+      "id": 48302220,
+      "title": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 95,
+      "comments": 29
     },
     {
       "id": 48304260,
       "title": "Hallucinate – Massively Multiplayer Online Rave",
       "url": "https://hallucinate.site",
-      "score": 17,
-      "comments": 0
+      "score": 168,
+      "comments": 70
     },
     {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 712,
-      "comments": 878
-    },
-    {
-      "id": 48299220,
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 213,
-      "comments": 223
+      "score": 839,
+      "comments": 967
     }
   ]
 }
