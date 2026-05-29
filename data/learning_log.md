@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-29 (last updated: 10:10 IST)
+
+## 📅 2026-05-29 (last updated: 13:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-29 10:10:10 IST | 8669b25193a5 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-29 05:33:57 IST | 58bd8cecc4f0 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-29 13:58:04 IST | 7da9dbff7ca5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 256
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,593.0 🔴 -1.13%
-- Ethereum: $2,008.99 🔴 -0.66%
-- Solana: $82.07 🔴 -0.40%
-- Bnb: $638.29 🔴 -1.43%
+- Bitcoin: $73,706.0 🟢 +0.78%
+- Ethereum: $2,009.42 🟢 +1.30%
+- Solana: $82.29 🟢 +1.83%
+- Bnb: $637.07 🟢 +0.58%
 
 ---
 ## 📅 2026-05-28 (last updated: 22:02 IST)
