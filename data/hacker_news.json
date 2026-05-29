@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-28 16:32:07 UTC",
-    "fetched_at_ist": "2026-05-28 22:02:07 IST",
+    "fetched_at_utc": "2026-05-29 00:03:58 UTC",
+    "fetched_at_ist": "2026-05-29 05:33:58 IST",
     "item_count": 5,
-    "content_hash": "3bb465d8e940308d13fd870f6bdd8c0da4dd6234e6e490a131841f27dde2b74c",
-    "previous_hash": "27451af99b52baca5a4ba0254114b4880c5be218e2135c481cea3aa247356e16",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e3fdc01867172e54e07bc015387fb19c772228cc1c9ceaafa0a2d6f0b4f18510",
+    "previous_hash": "3bb465d8e940308d13fd870f6bdd8c0da4dd6234e6e490a131841f27dde2b74c",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48282180,
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 70,
-      "comments": 25
+      "id": 48311647,
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 1162,
+      "comments": 925
     },
     {
-      "id": 48299753,
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1166,
-      "comments": 694
+      "id": 48314136,
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "score": 506,
+      "comments": 277
     },
     {
-      "id": 48308376,
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 46,
-      "comments": 27
+      "id": 48314951,
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "score": 124,
+      "comments": 13
     },
     {
-      "id": 48309302,
-      "title": "EU fines Temu €200M for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "score": 119,
-      "comments": 58
+      "id": 48317043,
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "score": 8,
+      "comments": 0
     },
     {
-      "id": 48310280,
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 10,
-      "comments": 3
+      "id": 48313810,
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "score": 177,
+      "comments": 133
     }
   ]
 }

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-28 21:28:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-29 00:03:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$73,637.0** ↓ (-1.84%)
-- HN top story: **Indoor Wi-Fi Roaming with OpenWRT**
+- BTC: **$73,593.0** ↓ (-1.13%)
+- HN top story: **Claude Opus 4.8**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-28 12:04:15 UTC | `d645bb1ae59e` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-28 16:32:07 UTC | `3bb465d8e940` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-28 21:28:39 UTC | `83c77de1b9a7` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 16 | 2026-05-29 00:03:57 UTC | `f705ec727bf4` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-29 00:03:58 UTC | `e3fdc0186717` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-29 00:03:57 UTC | `58bd8cecc4f0` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-29` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-29 02:58:39 IST` |
+| Last Commit (IST) | `2026-05-29 04:22:44 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-29 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-05-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,637.0 | -1.84% | 🔴 |
-| Ethereum | $2,019.78 | -1.69% | 🔴 |
-| Solana | $82.49 | -1.21% | 🔴 |
-| Bnb | $641.26 | -1.80% | 🔴 |
+| Bitcoin | $73,593.0 | -1.13% | 🔴 |
+| Ethereum | $2,008.99 | -0.66% | 🔴 |
+| Solana | $82.07 | -0.40% | 🔴 |
+| Bnb | $638.29 | -1.43% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,742 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2,062 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 2,715 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 664 stars today | A skill file for removing AI tells from prose |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 519 stars today | The open alternative to Salesforce, designed for AI. |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 2,222 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 1,163 stars today | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,263 stars today | Python tool for converting files and office documents to Markdown. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 4,698 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,385 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 2,234 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 761 stars today | A skill file for removing AI tells from prose |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 493 stars today | The open alternative to Salesforce, designed for AI. |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 1,761 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 2,019 stars today | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,410 stars today | Python tool for converting files and office documents to Markdown. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730) | 70 | 25 |
-| [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | 1166 | 694 |
-| [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev) | 46 | 27 |
-| [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) | 119 | 58 |
-| [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/) | 10 | 3 |
+| [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) | 1162 | 925 |
+| [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) | 506 | 277 |
+| [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) | 124 | 13 |
+| [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) | 8 | 0 |
+| [Various LLM Smells](https://shvbsle.in/various-llm-smells/) | 177 | 133 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
