@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-29 14:43:30 UTC",
-    "fetched_at_ist": "2026-05-29 20:13:30 IST",
+    "fetched_at_utc": "2026-05-29 23:40:58 UTC",
+    "fetched_at_ist": "2026-05-30 05:10:58 IST",
     "item_count": 5,
-    "content_hash": "e2e12144246dec93f316d78d900604115749d03fecbbd6d9fba770597d64f1ba",
-    "previous_hash": "8669b25193a5be090ec30407a699676471b4f1dde2b626e4c6defa3b34ccf7ca",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "4ca8a2863131584e748287ec154ca9f7c0af1425d3e606157f833ff46b075aee",
+    "previous_hash": "e2e12144246dec93f316d78d900604115749d03fecbbd6d9fba770597d64f1ba",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48323101,
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "score": 164,
-      "comments": 32
+      "id": 48326802,
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 296,
+      "comments": 178
     },
     {
-      "id": 48321956,
-      "title": "Tulip mania: when a single flower was worth more than a house (2025)",
-      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
-      "score": 74,
-      "comments": 64
+      "id": 48324712,
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 596,
+      "comments": 782
     },
     {
-      "id": 48322154,
-      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
-      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
-      "score": 81,
-      "comments": 42
+      "id": 48324853,
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "score": 70,
+      "comments": 10
     },
     {
-      "id": 48322956,
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "url": "https://github.com/scanaislop/aislop",
-      "score": 51,
-      "comments": 38
+      "id": 48325340,
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 298,
+      "comments": 101
     },
     {
-      "id": 48314136,
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 1157,
-      "comments": 510
+      "id": 48327962,
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "score": 61,
+      "comments": 86
     }
   ]
 }

@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-30 (last updated: 20:13 IST)
+
+## 📅 2026-05-30 (last updated: 05:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 20:13:30 IST | e2e12144246d | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 05:10:58 IST | 4ca8a2863131 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-29 13:58:04 IST | 7da9dbff7ca5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 493 stars today
 
 ### 📰 Hacker News Stories
-- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai) — Score: 164
-- [Tulip mania: when a single flower was worth more than a house (2025)](https://dutchreview.com/culture/tulip-mania-netherlands/) — Score: 74
-- [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — Score: 81
-- [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop) — Score: 51
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 1157
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 296
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 596
+- [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) — Score: 70
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 298
+- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) — Score: 61
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,706.0 🟢 +0.78%
