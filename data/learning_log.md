@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-29 (last updated: 13:58 IST)
+
+## 📅 2026-05-29 (last updated: 20:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 10:10:10 IST | 8669b25193a5 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-29 20:13:30 IST | e2e12144246d | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-29 13:58:04 IST | 7da9dbff7ca5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 493 stars today
 
 ### 📰 Hacker News Stories
-- [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) — Score: 117
-- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) — Score: 65
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1330
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 729
-- [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 256
+- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai) — Score: 164
+- [Tulip mania: when a single flower was worth more than a house (2025)](https://dutchreview.com/culture/tulip-mania-netherlands/) — Score: 74
+- [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — Score: 81
+- [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop) — Score: 51
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 1157
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,706.0 🟢 +0.78%
