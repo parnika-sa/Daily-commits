@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-29 (last updated: 05:33 IST)
+
+## 📅 2026-05-29 (last updated: 10:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 05:33:58 IST | e3fdc0186717 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-29 10:10:10 IST | 8669b25193a5 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-29 05:33:57 IST | 58bd8cecc4f0 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 493 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1162
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 506
-- [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 124
-- [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) — Score: 8
-- [Various LLM Smells](https://shvbsle.in/various-llm-smells/) — Score: 177
+- [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) — Score: 117
+- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) — Score: 65
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1330
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 729
+- [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 256
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,593.0 🔴 -1.13%
