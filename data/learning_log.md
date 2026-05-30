@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 03:09 IST)
+
+## 📅 2026-05-31 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-30 23:44:28 IST | 02ed5636e17e | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-31 03:09:26 IST | 1c41651ccba7 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-31 04:06:56 IST | f6528fc9cb8b | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-30 23:44:28 IST | 0fabe087b1df | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 80 stars today
 
 ### 📰 Hacker News Stories
-- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) — Score: 284
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 39
-- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 103
-- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) — Score: 172
-- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) — Score: 139
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 109
+- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 133
+- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) — Score: 193
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) — Score: 25
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) — Score: 144
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,917.0 🔴 -0.03%
