@@ -15,44 +15,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 15:45 IST)
+
+## 📅 2026-05-30 (last updated: 23:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 07:00:06 IST | fb7c0fb06069 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-30 15:45:23 IST | 515f0ff843d6 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-05-30 23:44:28 IST | 02ed5636e17e | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-30 23:44:29 IST | 5827447e765b | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-30 23:44:28 IST | 0fabe087b1df | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
+  ⭐ 2,473 stars today
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
-  ⭐ 4,698 stars today
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 1,385 stars today
-- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** (Shell) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen  
-  ⭐ 2,234 stars today
-- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
-  ⭐ 761 stars today
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — The open alternative to Salesforce, designed for AI.  
-  ⭐ 493 stars today
+  ⭐ 2,775 stars today
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Python) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
+  ⭐ 595 stars today
+- **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
+  ⭐ 206 stars today
+- **[revfactory/harness](https://github.com/revfactory/harness)** (HTML) — A meta-skill that designs domain-specific agent teams, defines specialized agent  
+  ⭐ 80 stars today
 
 ### 📰 Hacker News Stories
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 348
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 676
-- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 38
-- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 309
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) — Score: 73
+- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) — Score: 79
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) — Score: 34
+- [Voxel Space](https://s-macke.github.io/VoxelSpace/) — Score: 157
+- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) — Score: 218
+- [Werner Herzog in conversation with Paul Cronin (2014)](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/) — Score: 30
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,538.0 🔴 -0.02%
-- Ethereum: $2,014.61 🟢 +0.27%
-- Solana: $82.3 🟢 +0.11%
-- Bnb: $673.8 🟢 +5.33%
+- Bitcoin: $73,917.0 🔴 -0.03%
+- Ethereum: $2,024.56 🔴 -0.14%
+- Solana: $82.93 🟢 +0.17%
+- Bnb: $712.97 🟢 +11.05%
 
 ---
 ## 📅 2026-05-29 (last updated: 20:13 IST)

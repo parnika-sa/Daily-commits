@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-30 10:15:23 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-30 18:14:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$73,538.0** ↓ (-0.02%)
-- HN top story: **SQLite is all you need for durable workflows**
+- Top GitHub repo: **microsoft/markitdown**
+- BTC: **$73,917.0** ↓ (-0.03%)
+- HN top story: **OpenRouter raises $113M Series B**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-29 00:03:57 UTC | `f705ec727bf4` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 01:30:06 UTC | `fb7c0fb06069` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-30 10:15:23 UTC | `515f0ff843d6` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-05-30 18:14:28 UTC | `02ed5636e17e` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-30 18:14:29 UTC | `5827447e765b` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-30 18:14:28 UTC | `0fabe087b1df` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-30` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-30 21:29:10 IST` |
+| Last Commit (IST) | `2026-05-30 22:39:58 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-29 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-05-30 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-05-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,538.0 | -0.02% | 🔴 |
-| Ethereum | $2,014.61 | +0.27% | 🟢 |
-| Solana | $82.3 | +0.11% | 🟢 |
-| Bnb | $673.8 | +5.33% | 🟢 |
+| Bitcoin | $73,917.0 | -0.03% | 🔴 |
+| Ethereum | $2,024.56 | -0.14% | 🔴 |
+| Solana | $82.93 | +0.17% | 🟢 |
+| Bnb | $712.97 | +11.05% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 4,698 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,385 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 2,234 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 761 stars today | A skill file for removing AI tells from prose |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 493 stars today | The open alternative to Salesforce, designed for AI. |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 1,761 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | Unknown | 2,019 stars today | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,410 stars today | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,473 stars today | Python tool for converting files and office documents to Markdown. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,775 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 595 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 206 stars today | Cursor plugin specification and official plugins |
+| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 80 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 348 stars today | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 918 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 658 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) | 348 | 199 |
-| [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) | 676 | 860 |
-| [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) | 38 | 9 |
-| [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) | 309 | 109 |
-| [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) | 73 | 59 |
+| [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) | 79 | 20 |
+| [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) | 34 | 2 |
+| [Voxel Space](https://s-macke.github.io/VoxelSpace/) | 157 | 32 |
+| [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) | 218 | 96 |
+| [Werner Herzog in conversation with Paul Cronin (2014)](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/) | 30 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 01:30:06 UTC",
-    "fetched_at_ist": "2026-05-30 07:00:06 IST",
+    "fetched_at_utc": "2026-05-30 18:14:29 UTC",
+    "fetched_at_ist": "2026-05-30 23:44:29 IST",
     "item_count": 5,
-    "content_hash": "fb7c0fb06069ec81b208e976cbde6c327faa652ac8a68d092e5eb1c2177a7dcd",
-    "previous_hash": "4ca8a2863131584e748287ec154ca9f7c0af1425d3e606157f833ff46b075aee",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "5827447e765bfce075c2b6d47c63eb87d5584150252ed63d5a231c1b4448d6ca",
+    "previous_hash": "fb7c0fb06069ec81b208e976cbde6c327faa652ac8a68d092e5eb1c2177a7dcd",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48326802,
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 348,
-      "comments": 199
+      "id": 48338660,
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "score": 79,
+      "comments": 20
     },
     {
-      "id": 48324712,
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 676,
-      "comments": 860
+      "id": 48338673,
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 34,
+      "comments": 2
     },
     {
-      "id": 48284494,
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 38,
-      "comments": 9
+      "id": 48336564,
+      "title": "Voxel Space",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "score": 157,
+      "comments": 32
     },
     {
-      "id": 48325340,
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 309,
-      "comments": 109
+      "id": 48334854,
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "score": 218,
+      "comments": 96
     },
     {
-      "id": 48330436,
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 73,
-      "comments": 59
+      "id": 48337808,
+      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
+      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+      "score": 30,
+      "comments": 11
     }
   ]
 }
