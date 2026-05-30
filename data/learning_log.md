@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 05:10 IST)
+
+## 📅 2026-05-30 (last updated: 07:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-29 05:33:57 IST | f705ec727bf4 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 05:10:58 IST | 4ca8a2863131 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 07:00:06 IST | fb7c0fb06069 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-29 13:58:04 IST | 7da9dbff7ca5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 493 stars today
 
 ### 📰 Hacker News Stories
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 296
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 596
-- [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) — Score: 70
-- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 298
-- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) — Score: 61
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 348
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 676
+- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 38
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 309
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) — Score: 73
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,706.0 🟢 +0.78%
