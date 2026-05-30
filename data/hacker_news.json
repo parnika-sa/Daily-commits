@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 18:14:29 UTC",
-    "fetched_at_ist": "2026-05-30 23:44:29 IST",
+    "fetched_at_utc": "2026-05-30 19:41:05 UTC",
+    "fetched_at_ist": "2026-05-31 01:11:05 IST",
     "item_count": 5,
-    "content_hash": "5827447e765bfce075c2b6d47c63eb87d5584150252ed63d5a231c1b4448d6ca",
-    "previous_hash": "fb7c0fb06069ec81b208e976cbde6c327faa652ac8a68d092e5eb1c2177a7dcd",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "bbfbdbdffddfc98b6f9306fb101ae110826aa342dfb0664b7a5b232bc5746320",
+    "previous_hash": "5827447e765bfce075c2b6d47c63eb87d5584150252ed63d5a231c1b4448d6ca",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48338660,
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
-      "score": 79,
-      "comments": 20
+      "score": 184,
+      "comments": 73
+    },
+    {
+      "id": 48339580,
+      "title": "Ernst & Young published cybersecurity report full of hallucinations",
+      "url": "https://gptzero.me/investigations/ey",
+      "score": 48,
+      "comments": 16
     },
     {
       "id": 48338673,
       "title": "Zig ELF Linker Improvements Devlog",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 34,
-      "comments": 2
+      "score": 84,
+      "comments": 11
+    },
+    {
+      "id": 48339180,
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "score": 45,
+      "comments": 23
     },
     {
       "id": 48336564,
       "title": "Voxel Space",
       "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 157,
-      "comments": 32
-    },
-    {
-      "id": 48334854,
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "score": 218,
-      "comments": 96
-    },
-    {
-      "id": 48337808,
-      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
-      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-      "score": 30,
-      "comments": 11
+      "score": 188,
+      "comments": 40
     }
   ]
 }
