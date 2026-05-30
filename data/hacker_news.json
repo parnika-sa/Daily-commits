@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 20:36:21 UTC",
-    "fetched_at_ist": "2026-05-31 02:06:21 IST",
+    "fetched_at_utc": "2026-05-30 21:39:26 UTC",
+    "fetched_at_ist": "2026-05-31 03:09:26 IST",
     "item_count": 5,
-    "content_hash": "6f385bcb7c65c26ec30815a7ad073c1419a487bf6eb75ae0bfd76c4346b87bab",
-    "previous_hash": "bbfbdbdffddfc98b6f9306fb101ae110826aa342dfb0664b7a5b232bc5746320",
+    "content_hash": "1c41651ccba7e714b94a368c7269a53cded1eb980a5a3daebc380fdc8f273208",
+    "previous_hash": "6f385bcb7c65c26ec30815a7ad073c1419a487bf6eb75ae0bfd76c4346b87bab",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48338660,
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
-      "score": 221,
-      "comments": 102
+      "score": 284,
+      "comments": 125
     },
     {
-      "id": 48338673,
-      "title": "Zig ELF Linker Improvements Devlog",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 115,
-      "comments": 14
+      "id": 48340411,
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 39,
+      "comments": 18
     },
     {
       "id": 48318402,
       "title": "I found a seashell in the middle of the desert",
       "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 39,
-      "comments": 2
+      "score": 103,
+      "comments": 20
     },
     {
-      "id": 48339753,
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "score": 29,
-      "comments": 1
+      "id": 48337987,
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 172,
+      "comments": 87
     },
     {
-      "id": 48336564,
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 212,
-      "comments": 47
+      "id": 48338673,
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 139,
+      "comments": 20
     }
   ]
 }
