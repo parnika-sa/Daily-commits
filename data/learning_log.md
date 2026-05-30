@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-31 (last updated: 01:11 IST)
+
+## 📅 2026-05-31 (last updated: 02:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-30 23:44:28 IST | 02ed5636e17e | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-31 01:11:05 IST | bbfbdbdffddf | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-31 02:06:21 IST | 6f385bcb7c65 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-30 23:44:28 IST | 0fabe087b1df | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 80 stars today
 
 ### 📰 Hacker News Stories
-- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) — Score: 184
-- [Ernst & Young published cybersecurity report full of hallucinations](https://gptzero.me/investigations/ey) — Score: 48
-- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) — Score: 84
-- [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates) — Score: 45
-- [Voxel Space](https://s-macke.github.io/VoxelSpace/) — Score: 188
+- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) — Score: 221
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) — Score: 115
+- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 39
+- [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/) — Score: 29
+- [Voxel Space (2017)](https://s-macke.github.io/VoxelSpace/) — Score: 212
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,917.0 🔴 -0.03%
@@ -44,18 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $712.97 🟢 +11.05%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-30 (last updated: 23:44 IST)
 
 ### 🧪 Source Integrity Snapshot
