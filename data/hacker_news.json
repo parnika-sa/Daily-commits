@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-31 06:10:10 UTC",
-    "fetched_at_ist": "2026-05-31 11:40:10 IST",
+    "fetched_at_utc": "2026-05-31 20:35:42 UTC",
+    "fetched_at_ist": "2026-06-01 02:05:42 IST",
     "item_count": 5,
-    "content_hash": "973ce2cdaa9f583436f4d3f34bb4659d3fa0a5606f0d26759b8ca8d1d6f9ff71",
-    "previous_hash": "8e8fa965fe63925ade6b9cbfcbcf463626ebc724ce580a1f87dc738c9d6856d7",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "42261516ef384b711e4f5a808f578fd4f082b31d9b40e213e8c053e87c9475e9",
+    "previous_hash": "973ce2cdaa9f583436f4d3f34bb4659d3fa0a5606f0d26759b8ca8d1d6f9ff71",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48340411,
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 437,
-      "comments": 266
+      "id": 48345840,
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 347,
+      "comments": 197
     },
     {
-      "id": 48318624,
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 43,
-      "comments": 0
+      "id": 48346257,
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 184,
+      "comments": 65
     },
     {
-      "id": 48343078,
-      "title": "Ahoy, DECmate II the little PDP-8 that could",
-      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 15,
-      "comments": 1
+      "id": 48344961,
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 355,
+      "comments": 122
     },
     {
-      "id": 48341062,
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 180,
-      "comments": 16
+      "id": 48346947,
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "score": 331,
+      "comments": 238
     },
     {
-      "id": 48306713,
-      "title": "Racket v9.2 is now available",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 80,
-      "comments": 11
+      "id": 48348578,
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "score": 132,
+      "comments": 47
     }
   ]
 }

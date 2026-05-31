@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-01 (last updated: 00:52 IST)
+
+## 📅 2026-06-01 (last updated: 02:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-31 11:40:10 IST | 973ce2cdaa9f | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-01 02:05:42 IST | 42261516ef38 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-01 00:52:43 IST | 7824d42f5ed8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 55 stars today
 
 ### 📰 Hacker News Stories
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 437
-- [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) — Score: 43
-- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — Score: 15
-- [Shantell Sans (2023)](https://shantellsans.com/process) — Score: 180
-- [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) — Score: 80
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 347
+- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) — Score: 184
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/) — Score: 355
+- [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) — Score: 331
+- [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217) — Score: 132
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,516.0 🔴 -0.55%
@@ -44,19 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $709.25 🔴 -1.41%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-31 (last updated: 19:45 IST)
 
 ### 🧪 Source Integrity Snapshot
