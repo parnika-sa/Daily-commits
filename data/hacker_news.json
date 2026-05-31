@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-31 20:35:42 UTC",
-    "fetched_at_ist": "2026-06-01 02:05:42 IST",
+    "fetched_at_utc": "2026-05-31 21:38:47 UTC",
+    "fetched_at_ist": "2026-06-01 03:08:47 IST",
     "item_count": 5,
-    "content_hash": "42261516ef384b711e4f5a808f578fd4f082b31d9b40e213e8c053e87c9475e9",
-    "previous_hash": "973ce2cdaa9f583436f4d3f34bb4659d3fa0a5606f0d26759b8ca8d1d6f9ff71",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "95cd5ad779c4fbed7911b7a39bb72858042f2d29b0c4fe8841ad5c770d372e14",
+    "previous_hash": "42261516ef384b711e4f5a808f578fd4f082b31d9b40e213e8c053e87c9475e9",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48345840,
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 347,
-      "comments": 197
+      "score": 411,
+      "comments": 220
     },
     {
       "id": 48346257,
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 184,
-      "comments": 65
-    },
-    {
-      "id": 48344961,
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 355,
-      "comments": 122
+      "score": 219,
+      "comments": 78
     },
     {
       "id": 48346947,
       "title": "Creatine raises brain energy levels and slows cognitive decline: study",
       "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 331,
-      "comments": 238
+      "score": 374,
+      "comments": 261
+    },
+    {
+      "id": 48344961,
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 371,
+      "comments": 129
     },
     {
       "id": 48348578,
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "url": "https://twitter.com/i/status/2060746160558543217",
-      "score": 132,
-      "comments": 47
+      "score": 213,
+      "comments": 81
     }
   ]
 }
