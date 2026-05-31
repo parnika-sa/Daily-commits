@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-06-01 (last updated: 00:52 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-31 11:40:10 IST | 973ce2cdaa9f | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-06-01 00:52:43 IST | 7824d42f5ed8 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
+  ⭐ 2,470 stars today
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
+  ⭐ 2,768 stars today
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Python) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
+  ⭐ 592 stars today
+- **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
+  ⭐ 205 stars today
+- **[revfactory/harness](https://github.com/revfactory/harness)** (HTML) — A meta-skill that designs domain-specific agent teams, defines specialized agent  
+  ⭐ 55 stars today
+
+### 📰 Hacker News Stories
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 437
+- [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) — Score: 43
+- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — Score: 15
+- [Shantell Sans (2023)](https://shantellsans.com/process) — Score: 180
+- [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) — Score: 80
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $73,516.0 🔴 -0.55%
+- Ethereum: $1,996.98 🔴 -1.30%
+- Solana: $81.54 🔴 -1.59%
+- Bnb: $709.25 🔴 -1.41%
+
+---
 
 
 
