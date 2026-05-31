@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 05:10 IST)
+
+## 📅 2026-05-31 (last updated: 11:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-30 23:44:28 IST | 02ed5636e17e | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-31 05:10:29 IST | 8e8fa965fe63 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-30 23:44:28 IST | 0fabe087b1df | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-31 11:40:10 IST | 973ce2cdaa9f | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-05-31 11:40:09 IST | 26d10d66d112 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
-  ⭐ 2,473 stars today
+  ⭐ 2,470 stars today
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.  
-  ⭐ 2,775 stars today
+  ⭐ 2,768 stars today
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Python) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
-  ⭐ 595 stars today
+  ⭐ 592 stars today
 - **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
-  ⭐ 206 stars today
+  ⭐ 205 stars today
 - **[revfactory/harness](https://github.com/revfactory/harness)** (HTML) — A meta-skill that designs domain-specific agent teams, defines specialized agent  
-  ⭐ 80 stars today
+  ⭐ 55 stars today
 
 ### 📰 Hacker News Stories
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 174
-- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 157
-- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) — Score: 216
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) — Score: 37
-- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) — Score: 49
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 437
+- [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) — Score: 43
+- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — Score: 15
+- [Shantell Sans (2023)](https://shantellsans.com/process) — Score: 180
+- [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) — Score: 80
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,917.0 🔴 -0.03%
-- Ethereum: $2,024.56 🔴 -0.14%
-- Solana: $82.93 🟢 +0.17%
-- Bnb: $712.97 🟢 +11.05%
+- Bitcoin: $73,894.0 🟢 +0.59%
+- Ethereum: $2,025.68 🟢 +0.72%
+- Solana: $82.8 🟢 +0.52%
+- Bnb: $736.13 🟢 +10.48%
 
 ---
 ## 📅 2026-05-30 (last updated: 23:44 IST)

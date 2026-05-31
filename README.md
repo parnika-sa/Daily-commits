@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-30 23:40:29 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-31 06:10:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/markitdown**
-- BTC: **$73,917.0** ↓ (-0.03%)
+- BTC: **$73,894.0** ↑ (+0.59%)
 - HN top story: **Domain expertise has always been the real moat**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-30 18:14:28 UTC | `02ed5636e17e` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-30 23:40:29 UTC | `8e8fa965fe63` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-30 18:14:28 UTC | `0fabe087b1df` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-05-31 06:10:09 UTC | `1b747c932b98` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-31 06:10:10 UTC | `973ce2cdaa9f` | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-05-31 06:10:09 UTC | `26d10d66d112` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-31` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `61` day(s) |
-| Last Commit (IST) | `2026-05-31 05:10:29 IST` |
+| Last Commit (IST) | `2026-05-31 07:20:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-29 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-31 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-31 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,917.0 | -0.03% | 🔴 |
-| Ethereum | $2,024.56 | -0.14% | 🔴 |
-| Solana | $82.93 | +0.17% | 🟢 |
-| Bnb | $712.97 | +11.05% | 🟢 |
+| Bitcoin | $73,894.0 | +0.59% | 🟢 |
+| Ethereum | $2,025.68 | +0.72% | 🟢 |
+| Solana | $82.8 | +0.52% | 🟢 |
+| Bnb | $736.13 | +10.48% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,473 stars today | Python tool for converting files and office documents to Markdown. |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,775 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 595 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 206 stars today | Cursor plugin specification and official plugins |
-| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 80 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 348 stars today | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 918 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 658 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,470 stars today | Python tool for converting files and office documents to Markdown. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,768 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 592 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 205 stars today | Cursor plugin specification and official plugins |
+| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 55 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 349 stars today | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 908 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 779 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) | 174 | 113 |
-| [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) | 157 | 45 |
-| [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) | 216 | 110 |
-| [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) | 37 | 3 |
-| [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) | 49 | 25 |
+| [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) | 437 | 266 |
+| [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf) | 43 | 0 |
+| [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) | 15 | 1 |
+| [Shantell Sans (2023)](https://shantellsans.com/process) | 180 | 16 |
+| [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) | 80 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
