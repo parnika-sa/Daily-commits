@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-01 (last updated: 05:13 IST)
+
+## 📅 2026-06-01 (last updated: 12:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-01 05:13:06 IST | b71c31d6e8e7 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-01 00:52:43 IST | 7824d42f5ed8 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-01 12:50:48 IST | 175d56174e2d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) — Score: 51
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,516.0 🔴 -0.55%
-- Ethereum: $1,996.98 🔴 -1.30%
-- Solana: $81.54 🔴 -1.59%
-- Bnb: $709.25 🔴 -1.41%
+- Bitcoin: $72,949.0 🔴 -1.21%
+- Ethereum: $1,984.37 🔴 -1.95%
+- Solana: $81.29 🔴 -1.71%
+- Bnb: $690.24 🔴 -4.88%
 
 ---
 ## 📅 2026-05-31 (last updated: 19:45 IST)
