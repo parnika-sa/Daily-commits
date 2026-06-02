@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-02 01:43:08 UTC",
-    "fetched_at_ist": "2026-06-02 07:13:08 IST",
+    "fetched_at_utc": "2026-06-02 21:42:33 UTC",
+    "fetched_at_ist": "2026-06-03 03:12:33 IST",
     "item_count": 5,
-    "content_hash": "01b05197d6bcfc698f8a437070ba946e5d760b7405c4d9a58edf86e0099c80fd",
-    "previous_hash": "b71c31d6e8e717d819a245a223b2d67c01fb41d00830483e70684ef0eb9abb33",
+    "content_hash": "b1cabfdb1d5b886a7acbc6c8f6649949b547b38a3e87597436660580db53ff68",
+    "previous_hash": "01b05197d6bcfc698f8a437070ba946e5d760b7405c4d9a58edf86e0099c80fd",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48359102,
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1324,
-      "comments": 325
+      "id": 48374466,
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 266,
+      "comments": 124
     },
     {
-      "id": 48364055,
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 56,
-      "comments": 88
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 368,
+      "comments": 209
     },
     {
-      "id": 48363132,
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 123,
-      "comments": 45
+      "id": 48375824,
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 59,
+      "comments": 14
     },
     {
-      "id": 48364284,
-      "title": "What's gonna happen to software engineers?",
-      "url": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
-      "score": 28,
-      "comments": 18
+      "id": 48374362,
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "score": 129,
+      "comments": 53
     },
     {
-      "id": 48362347,
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 146,
-      "comments": 69
+      "id": 48375150,
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "score": 51,
+      "comments": 1
     }
   ]
 }
