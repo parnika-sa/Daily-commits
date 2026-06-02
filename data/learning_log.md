@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-02 (last updated: 04:55 IST)
+
+## 📅 2026-06-02 (last updated: 07:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-01 05:13:06 IST | b71c31d6e8e7 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-02 07:13:08 IST | 01b05197d6bc | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-02 04:55:00 IST | 5fa73daf5bcf | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 55 stars today
 
 ### 📰 Hacker News Stories
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 463
-- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) — Score: 17
-- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) — Score: 257
-- [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/) — Score: 33
-- [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) — Score: 51
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) — Score: 1324
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) — Score: 56
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) — Score: 123
+- [What's gonna happen to software engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers) — Score: 28
+- [Debug Project](https://debug.com/) — Score: 146
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,295.0 🔴 -3.30%

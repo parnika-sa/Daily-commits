@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-31 23:43:06 UTC",
-    "fetched_at_ist": "2026-06-01 05:13:06 IST",
+    "fetched_at_utc": "2026-06-02 01:43:08 UTC",
+    "fetched_at_ist": "2026-06-02 07:13:08 IST",
     "item_count": 5,
-    "content_hash": "b71c31d6e8e717d819a245a223b2d67c01fb41d00830483e70684ef0eb9abb33",
-    "previous_hash": "b3f16258ba38629ff5bb06d19bd6c1d95444affe59a4171e2ab6f915a43d40d2",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "01b05197d6bcfc698f8a437070ba946e5d760b7405c4d9a58edf86e0099c80fd",
+    "previous_hash": "b71c31d6e8e717d819a245a223b2d67c01fb41d00830483e70684ef0eb9abb33",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48345840,
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 463,
-      "comments": 257
+      "id": 48359102,
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 1324,
+      "comments": 325
     },
     {
-      "id": 48350598,
-      "title": "Chuwi Minibook X: the netbook we deserve",
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "score": 17,
-      "comments": 5
+      "id": 48364055,
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 56,
+      "comments": 88
     },
     {
-      "id": 48346257,
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 257,
-      "comments": 90
+      "id": 48363132,
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 123,
+      "comments": 45
     },
     {
-      "id": 48322984,
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 33,
-      "comments": 15
+      "id": 48364284,
+      "title": "What's gonna happen to software engineers?",
+      "url": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
+      "score": 28,
+      "comments": 18
     },
     {
-      "id": 48306225,
-      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 51,
-      "comments": 15
+      "id": 48362347,
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "score": 146,
+      "comments": 69
     }
   ]
 }
