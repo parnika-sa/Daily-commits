@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-03 (last updated: 03:12 IST)
+
+## 📅 2026-06-03 (last updated: 04:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-03 03:12:33 IST | b1cabfdb1d5b | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-02 11:51:36 IST | 73dcb19f7c5d | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-03 04:50:47 IST | 469d72267e7e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/) — Score: 51
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $70,215.0 🔴 -3.96%
-- Ethereum: $1,978.36 🔴 -0.38%
-- Solana: $79.37 🔴 -2.50%
-- Bnb: $680.67 🔴 -1.93%
+- Bitcoin: $66,514.0 🔴 -6.71%
+- Ethereum: $1,859.21 🔴 -7.06%
+- Solana: $73.57 🔴 -9.64%
+- Bnb: $648.22 🔴 -6.60%
 
 ---
 ## 📅 2026-06-02 (last updated: 11:51 IST)
