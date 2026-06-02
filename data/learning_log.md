@@ -7,14 +7,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-02 (last updated: 07:13 IST)
+
+## 📅 2026-06-02 (last updated: 11:51 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 11:40:09 IST | 1b747c932b98 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-02 07:13:08 IST | 01b05197d6bc | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-02 04:55:00 IST | 5fa73daf5bcf | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-02 11:51:36 IST | 73dcb19f7c5d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Debug Project](https://debug.com/) — Score: 146
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,295.0 🔴 -3.30%
-- Ethereum: $2,000.29 🔴 -0.37%
-- Solana: $81.39 🔴 -1.35%
-- Bnb: $694.04 🔴 -2.12%
+- Bitcoin: $70,215.0 🔴 -3.96%
+- Ethereum: $1,978.36 🔴 -0.38%
+- Solana: $79.37 🔴 -2.50%
+- Bnb: $680.67 🔴 -1.93%
 
 ---
 ## 📅 2026-06-01 (last updated: 12:50 IST)

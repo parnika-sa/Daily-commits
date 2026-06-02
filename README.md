@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-02 01:43:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-02 06:21:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/markitdown**
-- BTC: **$71,295.0** ↓ (-3.30%)
+- BTC: **$70,215.0** ↓ (-3.96%)
 - HN top story: **The newest Instagram “exploit” is the goofiest I've seen**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-31 06:10:09 UTC | `1b747c932b98` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-02 01:43:08 UTC | `01b05197d6bc` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-01 23:25:00 UTC | `5fa73daf5bcf` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-02 06:21:36 UTC | `73dcb19f7c5d` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-02` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `62` day(s) |
-| Last Commit (IST) | `2026-06-02 04:55:00 IST` |
+| Last Commit (IST) | `2026-06-02 07:13:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-31 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-06-01 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-02 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-06-02 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,295.0 | -3.30% | 🔴 |
-| Ethereum | $2,000.29 | -0.37% | 🔴 |
-| Solana | $81.39 | -1.35% | 🔴 |
-| Bnb | $694.04 | -2.12% | 🔴 |
+| Bitcoin | $70,215.0 | -3.96% | 🔴 |
+| Ethereum | $1,978.36 | -0.38% | 🔴 |
+| Solana | $79.37 | -2.50% | 🔴 |
+| Bnb | $680.67 | -1.93% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
