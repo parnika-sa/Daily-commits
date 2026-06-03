@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-02 23:20:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-03 12:06:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/markitdown**
-- BTC: **$66,514.0** ↓ (-6.71%)
-- HN top story: **MAI-Code-1-Flash**
+- Top GitHub repo: **chopratejas/headroom**
+- BTC: **$66,985.0** ↓ (-3.43%)
+- HN top story: **Hacking your PC using your speaker without ever touching it**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-31 06:10:09 UTC | `1b747c932b98` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-02 21:42:33 UTC | `b1cabfdb1d5b` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-02 23:20:47 UTC | `469d72267e7e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 11 | 2026-06-03 12:06:49 UTC | `483a291bb7fb` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-03 12:06:50 UTC | `119ce1c1813c` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-03 12:06:49 UTC | `bba6b89ce0a2` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +8 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-03` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `62` day(s) |
-| Last Commit (IST) | `2026-06-03 07:33:51 IST` |
+| Last Commit (IST) | `2026-06-03 12:35:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-31 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-06-01 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-06-03 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-06-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,514.0 | -6.71% | 🔴 |
-| Ethereum | $1,859.21 | -7.06% | 🔴 |
-| Solana | $73.57 | -9.64% | 🔴 |
-| Bnb | $648.22 | -6.60% | 🔴 |
+| Bitcoin | $66,985.0 | -3.43% | 🔴 |
+| Ethereum | $1,875.08 | -5.11% | 🔴 |
+| Solana | $74.97 | -4.94% | 🔴 |
+| Bnb | $636.06 | -6.27% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,470 stars today | Python tool for converting files and office documents to Markdown. |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,768 stars today | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 592 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 205 stars today | Cursor plugin specification and official plugins |
-| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 55 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 349 stars today | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 908 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 779 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 1,265 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,006 stars today | Python tool for converting files and office documents to Markdown. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,533 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,078 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 734 stars today | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | 124 stars today | A modern platform for visual, flexible, and extensible graph-based investigation… |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 713 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | 716 stars today | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) | 266 | 124 |
-| [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) | 368 | 209 |
-| [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) | 59 | 14 |
-| [MAI-Thinking-1](https://microsoft.ai/news/introducing-mai-thinking-1/) | 129 | 53 |
-| [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/) | 51 | 1 |
+| [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/) | 98 | 22 |
+| [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters) | 40 | 9 |
+| [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html) | 96 | 19 |
+| [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/) | 486 | 69 |
+| [Did Claude Opus 4.8 distill Alibaba's Qwen? Here's what the evidence says](https://blog.kilo.ai/p/did-claude-opus-48-distill-alibabas) | 5 | 1 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
