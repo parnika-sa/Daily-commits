@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-04 12:15:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-04 18:09:12 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **chopratejas/headroom**
-- BTC: **$62,446.0** ↓ (-6.60%)
-- HN top story: **Elixir v1.20: Now a gradually typed language**
+- BTC: **$63,225.0** ↓ (-4.15%)
+- HN top story: **VoidZero Is Joining Cloudflare**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-06-03 12:06:49 UTC | `483a291bb7fb` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-03 22:36:07 UTC | `48eb454b94f3` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-04 12:15:20 UTC | `5d5645c0e44e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-06-04 18:09:11 UTC | `de133a5b8945` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-04 18:09:12 UTC | `19074137ae49` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-04 18:09:11 UTC | `55d0f869b5f1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
+- GitHub: +10 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-04` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `63` day(s) |
-| Last Commit (IST) | `2026-06-04 17:45:20 IST` |
+| Last Commit (IST) | `2026-06-04 21:24:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-01 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-06-03 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-06-04 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,446.0 | -6.60% | 🔴 |
-| Ethereum | $1,746.08 | -6.73% | 🔴 |
-| Solana | $68.49 | -8.50% | 🔴 |
-| Bnb | $594.29 | -6.24% | 🔴 |
+| Bitcoin | $63,225.0 | -4.15% | 🔴 |
+| Ethereum | $1,760.97 | -3.71% | 🔴 |
+| Solana | $68.98 | -5.87% | 🔴 |
+| Bnb | $602.91 | -3.93% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 1,265 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,006 stars today | Python tool for converting files and office documents to Markdown. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,533 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,078 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 734 stars today | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
-| [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | 124 stars today | A modern platform for visual, flexible, and extensible graph-based investigation… |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 713 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | 716 stars today | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,139 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,951 stars today | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,736 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 105 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
+| [github/spec-kit](https://github.com/github/spec-kit) | Python | 311 stars today | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | 138 stars today | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab… |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 482 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
+| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | 583 stars today | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | 394 | 128 |
-| [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | 603 | 249 |
-| [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) | 404 | 112 |
-| [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) | 343 | 162 |
-| [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey) | 114 | 34 |
+| [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) | 399 | 196 |
+| [The desperation of NYTimes](https://rozumem.xyz/posts/16) | 62 | 22 |
+| [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN) | 66 | 7 |
+| [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html) | 57 | 20 |
+| [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) | 316 | 130 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
