@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-04 18:09:12 UTC",
-    "fetched_at_ist": "2026-06-04 23:39:12 IST",
+    "fetched_at_utc": "2026-06-05 08:38:30 UTC",
+    "fetched_at_ist": "2026-06-05 14:08:30 IST",
     "item_count": 5,
-    "content_hash": "19074137ae4999a0e3208a82176f197b5960d0141cea378b59086cd7c67db52a",
-    "previous_hash": "48eb454b94f355df752684f190248db474604218d66c03080a96d98f989c53fd",
+    "content_hash": "53e120546a24edda9b6cafc73fe68c879622ed8765a222885fa9c50383e6f364",
+    "previous_hash": "19074137ae4999a0e3208a82176f197b5960d0141cea378b59086cd7c67db52a",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48398055,
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 399,
-      "comments": 196
-    },
-    {
-      "id": 48401965,
-      "title": "The desperation of NYTimes",
-      "url": "https://rozumem.xyz/posts/16",
-      "score": 62,
-      "comments": 22
-    },
-    {
-      "id": 48399974,
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "score": 66,
-      "comments": 7
-    },
-    {
-      "id": 48400588,
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 57,
+      "id": 48409191,
+      "title": "Changing How We Develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 41,
       "comments": 20
     },
     {
-      "id": 48397028,
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 316,
-      "comments": 130
+      "id": 48408016,
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 123,
+      "comments": 49
+    },
+    {
+      "id": 48406640,
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "score": 212,
+      "comments": 71
+    },
+    {
+      "id": 48408442,
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "score": 45,
+      "comments": 12
+    },
+    {
+      "id": 48402116,
+      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+      "score": 14,
+      "comments": 3
     }
   ]
 }
