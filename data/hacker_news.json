@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-05 23:35:58 UTC",
-    "fetched_at_ist": "2026-06-06 05:05:58 IST",
+    "fetched_at_utc": "2026-06-06 01:31:41 UTC",
+    "fetched_at_ist": "2026-06-06 07:01:41 IST",
     "item_count": 5,
-    "content_hash": "6abe7116e5ce2460c760d999fab13cc41d51335e12bab2ef8bfb263de9e7b03d",
-    "previous_hash": "53e120546a24edda9b6cafc73fe68c879622ed8765a222885fa9c50383e6f364",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "cbda087bd4591d2c493273c2311e9b579c1151a5eb14cd0e179f1a2a3a87a9db",
+    "previous_hash": "6abe7116e5ce2460c760d999fab13cc41d51335e12bab2ef8bfb263de9e7b03d",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48419023,
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-      "score": 36,
-      "comments": 32
+      "id": 48420148,
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "score": 25,
+      "comments": 0
     },
     {
       "id": 48413464,
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 340,
-      "comments": 215
+      "score": 357,
+      "comments": 231
     },
     {
       "id": 48414367,
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 273,
-      "comments": 72
+      "score": 315,
+      "comments": 77
     },
     {
       "id": 48414653,
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 227,
-      "comments": 77
+      "score": 264,
+      "comments": 86
     },
     {
       "id": 48413500,
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 205,
-      "comments": 97
+      "score": 250,
+      "comments": 113
     }
   ]
 }
