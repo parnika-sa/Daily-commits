@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-06 17:33:44 UTC",
-    "fetched_at_ist": "2026-06-06 23:03:44 IST",
+    "fetched_at_utc": "2026-06-06 22:34:07 UTC",
+    "fetched_at_ist": "2026-06-07 04:04:07 IST",
     "item_count": 5,
-    "content_hash": "f9aa06d563343f20fbaa670b6fa5f982db4b9d20d126efc4e9515ee86c144469",
-    "previous_hash": "942f74b2538e77fd8d5481803e49fc76ae4f9f6c86c7ee79d11b95793048c049",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "04d3fbda7c1f68d75da66461445bbe38dff5d9e2a6b5037956eea947873282a4",
+    "previous_hash": "f9aa06d563343f20fbaa670b6fa5f982db4b9d20d126efc4e9515ee86c144469",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48425528,
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 137,
-      "comments": 109
+      "id": 48428025,
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 179,
+      "comments": 32
+    },
+    {
+      "id": 48427643,
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 260,
+      "comments": 90
+    },
+    {
+      "id": 48428796,
+      "title": "Universal Memory Protocol – a shared format for agent memory",
+      "url": "https://universalmemoryprotocol.io/",
+      "score": 36,
+      "comments": 18
     },
     {
       "id": 48425723,
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 33,
-      "comments": 4
-    },
-    {
-      "id": 48425247,
-      "title": "Benchmarks in Leipzig",
-      "url": "https://arxiv.org/abs/2606.05818",
-      "score": 73,
-      "comments": 34
+      "score": 159,
+      "comments": 40
     },
     {
       "id": 48424605,
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 84,
-      "comments": 208
-    },
-    {
-      "id": 48423990,
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 227,
-      "comments": 290
+      "score": 208,
+      "comments": 378
     }
   ]
 }
