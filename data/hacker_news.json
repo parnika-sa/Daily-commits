@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-06 22:34:07 UTC",
-    "fetched_at_ist": "2026-06-07 04:04:07 IST",
+    "fetched_at_utc": "2026-06-06 23:42:00 UTC",
+    "fetched_at_ist": "2026-06-07 05:12:00 IST",
     "item_count": 5,
-    "content_hash": "04d3fbda7c1f68d75da66461445bbe38dff5d9e2a6b5037956eea947873282a4",
-    "previous_hash": "f9aa06d563343f20fbaa670b6fa5f982db4b9d20d126efc4e9515ee86c144469",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "babb933e688db9b635f786daf73153455dc94d07bd43eeb8affe813c01e6273f",
+    "previous_hash": "04d3fbda7c1f68d75da66461445bbe38dff5d9e2a6b5037956eea947873282a4",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48428025,
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "url": "https://ntsc.rs/",
-      "score": 179,
-      "comments": 32
+      "score": 217,
+      "comments": 42
     },
     {
       "id": 48427643,
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 260,
-      "comments": 90
+      "score": 333,
+      "comments": 121
     },
     {
-      "id": 48428796,
-      "title": "Universal Memory Protocol – a shared format for agent memory",
-      "url": "https://universalmemoryprotocol.io/",
-      "score": 36,
-      "comments": 18
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 222,
+      "comments": 244
+    },
+    {
+      "id": 48428356,
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "score": 103,
+      "comments": 97
     },
     {
       "id": 48425723,
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 159,
-      "comments": 40
-    },
-    {
-      "id": 48424605,
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 208,
-      "comments": 378
+      "score": 175,
+      "comments": 44
     }
   ]
 }
