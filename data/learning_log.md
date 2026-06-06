@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-06 (last updated: 15:49 IST)
+
+## 📅 2026-06-06 (last updated: 23:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-06 11:08:52 IST | 942f74b2538e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-06 23:03:44 IST | f9aa06d56334 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-06 15:49:26 IST | a7c952e37aed | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 311 stars today
 
 ### 📰 Hacker News Stories
-- [C++: The Programming Language back cover raises questions not answered by front](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) — Score: 41
-- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) — Score: 124
-- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/) — Score: 113
-- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/) — Score: 27
-- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode) — Score: 27
+- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) — Score: 137
+- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) — Score: 33
+- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818) — Score: 73
+- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739) — Score: 84
+- [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) — Score: 227
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,634.0 🔴 -3.08%
