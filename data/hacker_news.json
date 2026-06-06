@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-06 01:31:41 UTC",
-    "fetched_at_ist": "2026-06-06 07:01:41 IST",
+    "fetched_at_utc": "2026-06-06 05:38:52 UTC",
+    "fetched_at_ist": "2026-06-06 11:08:52 IST",
     "item_count": 5,
-    "content_hash": "cbda087bd4591d2c493273c2311e9b579c1151a5eb14cd0e179f1a2a3a87a9db",
-    "previous_hash": "6abe7116e5ce2460c760d999fab13cc41d51335e12bab2ef8bfb263de9e7b03d",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "942f74b2538e77fd8d5481803e49fc76ae4f9f6c86c7ee79d11b95793048c049",
+    "previous_hash": "cbda087bd4591d2c493273c2311e9b579c1151a5eb14cd0e179f1a2a3a87a9db",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48421079,
+      "title": "C++: The Programming Language back cover raises questions not answered by front",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "score": 41,
+      "comments": 4
+    },
+    {
       "id": 48420148,
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 25,
-      "comments": 0
+      "score": 124,
+      "comments": 39
     },
     {
-      "id": 48413464,
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 357,
-      "comments": 231
+      "id": 48389360,
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "score": 113,
+      "comments": 24
     },
     {
-      "id": 48414367,
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 315,
-      "comments": 77
+      "id": 48421171,
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "score": 27,
+      "comments": 2
     },
     {
-      "id": 48414653,
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 264,
-      "comments": 86
-    },
-    {
-      "id": 48413500,
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 250,
-      "comments": 113
+      "id": 48421145,
+      "title": "Lockdown Mode",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "score": 27,
+      "comments": 11
     }
   ]
 }
