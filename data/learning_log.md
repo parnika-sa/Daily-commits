@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-07 (last updated: 11:45 IST)
+
+## 📅 2026-06-07 (last updated: 15:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 05:12:00 IST | babb933e688d | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-07 15:13:33 IST | 50fc47a09ba9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-07 11:45:24 IST | cea9b37615e6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 311 stars today
 
 ### 📰 Hacker News Stories
-- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) — Score: 217
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) — Score: 333
-- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) — Score: 222
-- [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671) — Score: 103
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) — Score: 175
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 147
+- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) — Score: 154
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 158
+- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 28
+- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) — Score: 84
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,688.0 🟢 +0.98%

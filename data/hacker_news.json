@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-06 23:42:00 UTC",
-    "fetched_at_ist": "2026-06-07 05:12:00 IST",
+    "fetched_at_utc": "2026-06-07 09:43:33 UTC",
+    "fetched_at_ist": "2026-06-07 15:13:33 IST",
     "item_count": 5,
-    "content_hash": "babb933e688db9b635f786daf73153455dc94d07bd43eeb8affe813c01e6273f",
-    "previous_hash": "04d3fbda7c1f68d75da66461445bbe38dff5d9e2a6b5037956eea947873282a4",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "50fc47a09ba9e0d272213f42892cb6319a5e2a2c4a8ab2adfa9c48e03eac6abb",
+    "previous_hash": "babb933e688db9b635f786daf73153455dc94d07bd43eeb8affe813c01e6273f",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48428025,
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "score": 217,
-      "comments": 42
+      "id": 48432199,
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "score": 147,
+      "comments": 35
     },
     {
-      "id": 48427643,
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 333,
-      "comments": 121
+      "id": 48431981,
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "score": 154,
+      "comments": 114
     },
     {
-      "id": 48425528,
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 222,
-      "comments": 244
+      "id": 48431461,
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 158,
+      "comments": 75
     },
     {
-      "id": 48428356,
-      "title": "Home alone: Remote work, isolation, and mental health",
-      "url": "https://www.science.org/doi/10.1126/science.aec7671",
-      "score": 103,
-      "comments": 97
+      "id": 48400151,
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 28,
+      "comments": 5
     },
     {
-      "id": 48425723,
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 175,
-      "comments": 44
+      "id": 48431286,
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "score": 84,
+      "comments": 41
     }
   ]
 }
