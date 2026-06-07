@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-08 (last updated: 03:04 IST)
+
+## 📅 2026-06-08 (last updated: 04:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-08 03:04:43 IST | a475ac705593 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-08 04:14:05 IST | 36872803cbe6 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-06-07 16:56:03 IST | f13bd62dea11 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 311 stars today
 
 ### 📰 Hacker News Stories
-- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) — Score: 166
-- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 170
-- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409) — Score: 38
-- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) — Score: 80
-- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) — Score: 83
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) — Score: 216
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 244
+- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514) — Score: 72
+- [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) — Score: 36
+- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) — Score: 95
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,502.0 🟢 +2.88%
