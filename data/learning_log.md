@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-07 (last updated: 16:56 IST)
+
+## 📅 2026-06-07 (last updated: 23:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 15:13:33 IST | 50fc47a09ba9 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-07 23:09:08 IST | 6f00c0344fd4 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-07 16:56:03 IST | f13bd62dea11 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 311 stars today
 
 ### 📰 Hacker News Stories
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 147
-- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) — Score: 154
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 158
-- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 28
-- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) — Score: 84
+- [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122) — Score: 124
+- [Cloning a Sennheiser BA2015 battery pack](https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/) — Score: 40
+- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) — Score: 569
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 305
+- [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe) — Score: 108
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,502.0 🟢 +2.88%
