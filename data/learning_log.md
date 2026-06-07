@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-08 (last updated: 23:09 IST)
+
+## 📅 2026-06-08 (last updated: 03:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 23:09:08 IST | 6f00c0344fd4 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-08 03:04:43 IST | a475ac705593 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-07 16:56:03 IST | f13bd62dea11 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 311 stars today
 
 ### 📰 Hacker News Stories
-- [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122) — Score: 124
-- [Cloning a Sennheiser BA2015 battery pack](https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/) — Score: 40
-- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) — Score: 569
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 305
-- [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe) — Score: 108
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) — Score: 166
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 170
+- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409) — Score: 38
+- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) — Score: 80
+- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) — Score: 83
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,502.0 🟢 +2.88%

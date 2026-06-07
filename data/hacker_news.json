@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-07 17:39:08 UTC",
-    "fetched_at_ist": "2026-06-07 23:09:08 IST",
+    "fetched_at_utc": "2026-06-07 21:34:43 UTC",
+    "fetched_at_ist": "2026-06-08 03:04:43 IST",
     "item_count": 5,
-    "content_hash": "6f00c0344fd4cd761680ad2a049b9c373bfe47a47dcf0c0057bd9ed716e8e37a",
-    "previous_hash": "50fc47a09ba9e0d272213f42892cb6319a5e2a2c4a8ab2adfa9c48e03eac6abb",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a475ac705593f7f855dba9a05773a30d92da27c54dd869f86c3ac912a87798a5",
+    "previous_hash": "6f00c0344fd4cd761680ad2a049b9c373bfe47a47dcf0c0057bd9ed716e8e37a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48435584,
-      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
-      "score": 124,
-      "comments": 63
+      "id": 48437609,
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "score": 166,
+      "comments": 93
     },
     {
-      "id": 48427480,
-      "title": "Cloning a Sennheiser BA2015 battery pack",
-      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-      "score": 40,
-      "comments": 3
+      "id": 48437406,
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 170,
+      "comments": 70
     },
     {
-      "id": 48434312,
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 569,
-      "comments": 527
+      "id": 48438212,
+      "title": "The architecture of the internet creates risks for democracy",
+      "url": "https://www.science.org/doi/10.1126/science.aei2409",
+      "score": 38,
+      "comments": 34
     },
     {
-      "id": 48432199,
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "score": 305,
-      "comments": 74
+      "id": 48437290,
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "score": 80,
+      "comments": 29
     },
     {
-      "id": 48433756,
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "score": 108,
-      "comments": 18
+      "id": 48436863,
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "score": 83,
+      "comments": 29
     }
   ]
 }
