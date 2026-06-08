@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-08 12:07:00 UTC",
-    "fetched_at_ist": "2026-06-08 17:37:00 IST",
+    "fetched_at_utc": "2026-06-08 18:40:37 UTC",
+    "fetched_at_ist": "2026-06-09 00:10:37 IST",
     "item_count": 5,
-    "content_hash": "b7bc6b94cd76c788ed34eec9a0ab563a1161ae4d4e09bb741c0c9296d2825fb8",
-    "previous_hash": "36872803cbe6685f77bcf4893805edecd06460dd7952b9b5cdfbf670cf021123",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f5b43c6a4a677893c6605e5a6065fceed0aef097f78ca6acf76329d4c36262fd",
+    "previous_hash": "b7bc6b94cd76c788ed34eec9a0ab563a1161ae4d4e09bb741c0c9296d2825fb8",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48442725,
-      "title": "The Cypherpunk Library",
-      "url": "https://www.cypherpunkbooks.com",
-      "score": 130,
-      "comments": 26
+      "id": 48446639,
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 315,
+      "comments": 227
     },
     {
-      "id": 48440792,
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 415,
-      "comments": 198
+      "id": 48447935,
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 175,
+      "comments": 56
     },
     {
-      "id": 48440952,
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 178,
-      "comments": 66
+      "id": 48445554,
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 486,
+      "comments": 107
     },
     {
-      "id": 48413645,
-      "title": "A Family Project (2022)",
-      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-      "score": 40,
-      "comments": 2
+      "id": 48448493,
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "url": "https://siraben.github.io/ti84p-re/",
+      "score": 42,
+      "comments": 8
     },
     {
-      "id": 48437406,
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 684,
-      "comments": 305
+      "id": 48444228,
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "score": 374,
+      "comments": 311
     }
   ]
 }
