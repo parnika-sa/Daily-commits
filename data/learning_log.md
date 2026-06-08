@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-08 (last updated: 17:37 IST)
+
+## 📅 2026-06-08 (last updated: 21:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-08 17:37:00 IST | b7bc6b94cd76 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-08 17:36:59 IST | 0ce59f0bbb73 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-06-08 21:47:12 IST | c4d4c73981d7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 684
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,843.0 🟢 +0.47%
-- Ethereum: $1,670.6 🟢 +2.74%
-- Solana: $66.34 🟢 +2.02%
-- Bnb: $598.75 🟢 +1.02%
+- Bitcoin: $63,806.0 🟢 +2.66%
+- Ethereum: $1,696.37 🟢 +4.07%
+- Solana: $67.36 🟢 +3.54%
+- Bnb: $605.49 🟢 +2.42%
 
 ---
 ## 📅 2026-06-07 (last updated: 23:09 IST)
