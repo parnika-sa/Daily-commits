@@ -2,98 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-04 18:09:11 UTC",
-    "fetched_at_ist": "2026-06-04 23:39:11 IST",
-    "item_count": 14,
-    "content_hash": "de133a5b894533382f850ba68d012effda3688bc56630704061b697882cb0028",
-    "previous_hash": "483a291bb7fb7ddbc03c134d5c7bd5f9d9995385550477c60c3201608a5153fa",
-    "new_repos_vs_previous": 10,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-06-08 12:06:59 UTC",
+    "fetched_at_ist": "2026-06-08 17:36:59 IST",
+    "item_count": 16,
+    "content_hash": "c976c5e3cd2c98033fc890f8bb0e31e4b60697c82c5cc8c3073ca22052d5003b",
+    "previous_hash": "de133a5b894533382f850ba68d012effda3688bc56630704061b697882cb0028",
+    "new_repos_vs_previous": 15,
+    "top_repo_changed": true
   },
   "repos": [
-    {
-      "name": "chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "3,139 stars today"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,951 stars today"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,736 stars today"
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": "105 stars today"
-    },
-    {
-      "name": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "stars_today": "311 stars today"
-    },
-    {
-      "name": "NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "stars_today": "138 stars today"
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_today": "482 stars today"
-    },
-    {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "language": "Python",
-      "stars_today": "583 stars today"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "Unknown",
-      "stars_today": "740 stars today"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "107 stars today"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_today": "255 stars today"
-    },
-    {
-      "name": "openclaw/openclaw-windows-node",
-      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "language": "C#",
-      "stars_today": "358 stars today"
-    },
-    {
-      "name": "reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "language": "TypeScript",
-      "stars_today": "308 stars today"
-    },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "173 stars today"
+      "stars_today": "1,111 stars today"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars_today": "1,554 stars today"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": "245 stars today"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "961 stars today"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "337 stars today"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "665 stars today"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars_today": "112 stars today"
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "262 stars today"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars_today": "103 stars today"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars_today": "452 stars today"
+    },
+    {
+      "name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_today": "957 stars today"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_today": "578 stars today"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "350 stars today"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_today": "154 stars today"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": "322 stars today"
     }
   ]
 }

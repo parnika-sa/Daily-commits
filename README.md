@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-07 22:44:05 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-08 12:07:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **chopratejas/headroom**
-- BTC: **$62,502.0** ↑ (+2.88%)
-- HN top story: **How's Linear so fast? A technical breakdown**
+- Top GitHub repo: **mvanhorn/last30days-skill**
+- BTC: **$62,843.0** ↑ (+0.47%)
+- HN top story: **The Cypherpunk Library**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-04 18:09:11 UTC | `de133a5b8945` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 22:44:05 UTC | `36872803cbe6` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-06-07 11:26:03 UTC | `f13bd62dea11` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-06-08 12:06:59 UTC | `c976c5e3cd2c` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-08 12:07:00 UTC | `b7bc6b94cd76` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-08 12:06:59 UTC | `0ce59f0bbb73` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-08` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `66` day(s) |
-| Last Commit (IST) | `2026-06-08 07:32:04 IST` |
+| Last Commit (IST) | `2026-06-08 12:31:42 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-05 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-06-07 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-06-08 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-08 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,502.0 | +2.88% | 🟢 |
-| Ethereum | $1,628.58 | +4.23% | 🟢 |
-| Solana | $64.67 | +4.01% | 🟢 |
-| Bnb | $593.43 | +3.20% | 🟢 |
+| Bitcoin | $62,843.0 | +0.47% | 🟢 |
+| Ethereum | $1,670.6 | +2.74% | 🟢 |
+| Solana | $66.34 | +2.02% | 🟢 |
+| Bnb | $598.75 | +1.02% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,139 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,951 stars today | The agent that grows with you |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,736 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 105 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
-| [github/spec-kit](https://github.com/github/spec-kit) | Python | 311 stars today | 💫 Toolkit to help you get started with Spec-Driven Development |
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | 138 stars today | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab… |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 482 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
-| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | 583 stars today | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,111 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 1,554 stars today | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [google/skills](https://github.com/google/skills) | Python | 481 stars today | Agent Skills for Google products and technologies |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 245 stars today | Desktop app to manage markdown knowledge bases |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 961 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 337 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 665 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 112 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) | 216 | 112 |
-| [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) | 244 | 124 |
-| [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514) | 72 | 48 |
-| [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) | 36 | 6 |
-| [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) | 95 | 43 |
+| [The Cypherpunk Library](https://www.cypherpunkbooks.com) | 130 | 26 |
+| [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/) | 415 | 198 |
+| [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) | 178 | 66 |
+| [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project) | 40 | 2 |
+| [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) | 684 | 305 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

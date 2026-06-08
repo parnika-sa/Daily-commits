@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-08 (last updated: 04:14 IST)
+
+## 📅 2026-06-08 (last updated: 17:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-04 23:39:11 IST | de133a5b8945 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-08 04:14:05 IST | 36872803cbe6 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-06-07 16:56:03 IST | f13bd62dea11 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-08 17:37:00 IST | b7bc6b94cd76 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-08 17:36:59 IST | 0ce59f0bbb73 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[chopratejas/headroom](https://github.com/chopratejas/headroom)** (Python) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60  
-  ⭐ 3,139 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 1,951 stars today
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 1,736 stars today
-- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** (Python) — Turn any PDF or image document into structured data for your AI. A powerful, lig  
-  ⭐ 105 stars today
-- **[github/spec-kit](https://github.com/github/spec-kit)** (Python) — 💫 Toolkit to help you get started with Spec-Driven Development  
-  ⭐ 311 stars today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 1,111 stars today
+- **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** (Python) — A vector index built on TurboQuant, written in Rust with Python bindings  
+  ⭐ 1,554 stars today
+- **[google/skills](https://github.com/google/skills)** (Python) — Agent Skills for Google products and technologies  
+  ⭐ 481 stars today
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** (TypeScript) — Desktop app to manage markdown knowledge bases  
+  ⭐ 245 stars today
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
+  ⭐ 961 stars today
 
 ### 📰 Hacker News Stories
-- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) — Score: 216
-- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 244
-- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514) — Score: 72
-- [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) — Score: 36
-- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) — Score: 95
+- [The Cypherpunk Library](https://www.cypherpunkbooks.com) — Score: 130
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/) — Score: 415
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) — Score: 178
+- [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project) — Score: 40
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 684
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,502.0 🟢 +2.88%
-- Ethereum: $1,628.58 🟢 +4.23%
-- Solana: $64.67 🟢 +4.01%
-- Bnb: $593.43 🟢 +3.20%
+- Bitcoin: $62,843.0 🟢 +0.47%
+- Ethereum: $1,670.6 🟢 +2.74%
+- Solana: $66.34 🟢 +2.02%
+- Bnb: $598.75 🟢 +1.02%
 
 ---
 ## 📅 2026-06-07 (last updated: 23:09 IST)

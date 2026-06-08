@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-07 22:44:05 UTC",
-    "fetched_at_ist": "2026-06-08 04:14:05 IST",
+    "fetched_at_utc": "2026-06-08 12:07:00 UTC",
+    "fetched_at_ist": "2026-06-08 17:37:00 IST",
     "item_count": 5,
-    "content_hash": "36872803cbe6685f77bcf4893805edecd06460dd7952b9b5cdfbf670cf021123",
-    "previous_hash": "a475ac705593f7f855dba9a05773a30d92da27c54dd869f86c3ac912a87798a5",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "b7bc6b94cd76c788ed34eec9a0ab563a1161ae4d4e09bb741c0c9296d2825fb8",
+    "previous_hash": "36872803cbe6685f77bcf4893805edecd06460dd7952b9b5cdfbf670cf021123",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48437609,
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "score": 216,
-      "comments": 112
+      "id": 48442725,
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "score": 130,
+      "comments": 26
+    },
+    {
+      "id": 48440792,
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "score": 415,
+      "comments": 198
+    },
+    {
+      "id": 48440952,
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "score": 178,
+      "comments": 66
+    },
+    {
+      "id": 48413645,
+      "title": "A Family Project (2022)",
+      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+      "score": 40,
+      "comments": 2
     },
     {
       "id": 48437406,
       "title": "Building from zero after addiction, prison, and a felony",
       "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 244,
-      "comments": 124
-    },
-    {
-      "id": 48437568,
-      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "url": "https://arxiv.org/abs/2605.31514",
-      "score": 72,
-      "comments": 48
-    },
-    {
-      "id": 48408854,
-      "title": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 36,
-      "comments": 6
-    },
-    {
-      "id": 48437290,
-      "title": "Making peace with your unlived dreams (2023)",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 95,
-      "comments": 43
+      "score": 684,
+      "comments": 305
     }
   ]
 }
