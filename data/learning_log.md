@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-09 (last updated: 08:57 IST)
+
+## 📅 2026-06-09 (last updated: 16:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-09 00:10:37 IST | f5b43c6a4a67 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-09 16:08:37 IST | ace9690c1a26 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-09 08:57:31 IST | 6a17d2dd07a9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 961 stars today
 
 ### 📰 Hacker News Stories
-- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) — Score: 315
-- [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/) — Score: 175
-- [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/) — Score: 486
-- [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/) — Score: 42
-- [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) — Score: 374
+- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) — Score: 173
+- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) — Score: 29
+- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) — Score: 29
+- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) — Score: 214
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) — Score: 607
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,765.0 🔴 -0.65%
