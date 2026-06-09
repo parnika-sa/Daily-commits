@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-09 (last updated: 16:08 IST)
+
+## 📅 2026-06-09 (last updated: 19:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-09 16:08:37 IST | ace9690c1a26 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-09 19:00:54 IST | 84865b964a4e | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-09 08:57:31 IST | 6a17d2dd07a9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 961 stars today
 
 ### 📰 Hacker News Stories
-- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) — Score: 173
-- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) — Score: 29
-- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) — Score: 29
-- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) — Score: 214
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) — Score: 607
+- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) — Score: 199
+- [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/) — Score: 141
+- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) — Score: 306
+- [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/) — Score: 81
+- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) — Score: 367
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,765.0 🔴 -0.65%

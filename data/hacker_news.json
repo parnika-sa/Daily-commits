@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-09 10:38:37 UTC",
-    "fetched_at_ist": "2026-06-09 16:08:37 IST",
+    "fetched_at_utc": "2026-06-09 13:30:54 UTC",
+    "fetched_at_ist": "2026-06-09 19:00:54 IST",
     "item_count": 5,
-    "content_hash": "ace9690c1a26286ec5c4c4e19020a4a8639617b00498c41f8456f1cf4b2c7559",
-    "previous_hash": "f5b43c6a4a677893c6605e5a6065fceed0aef097f78ca6acf76329d4c36262fd",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "84865b964a4e983fc45cc46254c83230a0121f71e4841e6d40c09bed528d1c11",
+    "previous_hash": "ace9690c1a26286ec5c4c4e19020a4a8639617b00498c41f8456f1cf4b2c7559",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48457830,
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 173,
-      "comments": 72
-    },
-    {
       "id": 48458890,
       "title": "GentleOS – Classic operating system with a lovely retro GUI",
       "url": "https://github.com/luke8086/gentleos32",
-      "score": 29,
-      "comments": 2
+      "score": 199,
+      "comments": 45
     },
     {
-      "id": 48458257,
-      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 29,
-      "comments": 13
+      "id": 48459294,
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "score": 141,
+      "comments": 26
+    },
+    {
+      "id": 48457830,
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 306,
+      "comments": 124
+    },
+    {
+      "id": 48458586,
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "score": 81,
+      "comments": 31
     },
     {
       "id": 48421858,
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 214,
-      "comments": 36
-    },
-    {
-      "id": 48450142,
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 607,
-      "comments": 459
+      "score": 367,
+      "comments": 59
     }
   ]
 }
