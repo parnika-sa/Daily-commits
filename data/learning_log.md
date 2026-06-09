@@ -7,14 +7,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-09 (last updated: 00:10 IST)
+
+## 📅 2026-06-09 (last updated: 08:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-09 00:10:37 IST | f5b43c6a4a67 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-08 21:47:12 IST | c4d4c73981d7 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-06-09 08:57:31 IST | 6a17d2dd07a9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) — Score: 374
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,806.0 🟢 +2.66%
-- Ethereum: $1,696.37 🟢 +4.07%
-- Solana: $67.36 🟢 +3.54%
-- Bnb: $605.49 🟢 +2.42%
+- Bitcoin: $62,765.0 🔴 -0.65%
+- Ethereum: $1,667.13 🔴 -0.86%
+- Solana: $65.84 🔴 -0.79%
+- Bnb: $598.28 🔴 -0.66%
 
 ---
 ## 📅 2026-06-08 (last updated: 21:47 IST)
