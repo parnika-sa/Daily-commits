@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-11 (last updated: 22:51 IST)
+
+## 📅 2026-06-11 (last updated: 04:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-10 16:08:06 IST | 5e0117e19503 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-10 22:51:45 IST | 91cd552bb11f | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-11 04:49:09 IST | 1722e82c0a1a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166) — Score: 69
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,087.0 🟢 +0.60%
-- Ethereum: $1,639.73 🔴 -0.28%
-- Solana: $64.59 🔴 -0.37%
-- Bnb: $591.23 🔴 -0.04%
+- Bitcoin: $61,195.0 🔴 -0.93%
+- Ethereum: $1,610.15 🔴 -1.78%
+- Solana: $62.51 🔴 -3.64%
+- Bnb: $583.03 🔴 -1.68%
 
 ---
 ## 📅 2026-06-10 (last updated: 22:51 IST)
