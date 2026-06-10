@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-10 10:38:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-10 17:21:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$61,336.0** ↓ (-3.14%)
+- BTC: **$62,087.0** ↑ (+0.60%)
 - HN top story: **Mercedes‑Benz starts large‑scale production of electric axial flux motor**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 12:06:59 UTC | `c976c5e3cd2c` | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-10 10:38:06 UTC | `5e0117e19503` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-10 06:15:42 UTC | `1259bb19c31b` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-10 17:21:45 UTC | `91cd552bb11f` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-10` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `67` day(s) |
-| Last Commit (IST) | `2026-06-10 16:08:07 IST` |
+| Last Commit (IST) | `2026-06-10 19:29:03 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-07 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-06-08 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-09 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-10 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $61,336.0 | -3.14% | 🔴 |
-| Ethereum | $1,627.18 | -3.60% | 🔴 |
-| Solana | $63.94 | -4.83% | 🔴 |
-| Bnb | $585.39 | -3.01% | 🔴 |
+| Bitcoin | $62,087.0 | +0.60% | 🟢 |
+| Ethereum | $1,639.73 | -0.28% | 🔴 |
+| Solana | $64.59 | -0.37% | 🔴 |
+| Bnb | $591.23 | -0.04% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
