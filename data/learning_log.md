@@ -7,14 +7,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-10 (last updated: 05:11 IST)
+
+## 📅 2026-06-10 (last updated: 11:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-10 05:11:18 IST | 92d29170f2c4 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-10 01:56:34 IST | 682abef0b4ba | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-10 11:45:42 IST | 1259bb19c31b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) — Score: 270
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $61,974.0 🔴 -1.90%
-- Ethereum: $1,655.47 🔴 -1.51%
-- Solana: $65.31 🔴 -2.70%
-- Bnb: $596.7 🔴 -1.52%
+- Bitcoin: $61,336.0 🔴 -3.14%
+- Ethereum: $1,627.18 🔴 -3.60%
+- Solana: $63.94 🔴 -4.83%
+- Bnb: $585.39 🔴 -3.01%
 
 ---
 ## 📅 2026-06-09 (last updated: 23:57 IST)
