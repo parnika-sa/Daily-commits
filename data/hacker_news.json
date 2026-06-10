@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-09 23:41:18 UTC",
-    "fetched_at_ist": "2026-06-10 05:11:18 IST",
+    "fetched_at_utc": "2026-06-10 10:38:06 UTC",
+    "fetched_at_ist": "2026-06-10 16:08:06 IST",
     "item_count": 5,
-    "content_hash": "92d29170f2c4eeac3ac8b53182c70daca66af45e19d5025d8dd58485ec6800ee",
-    "previous_hash": "84865b964a4e983fc45cc46254c83230a0121f71e4841e6d40c09bed528d1c11",
+    "content_hash": "5e0117e195033d86a25827476fffe9613d6336d92e38c565ea9125302bc53927",
+    "previous_hash": "92d29170f2c4eeac3ac8b53182c70daca66af45e19d5025d8dd58485ec6800ee",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48472877,
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "score": 97,
+      "comments": 43
+    },
+    {
+      "id": 48469658,
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "score": 787,
+      "comments": 287
+    },
+    {
+      "id": 48473662,
+      "title": "Port React Compiler to Rust",
+      "url": "https://github.com/react/react/pull/36173",
+      "score": 37,
+      "comments": 17
+    },
+    {
       "id": 48463808,
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 1636,
-      "comments": 1292
+      "score": 2260,
+      "comments": 1744
     },
     {
-      "id": 48467705,
-      "title": "Upcoming breaking changes for NPM v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 109,
-      "comments": 36
-    },
-    {
-      "id": 48466277,
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 133,
-      "comments": 15
-    },
-    {
-      "id": 48459294,
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 741,
-      "comments": 122
-    },
-    {
-      "id": 48467896,
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 270,
-      "comments": 127
+      "id": 48473166,
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "score": 69,
+      "comments": 24
     }
   ]
 }
