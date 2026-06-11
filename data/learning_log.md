@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-11 (last updated: 04:49 IST)
+
+## 📅 2026-06-11 (last updated: 07:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-10 16:08:06 IST | 5e0117e19503 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-11 07:14:40 IST | cdb9e011ab14 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-11 04:49:09 IST | 1722e82c0a1a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 961 stars today
 
 ### 📰 Hacker News Stories
-- [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) — Score: 97
-- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) — Score: 787
-- [Port React Compiler to Rust](https://github.com/react/react/pull/36173) — Score: 37
-- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) — Score: 2260
-- [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166) — Score: 69
+- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — Score: 207
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) — Score: 78
+- [πFS](https://github.com/philipl/pifs) — Score: 516
+- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) — Score: 88
+- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 170
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,195.0 🔴 -0.93%
