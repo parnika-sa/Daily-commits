@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-11 06:27:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-11 18:07:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$62,866.0** ↑ (+2.55%)
-- HN top story: **Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable**
+- Top GitHub repo: **apple/container**
+- BTC: **$63,361.0** ↑ (+2.24%)
+- HN top story: **MiMo Code is now released and open-source**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-08 12:06:59 UTC | `c976c5e3cd2c` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-11 01:44:40 UTC | `cdb9e011ab14` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-11 06:27:01 UTC | `c726357afe6b` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-06-11 18:07:25 UTC | `e6af8c42bc08` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-11 18:07:26 UTC | `34726c4c045d` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-11 18:07:25 UTC | `9252affb6559` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
+- GitHub: +16 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-11` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `68` day(s) |
-| Last Commit (IST) | `2026-06-11 16:37:56 IST` |
+| Last Commit (IST) | `2026-06-11 20:22:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-08 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-09 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-11 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,866.0 | +2.55% | 🟢 |
-| Ethereum | $1,658.8 | +1.95% | 🟢 |
-| Solana | $65.24 | +1.81% | 🟢 |
-| Bnb | $596.44 | +1.79% | 🟢 |
+| Bitcoin | $63,361.0 | +2.24% | 🟢 |
+| Ethereum | $1,678.27 | +2.92% | 🟢 |
+| Solana | $66.88 | +4.34% | 🟢 |
+| Bnb | $603.92 | +2.46% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,111 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 1,554 stars today | A vector index built on TurboQuant, written in Rust with Python bindings |
-| [google/skills](https://github.com/google/skills) | Python | 481 stars today | Agent Skills for Google products and technologies |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 245 stars today | Desktop app to manage markdown knowledge bases |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 961 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 337 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 665 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 112 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
+| [apple/container](https://github.com/apple/container) | Swift | 2,419 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,275 stars today | Production-grade engineering skills for AI coding agents. |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 427 stars today | open-source healthcare ai |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 1,944 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 308 stars today | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns… |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 665 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 369 stars today | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni… |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 604 stars today | Desktop app to manage markdown knowledge bases |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) | 207 | 195 |
-| [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) | 78 | 10 |
-| [πFS](https://github.com/philipl/pifs) | 516 | 132 |
-| [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) | 88 | 47 |
-| [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) | 170 | 70 |
+| [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) | 267 | 139 |
+| [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) | 217 | 37 |
+| [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb) | 58 | 23 |
+| [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) | 104 | 41 |
+| [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) | 73 | 30 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

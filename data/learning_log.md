@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-11 (last updated: 11:57 IST)
+
+## 📅 2026-06-11 (last updated: 23:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-11 07:14:40 IST | cdb9e011ab14 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-11 11:57:01 IST | c726357afe6b | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-06-11 23:37:25 IST | e6af8c42bc08 | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-11 23:37:26 IST | 34726c4c045d | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-11 23:37:25 IST | 9252affb6559 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +15 new repos, top changed: yes
+- GitHub: +16 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 1,111 stars today
-- **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** (Python) — A vector index built on TurboQuant, written in Rust with Python bindings  
-  ⭐ 1,554 stars today
-- **[google/skills](https://github.com/google/skills)** (Python) — Agent Skills for Google products and technologies  
-  ⭐ 481 stars today
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** (TypeScript) — Desktop app to manage markdown knowledge bases  
-  ⭐ 245 stars today
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
-  ⭐ 961 stars today
+- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
+  ⭐ 2,419 stars today
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
+  ⭐ 3,275 stars today
+- **[maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)** (Python) — open-source healthcare ai  
+  ⭐ 427 stars today
+- **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** (Unknown) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove  
+  ⭐ 1,944 stars today
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** (Python) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns  
+  ⭐ 308 stars today
 
 ### 📰 Hacker News Stories
-- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — Score: 207
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) — Score: 78
-- [πFS](https://github.com/philipl/pifs) — Score: 516
-- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) — Score: 88
-- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 170
+- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) — Score: 267
+- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 217
+- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb) — Score: 58
+- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) — Score: 104
+- [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) — Score: 73
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,866.0 🟢 +2.55%
-- Ethereum: $1,658.8 🟢 +1.95%
-- Solana: $65.24 🟢 +1.81%
-- Bnb: $596.44 🟢 +1.79%
+- Bitcoin: $63,361.0 🟢 +2.24%
+- Ethereum: $1,678.27 🟢 +2.92%
+- Solana: $66.88 🟢 +4.34%
+- Bnb: $603.92 🟢 +2.46%
 
 ---
 ## 📅 2026-06-10 (last updated: 22:51 IST)
