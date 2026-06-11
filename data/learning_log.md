@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-11 (last updated: 07:14 IST)
+
+## 📅 2026-06-11 (last updated: 11:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-08 17:36:59 IST | c976c5e3cd2c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-11 07:14:40 IST | cdb9e011ab14 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-11 04:49:09 IST | 1722e82c0a1a | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-11 11:57:01 IST | c726357afe6b | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 170
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $61,195.0 🔴 -0.93%
-- Ethereum: $1,610.15 🔴 -1.78%
-- Solana: $62.51 🔴 -3.64%
-- Bnb: $583.03 🔴 -1.68%
+- Bitcoin: $62,866.0 🟢 +2.55%
+- Ethereum: $1,658.8 🟢 +1.95%
+- Solana: $65.24 🟢 +1.81%
+- Bnb: $596.44 🟢 +1.79%
 
 ---
 ## 📅 2026-06-10 (last updated: 22:51 IST)
