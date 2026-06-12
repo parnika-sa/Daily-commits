@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-12 (last updated: 17:31 IST)
+
+## 📅 2026-06-12 (last updated: 21:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-06-12 17:31:45 IST | a498a2484ba9 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-12 17:31:46 IST | 662155f623bd | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-12 21:06:41 IST | 3438cab1c8f2 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-12 17:31:45 IST | 16c1b5329b50 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 752
-- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) — Score: 25
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 891
-- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 511
-- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 1281
+- [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/) — Score: 81
+- [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0) — Score: 110
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 1139
+- [Maxproof](https://arxiv.org/abs/2606.13473) — Score: 87
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 1195
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,684.0 🟢 +1.14%

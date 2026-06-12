@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-12 12:01:46 UTC",
-    "fetched_at_ist": "2026-06-12 17:31:46 IST",
+    "fetched_at_utc": "2026-06-12 15:36:41 UTC",
+    "fetched_at_ist": "2026-06-12 21:06:41 IST",
     "item_count": 5,
-    "content_hash": "662155f623bdee92d89543f6a706861f15fc0b196c6d6670c806de0376118d8d",
-    "previous_hash": "0cffae25ad67e40370d0b6adc5141e06341f499a79c34b1a7e2ac29c3824bf24",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "3438cab1c8f277da797a332a99d3b926bb138269d843280194ac42dcc9532fbd",
+    "previous_hash": "662155f623bdee92d89543f6a706861f15fc0b196c6d6670c806de0376118d8d",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48504697,
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "score": 81,
+      "comments": 33
+    },
+    {
+      "id": 48504063,
+      "title": "WASI 0.3.0 Released",
+      "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
+      "score": 110,
+      "comments": 28
+    },
     {
       "id": 48500012,
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 752,
-      "comments": 294
+      "score": 1139,
+      "comments": 429
     },
     {
-      "id": 48502601,
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "score": 25,
-      "comments": 9
+      "id": 48503014,
+      "title": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "score": 87,
+      "comments": 7
     },
     {
       "id": 48497609,
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 891,
-      "comments": 294
-    },
-    {
-      "id": 48498385,
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 511,
-      "comments": 169
-    },
-    {
-      "id": 48490024,
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1281,
-      "comments": 310
+      "score": 1195,
+      "comments": 388
     }
   ]
 }
