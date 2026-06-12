@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-12 (last updated: 03:56 IST)
+
+## 📅 2026-06-12 (last updated: 14:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-06-11 23:37:25 IST | e6af8c42bc08 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-12 02:04:01 IST | feb9d178b29e | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-12 14:10:51 IST | 0cffae25ad67 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-12 03:56:21 IST | 76f1f6855f05 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 308 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 635
-- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) — Score: 347
-- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) — Score: 235
-- [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/) — Score: 157
-- [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/) — Score: 161
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 434
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 430
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 657
+- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 1196
+- [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/) — Score: 80
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,512.0 🟢 +3.74%

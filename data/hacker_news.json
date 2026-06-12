@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-11 20:34:01 UTC",
-    "fetched_at_ist": "2026-06-12 02:04:01 IST",
+    "fetched_at_utc": "2026-06-12 08:40:51 UTC",
+    "fetched_at_ist": "2026-06-12 14:10:51 IST",
     "item_count": 5,
-    "content_hash": "feb9d178b29e308f4d60d128f698003729d491ef55b13cd80da5bc7231aa4341",
-    "previous_hash": "34726c4c045de7a1931959ebe62e84a91a9cb5238f8e33f007c821db471ad604",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "0cffae25ad67e40370d0b6adc5141e06341f499a79c34b1a7e2ac29c3824bf24",
+    "previous_hash": "feb9d178b29e308f4d60d128f698003729d491ef55b13cd80da5bc7231aa4341",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48500012,
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 434,
+      "comments": 146
+    },
+    {
+      "id": 48498385,
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 430,
+      "comments": 144
+    },
+    {
+      "id": 48497609,
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 657,
+      "comments": 210
+    },
+    {
       "id": 48490024,
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 635,
-      "comments": 153
+      "score": 1196,
+      "comments": 276
     },
     {
-      "id": 48490826,
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 347,
-      "comments": 186
-    },
-    {
-      "id": 48491830,
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 235,
-      "comments": 83
-    },
-    {
-      "id": 48492215,
-      "title": "The RCE that AMD wouldn't fix",
-      "url": "https://mrbruh.com/amd2/",
-      "score": 157,
-      "comments": 62
-    },
-    {
-      "id": 48474274,
-      "title": "Emacs appearances in pop culture",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 161,
-      "comments": 26
+      "id": 48500404,
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "score": 80,
+      "comments": 68
     }
   ]
 }
