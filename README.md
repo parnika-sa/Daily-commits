@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-12 15:36:41 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-12 21:25:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **apple/container**
-- BTC: **$63,684.0** ↑ (+1.14%)
+- BTC: **$63,538.0** ↑ (+0.10%)
 - HN top story: **A Call to Action: Stop the FCC's KYC Regime**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-06-12 12:01:45 UTC | `a498a2484ba9` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-12 15:36:41 UTC | `3438cab1c8f2` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 12:01:45 UTC | `16c1b5329b50` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-12 21:25:06 UTC | `09157449a83e` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-13` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-06-12 23:22:08 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `69` day(s) |
+| Last Commit (IST) | `2026-06-13 01:25:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-13 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-06-13 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,684.0 | +1.14% | 🟢 |
-| Ethereum | $1,671.99 | +0.62% | 🟢 |
-| Solana | $66.88 | +1.71% | 🟢 |
-| Bnb | $606.09 | +1.05% | 🟢 |
+| Bitcoin | $63,538.0 | +0.10% | 🟢 |
+| Ethereum | $1,666.26 | -0.74% | 🔴 |
+| Solana | $66.83 | -0.12% | 🔴 |
+| Bnb | $603.56 | -0.08% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
