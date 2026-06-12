@@ -2,56 +2,56 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-11 18:07:25 UTC",
-    "fetched_at_ist": "2026-06-11 23:37:25 IST",
+    "fetched_at_utc": "2026-06-12 12:01:45 UTC",
+    "fetched_at_ist": "2026-06-12 17:31:45 IST",
     "item_count": 19,
-    "content_hash": "e6af8c42bc08f43f6a04d4f1797da65deaedced9596fb24747978908c8cf8ffc",
-    "previous_hash": "c976c5e3cd2c98033fc890f8bb0e31e4b60697c82c5cc8c3073ca22052d5003b",
-    "new_repos_vs_previous": 16,
-    "top_repo_changed": true
+    "content_hash": "a498a2484ba91b17f758e42c0c579468b980f7acab669e132aa146f70afad6d8",
+    "previous_hash": "e6af8c42bc08f43f6a04d4f1797da65deaedced9596fb24747978908c8cf8ffc",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "2,419 stars today"
+      "stars_today": "2,430 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "3,275 stars today"
+      "stars_today": "3,278 stars today"
     },
     {
       "name": "maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "427 stars today"
+      "stars_today": "426 stars today"
     },
     {
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "Unknown",
-      "stars_today": "1,944 stars today"
+      "stars_today": "1,978 stars today"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "308 stars today"
+      "stars_today": "319 stars today"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "665 stars today"
+      "stars_today": "661 stars today"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "Unknown",
-      "stars_today": "369 stars today"
+      "stars_today": "368 stars today"
     },
     {
       "name": "refactoringhq/tolaria",
@@ -63,67 +63,67 @@
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,323 stars today"
+      "stars_today": "1,322 stars today"
     },
     {
       "name": "restic/restic",
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
-      "stars_today": "33 stars today"
+      "stars_today": "61 stars today"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,434 stars today"
+      "stars_today": "1,599 stars today"
     },
     {
       "name": "masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars_today": "510 stars today"
+      "stars_today": "507 stars today"
     },
     {
       "name": "chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "31 stars today"
+      "stars_today": "67 stars today"
     },
     {
       "name": "kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "language": "Go",
-      "stars_today": "98 stars today"
+      "stars_today": "114 stars today"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "Unknown",
-      "stars_today": "94 stars today"
+      "stars_today": "89 stars today"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_today": "345 stars today"
+      "stars_today": "88 stars today"
     },
     {
       "name": "hexo-ai/sia",
       "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
       "language": "Python",
-      "stars_today": "177 stars today"
+      "stars_today": "199 stars today"
     },
     {
       "name": "mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_today": "26 stars today"
+      "stars_today": "53 stars today"
     },
     {
       "name": "bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars_today": "243 stars today"
+      "stars_today": "161 stars today"
     }
   ]
 }

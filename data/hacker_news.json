@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-12 08:40:51 UTC",
-    "fetched_at_ist": "2026-06-12 14:10:51 IST",
+    "fetched_at_utc": "2026-06-12 12:01:46 UTC",
+    "fetched_at_ist": "2026-06-12 17:31:46 IST",
     "item_count": 5,
-    "content_hash": "0cffae25ad67e40370d0b6adc5141e06341f499a79c34b1a7e2ac29c3824bf24",
-    "previous_hash": "feb9d178b29e308f4d60d128f698003729d491ef55b13cd80da5bc7231aa4341",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "662155f623bdee92d89543f6a706861f15fc0b196c6d6670c806de0376118d8d",
+    "previous_hash": "0cffae25ad67e40370d0b6adc5141e06341f499a79c34b1a7e2ac29c3824bf24",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48500012,
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 434,
-      "comments": 146
+      "score": 752,
+      "comments": 294
     },
     {
-      "id": 48498385,
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 430,
-      "comments": 144
+      "id": 48502601,
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "score": 25,
+      "comments": 9
     },
     {
       "id": 48497609,
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 657,
-      "comments": 210
+      "score": 891,
+      "comments": 294
+    },
+    {
+      "id": 48498385,
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 511,
+      "comments": 169
     },
     {
       "id": 48490024,
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1196,
-      "comments": 276
-    },
-    {
-      "id": 48500404,
-      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
-      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
-      "score": 80,
-      "comments": 68
+      "score": 1281,
+      "comments": 310
     }
   ]
 }

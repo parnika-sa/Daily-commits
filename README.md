@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-12 08:40:51 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-12 12:01:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **apple/container**
-- BTC: **$63,512.0** ↑ (+3.74%)
+- BTC: **$63,684.0** ↑ (+1.14%)
 - HN top story: **AI agent bankrupted their operator while trying to scan DN42**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-06-11 18:07:25 UTC | `e6af8c42bc08` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-12 08:40:51 UTC | `0cffae25ad67` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-11 22:26:21 UTC | `76f1f6855f05` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-06-12 12:01:45 UTC | `a498a2484ba9` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-12 12:01:46 UTC | `662155f623bd` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-06-12 12:01:45 UTC | `16c1b5329b50` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-12` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `68` day(s) |
-| Last Commit (IST) | `2026-06-12 09:38:58 IST` |
+| Last Commit (IST) | `2026-06-12 14:10:51 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-09 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-12 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-06-12 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,512.0 | +3.74% | 🟢 |
-| Ethereum | $1,676.26 | +4.12% | 🟢 |
-| Solana | $66.91 | +6.98% | 🟢 |
-| Bnb | $603.29 | +3.46% | 🟢 |
+| Bitcoin | $63,684.0 | +1.14% | 🟢 |
+| Ethereum | $1,671.99 | +0.62% | 🟢 |
+| Solana | $66.88 | +1.71% | 🟢 |
+| Bnb | $606.09 | +1.05% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [apple/container](https://github.com/apple/container) | Swift | 2,419 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,275 stars today | Production-grade engineering skills for AI coding agents. |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 427 stars today | open-source healthcare ai |
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 1,944 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 308 stars today | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns… |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 665 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 369 stars today | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni… |
+| [apple/container](https://github.com/apple/container) | Swift | 2,430 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,278 stars today | Production-grade engineering skills for AI coding agents. |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 426 stars today | open-source healthcare ai |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 1,978 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 319 stars today | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns… |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 661 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 368 stars today | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni… |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 604 stars today | Desktop app to manage markdown knowledge bases |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | 434 | 146 |
-| [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) | 430 | 144 |
-| [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) | 657 | 210 |
-| [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) | 1196 | 276 |
-| [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/) | 80 | 68 |
+| [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | 752 | 294 |
+| [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) | 25 | 9 |
+| [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) | 891 | 294 |
+| [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) | 511 | 169 |
+| [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) | 1281 | 310 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

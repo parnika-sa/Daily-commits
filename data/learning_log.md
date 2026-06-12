@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-12 (last updated: 14:10 IST)
+
+## 📅 2026-06-12 (last updated: 17:31 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-06-11 23:37:25 IST | e6af8c42bc08 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-12 14:10:51 IST | 0cffae25ad67 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 03:56:21 IST | 76f1f6855f05 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-06-12 17:31:45 IST | a498a2484ba9 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-12 17:31:46 IST | 662155f623bd | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-06-12 17:31:45 IST | 16c1b5329b50 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
-  ⭐ 2,419 stars today
+  ⭐ 2,430 stars today
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 3,275 stars today
+  ⭐ 3,278 stars today
 - **[maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)** (Python) — open-source healthcare ai  
-  ⭐ 427 stars today
+  ⭐ 426 stars today
 - **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** (Unknown) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove  
-  ⭐ 1,944 stars today
+  ⭐ 1,978 stars today
 - **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** (Python) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns  
-  ⭐ 308 stars today
+  ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 434
-- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 430
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 657
-- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 1196
-- [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/) — Score: 80
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 752
+- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) — Score: 25
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 891
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 511
+- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) — Score: 1281
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,512.0 🟢 +3.74%
-- Ethereum: $1,676.26 🟢 +4.12%
-- Solana: $66.91 🟢 +6.98%
-- Bnb: $603.29 🟢 +3.46%
+- Bitcoin: $63,684.0 🟢 +1.14%
+- Ethereum: $1,671.99 🟢 +0.62%
+- Solana: $66.88 🟢 +1.71%
+- Bnb: $606.09 🟢 +1.05%
 
 ---
 ## 📅 2026-06-11 (last updated: 23:37 IST)
