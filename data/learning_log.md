@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-13 (last updated: 13:46 IST)
+
+## 📅 2026-06-13 (last updated: 16:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-06-13 05:43:39 IST | ae8cd8f6ac58 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-13 05:43:41 IST | 24bd42caac29 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-13 16:12:46 IST | 51db6c57de9f | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-13 13:46:17 IST | fed3c254a906 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 179 stars today
 
 ### 📰 Hacker News Stories
-- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) — Score: 114
-- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) — Score: 664
-- [Show HN: Putt.day a daily mini golf game](https://putt.day/) — Score: 39
-- [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/) — Score: 111
-- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) — Score: 53
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751) — Score: 196
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) — Score: 481
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) — Score: 2360
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) — Score: 829
+- [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca) — Score: 9
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,758.0 🟢 +0.64%
