@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-12 15:36:41 UTC",
-    "fetched_at_ist": "2026-06-12 21:06:41 IST",
+    "fetched_at_utc": "2026-06-13 00:13:41 UTC",
+    "fetched_at_ist": "2026-06-13 05:43:41 IST",
     "item_count": 5,
-    "content_hash": "3438cab1c8f277da797a332a99d3b926bb138269d843280194ac42dcc9532fbd",
-    "previous_hash": "662155f623bdee92d89543f6a706861f15fc0b196c6d6670c806de0376118d8d",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "24bd42caac29dd4e3b80c2de56f76a10e47fc6b626574330b4ddc4b9a46c3f58",
+    "previous_hash": "3438cab1c8f277da797a332a99d3b926bb138269d843280194ac42dcc9532fbd",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48504697,
-      "title": "A Call to Action: Stop the FCC's KYC Regime",
-      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-      "score": 81,
-      "comments": 33
-    },
-    {
-      "id": 48504063,
-      "title": "WASI 0.3.0 Released",
-      "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-      "score": 110,
+      "id": 48510010,
+      "title": "Renault: Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "score": 114,
       "comments": 28
     },
     {
-      "id": 48500012,
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 1139,
-      "comments": 429
+      "id": 48505231,
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 664,
+      "comments": 168
     },
     {
-      "id": 48503014,
-      "title": "Maxproof",
-      "url": "https://arxiv.org/abs/2606.13473",
-      "score": 87,
-      "comments": 7
+      "id": 48510341,
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "score": 39,
+      "comments": 28
     },
     {
-      "id": 48497609,
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1195,
-      "comments": 388
+      "id": 48508726,
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "score": 111,
+      "comments": 49
+    },
+    {
+      "id": 48510046,
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "score": 53,
+      "comments": 24
     }
   ]
 }

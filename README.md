@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-12 21:25:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-13 00:13:41 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **apple/container**
-- BTC: **$63,538.0** ↑ (+0.10%)
-- HN top story: **A Call to Action: Stop the FCC's KYC Regime**
+- Top GitHub repo: **addyosmani/agent-skills**
+- BTC: **$63,532.0** ↓ (-0.19%)
+- HN top story: **Renault: Electric motors with no rare earths**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-06-12 12:01:45 UTC | `a498a2484ba9` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-12 15:36:41 UTC | `3438cab1c8f2` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 21:25:06 UTC | `09157449a83e` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-06-13 00:13:39 UTC | `ae8cd8f6ac58` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-13 00:13:41 UTC | `24bd42caac29` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-13 00:13:40 UTC | `b67c0687dc3d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-13` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `69` day(s) |
-| Last Commit (IST) | `2026-06-13 02:55:06 IST` |
+| Last Commit (IST) | `2026-06-13 04:23:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-13 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-06-13 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,538.0 | +0.10% | 🟢 |
-| Ethereum | $1,666.26 | -0.74% | 🔴 |
-| Solana | $66.83 | -0.12% | 🔴 |
-| Bnb | $603.56 | -0.08% | 🔴 |
+| Bitcoin | $63,532.0 | -0.19% | 🔴 |
+| Ethereum | $1,665.99 | -0.43% | 🔴 |
+| Solana | $66.81 | -0.12% | 🔴 |
+| Bnb | $603.95 | -0.08% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [apple/container](https://github.com/apple/container) | Swift | 2,430 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 3,278 stars today | Production-grade engineering skills for AI coding agents. |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 426 stars today | open-source healthcare ai |
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 1,978 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 319 stars today | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns… |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 661 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Unknown | 368 stars today | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni… |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 604 stars today | Desktop app to manage markdown knowledge bases |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,656 stars today | Production-grade engineering skills for AI coding agents. |
+| [music-assistant/server](https://github.com/music-assistant/server) | Python | 20 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) | TypeScript | 388 stars today | Mattermost is an open source platform for secure collaboration across the entire… |
+| [apple/container](https://github.com/apple/container) | Swift | 3,504 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 179 stars today | Collection of publicly available IPTV channels from all over the world |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,275 stars today | An agentic skills framework & software development methodology that works. |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 369 stars today | Desktop app to manage markdown knowledge bases |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 515 stars today | open-source healthcare ai |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/) | 81 | 33 |
-| [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0) | 110 | 28 |
-| [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | 1139 | 429 |
-| [Maxproof](https://arxiv.org/abs/2606.13473) | 87 | 7 |
-| [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) | 1195 | 388 |
+| [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) | 114 | 28 |
+| [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) | 664 | 168 |
+| [Show HN: Putt.day a daily mini golf game](https://putt.day/) | 39 | 28 |
+| [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/) | 111 | 49 |
+| [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) | 53 | 24 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
