@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-14 (last updated: 03:07 IST)
+
+## 📅 2026-06-14 (last updated: 04:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-14 03:07:02 IST | 9d6bcc89c3af | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-14 04:14:39 IST | a8ed8f407486 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-06-13 22:47:09 IST | 6b56f26c196a | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) — Score: 602
-- [GameBoy Workboy](https://tcrf.net/Workboy) — Score: 116
-- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) — Score: 403
-- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) — Score: 238
-- [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/) — Score: 45
+- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) — Score: 651
+- [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/) — Score: 32
+- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) — Score: 447
+- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) — Score: 259
+- [GameBoy Workboy](https://tcrf.net/Workboy) — Score: 133
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,926.0 🟢 +0.17%
