@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-13 (last updated: 16:12 IST)
+
+## 📅 2026-06-13 (last updated: 17:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-06-13 05:43:39 IST | ae8cd8f6ac58 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-13 16:12:46 IST | 51db6c57de9f | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-13 13:46:17 IST | fed3c254a906 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-13 17:44:39 IST | 00514d569e03 | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-13 17:44:38 IST | 7ee7e6fd99a5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 2,656 stars today
-- **[music-assistant/server](https://github.com/music-assistant/server)** (Python) — Music Assistant is a free, opensource Media library manager that connects to you  
-  ⭐ 20 stars today
-- **[mattermost/mattermost](https://github.com/mattermost/mattermost)** (TypeScript) — Mattermost is an open source platform for secure collaboration across the entire  
-  ⭐ 388 stars today
-- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
-  ⭐ 3,504 stars today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
   ⭐ 179 stars today
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
+  ⭐ 2,656 stars today
+- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** (Ruby) — Open-source live-chat, email support, omni-channel desk. An alternative to Inter  
+  ⭐ 437 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,275 stars today
+- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
+  ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Leaving Mozilla](https://blog.unitedheroes.net/5751) — Score: 196
-- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) — Score: 481
-- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) — Score: 2360
-- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) — Score: 829
-- [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca) — Score: 9
+- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/) — Score: 43
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751) — Score: 278
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) — Score: 524
+- [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem) — Score: 18
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) — Score: 2525
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,758.0 🟢 +0.64%
-- Ethereum: $1,674.4 🟢 +0.28%
-- Solana: $67.27 🟢 +1.08%
-- Bnb: $602.93 🟢 +0.03%
+- Bitcoin: $63,912.0 🟢 +0.55%
+- Ethereum: $1,677.0 🟢 +0.49%
+- Solana: $67.83 🟢 +1.55%
+- Bnb: $606.24 🟢 +0.12%
 
 ---
 ## 📅 2026-06-12 (last updated: 21:06 IST)

@@ -2,15 +2,21 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-13 00:13:39 UTC",
-    "fetched_at_ist": "2026-06-13 05:43:39 IST",
-    "item_count": 13,
-    "content_hash": "ae8cd8f6ac58bc50c5c89e33e73054a7a354baa610910e3907d99e24d67f7f7a",
-    "previous_hash": "a498a2484ba91b17f758e42c0c579468b980f7acab669e132aa146f70afad6d8",
-    "new_repos_vs_previous": 4,
+    "fetched_at_utc": "2026-06-13 12:14:38 UTC",
+    "fetched_at_ist": "2026-06-13 17:44:38 IST",
+    "item_count": 14,
+    "content_hash": "66406a390695ed02caf1a1cfda6a1765167048c4b238d39b91e6d2aa728b7d23",
+    "previous_hash": "ae8cd8f6ac58bc50c5c89e33e73054a7a354baa610910e3907d99e24d67f7f7a",
+    "new_repos_vs_previous": 7,
     "top_repo_changed": true
   },
   "repos": [
+    {
+      "name": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_today": "179 stars today"
+    },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
@@ -18,28 +24,10 @@
       "stars_today": "2,656 stars today"
     },
     {
-      "name": "music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "stars_today": "20 stars today"
-    },
-    {
-      "name": "mattermost/mattermost",
-      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "language": "TypeScript",
-      "stars_today": "388 stars today"
-    },
-    {
-      "name": "apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_today": "3,504 stars today"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_today": "179 stars today"
+      "name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars_today": "437 stars today"
     },
     {
       "name": "obra/superpowers",
@@ -48,16 +36,22 @@
       "stars_today": "1,275 stars today"
     },
     {
-      "name": "refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "stars_today": "369 stars today"
+      "name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_today": "3,504 stars today"
     },
     {
-      "name": "maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
+      "name": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_today": "515 stars today"
+      "stars_today": "20 stars today"
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "stars_today": "530 stars today"
     },
     {
       "name": "LMCache/LMCache",
@@ -66,28 +60,40 @@
       "stars_today": "28 stars today"
     },
     {
-      "name": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "Unknown",
-      "stars_today": "827 stars today"
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "stars_today": "400 stars today"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "1,026 stars today"
-    },
-    {
       "name": "microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "stars_today": "103 stars today"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars_today": "132 stars today"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_today": "813 stars today"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_today": "737 stars today"
+    },
+    {
+      "name": "swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars_today": "12 stars today"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars_today": "356 stars today"
     }
   ]
 }
