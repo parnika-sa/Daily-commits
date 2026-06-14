@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-14 (last updated: 20:09 IST)
+
+## 📅 2026-06-14 (last updated: 23:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-14 20:09:27 IST | e79fabfad3de | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-14 23:14:56 IST | 8b626a1b4753 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-14 17:57:42 IST | f358a357e3af | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) — Score: 82
-- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 146
-- [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e) — Score: 84
-- [FarOutCompany](https://faroutcompany.com/) — Score: 14
-- [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat) — Score: 13
+- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) — Score: 93
+- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 337
+- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) — Score: 157
+- [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779) — Score: 37
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 10
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,461.0 🟢 +0.83%

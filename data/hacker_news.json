@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-14 14:39:27 UTC",
-    "fetched_at_ist": "2026-06-14 20:09:27 IST",
+    "fetched_at_utc": "2026-06-14 17:44:56 UTC",
+    "fetched_at_ist": "2026-06-14 23:14:56 IST",
     "item_count": 5,
-    "content_hash": "e79fabfad3de71a3df4d4432fefd4015fceb9099515794e6bd30a93f43bb689f",
-    "previous_hash": "4904663dec4497d8c002657b05297eb3330f064b8af6eb1478635355462b1800",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "8b626a1b475316db2fdea6438d61342c85b5a692a20212cc438d255e98f5d41c",
+    "previous_hash": "e79fabfad3de71a3df4d4432fefd4015fceb9099515794e6bd30a93f43bb689f",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48526661,
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "score": 82,
-      "comments": 40
+      "id": 48528371,
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 93,
+      "comments": 52
     },
     {
       "id": 48471638,
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 146,
-      "comments": 46
+      "score": 337,
+      "comments": 116
     },
     {
-      "id": 48491048,
-      "title": "Lisp's Influence on Ruby",
-      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-      "score": 84,
-      "comments": 0
+      "id": 48526661,
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "score": 157,
+      "comments": 85
     },
     {
-      "id": 48527360,
-      "title": "FarOutCompany",
-      "url": "https://faroutcompany.com/",
-      "score": 14,
-      "comments": 2
+      "id": 48528779,
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "score": 37,
+      "comments": 64
     },
     {
-      "id": 48527145,
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "score": 13,
-      "comments": 1
+      "id": 48529990,
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "score": 10,
+      "comments": 3
     }
   ]
 }
