@@ -4,19 +4,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-15 (last updated: 23:14 IST)
+
+## 📅 2026-06-15 (last updated: 01:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-14 23:14:56 IST | 8b626a1b4753 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-14 17:57:42 IST | f358a357e3af | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-15 01:49:00 IST | 36ce00dc0b93 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
@@ -38,23 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 10
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,461.0 🟢 +0.83%
-- Ethereum: $1,673.15 🔴 -0.23%
-- Solana: $68.06 🟢 +0.37%
-- Bnb: $611.48 🟢 +0.81%
+- Bitcoin: $63,784.0 🔴 -0.73%
+- Ethereum: $1,662.42 🔴 -0.88%
+- Solana: $67.5 🔴 -1.01%
+- Bnb: $602.72 🔴 -0.99%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-06-14 (last updated: 23:14 IST)
 
 ### 🧪 Source Integrity Snapshot
