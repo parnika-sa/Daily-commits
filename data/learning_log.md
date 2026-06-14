@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-14 (last updated: 16:06 IST)
+
+## 📅 2026-06-14 (last updated: 17:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-14 16:06:15 IST | 4904663dec44 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-14 12:46:55 IST | 5eca4bd85875 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-14 17:57:42 IST | f358a357e3af | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) — Score: 724
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,209.0 🟢 +0.85%
-- Ethereum: $1,673.98 🟢 +0.33%
-- Solana: $68.07 🟢 +1.58%
-- Bnb: $610.37 🟢 +1.40%
+- Bitcoin: $64,461.0 🟢 +0.83%
+- Ethereum: $1,673.15 🔴 -0.23%
+- Solana: $68.06 🟢 +0.37%
+- Bnb: $611.48 🟢 +0.81%
 
 ---
 ## 📅 2026-06-13 (last updated: 22:47 IST)
