@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-13 22:44:39 UTC",
-    "fetched_at_ist": "2026-06-14 04:14:39 IST",
+    "fetched_at_utc": "2026-06-14 10:36:15 UTC",
+    "fetched_at_ist": "2026-06-14 16:06:15 IST",
     "item_count": 5,
-    "content_hash": "a8ed8f40748611c2a29a6e0b16766d7487cf6d4807a5094dda9c8ff018c61850",
-    "previous_hash": "9d6bcc89c3af6fa40a42a588d15eacbe1b3319b9bbb57dc76f78c163216865eb",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "4904663dec4497d8c002657b05297eb3330f064b8af6eb1478635355462b1800",
+    "previous_hash": "a8ed8f40748611c2a29a6e0b16766d7487cf6d4807a5094dda9c8ff018c61850",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48523080,
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "score": 274,
+      "comments": 49
+    },
+    {
+      "id": 48523992,
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "score": 145,
+      "comments": 27
+    },
+    {
+      "id": 48518684,
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "score": 593,
+      "comments": 325
+    },
     {
       "id": 48517377,
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 651,
-      "comments": 372
-    },
-    {
-      "id": 48462759,
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 32,
-      "comments": 7
+      "score": 826,
+      "comments": 513
     },
     {
       "id": 48516251,
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 447,
-      "comments": 151
-    },
-    {
-      "id": 48517199,
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "score": 259,
-      "comments": 85
-    },
-    {
-      "id": 48519552,
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "score": 133,
-      "comments": 44
+      "score": 724,
+      "comments": 230
     }
   ]
 }
