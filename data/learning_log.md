@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-15 (last updated: 11:04 IST)
+
+## 📅 2026-06-15 (last updated: 17:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 11:04:26 IST | 0e7ec36b4bea | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-15 17:03:39 IST | ab898c8db110 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-15 05:46:22 IST | 3f234036b847 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 365
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) — Score: 68
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 477
-- [Bitsy](https://bitsy.org/) — Score: 98
-- [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha) — Score: 29
+- [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/) — Score: 40
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 659
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) — Score: 198
+- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) — Score: 254
+- [Foreign business owners are scrambling to raise capital to stay in Japan](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling) — Score: 43
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,776.0 🟢 +2.17%
