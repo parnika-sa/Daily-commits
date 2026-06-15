@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-14 17:44:56 UTC",
-    "fetched_at_ist": "2026-06-14 23:14:56 IST",
+    "fetched_at_utc": "2026-06-15 05:34:26 UTC",
+    "fetched_at_ist": "2026-06-15 11:04:26 IST",
     "item_count": 5,
-    "content_hash": "8b626a1b475316db2fdea6438d61342c85b5a692a20212cc438d255e98f5d41c",
-    "previous_hash": "e79fabfad3de71a3df4d4432fefd4015fceb9099515794e6bd30a93f43bb689f",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "0e7ec36b4bead8d81cf530f9116036de8939b63cd8173a07e65bdaca2d268a8c",
+    "previous_hash": "8b626a1b475316db2fdea6438d61342c85b5a692a20212cc438d255e98f5d41c",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48528371,
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 93,
-      "comments": 52
+      "id": 48533848,
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 365,
+      "comments": 149
     },
     {
-      "id": 48471638,
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "score": 337,
-      "comments": 116
-    },
-    {
-      "id": 48526661,
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "score": 157,
-      "comments": 85
-    },
-    {
-      "id": 48528779,
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "url": "https://news.ycombinator.com/item?id=48528779",
-      "score": 37,
-      "comments": 64
+      "id": 48535886,
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "score": 68,
+      "comments": 14
     },
     {
       "id": 48529990,
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 10,
+      "score": 477,
+      "comments": 99
+    },
+    {
+      "id": 48496290,
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "score": 98,
       "comments": 3
+    },
+    {
+      "id": 48503806,
+      "title": "Prove you're human by winning a claw machine",
+      "url": "https://feralui.vercel.app/#/captcha",
+      "score": 29,
+      "comments": 18
     }
   ]
 }
