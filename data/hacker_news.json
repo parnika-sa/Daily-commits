@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-15 11:33:39 UTC",
-    "fetched_at_ist": "2026-06-15 17:03:39 IST",
+    "fetched_at_utc": "2026-06-15 16:31:02 UTC",
+    "fetched_at_ist": "2026-06-15 22:01:02 IST",
     "item_count": 5,
-    "content_hash": "ab898c8db110483248f84045957060a29843a51a5fd2aa7973300abf41c49e8a",
-    "previous_hash": "0e7ec36b4bead8d81cf530f9116036de8939b63cd8173a07e65bdaca2d268a8c",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a4354579d64187b059b3c87ee9fb47e71292339559c7e5fb2188ff2d276c201f",
+    "previous_hash": "ab898c8db110483248f84045957060a29843a51a5fd2aa7973300abf41c49e8a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48539078,
-      "title": "Anthropic's Safety Superpower",
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "score": 40,
-      "comments": 14
+      "id": 48542480,
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 246,
+      "comments": 68
     },
     {
-      "id": 48533848,
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 659,
-      "comments": 218
+      "id": 48542132,
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "score": 64,
+      "comments": 16
     },
     {
-      "id": 48536776,
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 198,
-      "comments": 75
+      "id": 48542433,
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 22,
+      "comments": 6
     },
     {
-      "id": 48538229,
-      "title": "What the Fuck Happened to Nerds",
-      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 254,
-      "comments": 170
+      "id": 48540854,
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "score": 359,
+      "comments": 147
     },
     {
-      "id": 48499898,
-      "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
-      "url": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
-      "score": 43,
-      "comments": 9
+      "id": 48542064,
+      "title": "Hetzner increased dedicated server prices 3-4x",
+      "url": "https://news.ycombinator.com/item?id=48542064",
+      "score": 223,
+      "comments": 145
     }
   ]
 }

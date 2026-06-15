@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-15 (last updated: 17:03 IST)
+
+## 📅 2026-06-15 (last updated: 22:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 17:03:39 IST | ab898c8db110 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-15 22:01:02 IST | a4354579d641 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-15 05:46:22 IST | 3f234036b847 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/) — Score: 40
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 659
-- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) — Score: 198
-- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) — Score: 254
-- [Foreign business owners are scrambling to raise capital to stay in Japan](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling) — Score: 43
+- [Iroh 1.0](https://www.iroh.computer/blog/v1) — Score: 246
+- [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) — Score: 64
+- [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) — Score: 22
+- [CrankGPT](https://crankgpt.com) — Score: 359
+- [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064) — Score: 223
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,776.0 🟢 +2.17%
