@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-16 (last updated: 03:57 IST)
+
+## 📅 2026-06-16 (last updated: 05:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-13 17:44:38 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 22:01:02 IST | a4354579d641 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-16 03:57:19 IST | e4fcc63515cb | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 18 | 2026-06-16 05:39:33 IST | c8ce906e3f75 | +14 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-16 05:39:34 IST | eb5da1ebadda | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-16 05:39:33 IST | a9cd749462b8 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +14 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
-  ⭐ 179 stars today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 2,656 stars today
+  ⭐ 2,657 stars today
+- **[teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)** (Elixir) — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]  
+  ⭐ 33 stars today
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
+  ⭐ 1,100 stars today
+- **[meshery/meshery](https://github.com/meshery/meshery)** (TypeScript) — Meshery, the cloud native manager  
+  ⭐ 228 stars today
 - **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** (Ruby) — Open-source live-chat, email support, omni-channel desk. An alternative to Inter  
-  ⭐ 437 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,275 stars today
-- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
-  ⭐ 3,504 stars today
+  ⭐ 431 stars today
 
 ### 📰 Hacker News Stories
-- [Iroh 1.0](https://www.iroh.computer/blog/v1) — Score: 246
-- [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) — Score: 64
-- [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) — Score: 22
-- [CrankGPT](https://crankgpt.com) — Score: 359
-- [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064) — Score: 223
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) — Score: 556
+- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) — Score: 72
+- [Iroh 1.0](https://www.iroh.computer/blog/v1) — Score: 890
+- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) — Score: 116
+- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) — Score: 554
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,198.0 🟢 +1.56%
-- Ethereum: $1,798.48 🟢 +4.52%
-- Solana: $74.1 🟢 +5.71%
-- Bnb: $617.33 🟢 +0.83%
+- Bitcoin: $66,321.0 🟢 +0.93%
+- Ethereum: $1,796.08 🟢 +3.98%
+- Solana: $73.94 🟢 +3.78%
+- Bnb: $618.4 🟢 +0.25%
 
 ---
 ## 📅 2026-06-15 (last updated: 22:01 IST)

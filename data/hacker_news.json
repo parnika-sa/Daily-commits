@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-15 16:31:02 UTC",
-    "fetched_at_ist": "2026-06-15 22:01:02 IST",
+    "fetched_at_utc": "2026-06-16 00:09:34 UTC",
+    "fetched_at_ist": "2026-06-16 05:39:34 IST",
     "item_count": 5,
-    "content_hash": "a4354579d64187b059b3c87ee9fb47e71292339559c7e5fb2188ff2d276c201f",
-    "previous_hash": "ab898c8db110483248f84045957060a29843a51a5fd2aa7973300abf41c49e8a",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "eb5da1ebaddaf5f7c9b7670f5e29dce13e260d00776f5c02f51ec6e0c314490b",
+    "previous_hash": "a4354579d64187b059b3c87ee9fb47e71292339559c7e5fb2188ff2d276c201f",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48546294,
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 556,
+      "comments": 109
+    },
+    {
+      "id": 48547985,
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 72,
+      "comments": 13
+    },
+    {
       "id": 48542480,
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 246,
+      "score": 890,
+      "comments": 276
+    },
+    {
+      "id": 48546441,
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "score": 116,
       "comments": 68
     },
     {
-      "id": 48542132,
-      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "score": 64,
-      "comments": 16
-    },
-    {
-      "id": 48542433,
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 22,
-      "comments": 6
-    },
-    {
-      "id": 48540854,
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "score": 359,
-      "comments": 147
-    },
-    {
-      "id": 48542064,
-      "title": "Hetzner increased dedicated server prices 3-4x",
-      "url": "https://news.ycombinator.com/item?id=48542064",
-      "score": 223,
-      "comments": 145
+      "id": 48543475,
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 554,
+      "comments": 115
     }
   ]
 }

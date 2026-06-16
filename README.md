@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-15 22:27:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-16 00:09:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **iptv-org/iptv**
-- BTC: **$66,198.0** ↑ (+1.56%)
-- HN top story: **Iroh 1.0**
+- BTC: **$66,321.0** ↑ (+0.93%)
+- HN top story: **A backdoor in a LinkedIn job offer**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-13 12:14:38 UTC | `66406a390695` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 16:31:02 UTC | `a4354579d641` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-15 22:27:19 UTC | `e4fcc63515cb` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 18 | 2026-06-16 00:09:33 UTC | `c8ce906e3f75` | +14 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-16 00:09:34 UTC | `eb5da1ebadda` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-16 00:09:33 UTC | `a9cd749462b8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +14 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-16` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `71` day(s) |
-| Last Commit (IST) | `2026-06-16 01:36:25 IST` |
+| Last Commit (IST) | `2026-06-16 03:57:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-13 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-06-14 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-15 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-16 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-16 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,198.0 | +1.56% | 🟢 |
-| Ethereum | $1,798.48 | +4.52% | 🟢 |
-| Solana | $74.1 | +5.71% | 🟢 |
-| Bnb | $617.33 | +0.83% | 🟢 |
+| Bitcoin | $66,321.0 | +0.93% | 🟢 |
+| Ethereum | $1,796.08 | +3.98% | 🟢 |
+| Solana | $73.94 | +3.78% | 🟢 |
+| Bnb | $618.4 | +0.25% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 179 stars today | Collection of publicly available IPTV channels from all over the world |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,656 stars today | Production-grade engineering skills for AI coding agents. |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 437 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,275 stars today | An agentic skills framework & software development methodology that works. |
-| [apple/container](https://github.com/apple/container) | Swift | 3,504 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [music-assistant/server](https://github.com/music-assistant/server) | Python | 20 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | Go | 530 stars today | Local-first session intelligence and analytics for coding agents, supporting Cla… |
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | 28 stars today | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 2,657 stars today | Collection of publicly available IPTV channels from all over the world |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 33 stars today | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1,100 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 228 stars today | Meshery, the cloud native manager |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 431 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | 71 stars today | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, … |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 736 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
+| [trycua/cua](https://github.com/trycua/cua) | HTML | 70 stars today | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Iroh 1.0](https://www.iroh.computer/blog/v1) | 246 | 68 |
-| [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) | 64 | 16 |
-| [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) | 22 | 6 |
-| [CrankGPT](https://crankgpt.com) | 359 | 147 |
-| [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064) | 223 | 145 |
+| [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) | 556 | 109 |
+| [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) | 72 | 13 |
+| [Iroh 1.0](https://www.iroh.computer/blog/v1) | 890 | 276 |
+| [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) | 116 | 68 |
+| [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) | 554 | 115 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
