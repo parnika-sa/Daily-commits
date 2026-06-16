@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-16 15:25:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-16 23:17:41 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **iptv-org/iptv**
-- BTC: **$65,716.0** ↓ (-1.38%)
+- BTC: **$65,698.0** ↓ (-0.73%)
 - HN top story: **A backdoor in a LinkedIn job offer**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-06-16 00:09:33 UTC | `c8ce906e3f75` | +14 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-16 00:09:34 UTC | `eb5da1ebadda` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-16 15:25:09 UTC | `1e5f7d630114` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-16 23:17:41 UTC | `ff25f2c6ec14` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-17` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `72` day(s) |
-| Last Commit (IST) | `2026-06-17 00:30:26 IST` |
+| Last Commit (IST) | `2026-06-17 03:16:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-14 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-15 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-06-17 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-17 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,716.0 | -1.38% | 🔴 |
-| Ethereum | $1,777.03 | -2.16% | 🔴 |
-| Solana | $73.05 | -1.08% | 🔴 |
-| Bnb | $605.48 | -3.12% | 🔴 |
+| Bitcoin | $65,698.0 | -0.73% | 🔴 |
+| Ethereum | $1,794.19 | +0.37% | 🟢 |
+| Solana | $73.74 | -0.09% | 🔴 |
+| Bnb | $604.99 | -1.78% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
