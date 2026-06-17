@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-17 (last updated: 04:47 IST)
+
+## 📅 2026-06-17 (last updated: 20:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-06-16 05:39:33 IST | c8ce906e3f75 | +14 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-16 05:39:34 IST | eb5da1ebadda | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-17 04:47:41 IST | ff25f2c6ec14 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-17 20:45:25 IST | 549fec055211 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) — Score: 554
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,698.0 🔴 -0.73%
-- Ethereum: $1,794.19 🟢 +0.37%
-- Solana: $73.74 🔴 -0.09%
-- Bnb: $604.99 🔴 -1.78%
+- Bitcoin: $65,088.0 🔴 -1.09%
+- Ethereum: $1,754.48 🔴 -1.67%
+- Solana: $72.58 🔴 -0.85%
+- Bnb: $602.1 🔴 -0.70%
 
 ---
 ## 📅 2026-06-16 (last updated: 20:55 IST)
