@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-16 00:09:34 UTC",
-    "fetched_at_ist": "2026-06-16 05:39:34 IST",
+    "fetched_at_utc": "2026-06-17 18:00:42 UTC",
+    "fetched_at_ist": "2026-06-17 23:30:42 IST",
     "item_count": 5,
-    "content_hash": "eb5da1ebaddaf5f7c9b7670f5e29dce13e260d00776f5c02f51ec6e0c314490b",
-    "previous_hash": "a4354579d64187b059b3c87ee9fb47e71292339559c7e5fb2188ff2d276c201f",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "8674aaf7a7781d3ef66c2deba289f9ae04e41901672e6b283c7d9f9fe14e429d",
+    "previous_hash": "eb5da1ebaddaf5f7c9b7670f5e29dce13e260d00776f5c02f51ec6e0c314490b",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48546294,
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 556,
-      "comments": 109
+      "id": 48571081,
+      "title": "Epic Games announces Lore version control system",
+      "url": "https://lore.org/",
+      "score": 526,
+      "comments": 266
     },
     {
-      "id": 48547985,
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 72,
-      "comments": 13
+      "id": 48573332,
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "score": 86,
+      "comments": 57
     },
     {
-      "id": 48542480,
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 890,
-      "comments": 276
+      "id": 48565498,
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 73,
+      "comments": 45
     },
     {
-      "id": 48546441,
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "score": 116,
-      "comments": 68
+      "id": 48573012,
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "score": 76,
+      "comments": 35
     },
     {
-      "id": 48543475,
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 554,
-      "comments": 115
+      "id": 48572553,
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 54,
+      "comments": 17
     }
   ]
 }

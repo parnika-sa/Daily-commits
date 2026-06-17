@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-17 (last updated: 20:45 IST)
+
+## 📅 2026-06-17 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-06-16 05:39:33 IST | c8ce906e3f75 | +14 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-16 05:39:34 IST | eb5da1ebadda | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-17 20:45:25 IST | 549fec055211 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 20 | 2026-06-17 23:30:41 IST | ffe90c0d5b90 | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-17 23:30:42 IST | 8674aaf7a778 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-17 23:30:41 IST | 5b59b85e061c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +14 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
-  ⭐ 2,657 stars today
-- **[teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)** (Elixir) — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]  
-  ⭐ 33 stars today
+- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** (C) — High-performance code intelligence MCP server. Indexes codebases into a persiste  
+  ⭐ 718 stars today
+- **[n0-computer/iroh](https://github.com/n0-computer/iroh)** (Rust) — IP addresses break, dial keys instead. Modular networking stack in Rust.  
+  ⭐ 422 stars today
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
-  ⭐ 1,100 stars today
+  ⭐ 1,154 stars today
 - **[meshery/meshery](https://github.com/meshery/meshery)** (TypeScript) — Meshery, the cloud native manager  
-  ⭐ 228 stars today
-- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** (Ruby) — Open-source live-chat, email support, omni-channel desk. An alternative to Inter  
-  ⭐ 431 stars today
+  ⭐ 199 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,109 stars today
 
 ### 📰 Hacker News Stories
-- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) — Score: 556
-- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) — Score: 72
-- [Iroh 1.0](https://www.iroh.computer/blog/v1) — Score: 890
-- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) — Score: 116
-- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) — Score: 554
+- [Epic Games announces Lore version control system](https://lore.org/) — Score: 526
+- [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) — Score: 86
+- [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) — Score: 73
+- [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch) — Score: 76
+- [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) — Score: 54
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,088.0 🔴 -1.09%
-- Ethereum: $1,754.48 🔴 -1.67%
-- Solana: $72.58 🔴 -0.85%
-- Bnb: $602.1 🔴 -0.70%
+- Bitcoin: $65,992.0 🟢 +0.16%
+- Ethereum: $1,785.78 🔴 -0.43%
+- Solana: $74.01 🟢 +0.48%
+- Bnb: $607.89 🟢 +0.08%
 
 ---
 ## 📅 2026-06-16 (last updated: 20:55 IST)

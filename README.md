@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-17 15:15:25 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-17 18:00:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **iptv-org/iptv**
-- BTC: **$65,088.0** ↓ (-1.09%)
-- HN top story: **A backdoor in a LinkedIn job offer**
+- Top GitHub repo: **DeusData/codebase-memory-mcp**
+- BTC: **$65,992.0** ↑ (+0.16%)
+- HN top story: **Epic Games announces Lore version control system**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-06-16 00:09:33 UTC | `c8ce906e3f75` | +14 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-16 00:09:34 UTC | `eb5da1ebadda` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-17 15:15:25 UTC | `549fec055211` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 20 | 2026-06-17 18:00:41 UTC | `ffe90c0d5b90` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-17 18:00:42 UTC | `8674aaf7a778` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-17 18:00:41 UTC | `5b59b85e061c` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-17` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `71` day(s) |
-| Last Commit (IST) | `2026-06-17 17:26:46 IST` |
+| Last Commit (IST) | `2026-06-17 20:45:25 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-14 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-15 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-06-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,088.0 | -1.09% | 🔴 |
-| Ethereum | $1,754.48 | -1.67% | 🔴 |
-| Solana | $72.58 | -0.85% | 🔴 |
-| Bnb | $602.1 | -0.70% | 🔴 |
+| Bitcoin | $65,992.0 | +0.16% | 🟢 |
+| Ethereum | $1,785.78 | -0.43% | 🔴 |
+| Solana | $74.01 | +0.48% | 🟢 |
+| Bnb | $607.89 | +0.08% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 2,657 stars today | Collection of publicly available IPTV channels from all over the world |
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 33 stars today | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1,100 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 228 stars today | Meshery, the cloud native manager |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 431 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | 71 stars today | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, … |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 736 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
-| [trycua/cua](https://github.com/trycua/cua) | HTML | 70 stars today | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma… |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 718 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 422 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1,154 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 199 stars today | Meshery, the cloud native manager |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,109 stars today | An agentic skills framework & software development methodology that works. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 712 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | 15 stars today | The Secure CommsOS™ for mission-critical operations |
+| [continuedev/continue](https://github.com/continuedev/continue) | TypeScript | 38 stars today | open-source coding agent |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) | 556 | 109 |
-| [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) | 72 | 13 |
-| [Iroh 1.0](https://www.iroh.computer/blog/v1) | 890 | 276 |
-| [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) | 116 | 68 |
-| [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) | 554 | 115 |
+| [Epic Games announces Lore version control system](https://lore.org/) | 526 | 266 |
+| [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) | 86 | 57 |
+| [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) | 73 | 45 |
+| [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch) | 76 | 35 |
+| [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) | 54 | 17 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
