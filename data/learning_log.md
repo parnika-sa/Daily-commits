@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-18 (last updated: 17:03 IST)
+
+## 📅 2026-06-18 (last updated: 20:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-17 23:30:41 IST | ffe90c0d5b90 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 17:03:41 IST | d0257193369b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-18 20:03:02 IST | 58878eea65fa | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-18 12:49:38 IST | 1dff79ba8fab | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,109 stars today
 
 ### 📰 Hacker News Stories
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) — Score: 850
-- [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) — Score: 23
-- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725) — Score: 52
-- [DeepSeek Introduces Vision](https://chat.deepseek.com/) — Score: 181
-- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/) — Score: 247
+- [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) — Score: 156
+- [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/) — Score: 78
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 100
+- [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) — Score: 120
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) — Score: 1043
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,107.0 🔴 -2.27%
