@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-17 18:00:42 UTC",
-    "fetched_at_ist": "2026-06-17 23:30:42 IST",
+    "fetched_at_utc": "2026-06-18 11:33:41 UTC",
+    "fetched_at_ist": "2026-06-18 17:03:41 IST",
     "item_count": 5,
-    "content_hash": "8674aaf7a7781d3ef66c2deba289f9ae04e41901672e6b283c7d9f9fe14e429d",
-    "previous_hash": "eb5da1ebaddaf5f7c9b7670f5e29dce13e260d00776f5c02f51ec6e0c314490b",
+    "content_hash": "d0257193369bad9955826095e41fafbffcaa76fe32d00ccbf05698305b56bd9b",
+    "previous_hash": "8674aaf7a7781d3ef66c2deba289f9ae04e41901672e6b283c7d9f9fe14e429d",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48571081,
-      "title": "Epic Games announces Lore version control system",
-      "url": "https://lore.org/",
-      "score": 526,
-      "comments": 266
+      "id": 48579650,
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 850,
+      "comments": 585
     },
     {
-      "id": 48573332,
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "score": 86,
-      "comments": 57
+      "id": 48583386,
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "score": 23,
+      "comments": 6
     },
     {
-      "id": 48565498,
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 73,
-      "comments": 45
+      "id": 48582464,
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "url": "https://rbelmont.mameworld.info/?p=1725",
+      "score": 52,
+      "comments": 37
     },
     {
-      "id": 48573012,
-      "title": "Show HN: An 8-bit live gamecast for baseball",
-      "url": "https://ribbie.tv/watch",
-      "score": 76,
-      "comments": 35
+      "id": 48581458,
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "score": 181,
+      "comments": 82
     },
     {
-      "id": 48572553,
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 54,
-      "comments": 17
+      "id": 48580209,
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 247,
+      "comments": 120
     }
   ]
 }
