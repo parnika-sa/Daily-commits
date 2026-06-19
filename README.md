@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-19 16:20:05 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-19 18:13:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-research/timesfm**
-- BTC: **$63,243.0** ↑ (+1.22%)
-- HN top story: **Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28**
+- Top GitHub repo: **DeusData/codebase-memory-mcp**
+- BTC: **$63,074.0** ↑ (+0.72%)
+- HN top story: **There Are No Instances in ATProto**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-19 00:07:09 UTC | `e8ab8397f02f` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-19 13:31:14 UTC | `f49dd6790a58` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-19 16:20:05 UTC | `c8fc89a2e26f` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-06-19 18:13:26 UTC | `45c5c20719a1` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-19 18:13:27 UTC | `abadaec8cca4` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-19 18:13:26 UTC | `1a5b8018356d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-19` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-06-19 19:01:14 IST` |
+| Last Commit (IST) | `2026-06-19 21:50:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-06-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-19 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,243.0 | +1.22% | 🟢 |
-| Ethereum | $1,707.35 | +1.40% | 🟢 |
-| Solana | $69.4 | +1.11% | 🟢 |
-| Bnb | $579.07 | +0.54% | 🟢 |
+| Bitcoin | $63,074.0 | +0.72% | 🟢 |
+| Ethereum | $1,702.52 | +1.48% | 🟢 |
+| Solana | $69.14 | +1.02% | 🟢 |
+| Bnb | $578.9 | +0.52% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 844 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 369 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 417 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,429 stars today | An agentic skills framework & software development methodology that works. |
-| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | Unknown | 202 stars today | GLM-5: From Vibe Coding to Agentic Engineering |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 2,322 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | 124 stars today | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr… |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 259 stars today | A lightweight, lightning-fast, in-process vector database |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,055 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,516 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 749 stars today | macOS video editor built for AI |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 300 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 203 stars today | A one stop repository for generative AI research updates, interview resources, n… |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 210 stars today | A framework for building agent-native applications. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,938 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 236 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) | 283 | 133 |
-| [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace) | 8 | 1 |
-| [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) | 83 | 44 |
-| [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1) | 261 | 79 |
-| [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610) | 239 | 35 |
+| [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) | 88 | 46 |
+| [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) | 129 | 77 |
+| [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/) | 158 | 53 |
+| [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) | 451 | 257 |
+| [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) | 31 | 7 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-19 13:31:14 UTC",
-    "fetched_at_ist": "2026-06-19 19:01:14 IST",
+    "fetched_at_utc": "2026-06-19 18:13:27 UTC",
+    "fetched_at_ist": "2026-06-19 23:43:27 IST",
     "item_count": 5,
-    "content_hash": "f49dd6790a5844aa2d6a56e101d2c16e5c648cb101ea679bf489afaa6d8ab5f4",
-    "previous_hash": "02a9d4c61bdd603edfeabdf706b92b3afb40f55a598827fdff04813160d92367",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "abadaec8cca49dc653e5d4f1c637541ed1239fc8d6f80a984bdcfe5741e637b3",
+    "previous_hash": "f49dd6790a5844aa2d6a56e101d2c16e5c648cb101ea679bf489afaa6d8ab5f4",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48599515,
+      "title": "There Are No Instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 88,
+      "comments": 46
+    },
+    {
+      "id": 48600312,
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 129,
+      "comments": 77
+    },
+    {
+      "id": 48600107,
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "score": 158,
+      "comments": 53
+    },
+    {
       "id": 48595511,
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 283,
-      "comments": 133
+      "score": 451,
+      "comments": 257
     },
     {
-      "id": 48597939,
-      "title": "Leave a Trace",
-      "url": "https://www.jakeworth.com/posts/leave-a-trace",
-      "score": 8,
-      "comments": 1
-    },
-    {
-      "id": 48596911,
-      "title": "The room the economy can't see",
-      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
-      "score": 83,
-      "comments": 44
-    },
-    {
-      "id": 48553388,
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 261,
-      "comments": 79
-    },
-    {
-      "id": 48543311,
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 239,
-      "comments": 35
+      "id": 48600950,
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "score": 31,
+      "comments": 7
     }
   ]
 }
