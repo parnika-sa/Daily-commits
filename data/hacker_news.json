@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-19 18:13:27 UTC",
-    "fetched_at_ist": "2026-06-19 23:43:27 IST",
+    "fetched_at_utc": "2026-06-19 23:36:03 UTC",
+    "fetched_at_ist": "2026-06-20 05:06:03 IST",
     "item_count": 5,
-    "content_hash": "abadaec8cca49dc653e5d4f1c637541ed1239fc8d6f80a984bdcfe5741e637b3",
-    "previous_hash": "f49dd6790a5844aa2d6a56e101d2c16e5c648cb101ea679bf489afaa6d8ab5f4",
+    "content_hash": "45fb44550c73171d0c015b82f391ce56abc6268c9b3025ef9a1777ac23044025",
+    "previous_hash": "abadaec8cca49dc653e5d4f1c637541ed1239fc8d6f80a984bdcfe5741e637b3",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48600093,
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 283,
+      "comments": 187
+    },
+    {
+      "id": 48602352,
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "score": 98,
+      "comments": 5
+    },
+    {
       "id": 48599515,
-      "title": "There Are No Instances in ATProto",
+      "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 88,
-      "comments": 46
+      "score": 304,
+      "comments": 175
     },
     {
-      "id": 48600312,
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 129,
-      "comments": 77
+      "id": 48604232,
+      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+      "url": "https://news.ycombinator.com/item?id=48604232",
+      "score": 29,
+      "comments": 37
     },
     {
-      "id": 48600107,
-      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
-      "url": "https://aiclambake.com/clamtakes/linear-a/",
-      "score": 158,
-      "comments": 53
-    },
-    {
-      "id": 48595511,
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 451,
-      "comments": 257
-    },
-    {
-      "id": 48600950,
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "score": 31,
-      "comments": 7
+      "id": 48514843,
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "score": 157,
+      "comments": 101
     }
   ]
 }
