@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-19 (last updated: 03:54 IST)
+
+## 📅 2026-06-19 (last updated: 05:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 20 | 2026-06-17 23:30:41 IST | ffe90c0d5b90 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 20:03:02 IST | 58878eea65fa | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-19 03:54:30 IST | fbbca6007a88 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-06-19 05:37:09 IST | e8ab8397f02f | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-19 05:37:10 IST | 02a9d4c61bdd | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-19 05:37:09 IST | 51a38cf31fae | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** (C) — High-performance code intelligence MCP server. Indexes codebases into a persiste  
-  ⭐ 718 stars today
+- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
+  ⭐ 844 stars today
 - **[n0-computer/iroh](https://github.com/n0-computer/iroh)** (Rust) — IP addresses break, dial keys instead. Modular networking stack in Rust.  
-  ⭐ 422 stars today
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
-  ⭐ 1,154 stars today
-- **[meshery/meshery](https://github.com/meshery/meshery)** (TypeScript) — Meshery, the cloud native manager  
-  ⭐ 199 stars today
+  ⭐ 369 stars today
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (TypeScript) — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,  
+  ⭐ 417 stars today
 - **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,109 stars today
+  ⭐ 1,429 stars today
+- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** (Unknown) — GLM-5: From Vibe Coding to Agentic Engineering  
+  ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) — Score: 156
-- [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/) — Score: 78
-- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 100
-- [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) — Score: 120
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) — Score: 1043
+- [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect) — Score: 35
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) — Score: 49
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 635
+- [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) — Score: 66
+- [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) — Score: 88
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,753.0 🔴 -2.23%
-- Ethereum: $1,701.09 🔴 -2.22%
-- Solana: $69.43 🔴 -2.80%
-- Bnb: $578.25 🔴 -3.53%
+- Bitcoin: $62,887.0 🔴 -2.55%
+- Ethereum: $1,708.91 🔴 -2.45%
+- Solana: $69.62 🔴 -3.48%
+- Bnb: $577.74 🔴 -4.02%
 
 ---
 ## 📅 2026-06-18 (last updated: 20:03 IST)

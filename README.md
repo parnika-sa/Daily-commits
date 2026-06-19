@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-18 22:24:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-19 00:07:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **DeusData/codebase-memory-mcp**
-- BTC: **$62,753.0** ↓ (-2.23%)
-- HN top story: **Emacs 31 Is Around the Corner: The Changes I'm Daily Driving**
+- Top GitHub repo: **google-research/timesfm**
+- BTC: **$62,887.0** ↓ (-2.55%)
+- HN top story: **The AirPods Effect**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 20 | 2026-06-17 18:00:41 UTC | `ffe90c0d5b90` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 14:33:02 UTC | `58878eea65fa` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-18 22:24:30 UTC | `fbbca6007a88` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-06-19 00:07:09 UTC | `e8ab8397f02f` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-19 00:07:10 UTC | `02a9d4c61bdd` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-19 00:07:09 UTC | `51a38cf31fae` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-19` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-06-19 01:42:01 IST` |
+| Last Commit (IST) | `2026-06-19 03:54:30 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-06-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-19 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-19 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,753.0 | -2.23% | 🔴 |
-| Ethereum | $1,701.09 | -2.22% | 🔴 |
-| Solana | $69.43 | -2.80% | 🔴 |
-| Bnb | $578.25 | -3.53% | 🔴 |
+| Bitcoin | $62,887.0 | -2.55% | 🔴 |
+| Ethereum | $1,708.91 | -2.45% | 🔴 |
+| Solana | $69.62 | -3.48% | 🔴 |
+| Bnb | $577.74 | -4.02% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 718 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 422 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1,154 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 199 stars today | Meshery, the cloud native manager |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,109 stars today | An agentic skills framework & software development methodology that works. |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 712 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | 15 stars today | The Secure CommsOS™ for mission-critical operations |
-| [continuedev/continue](https://github.com/continuedev/continue) | TypeScript | 38 stars today | open-source coding agent |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 844 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 369 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 417 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,429 stars today | An agentic skills framework & software development methodology that works. |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | Unknown | 202 stars today | GLM-5: From Vibe Coding to Agentic Engineering |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 2,322 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | 124 stars today | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr… |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 259 stars today | A lightweight, lightning-fast, in-process vector database |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) | 156 | 61 |
-| [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/) | 78 | 41 |
-| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 100 | 26 |
-| [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) | 120 | 53 |
-| [Midjourney Medical](https://www.midjourney.com/medical/blogpost) | 1043 | 718 |
+| [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect) | 35 | 30 |
+| [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) | 49 | 17 |
+| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 635 | 144 |
+| [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) | 66 | 21 |
+| [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) | 88 | 55 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
