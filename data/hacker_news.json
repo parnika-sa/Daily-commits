@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-20 11:32:44 UTC",
-    "fetched_at_ist": "2026-06-20 17:02:44 IST",
+    "fetched_at_utc": "2026-06-20 18:05:38 UTC",
+    "fetched_at_ist": "2026-06-20 23:35:38 IST",
     "item_count": 5,
-    "content_hash": "683b99a1206ac57bca8181c7b33da7944cb4cedfa7fad6dcc7150b0915f6d758",
-    "previous_hash": "0665189a760d430ea4586946afd8157fb9ed9bf4a97b92187fb5ce80b646a44d",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "a77aaf8af8fb3f399b37576accad6819dff89a625aac10fd6b5015e4515fb4d0",
+    "previous_hash": "683b99a1206ac57bca8181c7b33da7944cb4cedfa7fad6dcc7150b0915f6d758",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48606619,
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 160,
-      "comments": 63
+      "id": 48610827,
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "score": 47,
+      "comments": 20
     },
     {
-      "id": 48606140,
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 158,
-      "comments": 37
+      "id": 48610853,
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "score": 27,
+      "comments": 5
     },
     {
-      "id": 48562662,
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 137,
-      "comments": 17
+      "id": 48609766,
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "score": 82,
+      "comments": 20
     },
     {
-      "id": 48599515,
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 462,
-      "comments": 230
+      "id": 48608223,
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "score": 342,
+      "comments": 71
     },
     {
-      "id": 48582374,
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 140,
-      "comments": 81
+      "id": 48610816,
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "score": 26,
+      "comments": 4
     }
   ]
 }

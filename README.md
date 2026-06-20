@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-20 11:32:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-20 18:05:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **DeusData/codebase-memory-mcp**
-- BTC: **$63,594.0** ↑ (+1.31%)
-- HN top story: **I Stored a Website in a Favicon**
+- Top GitHub repo: **palmier-io/palmier-pro**
+- BTC: **$63,830.0** ↑ (+1.22%)
+- HN top story: **SMPTE Makes Its Standards Freely Accessible**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-20 06:12:26 UTC | `361cfbcb263b` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-20 11:32:44 UTC | `683b99a1206a` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-06-20 06:12:27 UTC | `660bfa82505c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-06-20 18:05:37 UTC | `dc4254973707` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-20 18:05:38 UTC | `a77aaf8af8fb` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-20 18:05:37 UTC | `63ea04c895d3` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-20` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-06-20 20:42:19 IST` |
+| Last Commit (IST) | `2026-06-20 22:20:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-20 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-06-20 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,594.0 | +1.31% | 🟢 |
-| Ethereum | $1,722.89 | +1.48% | 🟢 |
-| Solana | $71.67 | +4.32% | 🟢 |
-| Bnb | $582.45 | +1.06% | 🟢 |
+| Bitcoin | $63,830.0 | +1.22% | 🟢 |
+| Ethereum | $1,727.74 | +1.53% | 🟢 |
+| Solana | $71.57 | +3.33% | 🟢 |
+| Bnb | $585.2 | +1.17% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,058 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,510 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 756 stars today | macOS video editor built for AI |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 156 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 107 stars today | A one stop repository for generative AI research updates, interview resources, n… |
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 147 stars today | A framework for building agent-native applications. |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 4,005 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 156 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 904 stars today | macOS video editor built for AI |
+| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 424 stars today | Penpot: The open-source design tool for design and code collaboration |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 677 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 774 stars today | Turso is an in-process SQL database, compatible with SQLite. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,267 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 432 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 140 stars today | The open alternative to Salesforce, designed for AI. |
+| [Kong/insomnia](https://github.com/Kong/insomnia) | TypeScript | 327 stars today | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) | 160 | 63 |
-| [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) | 158 | 37 |
-| [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html) | 137 | 17 |
-| [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) | 462 | 230 |
-| [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/) | 140 | 81 |
+| [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) | 47 | 20 |
+| [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) | 27 | 5 |
+| [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) | 82 | 20 |
+| [CSSQuake](https://cssquake.com/) | 342 | 71 |
+| [Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews) | 26 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

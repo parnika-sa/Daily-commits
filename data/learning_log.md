@@ -14,44 +14,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-20 (last updated: 17:02 IST)
+
+## 📅 2026-06-20 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-20 11:42:26 IST | 361cfbcb263b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-20 17:02:44 IST | 683b99a1206a | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-06-20 11:42:27 IST | 660bfa82505c | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-06-20 23:35:37 IST | dc4254973707 | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-20 23:35:38 IST | a77aaf8af8fb | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-20 23:35:37 IST | 63ea04c895d3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** (C) — High-performance code intelligence MCP server. Indexes codebases into a persiste  
-  ⭐ 1,058 stars today
-- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 1,510 stars today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
-  ⭐ 756 stars today
-- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
-  ⭐ 156 stars today
-- **[aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)** (HTML) — A one stop repository for generative AI research updates, interview resources, n  
-  ⭐ 107 stars today
+  ⭐ 904 stars today
+- **[penpot/penpot](https://github.com/penpot/penpot)** (Clojure) — Penpot: The open-source design tool for design and code collaboration  
+  ⭐ 424 stars today
+- **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** (Python) — World's first open-source, agentic video production system. 12 pipelines, 52 too  
+  ⭐ 677 stars today
+- **[tursodatabase/turso](https://github.com/tursodatabase/turso)** (Rust) — Turso is an in-process SQL database, compatible with SQLite.  
+  ⭐ 774 stars today
+- **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** (C) — High-performance code intelligence MCP server. Indexes codebases into a persiste  
+  ⭐ 1,267 stars today
 
 ### 📰 Hacker News Stories
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) — Score: 160
-- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) — Score: 158
-- [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html) — Score: 137
-- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) — Score: 462
-- [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/) — Score: 140
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 47
+- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) — Score: 27
+- [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) — Score: 82
+- [CSSQuake](https://cssquake.com/) — Score: 342
+- [Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews) — Score: 26
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,594.0 🟢 +1.31%
-- Ethereum: $1,722.89 🟢 +1.48%
-- Solana: $71.67 🟢 +4.32%
-- Bnb: $582.45 🟢 +1.06%
+- Bitcoin: $63,830.0 🟢 +1.22%
+- Ethereum: $1,727.74 🟢 +1.53%
+- Solana: $71.57 🟢 +3.33%
+- Bnb: $585.2 🟢 +1.17%
 
 ---
 ## 📅 2026-06-19 (last updated: 23:43 IST)
