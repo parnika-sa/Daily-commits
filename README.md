@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-19 23:36:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-20 06:12:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **DeusData/codebase-memory-mcp**
-- BTC: **$63,230.0** ↑ (+0.72%)
-- HN top story: **Norway imposes near ban on AI in elementary school**
+- BTC: **$63,594.0** ↑ (+1.31%)
+- HN top story: **I Stored a Website in a Favicon**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-19 18:13:26 UTC | `45c5c20719a1` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-19 23:36:03 UTC | `45fb44550c73` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-19 22:28:56 UTC | `69a6e98cfe84` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-06-20 06:12:26 UTC | `361cfbcb263b` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-20 06:12:27 UTC | `c96040189cc2` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-20 06:12:27 UTC | `660bfa82505c` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-20` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-06-20 05:06:04 IST` |
+| Last Commit (IST) | `2026-06-20 07:20:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-20 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-06-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,230.0 | +0.72% | 🟢 |
-| Ethereum | $1,706.72 | +0.28% | 🟢 |
-| Solana | $69.26 | -0.26% | 🔴 |
-| Bnb | $580.39 | +0.34% | 🟢 |
+| Bitcoin | $63,594.0 | +1.31% | 🟢 |
+| Ethereum | $1,722.89 | +1.48% | 🟢 |
+| Solana | $71.67 | +4.32% | 🟢 |
+| Bnb | $582.45 | +1.06% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,055 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,516 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 749 stars today | macOS video editor built for AI |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 300 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 203 stars today | A one stop repository for generative AI research updates, interview resources, n… |
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 210 stars today | A framework for building agent-native applications. |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,938 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 236 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,058 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 1,510 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 756 stars today | macOS video editor built for AI |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 156 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 107 stars today | A one stop repository for generative AI research updates, interview resources, n… |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 147 stars today | A framework for building agent-native applications. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 4,005 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 156 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) | 283 | 187 |
-| [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll) | 98 | 5 |
-| [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) | 304 | 175 |
-| [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232) | 29 | 37 |
-| [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) | 157 | 101 |
+| [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) | 13 | 3 |
+| [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html) | 76 | 6 |
+| [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) | 398 | 209 |
+| [Snap Smart Glasses](https://www.specs.com/smart-glasses/specs-27) | 39 | 35 |
+| [The discovery that changed how scientists think about memory – IBM](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize) | 21 | 0 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

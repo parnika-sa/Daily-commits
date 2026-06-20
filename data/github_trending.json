@@ -2,98 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-19 18:13:26 UTC",
-    "fetched_at_ist": "2026-06-19 23:43:26 IST",
+    "fetched_at_utc": "2026-06-20 06:12:26 UTC",
+    "fetched_at_ist": "2026-06-20 11:42:26 IST",
     "item_count": 15,
-    "content_hash": "45c5c20719a1efbef2166cd5d2afac294924105f253bc6646b371c08f296801a",
-    "previous_hash": "e8ab8397f02fb69c74d011c8e4f5cf73d6f6aa0cf32c88a57e8426b6c360490d",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": true
+    "content_hash": "361cfbcb263b6663a7e6bf45e9e29ef6cf173d8798f7fafe59229104d0a995c2",
+    "previous_hash": "45c5c20719a1efbef2166cd5d2afac294924105f253bc6646b371c08f296801a",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "1,055 stars today"
+      "stars_today": "1,058 stars today"
     },
     {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "1,516 stars today"
+      "stars_today": "1,510 stars today"
     },
     {
       "name": "palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "749 stars today"
+      "stars_today": "756 stars today"
     },
     {
       "name": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "300 stars today"
+      "stars_today": "156 stars today"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
-      "stars_today": "203 stars today"
+      "stars_today": "107 stars today"
     },
     {
       "name": "BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
       "language": "TypeScript",
-      "stars_today": "210 stars today"
+      "stars_today": "147 stars today"
     },
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "3,938 stars today"
+      "stars_today": "4,005 stars today"
     },
     {
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "236 stars today"
+      "stars_today": "156 stars today"
     },
     {
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "Unknown",
-      "stars_today": "478 stars today"
+      "stars_today": "480 stars today"
     },
     {
       "name": "withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "305 stars today"
+      "stars_today": "309 stars today"
     },
     {
       "name": "n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_today": "307 stars today"
+      "stars_today": "302 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,113 stars today"
+      "stars_today": "1,110 stars today"
     },
     {
       "name": "penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "318 stars today"
+      "stars_today": "85 stars today"
     },
     {
       "name": "Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars_today": "291 stars today"
+      "stars_today": "292 stars today"
     },
     {
       "name": "Lightricks/LTX-2",
