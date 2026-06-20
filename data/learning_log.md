@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-21 (last updated: 03:51 IST)
+
+## 📅 2026-06-21 (last updated: 05:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-20 23:35:37 IST | dc4254973707 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-20 23:35:38 IST | a77aaf8af8fb | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-21 05:11:16 IST | f649aa88e568 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-21 03:51:07 IST | ad60b240c608 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,267 stars today
 
 ### 📰 Hacker News Stories
-- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 47
-- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) — Score: 27
-- [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) — Score: 82
-- [CSSQuake](https://cssquake.com/) — Score: 342
-- [Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews) — Score: 26
+- [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books) — Score: 81
+- [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) — Score: 31
+- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) — Score: 15
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 208
+- [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,026.0 🟢 +1.30%

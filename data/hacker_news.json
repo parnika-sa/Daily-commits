@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-20 18:05:38 UTC",
-    "fetched_at_ist": "2026-06-20 23:35:38 IST",
+    "fetched_at_utc": "2026-06-20 23:41:16 UTC",
+    "fetched_at_ist": "2026-06-21 05:11:16 IST",
     "item_count": 5,
-    "content_hash": "a77aaf8af8fb3f399b37576accad6819dff89a625aac10fd6b5015e4515fb4d0",
-    "previous_hash": "683b99a1206ac57bca8181c7b33da7944cb4cedfa7fad6dcc7150b0915f6d758",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f649aa88e56812c4facccd2c4a1c645ed7204c5d279ffdb9456b6a109f8e5795",
+    "previous_hash": "a77aaf8af8fb3f399b37576accad6819dff89a625aac10fd6b5015e4515fb4d0",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48613631,
+      "title": "Pre-2022 Books",
+      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+      "score": 81,
+      "comments": 38
+    },
+    {
+      "id": 48613755,
+      "title": "Not just books: renting a sewing machine from the library can improve democracy",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 31,
+      "comments": 11
+    },
+    {
+      "id": 48613872,
+      "title": "Epoll vs. Io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 15,
+      "comments": 1
+    },
+    {
       "id": 48610827,
       "title": "SMPTE Makes Its Standards Freely Accessible",
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 47,
-      "comments": 20
+      "score": 208,
+      "comments": 58
     },
     {
-      "id": 48610853,
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 27,
-      "comments": 5
-    },
-    {
-      "id": 48609766,
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 82,
-      "comments": 20
-    },
-    {
-      "id": 48608223,
-      "title": "CSSQuake",
-      "url": "https://cssquake.com/",
-      "score": 342,
-      "comments": 71
-    },
-    {
-      "id": 48610816,
-      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
-      "url": "https://github.com/DatanoiseTV/ember-hackernews",
-      "score": 26,
-      "comments": 4
+      "id": 48612740,
+      "title": "Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 34,
+      "comments": 6
     }
   ]
 }
