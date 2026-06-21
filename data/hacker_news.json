@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-21 12:30:19 UTC",
-    "fetched_at_ist": "2026-06-21 18:00:19 IST",
+    "fetched_at_utc": "2026-06-21 18:14:55 UTC",
+    "fetched_at_ist": "2026-06-21 23:44:55 IST",
     "item_count": 5,
-    "content_hash": "73d6a91b4c27e3a8911431f9ff0e62233cfc6ae98770313acd0fafd41328ae73",
-    "previous_hash": "15e0a31d7102f931d6a0cedeaf59daca58eb6edc501ae06703a8d514a1be7b3a",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "9cfb39c4fdb7f7c48030045be27b7b1b86990d205aa9ebda70cb19689e20f955",
+    "previous_hash": "73d6a91b4c27e3a8911431f9ff0e62233cfc6ae98770313acd0fafd41328ae73",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48617782,
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "score": 19,
-      "comments": 1
+      "id": 48620090,
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 179,
+      "comments": 131
     },
     {
-      "id": 48616713,
-      "title": "A 3D voxel game engine written in APL",
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "score": 73,
-      "comments": 7
+      "id": 48619831,
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 71,
+      "comments": 32
     },
     {
-      "id": 48616800,
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 182,
-      "comments": 181
+      "id": 48617990,
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 298,
+      "comments": 159
     },
     {
-      "id": 48608645,
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 346,
-      "comments": 132
+      "id": 48620462,
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "score": 29,
+      "comments": 6
     },
     {
-      "id": 48573902,
-      "title": "Zigzag Decoding with AVX-512",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 88,
-      "comments": 16
+      "id": 48620342,
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 30,
+      "comments": 6
     }
   ]
 }

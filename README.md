@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-21 12:30:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-21 18:14:55 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$64,026.0** ↑ (+1.30%)
-- HN top story: **The case against geometric algebra (2024)**
+- BTC: **$63,935.0** ↑ (+0.25%)
+- HN top story: **Code duplication is far cheaper than the wrong abstraction (2016)**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-20 18:05:37 UTC | `dc4254973707` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-21 12:30:19 UTC | `73d6a91b4c27` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-20 22:21:07 UTC | `ad60b240c608` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-06-21 18:14:54 UTC | `e662b18dfc31` | +9 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-21 18:14:55 UTC | `9cfb39c4fdb7` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-21 18:14:54 UTC | `9616afb0dc43` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-21` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-06-21 20:30:37 IST` |
+| Last Commit (IST) | `2026-06-21 22:23:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-20 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-06-21 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-06-21 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,026.0 | +1.30% | 🟢 |
-| Ethereum | $1,736.5 | +1.78% | 🟢 |
-| Solana | $73.01 | +5.74% | 🟢 |
-| Bnb | $586.64 | +1.07% | 🟢 |
+| Bitcoin | $63,935.0 | +0.25% | 🟢 |
+| Ethereum | $1,721.56 | -0.30% | 🔴 |
+| Solana | $73.89 | +3.21% | 🟢 |
+| Bnb | $588.84 | +0.58% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 904 stars today | macOS video editor built for AI |
-| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 424 stars today | Penpot: The open-source design tool for design and code collaboration |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 677 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 774 stars today | Turso is an in-process SQL database, compatible with SQLite. |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 1,267 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 432 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 140 stars today | The open alternative to Salesforce, designed for AI. |
-| [Kong/insomnia](https://github.com/Kong/insomnia) | TypeScript | 327 stars today | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 1,829 stars today | macOS video editor built for AI |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 993 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 2,617 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 543 stars today | Turso is an in-process SQL database, compatible with SQLite. |
+| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 1,131 stars today | Penpot: The open-source design tool for design and code collaboration |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 519 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 253 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 415 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html) | 19 | 1 |
-| [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) | 73 | 7 |
-| [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) | 182 | 181 |
-| [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) | 346 | 132 |
-| [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/) | 88 | 16 |
+| [Code duplication is far cheaper than the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) | 179 | 131 |
+| [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html) | 71 | 32 |
+| [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info) | 298 | 159 |
+| [Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers) | 29 | 6 |
+| [The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit) | 30 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
