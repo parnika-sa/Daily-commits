@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-21 18:14:55 UTC",
-    "fetched_at_ist": "2026-06-21 23:44:55 IST",
+    "fetched_at_utc": "2026-06-21 21:40:16 UTC",
+    "fetched_at_ist": "2026-06-22 03:10:16 IST",
     "item_count": 5,
-    "content_hash": "9cfb39c4fdb7f7c48030045be27b7b1b86990d205aa9ebda70cb19689e20f955",
-    "previous_hash": "73d6a91b4c27e3a8911431f9ff0e62233cfc6ae98770313acd0fafd41328ae73",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3af53b23f638b669c748eb9224ce3adf30e76a7ebe3a7652ed3067de2611fcb5",
+    "previous_hash": "9cfb39c4fdb7f7c48030045be27b7b1b86990d205aa9ebda70cb19689e20f955",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48622815,
+      "title": "The Anatomy of an AI-Native Org",
+      "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+      "score": 8,
+      "comments": 0
+    },
+    {
+      "id": 48621517,
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 111,
+      "comments": 25
+    },
+    {
       "id": 48620090,
-      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
       "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 179,
-      "comments": 131
+      "score": 372,
+      "comments": 252
     },
     {
-      "id": 48619831,
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "url": "https://norvig.com/lispy.html",
-      "score": 71,
-      "comments": 32
+      "id": 48622778,
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 5,
+      "comments": 0
     },
     {
-      "id": 48617990,
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "url": "https://www.beyondallreason.info",
-      "score": 298,
-      "comments": 159
-    },
-    {
-      "id": 48620462,
-      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "score": 29,
-      "comments": 6
-    },
-    {
-      "id": 48620342,
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "url": "https://brandur.org/minimum-viable-unit",
-      "score": 30,
-      "comments": 6
+      "id": 48618455,
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 428,
+      "comments": 392
     }
   ]
 }
