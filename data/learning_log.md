@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-21 (last updated: 05:11 IST)
+
+## 📅 2026-06-21 (last updated: 16:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-20 23:35:37 IST | dc4254973707 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-21 05:11:16 IST | f649aa88e568 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-21 16:14:26 IST | 15e0a31d7102 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-21 03:51:07 IST | ad60b240c608 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,267 stars today
 
 ### 📰 Hacker News Stories
-- [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books) — Score: 81
-- [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) — Score: 31
-- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) — Score: 15
-- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 208
-- [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html) — Score: 34
+- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) — Score: 118
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) — Score: 52
+- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) — Score: 209
+- [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/) — Score: 76
+- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) — Score: 303
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,026.0 🟢 +1.30%

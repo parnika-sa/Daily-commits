@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-20 23:41:16 UTC",
-    "fetched_at_ist": "2026-06-21 05:11:16 IST",
+    "fetched_at_utc": "2026-06-21 10:44:26 UTC",
+    "fetched_at_ist": "2026-06-21 16:14:26 IST",
     "item_count": 5,
-    "content_hash": "f649aa88e56812c4facccd2c4a1c645ed7204c5d279ffdb9456b6a109f8e5795",
-    "previous_hash": "a77aaf8af8fb3f399b37576accad6819dff89a625aac10fd6b5015e4515fb4d0",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "15e0a31d7102f931d6a0cedeaf59daca58eb6edc501ae06703a8d514a1be7b3a",
+    "previous_hash": "f649aa88e56812c4facccd2c4a1c645ed7204c5d279ffdb9456b6a109f8e5795",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48613631,
-      "title": "Pre-2022 Books",
-      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-      "score": 81,
-      "comments": 38
+      "id": 48616800,
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "score": 118,
+      "comments": 90
     },
     {
-      "id": 48613755,
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 31,
-      "comments": 11
-    },
-    {
-      "id": 48613872,
-      "title": "Epoll vs. Io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 15,
-      "comments": 1
-    },
-    {
-      "id": 48610827,
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 208,
-      "comments": 58
-    },
-    {
-      "id": 48612740,
-      "title": "Alice is impatient",
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "score": 34,
+      "id": 48616713,
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 52,
       "comments": 6
+    },
+    {
+      "id": 48614844,
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 209,
+      "comments": 119
+    },
+    {
+      "id": 48573902,
+      "title": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "score": 76,
+      "comments": 9
+    },
+    {
+      "id": 48608645,
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 303,
+      "comments": 114
     }
   ]
 }
