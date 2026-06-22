@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-22 (last updated: 05:33 IST)
+
+## 📅 2026-06-22 (last updated: 10:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-22 05:33:37 IST | 26a045cd9b4a | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-22 05:33:37 IST | adebbb3d22cb | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-06-22 10:58:01 IST | 592f7b285a53 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) — Score: 141
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,302.0 🔴 -1.38%
-- Ethereum: $1,707.48 🔴 -1.66%
-- Solana: $72.42 🔴 -0.95%
-- Bnb: $583.98 🔴 -0.60%
+- Bitcoin: $64,157.0 🔴 -0.11%
+- Ethereum: $1,736.79 🟢 +0.21%
+- Solana: $74.0 🟢 +1.24%
+- Bnb: $590.79 🟢 +0.26%
 
 ---
 ## 📅 2026-06-21 (last updated: 23:44 IST)
