@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-22 (last updated: 03:10 IST)
+
+## 📅 2026-06-22 (last updated: 05:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-21 23:44:54 IST | e662b18dfc31 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-22 03:10:16 IST | 3af53b23f638 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-21 23:44:54 IST | 9616afb0dc43 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-22 05:33:37 IST | 26a045cd9b4a | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-22 05:33:37 IST | adebbb3d22cb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
-  ⭐ 1,829 stars today
+  ⭐ 1,834 stars today
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** (Python) — World's first open-source, agentic video production system. 12 pipelines, 52 too  
-  ⭐ 993 stars today
+  ⭐ 987 stars today
 - **[chopratejas/headroom](https://github.com/chopratejas/headroom)** (Python) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60  
-  ⭐ 2,617 stars today
+  ⭐ 2,624 stars today
 - **[tursodatabase/turso](https://github.com/tursodatabase/turso)** (Rust) — Turso is an in-process SQL database, compatible with SQLite.  
-  ⭐ 543 stars today
+  ⭐ 548 stars today
 - **[penpot/penpot](https://github.com/penpot/penpot)** (Clojure) — Penpot: The open-source design tool for design and code collaboration  
-  ⭐ 1,131 stars today
+  ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org) — Score: 8
-- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) — Score: 111
-- [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) — Score: 372
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) — Score: 5
-- [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) — Score: 428
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) — Score: 131
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) — Score: 132
+- [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) — Score: 73
+- [PowerFox Browser](https://powerfox.jazzzny.me/) — Score: 50
+- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) — Score: 141
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,935.0 🟢 +0.25%
-- Ethereum: $1,721.56 🔴 -0.30%
-- Solana: $73.89 🟢 +3.21%
-- Bnb: $588.84 🟢 +0.58%
+- Bitcoin: $63,302.0 🔴 -1.38%
+- Ethereum: $1,707.48 🔴 -1.66%
+- Solana: $72.42 🔴 -0.95%
+- Bnb: $583.98 🔴 -0.60%
 
 ---
 ## 📅 2026-06-21 (last updated: 23:44 IST)

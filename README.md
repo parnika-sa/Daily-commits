@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-21 21:40:16 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-22 00:03:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$63,935.0** ↑ (+0.25%)
-- HN top story: **The Anatomy of an AI-Native Org**
+- BTC: **$63,302.0** ↓ (-1.38%)
+- HN top story: **Apertus – Open Foundation Model for Sovereign AI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-21 18:14:54 UTC | `e662b18dfc31` | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-21 21:40:16 UTC | `3af53b23f638` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-21 18:14:54 UTC | `9616afb0dc43` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-06-22 00:03:36 UTC | `a3a6d21df1f3` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-22 00:03:37 UTC | `26a045cd9b4a` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-22 00:03:37 UTC | `adebbb3d22cb` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-22` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `74` day(s) |
-| Last Commit (IST) | `2026-06-22 03:10:16 IST` |
+| Last Commit (IST) | `2026-06-22 04:16:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-20 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-21 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-06-22 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-06-22 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,935.0 | +0.25% | 🟢 |
-| Ethereum | $1,721.56 | -0.30% | 🔴 |
-| Solana | $73.89 | +3.21% | 🟢 |
-| Bnb | $588.84 | +0.58% | 🟢 |
+| Bitcoin | $63,302.0 | -1.38% | 🔴 |
+| Ethereum | $1,707.48 | -1.66% | 🔴 |
+| Solana | $72.42 | -0.95% | 🔴 |
+| Bnb | $583.98 | -0.60% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 1,829 stars today | macOS video editor built for AI |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 993 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 2,617 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 543 stars today | Turso is an in-process SQL database, compatible with SQLite. |
-| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 1,131 stars today | Penpot: The open-source design tool for design and code collaboration |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 519 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 253 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 415 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 1,834 stars today | macOS video editor built for AI |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 987 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 2,624 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 548 stars today | Turso is an in-process SQL database, compatible with SQLite. |
+| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 1,135 stars today | Penpot: The open-source design tool for design and code collaboration |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 568 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 163 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 442 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org) | 8 | 0 |
-| [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) | 111 | 25 |
-| [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) | 372 | 252 |
-| [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) | 5 | 0 |
-| [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) | 428 | 392 |
+| [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) | 131 | 37 |
+| [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) | 132 | 44 |
+| [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) | 73 | 10 |
+| [PowerFox Browser](https://powerfox.jazzzny.me/) | 50 | 13 |
+| [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) | 141 | 37 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
