@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 05:50 IST)
+
+## 📅 2026-06-23 (last updated: 10:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-23 01:03:29 IST | 7da179ef3d5f | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-23 10:07:10 IST | 83ef5ef2dde0 | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-06-23 05:50:36 IST | d53106a499c0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine](https://store.steampowered.com/hardware/steammachine) — Score: 476
-- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) — Score: 67
-- [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/) — Score: 151
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/) — Score: 925
-- [Show HN: Oak – Git replacement designed for agents](https://oak.space/oak/oak) — Score: 77
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1351
+- [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) — Score: 255
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) — Score: 52
+- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) — Score: 82
+- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/) — Score: 10
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,864.0 🟢 +0.43%
