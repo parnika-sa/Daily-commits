@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 17:06 IST)
+
+## 📅 2026-06-23 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-23 17:06:13 IST | 56490a7c0cbc | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-23 22:09:18 IST | 8775b01b45ef | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-23 13:48:53 IST | ed72e787ec78 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1646
-- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/) — Score: 157
-- [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/) — Score: 89
-- [Plotnine](https://plotnine.org/) — Score: 65
-- [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2) — Score: 351
+- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/) — Score: 162
+- [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR) — Score: 295
+- [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/) — Score: 296
+- [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/) — Score: 39
+- [Mistral OCR 4](https://mistral.ai/news/ocr-4/) — Score: 198
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,513.0 🔴 -2.62%
