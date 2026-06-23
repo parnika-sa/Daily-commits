@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-23 20:33:26 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-23 23:20:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$62,292.0** ↓ (-3.47%)
+- BTC: **$62,511.0** ↓ (-2.20%)
 - HN top story: **Anthropic updates their terms to verify age or identity**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 00:03:36 UTC | `a3a6d21df1f3` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-23 20:33:26 UTC | `823bc0106a2f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-23 18:29:06 UTC | `3ffed63ee380` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-23 23:20:29 UTC | `ffb9206c425e` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-24` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `75` day(s) |
-| Last Commit (IST) | `2026-06-24 02:03:27 IST` |
+| Last Commit (IST) | `2026-06-24 03:33:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-21 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-06-22 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-06-23 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-24 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-24 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,292.0 | -3.47% | 🔴 |
-| Ethereum | $1,655.96 | -4.89% | 🔴 |
-| Solana | $68.88 | -6.16% | 🔴 |
-| Bnb | $574.33 | -3.57% | 🔴 |
+| Bitcoin | $62,511.0 | -2.20% | 🔴 |
+| Ethereum | $1,661.29 | -3.60% | 🔴 |
+| Solana | $69.33 | -3.59% | 🔴 |
+| Bnb | $576.61 | -2.17% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
