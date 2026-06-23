@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 16:39:18 UTC",
-    "fetched_at_ist": "2026-06-23 22:09:18 IST",
+    "fetched_at_utc": "2026-06-23 20:33:26 UTC",
+    "fetched_at_ist": "2026-06-24 02:03:26 IST",
     "item_count": 5,
-    "content_hash": "8775b01b45efd6a5026e9c41b4314578c3627d4db933759e168ab5c2930e84f0",
-    "previous_hash": "56490a7c0cbc3a070634715a152db6edb9d6c6aa84c2e3e18f65a327bd1c55a0",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "823bc0106a2f5adf06e7fb5acae7b70ad9cc62628e3b7bf43222c75f8b88e7f9",
+    "previous_hash": "8775b01b45efd6a5026e9c41b4314578c3627d4db933759e168ab5c2930e84f0",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48650311,
+      "title": "Anthropic updates their terms to verify age or identity",
+      "url": "https://www.anthropic.com/legal/privacy",
+      "score": 112,
+      "comments": 60
+    },
+    {
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 144,
+      "comments": 16
+    },
+    {
+      "id": 48648779,
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 96,
+      "comments": 28
+    },
+    {
       "id": 48645437,
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "url": "https://tikz.dev/editor/",
-      "score": 162,
-      "comments": 24
+      "score": 274,
+      "comments": 56
     },
     {
-      "id": 48643426,
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 295,
-      "comments": 78
-    },
-    {
-      "id": 48645173,
-      "title": "Spying on kids to save kids from spying is stupid",
-      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 296,
-      "comments": 189
-    },
-    {
-      "id": 48645721,
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "url": "https://lift4d.github.io/",
-      "score": 39,
-      "comments": 2
-    },
-    {
-      "id": 48645152,
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 198,
-      "comments": 57
+      "id": 48647799,
+      "title": "F3",
+      "url": "https://github.com/future-file-format/f3",
+      "score": 503,
+      "comments": 120
     }
   ]
 }
