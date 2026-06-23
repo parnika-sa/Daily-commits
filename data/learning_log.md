@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 13:48 IST)
+
+## 📅 2026-06-23 (last updated: 17:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-23 10:07:10 IST | 83ef5ef2dde0 | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-23 17:06:13 IST | 56490a7c0cbc | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-06-23 13:48:53 IST | ed72e787ec78 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1351
-- [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) — Score: 255
-- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) — Score: 52
-- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) — Score: 82
-- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/) — Score: 10
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1646
+- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/) — Score: 157
+- [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/) — Score: 89
+- [Plotnine](https://plotnine.org/) — Score: 65
+- [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2) — Score: 351
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,513.0 🔴 -2.62%
