@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-24 05:30:44 UTC",
-    "fetched_at_ist": "2026-06-24 11:00:44 IST",
+    "fetched_at_utc": "2026-06-24 08:41:55 UTC",
+    "fetched_at_ist": "2026-06-24 14:11:55 IST",
     "item_count": 5,
-    "content_hash": "427f54276e43aabc7143b6ab3a6c9182328870c32ae84bc679ef56165e3ead21",
-    "previous_hash": "823bc0106a2f5adf06e7fb5acae7b70ad9cc62628e3b7bf43222c75f8b88e7f9",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f89dfd88e7219385624edd9d1f8388b1f9a187abbce7b268c1369c0d091e66ce",
+    "previous_hash": "427f54276e43aabc7143b6ab3a6c9182328870c32ae84bc679ef56165e3ead21",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48656807,
+      "title": "GitHub Is Becoming a Giant AI Code Dump",
+      "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
+      "score": 17,
+      "comments": 7
+    },
+    {
       "id": 48653216,
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 171,
-      "comments": 77
+      "score": 245,
+      "comments": 133
+    },
+    {
+      "id": 48654676,
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 113,
+      "comments": 27
+    },
+    {
+      "id": 48612025,
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "score": 105,
+      "comments": 32
     },
     {
       "id": 48649435,
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 394,
-      "comments": 49
-    },
-    {
-      "id": 48648619,
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 413,
-      "comments": 121
-    },
-    {
-      "id": 48654351,
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 28,
-      "comments": 4
-    },
-    {
-      "id": 48648959,
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 258,
-      "comments": 29
+      "score": 457,
+      "comments": 52
     }
   ]
 }
