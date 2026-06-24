@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 20:33:26 UTC",
-    "fetched_at_ist": "2026-06-24 02:03:26 IST",
+    "fetched_at_utc": "2026-06-24 05:30:44 UTC",
+    "fetched_at_ist": "2026-06-24 11:00:44 IST",
     "item_count": 5,
-    "content_hash": "823bc0106a2f5adf06e7fb5acae7b70ad9cc62628e3b7bf43222c75f8b88e7f9",
-    "previous_hash": "8775b01b45efd6a5026e9c41b4314578c3627d4db933759e168ab5c2930e84f0",
+    "content_hash": "427f54276e43aabc7143b6ab3a6c9182328870c32ae84bc679ef56165e3ead21",
+    "previous_hash": "823bc0106a2f5adf06e7fb5acae7b70ad9cc62628e3b7bf43222c75f8b88e7f9",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48650311,
-      "title": "Anthropic updates their terms to verify age or identity",
-      "url": "https://www.anthropic.com/legal/privacy",
-      "score": 112,
-      "comments": 60
+      "id": 48653216,
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 171,
+      "comments": 77
     },
     {
       "id": 48649435,
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 144,
-      "comments": 16
+      "score": 394,
+      "comments": 49
     },
     {
-      "id": 48648779,
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 96,
-      "comments": 28
+      "id": 48648619,
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 413,
+      "comments": 121
     },
     {
-      "id": 48645437,
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 274,
-      "comments": 56
+      "id": 48654351,
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 28,
+      "comments": 4
     },
     {
-      "id": 48647799,
-      "title": "F3",
-      "url": "https://github.com/future-file-format/f3",
-      "score": 503,
-      "comments": 120
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 258,
+      "comments": 29
     }
   ]
 }

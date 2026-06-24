@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-24 (last updated: 06:52 IST)
+
+## 📅 2026-06-24 (last updated: 11:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-24 02:03:26 IST | 823bc0106a2f | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-24 11:00:44 IST | 427f54276e43 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-24 06:52:38 IST | 53ce537c877f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy) — Score: 112
-- [Jerry's Map](http://www.jerrysmap.com/the-map) — Score: 144
-- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) — Score: 96
-- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/) — Score: 274
-- [F3](https://github.com/future-file-format/f3) — Score: 503
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) — Score: 171
+- [Jerry's Map](http://www.jerrysmap.com/the-map) — Score: 394
+- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) — Score: 413
+- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) — Score: 28
+- [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) — Score: 258
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,758.0 🔴 -2.14%
