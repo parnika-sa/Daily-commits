@@ -4,19 +4,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-25 (last updated: 19:05 IST)
+
+## 📅 2026-06-25 (last updated: 02:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-24 19:05:42 IST | 7a3208657fe7 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-24 16:58:55 IST | 58491eeaa612 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-25 02:46:49 IST | 8fca73aff5be | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
@@ -38,21 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Slate EV truck starts at $24,950](https://www.slate.auto/en) — Score: 16
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,298.0 🔴 -0.24%
-- Ethereum: $1,656.12 🔴 -0.11%
-- Solana: $68.78 🔴 -0.39%
-- Bnb: $574.28 🟢 +0.17%
+- Bitcoin: $60,625.0 🔴 -2.87%
+- Ethereum: $1,606.44 🔴 -3.40%
+- Solana: $67.24 🔴 -2.62%
+- Bnb: $559.6 🔴 -2.82%
 
 ---
-
-
-
-
-
-
-
-
-
 ## 📅 2026-06-24 (last updated: 19:05 IST)
 
 ### 🧪 Source Integrity Snapshot

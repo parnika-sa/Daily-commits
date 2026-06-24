@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-24 13:35:42 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-24 21:16:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$62,298.0** ↓ (-0.24%)
+- BTC: **$60,625.0** ↓ (-2.87%)
 - HN top story: **We're making Bunny DNS free: because a faster internet won't build itself**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 00:03:36 UTC | `a3a6d21df1f3` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-24 13:35:42 UTC | `7a3208657fe7` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-24 11:28:55 UTC | `58491eeaa612` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-24 21:16:49 UTC | `8fca73aff5be` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-25` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-06-24 23:28:15 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `76` day(s) |
+| Last Commit (IST) | `2026-06-25 01:15:20 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-22 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-06-23 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-25 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-06-25 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,298.0 | -0.24% | 🔴 |
-| Ethereum | $1,656.12 | -0.11% | 🔴 |
-| Solana | $68.78 | -0.39% | 🔴 |
-| Bnb | $574.28 | +0.17% | 🟢 |
+| Bitcoin | $60,625.0 | -2.87% | 🔴 |
+| Ethereum | $1,606.44 | -3.40% | 🔴 |
+| Solana | $67.24 | -2.62% | 🔴 |
+| Bnb | $559.6 | -2.82% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
