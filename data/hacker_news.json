@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-25 07:35:12 UTC",
-    "fetched_at_ist": "2026-06-25 13:05:12 IST",
+    "fetched_at_utc": "2026-06-25 12:37:08 UTC",
+    "fetched_at_ist": "2026-06-25 18:07:08 IST",
     "item_count": 5,
-    "content_hash": "5d56102639e63c399d98fa93c7d2a8d5b27f4a88bb8abc867a7f52f89a4b5b80",
-    "previous_hash": "7a3208657fe7a25c7e0d6f9a8a2053bcbf159386f542be633815f09c76702030",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "5decab9f9f3c5285087f435d2c9744d18ad97cc191c595f40c4d157b0423492f",
+    "previous_hash": "5d56102639e63c399d98fa93c7d2a8d5b27f4a88bb8abc867a7f52f89a4b5b80",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48671392,
+      "title": "Dolphin Emulator Progress Release 2606",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "score": 107,
+      "comments": 11
+    },
+    {
       "id": 48669534,
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 113,
-      "comments": 35
+      "score": 347,
+      "comments": 124
     },
     {
       "id": 48664814,
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 334,
-      "comments": 573
+      "score": 513,
+      "comments": 873
     },
     {
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 663,
-      "comments": 372
+      "score": 732,
+      "comments": 420
     },
     {
-      "id": 48668033,
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 120,
-      "comments": 44
-    },
-    {
-      "id": 48646077,
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "score": 34,
-      "comments": 2
+      "id": 48671468,
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 73,
+      "comments": 25
     }
   ]
 }
