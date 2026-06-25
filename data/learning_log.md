@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-25 (last updated: 18:07 IST)
+
+## 📅 2026-06-25 (last updated: 21:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-25 18:07:08 IST | 5decab9f9f3c | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-25 21:01:41 IST | e6d8d00378a8 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-25 15:58:17 IST | 384a6d00ba7c | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) — Score: 107
-- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) — Score: 347
-- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) — Score: 513
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) — Score: 732
-- [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) — Score: 73
+- [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) — Score: 111
+- [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/) — Score: 128
+- [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25) — Score: 33
+- [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short) — Score: 69
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) — Score: 489
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,512.0 🔴 -1.53%
