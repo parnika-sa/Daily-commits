@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-25 17:33:09 UTC",
-    "fetched_at_ist": "2026-06-25 23:03:09 IST",
+    "fetched_at_utc": "2026-06-25 22:44:46 UTC",
+    "fetched_at_ist": "2026-06-26 04:14:46 IST",
     "item_count": 5,
-    "content_hash": "b24cef64d560eeff39e0cb8d5404f03f27cb831076fc2d885b5d4add84d5643a",
-    "previous_hash": "e6d8d00378a800d96b66ad265af849f54dff89b282841b06f3f0082a7e271184",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "9f21a64a7d4bcd10df8715cf9dfa1eae731e897177041800a6a83c8a80d67242",
+    "previous_hash": "b24cef64d560eeff39e0cb8d5404f03f27cb831076fc2d885b5d4add84d5643a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48673825,
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 111,
-      "comments": 29
+      "id": 48679608,
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 68,
+      "comments": 9
+    },
+    {
+      "id": 48675179,
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 807,
+      "comments": 183
+    },
+    {
+      "id": 48679007,
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 63,
+      "comments": 6
+    },
+    {
+      "id": 48631450,
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 246,
+      "comments": 107
     },
     {
       "id": 48674967,
       "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 33,
-      "comments": 13
-    },
-    {
-      "id": 48675179,
-      "title": "A Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 45,
-      "comments": 10
-    },
-    {
-      "id": 48657049,
-      "title": "You can't unit test for taste",
-      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 177,
-      "comments": 68
-    },
-    {
-      "id": 48673671,
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com",
-      "score": 399,
-      "comments": 114
+      "score": 231,
+      "comments": 137
     }
   ]
 }
