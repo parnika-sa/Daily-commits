@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-25 (last updated: 02:46 IST)
+
+## 📅 2026-06-25 (last updated: 13:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-24 19:05:42 IST | 7a3208657fe7 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-25 13:05:12 IST | 5d56102639e6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-25 02:46:49 IST | 8fca73aff5be | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/) — Score: 402
-- [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/) — Score: 127
-- [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report) — Score: 62
-- [Minimus container images are now free](https://images.minimus.io/) — Score: 45
-- [Slate EV truck starts at $24,950](https://www.slate.auto/en) — Score: 16
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) — Score: 113
+- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) — Score: 334
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) — Score: 663
+- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) — Score: 120
+- [Markdy: Like Mermaid Diagrams, but for Motion](https://markdy.com) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,625.0 🔴 -2.87%
