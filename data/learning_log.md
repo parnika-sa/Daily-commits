@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-25 (last updated: 13:05 IST)
+
+## 📅 2026-06-25 (last updated: 15:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-25 13:05:12 IST | 5d56102639e6 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-25 02:46:49 IST | 8fca73aff5be | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-06-25 15:58:17 IST | 384a6d00ba7c | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Markdy: Like Mermaid Diagrams, but for Motion](https://markdy.com) — Score: 34
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $60,625.0 🔴 -2.87%
-- Ethereum: $1,606.44 🔴 -3.40%
-- Solana: $67.24 🔴 -2.62%
-- Bnb: $559.6 🔴 -2.82%
+- Bitcoin: $61,512.0 🔴 -1.53%
+- Ethereum: $1,641.94 🔴 -1.33%
+- Solana: $68.52 🔴 -0.69%
+- Bnb: $567.08 🔴 -1.41%
 
 ---
 ## 📅 2026-06-24 (last updated: 19:05 IST)
