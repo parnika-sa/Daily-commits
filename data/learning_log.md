@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-25 (last updated: 21:01 IST)
+
+## 📅 2026-06-25 (last updated: 23:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-25 21:01:41 IST | e6d8d00378a8 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-25 23:03:09 IST | b24cef64d560 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-25 15:58:17 IST | 384a6d00ba7c | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) — Score: 111
-- [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/) — Score: 128
-- [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25) — Score: 33
-- [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short) — Score: 69
-- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) — Score: 489
+- [Zig's new bitCast semantics and LLVM back end improvements](https://ziglang.org/devlog/2026/#2026-06-25) — Score: 111
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) — Score: 33
+- [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) — Score: 45
+- [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/) — Score: 177
+- [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) — Score: 399
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,512.0 🔴 -1.53%
