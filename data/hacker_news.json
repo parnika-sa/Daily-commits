@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-25 22:44:46 UTC",
-    "fetched_at_ist": "2026-06-26 04:14:46 IST",
+    "fetched_at_utc": "2026-06-26 10:43:47 UTC",
+    "fetched_at_ist": "2026-06-26 16:13:47 IST",
     "item_count": 5,
-    "content_hash": "9f21a64a7d4bcd10df8715cf9dfa1eae731e897177041800a6a83c8a80d67242",
-    "previous_hash": "b24cef64d560eeff39e0cb8d5404f03f27cb831076fc2d885b5d4add84d5643a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "7ad29509611896b28f345d8e7bc57dd093eb5a50613a53da4c79b01d52952b37",
+    "previous_hash": "9f21a64a7d4bcd10df8715cf9dfa1eae731e897177041800a6a83c8a80d67242",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48679608,
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 68,
-      "comments": 9
+      "id": 48682737,
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "url": "https://akrites.org/letter/",
+      "score": 146,
+      "comments": 65
+    },
+    {
+      "id": 48678852,
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 917,
+      "comments": 107
     },
     {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 807,
-      "comments": 183
+      "score": 1320,
+      "comments": 278
     },
     {
-      "id": 48679007,
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 63,
-      "comments": 6
+      "id": 48681949,
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "score": 160,
+      "comments": 25
     },
     {
-      "id": 48631450,
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "score": 246,
-      "comments": 107
-    },
-    {
-      "id": 48674967,
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 231,
-      "comments": 137
+      "id": 48648550,
+      "title": "My Steam Machine Is a 50ft HDMI Cable",
+      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+      "score": 43,
+      "comments": 34
     }
   ]
 }
