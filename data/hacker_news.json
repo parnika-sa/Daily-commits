@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-26 10:43:47 UTC",
-    "fetched_at_ist": "2026-06-26 16:13:47 IST",
+    "fetched_at_utc": "2026-06-26 12:33:51 UTC",
+    "fetched_at_ist": "2026-06-26 18:03:51 IST",
     "item_count": 5,
-    "content_hash": "7ad29509611896b28f345d8e7bc57dd093eb5a50613a53da4c79b01d52952b37",
-    "previous_hash": "9f21a64a7d4bcd10df8715cf9dfa1eae731e897177041800a6a83c8a80d67242",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "23c920c795601114e51839d00e66cfe41c5407472cc9f4e5ceee2b95f05f589f",
+    "previous_hash": "7ad29509611896b28f345d8e7bc57dd093eb5a50613a53da4c79b01d52952b37",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48685677,
+      "title": "Captcha proves you're human. HATCHA proves you're not",
+      "url": "https://github.com/mondaycom/HATCHA",
+      "score": 35,
+      "comments": 28
+    },
+    {
       "id": 48682737,
       "title": "We All Depend on Open Source. We Will Defend It Together",
       "url": "https://akrites.org/letter/",
-      "score": 146,
-      "comments": 65
+      "score": 258,
+      "comments": 124
     },
     {
       "id": 48678852,
       "title": "Om Malik has died",
       "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 917,
-      "comments": 107
+      "score": 975,
+      "comments": 119
     },
     {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 1320,
-      "comments": 278
+      "score": 1371,
+      "comments": 288
     },
     {
       "id": 48681949,
       "title": "Libre Barcode Project",
       "url": "https://graphicore.github.io/librebarcode/",
-      "score": 160,
-      "comments": 25
-    },
-    {
-      "id": 48648550,
-      "title": "My Steam Machine Is a 50ft HDMI Cable",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "score": 43,
-      "comments": 34
+      "score": 194,
+      "comments": 30
     }
   ]
 }
