@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 19:12 IST)
+
+## 📅 2026-06-28 (last updated: 21:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-28 19:12:07 IST | 681f6d776cec | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-28 08:55:47 IST | 06edd179059e | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-28 21:52:00 IST | 20a06aeb1da2 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) — Score: 72
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $60,177.0 🔴 -0.08%
-- Ethereum: $1,572.43 🔴 -0.54%
-- Solana: $70.77 🔴 -1.80%
-- Bnb: $557.8 🔴 -1.48%
+- Bitcoin: $59,767.0 🔴 -1.41%
+- Ethereum: $1,577.01 🔴 -1.40%
+- Solana: $71.83 🔴 -1.07%
+- Bnb: $553.7 🔴 -1.86%
 
 ---
 ## 📅 2026-06-27 (last updated: 23:47 IST)

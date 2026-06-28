@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-28 13:42:07 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-28 16:22:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$60,177.0** ↓ (-0.08%)
+- BTC: **$59,767.0** ↓ (-1.41%)
 - HN top story: **A way to exclude sensitive files issue still open for OpenAI Codex**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 00:03:36 UTC | `a3a6d21df1f3` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-28 13:42:07 UTC | `681f6d776cec` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-28 03:25:47 UTC | `06edd179059e` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-28 16:22:00 UTC | `20a06aeb1da2` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-28` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `77` day(s) |
-| Last Commit (IST) | `2026-06-28 19:12:07 IST` |
+| Last Commit (IST) | `2026-06-28 20:35:26 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-25 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-27 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-06-28 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-06-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,177.0 | -0.08% | 🔴 |
-| Ethereum | $1,572.43 | -0.54% | 🔴 |
-| Solana | $70.77 | -1.80% | 🔴 |
-| Bnb | $557.8 | -1.48% | 🔴 |
+| Bitcoin | $59,767.0 | -1.41% | 🔴 |
+| Ethereum | $1,577.01 | -1.40% | 🔴 |
+| Solana | $71.83 | -1.07% | 🔴 |
+| Bnb | $553.7 | -1.86% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
