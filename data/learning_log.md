@@ -15,13 +15,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 21:52 IST)
+
+## 📅 2026-06-28 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-28 19:12:07 IST | 681f6d776cec | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-28 23:11:53 IST | 0ef7e434a0f6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-28 21:52:00 IST | 20a06aeb1da2 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847) — Score: 30
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) — Score: 304
-- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online) — Score: 66
-- [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467) — Score: 45
-- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) — Score: 72
+- [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/) — Score: 172
+- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) — Score: 45
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) — Score: 22
+- [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)](https://www.openculture.com/2020/10/daisugi.html) — Score: 42
+- [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html) — Score: 38
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,767.0 🔴 -1.41%

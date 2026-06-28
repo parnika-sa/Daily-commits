@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 13:42:07 UTC",
-    "fetched_at_ist": "2026-06-28 19:12:07 IST",
+    "fetched_at_utc": "2026-06-28 17:41:53 UTC",
+    "fetched_at_ist": "2026-06-28 23:11:53 IST",
     "item_count": 5,
-    "content_hash": "681f6d776cec1d3c9ddaa14b5999e359ffb6cc4678e1c201887765d5af2ae3ec",
-    "previous_hash": "23c920c795601114e51839d00e66cfe41c5407472cc9f4e5ceee2b95f05f589f",
+    "content_hash": "0ef7e434a0f66140acad0dc0b4c05d4cf4aebc9523e6b92cacc119c090303ec3",
+    "previous_hash": "681f6d776cec1d3c9ddaa14b5999e359ffb6cc4678e1c201887765d5af2ae3ec",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48706714,
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "score": 30,
-      "comments": 20
+      "id": 48707763,
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "score": 172,
+      "comments": 39
     },
     {
-      "id": 48703759,
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 304,
-      "comments": 82
-    },
-    {
-      "id": 48706560,
-      "title": "Kids act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 66,
-      "comments": 32
-    },
-    {
-      "id": 48705910,
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "id": 48708941,
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "score": 45,
-      "comments": 17
+      "comments": 61
     },
     {
-      "id": 48704454,
-      "title": "Bashblog – a single bash script to create blogs",
-      "url": "https://github.com/cfenollosa/bashblog",
-      "score": 72,
-      "comments": 52
+      "id": 48709187,
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "score": 22,
+      "comments": 2
+    },
+    {
+      "id": 48708859,
+      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "score": 42,
+      "comments": 15
+    },
+    {
+      "id": 48708700,
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "score": 38,
+      "comments": 7
     }
   ]
 }
