@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 17:41:53 UTC",
-    "fetched_at_ist": "2026-06-28 23:11:53 IST",
+    "fetched_at_utc": "2026-06-28 22:33:32 UTC",
+    "fetched_at_ist": "2026-06-29 04:03:32 IST",
     "item_count": 5,
-    "content_hash": "0ef7e434a0f66140acad0dc0b4c05d4cf4aebc9523e6b92cacc119c090303ec3",
-    "previous_hash": "681f6d776cec1d3c9ddaa14b5999e359ffb6cc4678e1c201887765d5af2ae3ec",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c19712a6a3c256bdb16f50b4e48283b3562f6a9abd92a55ac71fd77cf22f6e4b",
+    "previous_hash": "0ef7e434a0f66140acad0dc0b4c05d4cf4aebc9523e6b92cacc119c090303ec3",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48707763,
-      "title": "5k Restaurant Menus, Years 1880-1920",
-      "url": "https://pudding.cool/2026/06/menu-collection/",
-      "score": 172,
-      "comments": 39
+      "id": 48709670,
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 228,
+      "comments": 84
     },
     {
       "id": 48708941,
       "title": "I used Claude Code to get a second opinion on my MRI",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 45,
-      "comments": 61
+      "score": 278,
+      "comments": 381
     },
     {
-      "id": 48709187,
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 22,
-      "comments": 2
+      "id": 48707763,
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 299,
+      "comments": 80
     },
     {
-      "id": 48708859,
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "id": 48710092,
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 86,
+      "comments": 27
+    },
+    {
+      "id": 48710775,
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
       "score": 42,
-      "comments": 15
-    },
-    {
-      "id": 48708700,
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-      "score": 38,
-      "comments": 7
+      "comments": 28
     }
   ]
 }
