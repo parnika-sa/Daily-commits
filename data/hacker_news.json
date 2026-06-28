@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-26 12:33:51 UTC",
-    "fetched_at_ist": "2026-06-26 18:03:51 IST",
+    "fetched_at_utc": "2026-06-28 13:42:07 UTC",
+    "fetched_at_ist": "2026-06-28 19:12:07 IST",
     "item_count": 5,
-    "content_hash": "23c920c795601114e51839d00e66cfe41c5407472cc9f4e5ceee2b95f05f589f",
-    "previous_hash": "7ad29509611896b28f345d8e7bc57dd093eb5a50613a53da4c79b01d52952b37",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "681f6d776cec1d3c9ddaa14b5999e359ffb6cc4678e1c201887765d5af2ae3ec",
+    "previous_hash": "23c920c795601114e51839d00e66cfe41c5407472cc9f4e5ceee2b95f05f589f",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48685677,
-      "title": "Captcha proves you're human. HATCHA proves you're not",
-      "url": "https://github.com/mondaycom/HATCHA",
-      "score": 35,
-      "comments": 28
+      "id": 48706714,
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "score": 30,
+      "comments": 20
     },
     {
-      "id": 48682737,
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "url": "https://akrites.org/letter/",
-      "score": 258,
-      "comments": 124
+      "id": 48703759,
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 304,
+      "comments": 82
     },
     {
-      "id": 48678852,
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 975,
-      "comments": 119
+      "id": 48706560,
+      "title": "Kids act would require age checks to get online",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "score": 66,
+      "comments": 32
     },
     {
-      "id": 48675179,
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1371,
-      "comments": 288
+      "id": 48705910,
+      "title": "DLL that was not present in memory despite not being formally unloaded",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "score": 45,
+      "comments": 17
     },
     {
-      "id": 48681949,
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "score": 194,
-      "comments": 30
+      "id": 48704454,
+      "title": "Bashblog – a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "score": 72,
+      "comments": 52
     }
   ]
 }

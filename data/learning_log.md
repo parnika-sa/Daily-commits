@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 08:55 IST)
+
+## 📅 2026-06-28 (last updated: 19:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-26 18:03:51 IST | 23c920c79560 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-28 19:12:07 IST | 681f6d776cec | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-28 08:55:47 IST | 06edd179059e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,135 stars today
 
 ### 📰 Hacker News Stories
-- [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA) — Score: 35
-- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/) — Score: 258
-- [Om Malik has died](https://om.co/2026/06/24/1966-2026/) — Score: 975
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) — Score: 1371
-- [Libre Barcode Project](https://graphicore.github.io/librebarcode/) — Score: 194
+- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847) — Score: 30
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) — Score: 304
+- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online) — Score: 66
+- [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467) — Score: 45
+- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) — Score: 72
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,177.0 🔴 -0.08%
