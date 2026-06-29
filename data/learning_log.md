@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-29 (last updated: 08:09 IST)
+
+## 📅 2026-06-29 (last updated: 17:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-22 05:33:36 IST | a3a6d21df1f3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-29 08:09:17 IST | 6788c856e02d | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-06-29 02:48:03 IST | 9a7f9b8d2a35 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-06-29 17:38:59 IST | c7dee43d5fcd | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-29 17:39:00 IST | 80ce7766ba36 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-29 17:39:00 IST | 0bd78fe8679e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** (Swift) — macOS video editor built for AI  
-  ⭐ 1,834 stars today
-- **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** (Python) — World's first open-source, agentic video production system. 12 pipelines, 52 too  
-  ⭐ 987 stars today
-- **[chopratejas/headroom](https://github.com/chopratejas/headroom)** (Python) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60  
-  ⭐ 2,624 stars today
-- **[tursodatabase/turso](https://github.com/tursodatabase/turso)** (Rust) — Turso is an in-process SQL database, compatible with SQLite.  
-  ⭐ 548 stars today
-- **[penpot/penpot](https://github.com/penpot/penpot)** (Clojure) — Penpot: The open-source design tool for design and code collaboration  
-  ⭐ 1,135 stars today
+- **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** (Haskell) — SimpleX - the first messaging network operating without user identifiers of any   
+  ⭐ 1,180 stars today
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** (Shell) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun  
+  ⭐ 1,221 stars today
+- **[cupy/cupy](https://github.com/cupy/cupy)** (Python) — NumPy & SciPy for GPU  
+  ⭐ 174 stars today
+- **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** (Swift) — FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On  
+  ⭐ 365 stars today
+- **[soxoj/maigret](https://github.com/soxoj/maigret)** (Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  
+  ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) — Score: 486
-- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) — Score: 175
-- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) — Score: 331
-- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) — Score: 359
-- [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) — Score: 54
+- [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/) — Score: 18
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats) — Score: 578
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) — Score: 909
+- [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) — Score: 296
+- [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them) — Score: 41
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,588.0 🔴 -1.16%
-- Ethereum: $1,568.13 🔴 -0.82%
-- Solana: $70.72 🔴 -0.89%
-- Bnb: $549.69 🔴 -2.07%
+- Bitcoin: $60,538.0 🟢 +0.45%
+- Ethereum: $1,583.93 🟢 +0.24%
+- Solana: $72.87 🟢 +1.49%
+- Bnb: $553.81 🔴 -0.42%
 
 ---
 ## 📅 2026-06-28 (last updated: 23:11 IST)

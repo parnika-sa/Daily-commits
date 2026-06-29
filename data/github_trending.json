@@ -2,116 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-22 00:03:36 UTC",
-    "fetched_at_ist": "2026-06-22 05:33:36 IST",
-    "item_count": 17,
-    "content_hash": "a3a6d21df1f397d03500c293bc58f505d3b3817c051b7e3b4bedfc5d4d3414ad",
-    "previous_hash": "e662b18dfc31145966a89114bd1ae8a82ff31ef136305556f88df00f2eebb6fe",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-06-29 12:08:59 UTC",
+    "fetched_at_ist": "2026-06-29 17:38:59 IST",
+    "item_count": 14,
+    "content_hash": "c7dee43d5fcdc3ae1669d753947e1b37d7fbba264dddce3df6d9e186fca243fc",
+    "previous_hash": "a3a6d21df1f397d03500c293bc58f505d3b3817c051b7e3b4bedfc5d4d3414ad",
+    "new_repos_vs_previous": 14,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "1,834 stars today"
+      "name": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_today": "1,180 stars today"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_today": "987 stars today"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "2,624 stars today"
-    },
-    {
-      "name": "tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars_today": "548 stars today"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_today": "1,135 stars today"
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": "568 stars today"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "163 stars today"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars_today": "442 stars today"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,032 stars today"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "361 stars today"
-    },
-    {
-      "name": "tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "stars_today": "1,848 stars today"
-    },
-    {
-      "name": "mikumifa/biliTickerBuy",
-      "description": "b站会员购购票辅助工具",
-      "language": "Python",
-      "stars_today": "67 stars today"
-    },
-    {
-      "name": "smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "language": "Python",
-      "stars_today": "294 stars today"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_today": "347 stars today"
-    },
-    {
-      "name": "byoungd/English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "language": "Unknown",
-      "stars_today": "125 stars today"
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "282 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,443 stars today"
+      "stars_today": "1,221 stars today"
+    },
+    {
+      "name": "cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars_today": "174 stars today"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars_today": "365 stars today"
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "191 stars today"
+    },
+    {
+      "name": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars_today": "266 stars today"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars_today": "495 stars today"
+    },
+    {
+      "name": "logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars_today": "77 stars today"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": "1,445 stars today"
+    },
+    {
+      "name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": "196 stars today"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars_today": "105 stars today"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "492 stars today"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": "249 stars today"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars_today": "114 stars today"
     }
   ]
 }

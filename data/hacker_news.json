@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-29 02:39:17 UTC",
-    "fetched_at_ist": "2026-06-29 08:09:17 IST",
+    "fetched_at_utc": "2026-06-29 12:09:00 UTC",
+    "fetched_at_ist": "2026-06-29 17:39:00 IST",
     "item_count": 5,
-    "content_hash": "6788c856e02d44ee74c467a2fa207403c85e87b916ed58033b2a22542dacb8ec",
-    "previous_hash": "c19712a6a3c256bdb16f50b4e48283b3562f6a9abd92a55ac71fd77cf22f6e4b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "80ce7766ba36081d4d28fc0c38c13c70ccc9cd33af7f439ca6efc3bb43ac831c",
+    "previous_hash": "6788c856e02d44ee74c467a2fa207403c85e87b916ed58033b2a22542dacb8ec",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48717287,
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "score": 18,
+      "comments": 0
+    },
+    {
+      "id": 48713832,
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "score": 578,
+      "comments": 241
+    },
     {
       "id": 48709670,
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 486,
-      "comments": 239
+      "score": 909,
+      "comments": 419
     },
     {
-      "id": 48710092,
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 175,
-      "comments": 71
+      "id": 48716902,
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 296,
+      "comments": 37
     },
     {
-      "id": 48707763,
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 331,
-      "comments": 86
-    },
-    {
-      "id": 48708941,
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 359,
-      "comments": 464
-    },
-    {
-      "id": 48712420,
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "score": 54,
-      "comments": 12
+      "id": 48662018,
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "score": 41,
+      "comments": 4
     }
   ]
 }

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-29 02:39:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-29 12:09:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **palmier-io/palmier-pro**
-- BTC: **$59,588.0** ↓ (-1.16%)
-- HN top story: **GLM 5.2 beats Claude in our benchmarks**
+- Top GitHub repo: **simplex-chat/simplex-chat**
+- BTC: **$60,538.0** ↑ (+0.45%)
+- HN top story: **Sandia National Labs SA3000 8085 CPU**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-22 00:03:36 UTC | `a3a6d21df1f3` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-29 02:39:17 UTC | `6788c856e02d` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-06-28 21:18:03 UTC | `9a7f9b8d2a35` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-06-29 12:08:59 UTC | `c7dee43d5fcd` | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-29 12:09:00 UTC | `80ce7766ba36` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-29 12:09:00 UTC | `0bd78fe8679e` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-29` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `78` day(s) |
-| Last Commit (IST) | `2026-06-29 08:09:17 IST` |
+| Last Commit (IST) | `2026-06-29 12:44:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-27 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-06-28 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-06-29 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-29 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $59,588.0 | -1.16% | 🔴 |
-| Ethereum | $1,568.13 | -0.82% | 🔴 |
-| Solana | $70.72 | -0.89% | 🔴 |
-| Bnb | $549.69 | -2.07% | 🔴 |
+| Bitcoin | $60,538.0 | +0.45% | 🟢 |
+| Ethereum | $1,583.93 | +0.24% | 🟢 |
+| Solana | $72.87 | +1.49% | 🟢 |
+| Bnb | $553.81 | -0.42% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 1,834 stars today | macOS video editor built for AI |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 987 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 2,624 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 548 stars today | Turso is an in-process SQL database, compatible with SQLite. |
-| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 1,135 stars today | Penpot: The open-source design tool for design and code collaboration |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 568 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 163 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 442 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 1,180 stars today | SimpleX - the first messaging network operating without user identifiers of any … |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,221 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [cupy/cupy](https://github.com/cupy/cupy) | Python | 174 stars today | NumPy & SciPy for GPU |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 365 stars today | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On… |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 191 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 266 stars today | openpilot is an operating system for robotics. Currently, it upgrades the driver… |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 495 stars today | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo… |
+| [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 77 stars today | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) | 486 | 239 |
-| [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) | 175 | 71 |
-| [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) | 331 | 86 |
-| [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) | 359 | 464 |
-| [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) | 54 | 12 |
+| [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/) | 18 | 0 |
+| [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats) | 578 | 241 |
+| [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) | 909 | 419 |
+| [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) | 296 | 37 |
+| [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them) | 41 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
