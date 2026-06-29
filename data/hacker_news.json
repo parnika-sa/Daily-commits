@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 22:33:32 UTC",
-    "fetched_at_ist": "2026-06-29 04:03:32 IST",
+    "fetched_at_utc": "2026-06-29 02:39:17 UTC",
+    "fetched_at_ist": "2026-06-29 08:09:17 IST",
     "item_count": 5,
-    "content_hash": "c19712a6a3c256bdb16f50b4e48283b3562f6a9abd92a55ac71fd77cf22f6e4b",
-    "previous_hash": "0ef7e434a0f66140acad0dc0b4c05d4cf4aebc9523e6b92cacc119c090303ec3",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "6788c856e02d44ee74c467a2fa207403c85e87b916ed58033b2a22542dacb8ec",
+    "previous_hash": "c19712a6a3c256bdb16f50b4e48283b3562f6a9abd92a55ac71fd77cf22f6e4b",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48709670,
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 228,
-      "comments": 84
-    },
-    {
-      "id": 48708941,
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 278,
-      "comments": 381
-    },
-    {
-      "id": 48707763,
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 299,
-      "comments": 80
+      "score": 486,
+      "comments": 239
     },
     {
       "id": 48710092,
       "title": "Historical memory prices 1960-2026",
       "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 86,
-      "comments": 27
+      "score": 175,
+      "comments": 71
     },
     {
-      "id": 48710775,
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 42,
-      "comments": 28
+      "id": 48707763,
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 331,
+      "comments": 86
+    },
+    {
+      "id": 48708941,
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 359,
+      "comments": 464
+    },
+    {
+      "id": 48712420,
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "score": 54,
+      "comments": 12
     }
   ]
 }
