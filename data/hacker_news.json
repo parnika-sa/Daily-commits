@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-29 12:09:00 UTC",
-    "fetched_at_ist": "2026-06-29 17:39:00 IST",
+    "fetched_at_utc": "2026-06-30 02:33:38 UTC",
+    "fetched_at_ist": "2026-06-30 08:03:38 IST",
     "item_count": 5,
-    "content_hash": "80ce7766ba36081d4d28fc0c38c13c70ccc9cd33af7f439ca6efc3bb43ac831c",
-    "previous_hash": "6788c856e02d44ee74c467a2fa207403c85e87b916ed58033b2a22542dacb8ec",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "38ba471dfdf48048a4514133c7280b0ddb7e561bf1300491a149c3913792177a",
+    "previous_hash": "80ce7766ba36081d4d28fc0c38c13c70ccc9cd33af7f439ca6efc3bb43ac831c",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48717287,
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 18,
-      "comments": 0
+      "id": 48724230,
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 352,
+      "comments": 199
     },
     {
-      "id": 48713832,
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 578,
-      "comments": 241
+      "id": 48721903,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 630,
+      "comments": 522
     },
     {
-      "id": 48709670,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 909,
-      "comments": 419
+      "id": 48698908,
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 235,
+      "comments": 62
     },
     {
-      "id": 48716902,
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 296,
-      "comments": 37
+      "id": 48727177,
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "url": "https://fil-c.org/context_switches",
+      "score": 33,
+      "comments": 14
     },
     {
-      "id": 48662018,
-      "title": "NUMA: Cores, memory, and the distance between them",
-      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-      "score": 41,
-      "comments": 4
+      "id": 48727323,
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 17,
+      "comments": 12
     }
   ]
 }

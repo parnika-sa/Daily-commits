@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-30 (last updated: 01:50 IST)
+
+## 📅 2026-06-30 (last updated: 08:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-29 17:38:59 IST | c7dee43d5fcd | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-29 17:39:00 IST | 80ce7766ba36 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-30 08:03:38 IST | 38ba471dfdf4 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-30 01:50:08 IST | b36f8c6333a8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/) — Score: 18
-- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats) — Score: 578
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) — Score: 909
-- [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) — Score: 296
-- [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them) — Score: 41
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) — Score: 352
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) — Score: 630
+- [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) — Score: 235
+- [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) — Score: 33
+- [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) — Score: 17
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,293.0 🟢 +1.17%
