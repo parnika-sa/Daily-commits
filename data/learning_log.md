@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-01 (last updated: 17:57 IST)
+
+## 📅 2026-07-01 (last updated: 04:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-29 17:38:59 IST | c7dee43d5fcd | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-30 12:10:29 IST | 69c8292b4434 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-01 04:07:24 IST | 587fa7b82241 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-30 17:57:53 IST | b101f80f8292 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) — Score: 810
-- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) — Score: 431
-- [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) — Score: 372
-- [Study suggests most Americans would be healthier without daylight saving time](https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html) — Score: 55
-- [Memory Safe Context Switching](https://fil-c.org/context_switches) — Score: 93
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — Score: 758
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) — Score: 1221
+- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) — Score: 54
+- [Claude Science](https://claude.com/product/claude-science) — Score: 309
+- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) — Score: 267
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $58,732.0 🔴 -2.73%

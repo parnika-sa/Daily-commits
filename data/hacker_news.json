@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-30 06:40:29 UTC",
-    "fetched_at_ist": "2026-06-30 12:10:29 IST",
+    "fetched_at_utc": "2026-06-30 22:37:24 UTC",
+    "fetched_at_ist": "2026-07-01 04:07:24 IST",
     "item_count": 5,
-    "content_hash": "69c8292b4434408b8e3a5bbea8fc5234f1859e2c3c0d4dfbc59a03d4e993d217",
-    "previous_hash": "38ba471dfdf48048a4514133c7280b0ddb7e561bf1300491a149c3913792177a",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "587fa7b8224158dfc7dc7454d9fbf5fb4dbb6ccc298e74dc23399e5d52d3b6d0",
+    "previous_hash": "69c8292b4434408b8e3a5bbea8fc5234f1859e2c3c0d4dfbc59a03d4e993d217",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48721903,
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 810,
-      "comments": 571
+      "id": 48736605,
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 758,
+      "comments": 419
     },
     {
-      "id": 48724230,
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 431,
-      "comments": 249
+      "id": 48734373,
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1221,
+      "comments": 323
     },
     {
-      "id": 48698908,
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 372,
-      "comments": 101
+      "id": 48739466,
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "score": 54,
+      "comments": 32
     },
     {
-      "id": 48728294,
-      "title": "Study suggests most Americans would be healthier without daylight saving time",
-      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
-      "score": 55,
-      "comments": 38
+      "id": 48735770,
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 309,
+      "comments": 106
     },
     {
-      "id": 48727177,
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "score": 93,
-      "comments": 22
+      "id": 48735444,
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "score": 267,
+      "comments": 102
     }
   ]
 }
