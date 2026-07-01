@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-01 (last updated: 04:07 IST)
+
+## 📅 2026-07-01 (last updated: 08:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-29 17:38:59 IST | c7dee43d5fcd | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-01 04:07:24 IST | 587fa7b82241 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-01 08:10:00 IST | 8671ee45fe13 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-30 17:57:53 IST | b101f80f8292 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +14 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — Score: 758
-- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) — Score: 1221
-- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) — Score: 54
-- [Claude Science](https://claude.com/product/claude-science) — Score: 309
-- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) — Score: 267
+- [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) — Score: 66
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — Score: 889
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) — Score: 1429
+- [Google copybara: moving code between repositories](https://github.com/google/copybara) — Score: 49
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) — Score: 232
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $58,732.0 🔴 -2.73%
