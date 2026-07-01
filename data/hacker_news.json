@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-01 10:38:57 UTC",
-    "fetched_at_ist": "2026-07-01 16:08:57 IST",
+    "fetched_at_utc": "2026-07-01 18:14:48 UTC",
+    "fetched_at_ist": "2026-07-01 23:44:48 IST",
     "item_count": 5,
-    "content_hash": "2847b5a3aebb0c472c20c678d278f9fe268f5c8e6fce2ab33fc31bf43532ce2e",
-    "previous_hash": "8671ee45fe13012b840545645c5f76b8b5dd482ec1ce26fbd14a58cf029d387b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "785441c6b5aaa05eb7a362eb4213c74527e1228fcd146438dcdafaaf6c7941c3",
+    "previous_hash": "2847b5a3aebb0c472c20c678d278f9fe268f5c8e6fce2ab33fc31bf43532ce2e",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48744518,
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 47,
-      "comments": 4
+      "id": 48747304,
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 401,
+      "comments": 126
     },
     {
-      "id": 48734373,
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2073,
-      "comments": 601
+      "id": 48745456,
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "score": 306,
+      "comments": 388
     },
     {
-      "id": 48711052,
-      "title": "Newly discovered spider builds spring loaded snare to catch ants",
-      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "score": 44,
-      "comments": 4
+      "id": 48747116,
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 70,
+      "comments": 35
     },
     {
-      "id": 48736605,
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1141,
-      "comments": 672
+      "id": 48748518,
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "score": 67,
+      "comments": 16
     },
     {
-      "id": 48743472,
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "score": 180,
-      "comments": 111
+      "id": 48745445,
+      "title": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 253,
+      "comments": 50
     }
   ]
 }

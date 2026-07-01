@@ -2,98 +2,134 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-29 12:08:59 UTC",
-    "fetched_at_ist": "2026-06-29 17:38:59 IST",
-    "item_count": 14,
-    "content_hash": "c7dee43d5fcdc3ae1669d753947e1b37d7fbba264dddce3df6d9e186fca243fc",
-    "previous_hash": "a3a6d21df1f397d03500c293bc58f505d3b3817c051b7e3b4bedfc5d4d3414ad",
-    "new_repos_vs_previous": 14,
+    "fetched_at_utc": "2026-07-01 18:14:47 UTC",
+    "fetched_at_ist": "2026-07-01 23:44:47 IST",
+    "item_count": 20,
+    "content_hash": "a6e7f490fd63de19374885e2edd3dae0b13b6386ab858ca457d7e6768111c84f",
+    "previous_hash": "c7dee43d5fcdc3ae1669d753947e1b37d7fbba264dddce3df6d9e186fca243fc",
+    "new_repos_vs_previous": 13,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "stars_today": "1,180 stars today"
-    },
-    {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,221 stars today"
+      "stars_today": "2,097 stars today"
     },
     {
-      "name": "cupy/cupy",
-      "description": "NumPy & SciPy for GPU",
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "174 stars today"
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-      "language": "Swift",
-      "stars_today": "365 stars today"
-    },
-    {
-      "name": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "191 stars today"
-    },
-    {
-      "name": "commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "language": "Python",
-      "stars_today": "266 stars today"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "stars_today": "495 stars today"
-    },
-    {
-      "name": "logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "stars_today": "77 stars today"
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "1,445 stars today"
-    },
-    {
-      "name": "browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_today": "196 stars today"
-    },
-    {
-      "name": "Unclecheng-li/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "language": "Python",
-      "stars_today": "105 stars today"
+      "stars_today": "1,195 stars today"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "492 stars today"
+      "stars_today": "682 stars today"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_today": "2,203 stars today"
+    },
+    {
+      "name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": "714 stars today"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars_today": "1,012 stars today"
+    },
+    {
+      "name": "allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars_today": "295 stars today"
+    },
+    {
+      "name": "logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars_today": "131 stars today"
+    },
+    {
+      "name": "togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars_today": "29 stars today"
+    },
+    {
+      "name": "Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars_today": "185 stars today"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars_today": "123 stars today"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_today": "1,086 stars today"
     },
     {
       "name": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "249 stars today"
+      "stars_today": "160 stars today"
     },
     {
-      "name": "veracrypt/VeraCrypt",
-      "description": "Disk encryption with strong security based on TrueCrypt",
-      "language": "C",
-      "stars_today": "114 stars today"
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_today": "611 stars today"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars_today": "473 stars today"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars_today": "568 stars today"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "language": "TypeScript",
+      "stars_today": "518 stars today"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": "46 stars today"
+    },
+    {
+      "name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": "690 stars today"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "149 stars today"
     }
   ]
 }

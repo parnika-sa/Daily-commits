@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-01 13:22:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-01 18:14:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **simplex-chat/simplex-chat**
-- BTC: **$58,637.0** ↑ (+0.35%)
-- HN top story: **Asahi Linux 7.1 Progress Report**
+- Top GitHub repo: **msitarzewski/agency-agents**
+- BTC: **$59,994.0** ↑ (+2.75%)
+- HN top story: **For first time, a cell built from scratch grows and divides**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-29 12:08:59 UTC | `c7dee43d5fcd` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-01 10:38:57 UTC | `2847b5a3aebb` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-01 13:22:20 UTC | `f141c1c150b0` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 20 | 2026-07-01 18:14:47 UTC | `a6e7f490fd63` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-01 18:14:48 UTC | `785441c6b5aa` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-01 18:14:47 UTC | `7db3be5a68ef` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-01` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-07-01 18:52:20 IST` |
+| Last Commit (IST) | `2026-07-01 21:31:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-28 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-06-29 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-30 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-07-01 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-07-01 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $58,637.0 | +0.35% | 🟢 |
-| Ethereum | $1,572.31 | +0.93% | 🟢 |
-| Solana | $74.91 | +3.48% | 🟢 |
-| Bnb | $543.5 | -0.34% | 🔴 |
+| Bitcoin | $59,994.0 | +2.75% | 🟢 |
+| Ethereum | $1,617.28 | +2.97% | 🟢 |
+| Solana | $77.59 | +6.03% | 🟢 |
+| Bnb | $552.7 | +1.22% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 1,180 stars today | SimpleX - the first messaging network operating without user identifiers of any … |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,221 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [cupy/cupy](https://github.com/cupy/cupy) | Python | 174 stars today | NumPy & SciPy for GPU |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 365 stars today | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On… |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 191 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 266 stars today | openpilot is an operating system for robotics. Currently, it upgrades the driver… |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 495 stars today | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo… |
-| [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 77 stars today | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built … |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2,097 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 1,195 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 682 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 2,203 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
+| [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 714 stars today | An open source design system that's fully customizable and agent ready |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,012 stars today | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con… |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | Python | 295 stars today | Toolkit for linearizing PDFs for LLM datasets/training |
+| [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 131 stars today | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/) | 47 | 4 |
-| [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | 2073 | 601 |
-| [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html) | 44 | 4 |
-| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 1141 | 672 |
-| [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) | 180 | 111 |
+| [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) | 401 | 126 |
+| [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) | 306 | 388 |
+| [FFmpeg 9.1's new AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html) | 70 | 35 |
+| [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/) | 67 | 16 |
+| [Box3D, an open source 3D physics engine](https://box2d.org/posts/2026/06/announcing-box3d/) | 253 | 50 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
