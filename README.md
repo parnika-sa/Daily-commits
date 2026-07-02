@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-02 04:37:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-02 10:29:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$59,784.0** ↑ (+2.18%)
+- BTC: **$61,114.0** ↑ (+4.17%)
 - HN top story: **ZCode – Harness for GLM-5.2**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-07-01 18:14:47 UTC | `a6e7f490fd63` | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-02 04:37:02 UTC | `2ef1b8d5bedb` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-02 00:19:46 UTC | `01e0b618aacd` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-02 10:29:29 UTC | `144fcd64a9e5` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-02` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-07-02 10:07:02 IST` |
+| Last Commit (IST) | `2026-07-02 13:25:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-29 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-30 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-01 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-07-02 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-07-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $59,784.0 | +2.18% | 🟢 |
-| Ethereum | $1,602.33 | +2.06% | 🟢 |
-| Solana | $77.21 | +4.99% | 🟢 |
-| Bnb | $548.16 | +0.33% | 🟢 |
+| Bitcoin | $61,114.0 | +4.17% | 🟢 |
+| Ethereum | $1,643.08 | +4.46% | 🟢 |
+| Solana | $80.08 | +6.46% | 🟢 |
+| Bnb | $554.97 | +2.07% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
