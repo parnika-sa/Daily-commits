@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-02 16:26:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-02 18:10:31 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$61,431.0** ↑ (+2.19%)
-- HN top story: **Android Developer Verification: Threat masquerading as Protection**
+- Top GitHub repo: **usestrix/strix**
+- BTC: **$61,750.0** ↑ (+2.92%)
+- HN top story: **Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 20 | 2026-07-01 18:14:47 UTC | `a6e7f490fd63` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-02 14:39:01 UTC | `7087a8639ec0` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-02 16:26:44 UTC | `9454d858957a` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-07-02 18:10:29 UTC | `8d85c447d632` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-02 18:10:31 UTC | `a8f4f624e386` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-02 18:10:30 UTC | `3ddf584b2aa6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-02` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-07-02 20:09:01 IST` |
+| Last Commit (IST) | `2026-07-02 21:56:45 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-29 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-30 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-01 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-07-02 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-07-02 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $61,431.0 | +2.19% | 🟢 |
-| Ethereum | $1,692.89 | +4.30% | 🟢 |
-| Solana | $80.65 | +4.27% | 🟢 |
-| Bnb | $561.07 | +1.38% | 🟢 |
+| Bitcoin | $61,750.0 | +2.92% | 🟢 |
+| Ethereum | $1,699.63 | +5.08% | 🟢 |
+| Solana | $80.8 | +3.95% | 🟢 |
+| Bnb | $561.0 | +1.50% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2,097 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 1,195 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 682 stars today | "Vibe-Trading: Your Personal Trading Agent" |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 2,203 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
-| [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 714 stars today | An open source design system that's fully customizable and agent ready |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,012 stars today | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con… |
-| [allenai/olmocr](https://github.com/allenai/olmocr) | Python | 295 stars today | Toolkit for linearizing PDFs for LLM datasets/training |
-| [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | 131 stars today | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built … |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 2,167 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 866 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2,925 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 942 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 322 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,047 stars today | An agentic skills framework & software development methodology that works. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 141 stars today | Chrome DevTools for coding agents |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 550 stars today | Edit videos with coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html) | 1076 | 442 |
-| [Many people misunderstand the purpose of code review](https://mathstodon.xyz/@mjd/115096720350507897) | 80 | 53 |
-| [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/) | 37 | 16 |
-| [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232) | 36 | 9 |
-| [German Button Maker Searched Rivers of American Midwest for Valuable Shells](https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/) | 22 | 1 |
+| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 215 | 105 |
+| [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com) | 68 | 43 |
+| [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html) | 1394 | 578 |
+| [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube) | 213 | 49 |
+| [How to ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/) | 160 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
