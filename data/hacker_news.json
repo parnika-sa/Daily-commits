@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-02 04:37:02 UTC",
-    "fetched_at_ist": "2026-07-02 10:07:02 IST",
+    "fetched_at_utc": "2026-07-02 14:39:01 UTC",
+    "fetched_at_ist": "2026-07-02 20:09:01 IST",
     "item_count": 5,
-    "content_hash": "2ef1b8d5bedb7f470d204bf7573af04976f823bbbf32cf0f873107881180ed2a",
-    "previous_hash": "785441c6b5aaa05eb7a362eb4213c74527e1228fcd146438dcdafaaf6c7941c3",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "7087a8639ec09877a58c326187aa882c986547c9c5da81218cce3039b78f0ccb",
+    "previous_hash": "2ef1b8d5bedb7f470d204bf7573af04976f823bbbf32cf0f873107881180ed2a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48753715,
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 288,
-      "comments": 242
+      "id": 48755965,
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "score": 1076,
+      "comments": 442
     },
     {
-      "id": 48755928,
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 26,
-      "comments": 11
+      "id": 48759870,
+      "title": "Many people misunderstand the purpose of code review",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "score": 80,
+      "comments": 53
     },
     {
-      "id": 48755005,
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 103,
-      "comments": 12
+      "id": 48761493,
+      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "url": "https://www.zerofs.net/",
+      "score": 37,
+      "comments": 16
     },
     {
-      "id": 48747304,
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 779,
-      "comments": 261
+      "id": 48760201,
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "score": 36,
+      "comments": 9
     },
     {
-      "id": 48754963,
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "score": 228,
-      "comments": 184
+      "id": 48702006,
+      "title": "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+      "score": 22,
+      "comments": 1
     }
   ]
 }
