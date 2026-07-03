@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 04:10 IST)
+
+## 📅 2026-07-04 (last updated: 05:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 04:10:29 IST | ebc33b2f7885 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-04 05:11:08 IST | 40320edf8041 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-04 01:51:48 IST | 4d96ecfe0f81 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) — Score: 177
-- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) — Score: 69
-- [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink) — Score: 46
-- [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/) — Score: 18
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 238
+- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) — Score: 25
+- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) — Score: 98
+- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge) — Score: 22
+- [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) — Score: 21
+- [Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,509.0 🟢 +1.86%
