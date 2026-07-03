@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-03 07:44:16 UTC",
-    "fetched_at_ist": "2026-07-03 13:14:16 IST",
+    "fetched_at_utc": "2026-07-03 14:37:34 UTC",
+    "fetched_at_ist": "2026-07-03 20:07:34 IST",
     "item_count": 5,
-    "content_hash": "d464371b2ff574e70345b3c66dcab4a23874465af2fb9598c8dc20e2bba7ad00",
-    "previous_hash": "a8f4f624e386484d988eb150031e1b5d19efec17f66f6ec68e8ce26efec8b020",
+    "content_hash": "17fc1c7b337c169b0ccc88d30c862f09fef3ca687b56cec23c3154f4adc923a5",
+    "previous_hash": "d464371b2ff574e70345b3c66dcab4a23874465af2fb9598c8dc20e2bba7ad00",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48767347,
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 717,
-      "comments": 118
+      "id": 48772388,
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "score": 669,
+      "comments": 186
     },
     {
-      "id": 48769397,
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 227,
-      "comments": 269
-    },
-    {
-      "id": 48768951,
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "score": 178,
-      "comments": 68
-    },
-    {
-      "id": 48768464,
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 244,
-      "comments": 42
-    },
-    {
-      "id": 48769639,
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 64,
+      "id": 48774509,
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "score": 38,
       "comments": 8
+    },
+    {
+      "id": 48774518,
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 105,
+      "comments": 16
+    },
+    {
+      "id": 48772573,
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "score": 102,
+      "comments": 51
+    },
+    {
+      "id": 48774414,
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "score": 118,
+      "comments": 67
     }
   ]
 }

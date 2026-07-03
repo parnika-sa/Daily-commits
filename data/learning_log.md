@@ -12,13 +12,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-03 (last updated: 17:53 IST)
+
+## 📅 2026-07-03 (last updated: 20:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-03 13:14:16 IST | d464371b2ff5 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-03 20:07:34 IST | 17fc1c7b337c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-03 17:53:24 IST | 02a6bdb01595 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) — Score: 717
-- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts) — Score: 227
-- [Right to Local Intelligence](https://righttointelligence.org/) — Score: 178
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) — Score: 244
-- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — Score: 64
+- [Half-Baked Product](https://weli.dev/blog/half-baked-product/) — Score: 669
+- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) — Score: 38
+- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) — Score: 105
+- [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/) — Score: 102
+- [Please stop the AI confidence theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater) — Score: 118
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,903.0 🟢 +1.25%
