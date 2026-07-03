@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-04 (last updated: 01:51 IST)
+
+## 📅 2026-07-04 (last updated: 03:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-03 20:07:34 IST | 17fc1c7b337c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 03:07:49 IST | a1f185ce641c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-04 01:51:48 IST | 4d96ecfe0f81 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Half-Baked Product](https://weli.dev/blog/half-baked-product/) — Score: 669
-- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit) — Score: 38
-- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) — Score: 105
-- [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/) — Score: 102
-- [Please stop the AI confidence theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater) — Score: 118
+- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) — Score: 73
+- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) — Score: 35
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 215
+- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/) — Score: 198
+- [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/) — Score: 44
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,509.0 🟢 +1.86%

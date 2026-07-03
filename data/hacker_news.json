@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-03 14:37:34 UTC",
-    "fetched_at_ist": "2026-07-03 20:07:34 IST",
+    "fetched_at_utc": "2026-07-03 21:37:49 UTC",
+    "fetched_at_ist": "2026-07-04 03:07:49 IST",
     "item_count": 5,
-    "content_hash": "17fc1c7b337c169b0ccc88d30c862f09fef3ca687b56cec23c3154f4adc923a5",
-    "previous_hash": "d464371b2ff574e70345b3c66dcab4a23874465af2fb9598c8dc20e2bba7ad00",
+    "content_hash": "a1f185ce641c59551dfe5fc31cbc67e7c2cf056467fd32a0d43dbda9147de766",
+    "previous_hash": "17fc1c7b337c169b0ccc88d30c862f09fef3ca687b56cec23c3154f4adc923a5",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48772388,
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 669,
-      "comments": 186
+      "id": 48779683,
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "score": 73,
+      "comments": 6
     },
     {
-      "id": 48774509,
-      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 38,
-      "comments": 8
+      "id": 48779454,
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "score": 35,
+      "comments": 10
     },
     {
-      "id": 48774518,
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "score": 105,
-      "comments": 16
+      "id": 48775921,
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 215,
+      "comments": 101
     },
     {
-      "id": 48772573,
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "url": "https://wordgard.net/",
-      "score": 102,
-      "comments": 51
+      "id": 48776044,
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 198,
+      "comments": 164
     },
     {
-      "id": 48774414,
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "score": 118,
-      "comments": 67
+      "id": 48778757,
+      "title": "FreeBSD ate my RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "score": 44,
+      "comments": 10
     }
   ]
 }
