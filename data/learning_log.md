@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 03:07 IST)
+
+## 📅 2026-07-04 (last updated: 04:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 03:07:49 IST | a1f185ce641c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 04:10:29 IST | ebc33b2f7885 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-04 01:51:48 IST | 4d96ecfe0f81 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) — Score: 73
-- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) — Score: 35
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 215
-- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/) — Score: 198
-- [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/) — Score: 44
+- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) — Score: 177
+- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) — Score: 69
+- [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink) — Score: 46
+- [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/) — Score: 18
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 238
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,509.0 🟢 +1.86%
