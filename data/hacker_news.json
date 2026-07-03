@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-02 18:10:31 UTC",
-    "fetched_at_ist": "2026-07-02 23:40:31 IST",
+    "fetched_at_utc": "2026-07-03 07:44:16 UTC",
+    "fetched_at_ist": "2026-07-03 13:14:16 IST",
     "item_count": 5,
-    "content_hash": "a8f4f624e386484d988eb150031e1b5d19efec17f66f6ec68e8ce26efec8b020",
-    "previous_hash": "7087a8639ec09877a58c326187aa882c986547c9c5da81218cce3039b78f0ccb",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d464371b2ff574e70345b3c66dcab4a23874465af2fb9598c8dc20e2bba7ad00",
+    "previous_hash": "a8f4f624e386484d988eb150031e1b5d19efec17f66f6ec68e8ce26efec8b020",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48763035,
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 215,
-      "comments": 105
+      "id": 48767347,
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 717,
+      "comments": 118
     },
     {
-      "id": 48762862,
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "score": 68,
-      "comments": 43
+      "id": 48769397,
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 227,
+      "comments": 269
     },
     {
-      "id": 48755965,
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1394,
-      "comments": 578
+      "id": 48768951,
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "score": 178,
+      "comments": 68
     },
     {
-      "id": 48759634,
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 213,
-      "comments": 49
+      "id": 48768464,
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "score": 244,
+      "comments": 42
     },
     {
-      "id": 48761118,
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 160,
-      "comments": 25
+      "id": 48769639,
+      "title": "The Safari MCP server for web developers",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "score": 64,
+      "comments": 8
     }
   ]
 }
