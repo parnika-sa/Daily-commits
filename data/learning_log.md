@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 22:03 IST)
+
+## 📅 2026-07-04 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 22:03:04 IST | 0f6192a053a8 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-04 23:11:54 IST | 81c0bc76d6de | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-04 16:48:22 IST | 8593979a8b29 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 149
-- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/) — Score: 185
-- [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) — Score: 63
-- [Curveball](https://mightyburger.net/projects/curveball/) — Score: 3
-- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) — Score: 127
+- [Leaking YouTube Creators Private Videos](https://javoriuski.com/post/youtube) — Score: 93
+- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 199
+- [Google Books (or similar) all book scans – $200k bounty](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) — Score: 28
+- [Explanation of everything you can see in htop/top on Linux (2019)](https://peteris.rocks/blog/htop/) — Score: 245
+- [Curveball](https://mightyburger.net/projects/curveball/) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,484.0 🟢 +0.92%

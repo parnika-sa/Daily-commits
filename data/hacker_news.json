@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 16:33:04 UTC",
-    "fetched_at_ist": "2026-07-04 22:03:04 IST",
+    "fetched_at_utc": "2026-07-04 17:41:54 UTC",
+    "fetched_at_ist": "2026-07-04 23:11:54 IST",
     "item_count": 5,
-    "content_hash": "0f6192a053a8f467f62606269c17783f07673d6766f2efc7140fe5fd4bde7045",
-    "previous_hash": "85fc24729af9c17f9552147f12736c5a81aaea94b006f4949c4922bceedca8e8",
+    "content_hash": "81c0bc76d6ded9eb45c0d6ba3abfdd4b227c0dc50af9bdcb69a35a4f5b25e620",
+    "previous_hash": "0f6192a053a8f467f62606269c17783f07673d6766f2efc7140fe5fd4bde7045",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48786781,
+      "title": "Leaking YouTube Creators Private Videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 93,
+      "comments": 27
+    },
     {
       "id": 48785485,
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 149,
-      "comments": 54
+      "score": 199,
+      "comments": 88
+    },
+    {
+      "id": 48786838,
+      "title": "Google Books (or similar) all book scans – $200k bounty",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 28,
+      "comments": 5
     },
     {
       "id": 48784777,
-      "title": "Explanation of everything you can see in htop/top on Linux",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "url": "https://peteris.rocks/blog/htop/",
-      "score": 185,
-      "comments": 26
-    },
-    {
-      "id": 48742175,
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "score": 63,
-      "comments": 53
+      "score": 245,
+      "comments": 30
     },
     {
       "id": 48786495,
       "title": "Curveball",
       "url": "https://mightyburger.net/projects/curveball/",
-      "score": 3,
+      "score": 19,
       "comments": 0
-    },
-    {
-      "id": 48783948,
-      "title": "Astrophysicists Puzzle over Webb’s New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 127,
-      "comments": 74
     }
   ]
 }
