@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 17:41:54 UTC",
-    "fetched_at_ist": "2026-07-04 23:11:54 IST",
+    "fetched_at_utc": "2026-07-04 18:40:23 UTC",
+    "fetched_at_ist": "2026-07-05 00:10:23 IST",
     "item_count": 5,
-    "content_hash": "81c0bc76d6ded9eb45c0d6ba3abfdd4b227c0dc50af9bdcb69a35a4f5b25e620",
-    "previous_hash": "0f6192a053a8f467f62606269c17783f07673d6766f2efc7140fe5fd4bde7045",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "0e6e41ca076457dbe007d8d580fd60fb24aae4697796cc47adc08b5f48bab829",
+    "previous_hash": "81c0bc76d6ded9eb45c0d6ba3abfdd4b227c0dc50af9bdcb69a35a4f5b25e620",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48786781,
-      "title": "Leaking YouTube Creators Private Videos",
+      "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 93,
-      "comments": 27
+      "score": 194,
+      "comments": 78
+    },
+    {
+      "id": 48786838,
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 100,
+      "comments": 22
     },
     {
       "id": 48785485,
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 199,
-      "comments": 88
+      "score": 215,
+      "comments": 100
     },
     {
-      "id": 48786838,
-      "title": "Google Books (or similar) all book scans – $200k bounty",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 28,
-      "comments": 5
+      "id": 48787042,
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "score": 40,
+      "comments": 27
     },
     {
       "id": 48784777,
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "url": "https://peteris.rocks/blog/htop/",
-      "score": 245,
-      "comments": 30
-    },
-    {
-      "id": 48786495,
-      "title": "Curveball",
-      "url": "https://mightyburger.net/projects/curveball/",
-      "score": 19,
-      "comments": 0
+      "score": 276,
+      "comments": 31
     }
   ]
 }
