@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 22:37:36 UTC",
-    "fetched_at_ist": "2026-07-05 04:07:36 IST",
+    "fetched_at_utc": "2026-07-04 23:41:33 UTC",
+    "fetched_at_ist": "2026-07-05 05:11:33 IST",
     "item_count": 5,
-    "content_hash": "78449b6b3309fe53f49d845ee466da60d6287d1d6efc9eafdff91bacb8d3de8e",
-    "previous_hash": "633ed9039d4b5545138d5b22b42de28990642c9d43612995e18bd1c0e9411a15",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "33e0d32731e8aaf47d290f9d5599891fc1b34adf7c77757db58b4ecbc1b94818",
+    "previous_hash": "78449b6b3309fe53f49d845ee466da60d6287d1d6efc9eafdff91bacb8d3de8e",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48788283,
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 232,
-      "comments": 100
+      "score": 286,
+      "comments": 121
     },
     {
       "id": 48789428,
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "score": 38,
-      "comments": 4
+      "score": 97,
+      "comments": 17
     },
     {
       "id": 48786781,
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 417,
-      "comments": 211
+      "score": 440,
+      "comments": 237
     },
     {
       "id": 48786838,
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 259,
-      "comments": 142
+      "score": 290,
+      "comments": 150
     },
     {
       "id": 48788599,
       "title": "Better Models: Worse Tools",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 41,
-      "comments": 13
+      "score": 68,
+      "comments": 18
     }
   ]
 }
