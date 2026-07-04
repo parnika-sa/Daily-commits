@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 21:00 IST)
+
+## 📅 2026-07-04 (last updated: 22:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 21:00:12 IST | 85fc24729af9 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 22:03:04 IST | 0f6192a053a8 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-04 16:48:22 IST | 8593979a8b29 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 88
-- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/) — Score: 121
-- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) — Score: 117
-- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) — Score: 271
-- [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage) — Score: 97
+- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 149
+- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/) — Score: 185
+- [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) — Score: 63
+- [Curveball](https://mightyburger.net/projects/curveball/) — Score: 3
+- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) — Score: 127
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,484.0 🟢 +0.92%

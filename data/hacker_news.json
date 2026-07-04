@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 15:30:12 UTC",
-    "fetched_at_ist": "2026-07-04 21:00:12 IST",
+    "fetched_at_utc": "2026-07-04 16:33:04 UTC",
+    "fetched_at_ist": "2026-07-04 22:03:04 IST",
     "item_count": 5,
-    "content_hash": "85fc24729af9c17f9552147f12736c5a81aaea94b006f4949c4922bceedca8e8",
-    "previous_hash": "b2a4007823b64b98f85c0a467d86c8c6b4342ade10241b869a6daf0cdab01b22",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "0f6192a053a8f467f62606269c17783f07673d6766f2efc7140fe5fd4bde7045",
+    "previous_hash": "85fc24729af9c17f9552147f12736c5a81aaea94b006f4949c4922bceedca8e8",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48785485,
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 88,
-      "comments": 25
+      "score": 149,
+      "comments": 54
     },
     {
       "id": 48784777,
       "title": "Explanation of everything you can see in htop/top on Linux",
       "url": "https://peteris.rocks/blog/htop/",
-      "score": 121,
-      "comments": 15
+      "score": 185,
+      "comments": 26
+    },
+    {
+      "id": 48742175,
+      "title": "What ORMs have taught me: just learn SQL (2014)",
+      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+      "score": 63,
+      "comments": 53
+    },
+    {
+      "id": 48786495,
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "score": 3,
+      "comments": 0
     },
     {
       "id": 48783948,
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 117,
-      "comments": 63
-    },
-    {
-      "id": 48782435,
-      "title": "Maybe you should learn something",
-      "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "score": 271,
-      "comments": 135
-    },
-    {
-      "id": 48745855,
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "score": 97,
-      "comments": 26
+      "score": 127,
+      "comments": 74
     }
   ]
 }
