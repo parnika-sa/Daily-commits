@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 12:40:11 UTC",
-    "fetched_at_ist": "2026-07-04 18:10:11 IST",
+    "fetched_at_utc": "2026-07-04 15:30:12 UTC",
+    "fetched_at_ist": "2026-07-04 21:00:12 IST",
     "item_count": 5,
-    "content_hash": "b2a4007823b64b98f85c0a467d86c8c6b4342ade10241b869a6daf0cdab01b22",
-    "previous_hash": "f148538b183de7c844232fe88ac53ebe760136658c06bbe51a7638fa581688ac",
+    "content_hash": "85fc24729af9c17f9552147f12736c5a81aaea94b006f4949c4922bceedca8e8",
+    "previous_hash": "b2a4007823b64b98f85c0a467d86c8c6b4342ade10241b869a6daf0cdab01b22",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48783117,
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "score": 418,
-      "comments": 246
+      "id": 48785485,
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 88,
+      "comments": 25
+    },
+    {
+      "id": 48784777,
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "url": "https://peteris.rocks/blog/htop/",
+      "score": 121,
+      "comments": 15
     },
     {
       "id": 48783948,
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 54,
-      "comments": 17
+      "score": 117,
+      "comments": 63
     },
     {
       "id": 48782435,
       "title": "Maybe you should learn something",
       "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "score": 158,
-      "comments": 66
+      "score": 271,
+      "comments": 135
     },
     {
-      "id": 48739018,
-      "title": "Mir Books – Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "score": 105,
-      "comments": 44
-    },
-    {
-      "id": 48780417,
-      "title": "Performance per dollar is getting faster and cheaper",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 269,
-      "comments": 100
+      "id": 48745855,
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "score": 97,
+      "comments": 26
     }
   ]
 }
