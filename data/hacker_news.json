@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 20:44:06 UTC",
-    "fetched_at_ist": "2026-07-05 02:14:06 IST",
+    "fetched_at_utc": "2026-07-04 21:40:46 UTC",
+    "fetched_at_ist": "2026-07-05 03:10:46 IST",
     "item_count": 5,
-    "content_hash": "fbed1b0652525e5842bc0bbfece69a49b2d702e29692d9fd4852401845f9178c",
-    "previous_hash": "0e6e41ca076457dbe007d8d580fd60fb24aae4697796cc47adc08b5f48bab829",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "633ed9039d4b5545138d5b22b42de28990642c9d43612995e18bd1c0e9411a15",
+    "previous_hash": "fbed1b0652525e5842bc0bbfece69a49b2d702e29692d9fd4852401845f9178c",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48788283,
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 72,
-      "comments": 35
+      "score": 151,
+      "comments": 71
     },
     {
       "id": 48786781,
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 338,
-      "comments": 169
+      "score": 382,
+      "comments": 194
     },
     {
       "id": 48786838,
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 194,
-      "comments": 91
-    },
-    {
-      "id": 48785485,
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 240,
-      "comments": 115
+      "score": 236,
+      "comments": 120
     },
     {
       "id": 48787329,
       "title": "Verizon is About to Break our Watches",
       "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "score": 74,
-      "comments": 30
+      "score": 94,
+      "comments": 37
+    },
+    {
+      "id": 48785485,
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 250,
+      "comments": 118
     }
   ]
 }
