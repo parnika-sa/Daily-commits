@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 05:11 IST)
+
+## 📅 2026-07-05 (last updated: 06:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-05 05:11:33 IST | 33e0d32731e8 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-04 16:48:22 IST | 8593979a8b29 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-05 06:53:37 IST | 0301ad3492a2 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[usestrix/strix](https://github.com/usestrix/strix)** (Python) — Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) — Score: 68
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,484.0 🟢 +0.92%
-- Ethereum: $1,756.95 🟢 +0.91%
-- Solana: $81.63 🟢 +0.18%
-- Bnb: $571.78 🟢 +1.02%
+- Bitcoin: $62,823.0 🟢 +0.60%
+- Ethereum: $1,764.39 🟢 +0.92%
+- Solana: $80.86 🔴 -1.50%
+- Bnb: $570.99 🔴 -0.13%
 
 ---
 ## 📅 2026-07-04 (last updated: 23:11 IST)
