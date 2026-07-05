@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-06 (last updated: 03:58 IST)
+
+## 📅 2026-07-06 (last updated: 05:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 17:32:50 IST | ce92b229effb | +18 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 23:14:16 IST | 1e3f436fdf72 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-06 05:04:09 IST | 36b8379fc1fd | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-06 03:58:05 IST | d264c4b6ad68 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +18 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 136 stars today
 
 ### 📰 Hacker News Stories
-- [Organic Maps](https://organicmaps.app/) — Score: 393
-- [The Great Blogging Collapse: What Happened to 100 Successful Blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse) — Score: 44
-- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) — Score: 198
-- [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html) — Score: 45
-- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html) — Score: 3
+- [Reparaible and open source paper printer](https://www.opentools.studio/) — Score: 242
+- [Organic Maps](https://organicmaps.app/) — Score: 751
+- [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io) — Score: 64
+- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf) — Score: 108
+- [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/) — Score: 193
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,487.0 🟢 +0.53%

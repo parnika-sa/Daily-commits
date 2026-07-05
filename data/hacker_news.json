@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 17:44:16 UTC",
-    "fetched_at_ist": "2026-07-05 23:14:16 IST",
+    "fetched_at_utc": "2026-07-05 23:34:09 UTC",
+    "fetched_at_ist": "2026-07-06 05:04:09 IST",
     "item_count": 5,
-    "content_hash": "1e3f436fdf72ceb97b9398105068291f531c89c487318fb4af7c3724d11ff60b",
-    "previous_hash": "6585da687b56ca38bde721334cc9bef91a9eb9c6452662f36310dc73331bc8c3",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "36b8379fc1fd37dadf6ed9a19007113ca7f08f854989c7c3f0fd29f91c08ad77",
+    "previous_hash": "1e3f436fdf72ceb97b9398105068291f531c89c487318fb4af7c3724d11ff60b",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48797916,
+      "title": "Reparaible and open source paper printer",
+      "url": "https://www.opentools.studio/",
+      "score": 242,
+      "comments": 65
+    },
     {
       "id": 48794446,
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 393,
-      "comments": 108
+      "score": 751,
+      "comments": 213
     },
     {
-      "id": 48758802,
-      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
-      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
-      "score": 44,
-      "comments": 30
+      "id": 48798153,
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "score": 64,
+      "comments": 23
     },
     {
-      "id": 48793454,
-      "title": "Introduction to Compilers and Language Design",
-      "url": "https://dthain.github.io/books/compiler/",
-      "score": 198,
-      "comments": 26
+      "id": 48796817,
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "score": 108,
+      "comments": 75
     },
     {
-      "id": 48794302,
-      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-      "score": 45,
-      "comments": 21
-    },
-    {
-      "id": 48796093,
-      "title": "The Computers Used in Movies",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "score": 3,
-      "comments": 1
+      "id": 48796552,
+      "title": "The future of Flipper Zero development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "score": 193,
+      "comments": 57
     }
   ]
 }
