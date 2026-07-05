@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 06:53 IST)
+
+## 📅 2026-07-05 (last updated: 10:59 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-05 05:11:33 IST | 33e0d32731e8 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-05 06:53:37 IST | 0301ad3492a2 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-05 10:59:53 IST | a8482d59cd19 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) — Score: 68
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,823.0 🟢 +0.60%
-- Ethereum: $1,764.39 🟢 +0.92%
-- Solana: $80.86 🔴 -1.50%
-- Bnb: $570.99 🔴 -0.13%
+- Bitcoin: $62,715.0 🟢 +0.40%
+- Ethereum: $1,763.19 🟢 +0.57%
+- Solana: $80.42 🔴 -3.09%
+- Bnb: $571.14 🟢 +0.20%
 
 ---
 ## 📅 2026-07-04 (last updated: 23:11 IST)
