@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 15:35:42 UTC",
-    "fetched_at_ist": "2026-07-05 21:05:42 IST",
+    "fetched_at_utc": "2026-07-05 16:41:40 UTC",
+    "fetched_at_ist": "2026-07-05 22:11:40 IST",
     "item_count": 5,
-    "content_hash": "220024b56262c49d6827a081f220361304b934a04c75a72cf882cb63269c09f4",
-    "previous_hash": "9bf10304dfc67fc848d709f9b15e2192a1a4993a97fdb78e29d1c46f35c6a54a",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "6585da687b56ca38bde721334cc9bef91a9eb9c6452662f36310dc73331bc8c3",
+    "previous_hash": "220024b56262c49d6827a081f220361304b934a04c75a72cf882cb63269c09f4",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48794446,
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 130,
-      "comments": 31
-    },
-    {
-      "id": 48794179,
-      "title": "Phosh 0.56.0",
-      "url": "https://phosh.mobi/releases/rel-0.56.0/",
-      "score": 94,
-      "comments": 24
+      "score": 278,
+      "comments": 65
     },
     {
       "id": 48793454,
       "title": "Introduction to Compilers and Language Design",
       "url": "https://dthain.github.io/books/compiler/",
-      "score": 104,
-      "comments": 11
+      "score": 153,
+      "comments": 19
+    },
+    {
+      "id": 48795303,
+      "title": "The Plight of the Martian Farmer",
+      "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer",
+      "score": 8,
+      "comments": 2
+    },
+    {
+      "id": 48794302,
+      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+      "score": 32,
+      "comments": 8
     },
     {
       "id": 48786284,
       "title": "Airplane Boneyards List and Map",
       "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "score": 23,
-      "comments": 1
-    },
-    {
-      "id": 48790689,
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 401,
-      "comments": 196
+      "score": 36,
+      "comments": 4
     }
   ]
 }
