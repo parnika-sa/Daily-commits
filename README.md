@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-05 10:35:52 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-05 12:02:51 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **usestrix/strix**
-- BTC: **$62,905.0** ↑ (+0.62%)
-- HN top story: **Shadcn/UI now defaults to Base UI instead of Radix**
+- Top GitHub repo: **Zackriya-Solutions/meetily**
+- BTC: **$62,584.0** ↑ (+0.15%)
+- HN top story: **Europe's new climate in seven charts**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-02 18:10:29 UTC | `8d85c447d632` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 10:35:52 UTC | `78a5419c4e72` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-05 08:26:13 UTC | `8a12a53a1b1a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 22 | 2026-07-05 12:02:50 UTC | `ce92b229effb` | +18 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-05 12:02:51 UTC | `9bf10304dfc6` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-05 12:02:50 UTC | `bbe4262480d2` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +18 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-05` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `80` day(s) |
-| Last Commit (IST) | `2026-07-05 13:56:13 IST` |
+| Last Commit (IST) | `2026-07-05 16:05:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-02 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-03 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-04 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-05 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-07-05 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,905.0 | +0.62% | 🟢 |
-| Ethereum | $1,766.81 | +0.54% | 🟢 |
-| Solana | $80.47 | -2.41% | 🔴 |
-| Bnb | $575.75 | +0.99% | 🟢 |
+| Bitcoin | $62,584.0 | +0.15% | 🟢 |
+| Ethereum | $1,758.06 | -0.04% | 🔴 |
+| Solana | $80.5 | -1.57% | 🔴 |
+| Bnb | $576.55 | +0.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 2,167 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 866 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2,925 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 942 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 322 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,047 stars today | An agentic skills framework & software development methodology that works. |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 141 stars today | Chrome DevTools for coding agents |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 550 stars today | Edit videos with coding agents |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 718 stars today | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr… |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 718 stars today | Use Codex from Claude Code to review code or delegate tasks. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 471 stars today | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,… |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | 850 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | 136 stars today | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands… |
+| [rommapp/romm](https://github.com/rommapp/romm) | Python | 398 stars today | A beautiful, powerful, self-hosted rom manager and player. |
+| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | 707 stars today | agent multiplexer that lives in your terminal. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 742 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) | 138 | 44 |
-| [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) | 235 | 119 |
-| [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/) | 43 | 32 |
-| [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) | 576 | 242 |
-| [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto) | 27 | 33 |
+| [Europe's new climate in seven charts](https://www.bbc.com/news/articles/c8e2j0j87reo) | 66 | 25 |
+| [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) | 159 | 59 |
+| [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) | 270 | 142 |
+| [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) | 299 | 115 |
+| [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/) | 38 | 14 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
