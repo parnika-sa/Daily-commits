@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 23:41:33 UTC",
-    "fetched_at_ist": "2026-07-05 05:11:33 IST",
+    "fetched_at_utc": "2026-07-05 10:35:52 UTC",
+    "fetched_at_ist": "2026-07-05 16:05:52 IST",
     "item_count": 5,
-    "content_hash": "33e0d32731e8aaf47d290f9d5599891fc1b34adf7c77757db58b4ecbc1b94818",
-    "previous_hash": "78449b6b3309fe53f49d845ee466da60d6287d1d6efc9eafdff91bacb8d3de8e",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "78a5419c4e72878d48456e42a3674b589dc21bb1a5a62d8adfff6089ab6cccd3",
+    "previous_hash": "33e0d32731e8aaf47d290f9d5599891fc1b34adf7c77757db58b4ecbc1b94818",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48791328,
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "score": 138,
+      "comments": 44
+    },
+    {
+      "id": 48790689,
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 235,
+      "comments": 119
+    },
+    {
+      "id": 48792080,
+      "title": "Programmers need to start meditating now",
+      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "score": 43,
+      "comments": 32
+    },
     {
       "id": 48788283,
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 286,
-      "comments": 121
+      "score": 576,
+      "comments": 242
     },
     {
-      "id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 97,
-      "comments": 17
-    },
-    {
-      "id": 48786781,
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 440,
-      "comments": 237
-    },
-    {
-      "id": 48786838,
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 290,
-      "comments": 150
-    },
-    {
-      "id": 48788599,
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 68,
-      "comments": 18
+      "id": 48792203,
+      "title": "Web-based cryptography is always snake oil",
+      "url": "https://www.devever.net/~hl/webcrypto",
+      "score": 27,
+      "comments": 33
     }
   ]
 }

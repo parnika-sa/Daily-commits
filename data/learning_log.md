@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 13:56 IST)
+
+## 📅 2026-07-05 (last updated: 16:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-02 23:40:29 IST | 8d85c447d632 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 05:11:33 IST | 33e0d32731e8 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-05 16:05:52 IST | 78a5419c4e72 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-05 13:56:13 IST | 8a12a53a1b1a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 322 stars today
 
 ### 📰 Hacker News Stories
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) — Score: 286
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) — Score: 97
-- [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) — Score: 440
-- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) — Score: 290
-- [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) — Score: 68
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) — Score: 138
+- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 235
+- [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/) — Score: 43
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) — Score: 576
+- [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto) — Score: 27
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,905.0 🟢 +0.62%
