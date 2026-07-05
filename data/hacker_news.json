@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 12:02:51 UTC",
-    "fetched_at_ist": "2026-07-05 17:32:51 IST",
+    "fetched_at_utc": "2026-07-05 15:35:42 UTC",
+    "fetched_at_ist": "2026-07-05 21:05:42 IST",
     "item_count": 5,
-    "content_hash": "9bf10304dfc67fc848d709f9b15e2192a1a4993a97fdb78e29d1c46f35c6a54a",
-    "previous_hash": "78a5419c4e72878d48456e42a3674b589dc21bb1a5a62d8adfff6089ab6cccd3",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "220024b56262c49d6827a081f220361304b934a04c75a72cf882cb63269c09f4",
+    "previous_hash": "9bf10304dfc67fc848d709f9b15e2192a1a4993a97fdb78e29d1c46f35c6a54a",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48792790,
-      "title": "Europe's new climate in seven charts",
-      "url": "https://www.bbc.com/news/articles/c8e2j0j87reo",
-      "score": 66,
-      "comments": 25
+      "id": 48794446,
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "score": 130,
+      "comments": 31
     },
     {
-      "id": 48791328,
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 159,
-      "comments": 59
+      "id": 48794179,
+      "title": "Phosh 0.56.0",
+      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "score": 94,
+      "comments": 24
+    },
+    {
+      "id": 48793454,
+      "title": "Introduction to Compilers and Language Design",
+      "url": "https://dthain.github.io/books/compiler/",
+      "score": 104,
+      "comments": 11
+    },
+    {
+      "id": 48786284,
+      "title": "Airplane Boneyards List and Map",
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "score": 23,
+      "comments": 1
     },
     {
       "id": 48790689,
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 270,
-      "comments": 142
-    },
-    {
-      "id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 299,
-      "comments": 115
-    },
-    {
-      "id": 48792008,
-      "title": "Fast Software, the Best Software",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "score": 38,
-      "comments": 14
+      "score": 401,
+      "comments": 196
     }
   ]
 }

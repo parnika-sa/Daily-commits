@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 17:32 IST)
+
+## 📅 2026-07-05 (last updated: 21:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 17:32:50 IST | ce92b229effb | +18 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 17:32:51 IST | 9bf10304dfc6 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-05 21:05:42 IST | 220024b56262 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-05 17:32:50 IST | bbe4262480d2 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +18 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 136 stars today
 
 ### 📰 Hacker News Stories
-- [Europe's new climate in seven charts](https://www.bbc.com/news/articles/c8e2j0j87reo) — Score: 66
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) — Score: 159
-- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 270
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) — Score: 299
-- [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/) — Score: 38
+- [Organic Maps](https://organicmaps.app/) — Score: 130
+- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/) — Score: 94
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) — Score: 104
+- [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm) — Score: 23
+- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 401
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,584.0 🟢 +0.15%
