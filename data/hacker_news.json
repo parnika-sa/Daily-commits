@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 16:41:40 UTC",
-    "fetched_at_ist": "2026-07-05 22:11:40 IST",
+    "fetched_at_utc": "2026-07-05 17:44:16 UTC",
+    "fetched_at_ist": "2026-07-05 23:14:16 IST",
     "item_count": 5,
-    "content_hash": "6585da687b56ca38bde721334cc9bef91a9eb9c6452662f36310dc73331bc8c3",
-    "previous_hash": "220024b56262c49d6827a081f220361304b934a04c75a72cf882cb63269c09f4",
+    "content_hash": "1e3f436fdf72ceb97b9398105068291f531c89c487318fb4af7c3724d11ff60b",
+    "previous_hash": "6585da687b56ca38bde721334cc9bef91a9eb9c6452662f36310dc73331bc8c3",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48794446,
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 278,
-      "comments": 65
+      "score": 393,
+      "comments": 108
+    },
+    {
+      "id": 48758802,
+      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
+      "score": 44,
+      "comments": 30
     },
     {
       "id": 48793454,
       "title": "Introduction to Compilers and Language Design",
       "url": "https://dthain.github.io/books/compiler/",
-      "score": 153,
-      "comments": 19
-    },
-    {
-      "id": 48795303,
-      "title": "The Plight of the Martian Farmer",
-      "url": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer",
-      "score": 8,
-      "comments": 2
+      "score": 198,
+      "comments": 26
     },
     {
       "id": 48794302,
       "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
       "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-      "score": 32,
-      "comments": 8
+      "score": 45,
+      "comments": 21
     },
     {
-      "id": 48786284,
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "score": 36,
-      "comments": 4
+      "id": 48796093,
+      "title": "The Computers Used in Movies",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "score": 3,
+      "comments": 1
     }
   ]
 }

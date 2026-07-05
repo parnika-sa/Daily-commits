@@ -17,13 +17,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 22:11 IST)
+
+## 📅 2026-07-05 (last updated: 23:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 17:32:50 IST | ce92b229effb | +18 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 22:11:40 IST | 6585da687b56 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-05 23:14:16 IST | 1e3f436fdf72 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-05 17:32:50 IST | bbe4262480d2 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 136 stars today
 
 ### 📰 Hacker News Stories
-- [Organic Maps](https://organicmaps.app/) — Score: 278
-- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) — Score: 153
-- [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer) — Score: 8
-- [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html) — Score: 32
-- [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm) — Score: 36
+- [Organic Maps](https://organicmaps.app/) — Score: 393
+- [The Great Blogging Collapse: What Happened to 100 Successful Blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse) — Score: 44
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/) — Score: 198
+- [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html) — Score: 45
+- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html) — Score: 3
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,584.0 🟢 +0.15%
