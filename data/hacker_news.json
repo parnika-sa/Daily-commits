@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-06 18:31:09 UTC",
-    "fetched_at_ist": "2026-07-07 00:01:09 IST",
+    "fetched_at_utc": "2026-07-06 20:32:47 UTC",
+    "fetched_at_ist": "2026-07-07 02:02:47 IST",
     "item_count": 5,
-    "content_hash": "27bffee84ebad0f438bd576ed240f32ee43f873cf9df6281bd9d9706108f424a",
-    "previous_hash": "715b4ef2be41fc1ab9b7ce7f8749a251f2d4f35c944279089c1e19c8651de8a6",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f06fc2195826905df47c65a9e19293de793241681853b8cab87e2616ab13723e",
+    "previous_hash": "27bffee84ebad0f438bd576ed240f32ee43f873cf9df6281bd9d9706108f424a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48805624,
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 154,
-      "comments": 126
-    },
-    {
-      "id": 48806410,
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "score": 54,
-      "comments": 1
-    },
-    {
-      "id": 48804297,
-      "title": "Aluminum foil (2021)",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "id": 48808482,
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
       "score": 176,
-      "comments": 74
+      "comments": 83
     },
     {
-      "id": 48803364,
-      "title": "Road to Elm 1.0",
-      "url": "https://elm-lang.org/news/faster-builds",
-      "score": 244,
-      "comments": 103
+      "id": 48809542,
+      "title": "Price per 1M tokens is meaningless",
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+      "score": 33,
+      "comments": 15
     },
     {
-      "id": 48808508,
-      "title": "Pros and Cons of Solo Development",
-      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-      "score": 5,
-      "comments": 0
+      "id": 48808928,
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 56,
+      "comments": 8
+    },
+    {
+      "id": 48809208,
+      "title": "What does Jeff Bezos think is going to happen?",
+      "url": "https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/",
+      "score": 31,
+      "comments": 24
+    },
+    {
+      "id": 48808002,
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 106,
+      "comments": 30
     }
   ]
 }
