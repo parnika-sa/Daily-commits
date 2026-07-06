@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-06 16:43:48 UTC",
-    "fetched_at_ist": "2026-07-06 22:13:48 IST",
+    "fetched_at_utc": "2026-07-06 18:31:09 UTC",
+    "fetched_at_ist": "2026-07-07 00:01:09 IST",
     "item_count": 5,
-    "content_hash": "715b4ef2be41fc1ab9b7ce7f8749a251f2d4f35c944279089c1e19c8651de8a6",
-    "previous_hash": "cff9d39a287d4c1dfb479b16e8e7df77dd3b63748ce7949214e426e2db9bf722",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "27bffee84ebad0f438bd576ed240f32ee43f873cf9df6281bd9d9706108f424a",
+    "previous_hash": "715b4ef2be41fc1ab9b7ce7f8749a251f2d4f35c944279089c1e19c8651de8a6",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48806151,
-      "title": "Car touchscreens are cheap, not good",
-      "url": "https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/",
-      "score": 44,
-      "comments": 36
+      "id": 48805624,
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 154,
+      "comments": 126
     },
     {
-      "id": 48804123,
-      "title": "How Kalshi Infects the News",
-      "url": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
-      "score": 139,
-      "comments": 91
+      "id": 48806410,
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "score": 54,
+      "comments": 1
     },
     {
       "id": 48804297,
       "title": "Aluminum foil (2021)",
       "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "score": 111,
-      "comments": 39
+      "score": 176,
+      "comments": 74
     },
     {
-      "id": 48806073,
-      "title": "1k Words: A Writing Contest",
-      "url": "https://writingclub.world/1picture1000words",
-      "score": 26,
-      "comments": 8
+      "id": 48803364,
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 244,
+      "comments": 103
     },
     {
-      "id": 48805652,
-      "title": "Multilingual Experience Linked to Delayed Aging in Populations and Individuals",
-      "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
-      "score": 25,
-      "comments": 12
+      "id": 48808508,
+      "title": "Pros and Cons of Solo Development",
+      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "score": 5,
+      "comments": 0
     }
   ]
 }
