@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 23:34:09 UTC",
-    "fetched_at_ist": "2026-07-06 05:04:09 IST",
+    "fetched_at_utc": "2026-07-06 13:42:27 UTC",
+    "fetched_at_ist": "2026-07-06 19:12:27 IST",
     "item_count": 5,
-    "content_hash": "36b8379fc1fd37dadf6ed9a19007113ca7f08f854989c7c3f0fd29f91c08ad77",
-    "previous_hash": "1e3f436fdf72ceb97b9398105068291f531c89c487318fb4af7c3724d11ff60b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "cff9d39a287d4c1dfb479b16e8e7df77dd3b63748ce7949214e426e2db9bf722",
+    "previous_hash": "36b8379fc1fd37dadf6ed9a19007113ca7f08f854989c7c3f0fd29f91c08ad77",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48797916,
-      "title": "Reparaible and open source paper printer",
-      "url": "https://www.opentools.studio/",
-      "score": 242,
-      "comments": 65
+      "id": 48804014,
+      "title": "Workers Cache",
+      "url": "https://blog.cloudflare.com/workers-cache/",
+      "score": 47,
+      "comments": 5
     },
     {
-      "id": 48794446,
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "score": 751,
-      "comments": 213
+      "id": 48802535,
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 235,
+      "comments": 96
     },
     {
-      "id": 48798153,
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "score": 64,
-      "comments": 23
+      "id": 48803364,
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 104,
+      "comments": 48
     },
     {
-      "id": 48796817,
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 108,
-      "comments": 75
+      "id": 48804219,
+      "title": "Regression to the Mean: on LLMs and the quiet death of the new",
+      "url": "https://rruxandra.github.io/regression-to-the-mean.html",
+      "score": 13,
+      "comments": 8
     },
     {
-      "id": 48796552,
-      "title": "The future of Flipper Zero development",
-      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "score": 193,
-      "comments": 57
+      "id": 48803711,
+      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
+      "url": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat",
+      "score": 26,
+      "comments": 13
     }
   ]
 }
