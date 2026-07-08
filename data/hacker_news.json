@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-08 22:41:22 UTC",
-    "fetched_at_ist": "2026-07-09 04:11:22 IST",
+    "fetched_at_utc": "2026-07-08 23:43:39 UTC",
+    "fetched_at_ist": "2026-07-09 05:13:39 IST",
     "item_count": 5,
-    "content_hash": "cc865f8da147f5fdc021bc4748e05129d855922377973b572d0ecd1e2c5c7aac",
-    "previous_hash": "3d1fd4dd1aca593d752f488f5b319434cde2763ca7db0ac6a2b522cb7a4e1089",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "7164bbb9c59b47205b72f6cda34ffdecef2ce4f795e9a578f4d4004cdec7241b",
+    "previous_hash": "cc865f8da147f5fdc021bc4748e05129d855922377973b572d0ecd1e2c5c7aac",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48837396,
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 104,
-      "comments": 42
+      "score": 119,
+      "comments": 50
     },
     {
       "id": 48836778,
       "title": "FAANG Simulator",
       "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 120,
-      "comments": 49
+      "score": 195,
+      "comments": 77
+    },
+    {
+      "id": 48837877,
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "score": 148,
+      "comments": 53
     },
     {
       "id": 48833116,
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 617,
-      "comments": 174
-    },
-    {
-      "id": 48835111,
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 386,
-      "comments": 314
+      "score": 660,
+      "comments": 182
     },
     {
       "id": 48829312,
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1241,
-      "comments": 199
+      "score": 1264,
+      "comments": 201
     }
   ]
 }
