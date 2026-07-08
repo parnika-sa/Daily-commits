@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-08 (last updated: 01:51 IST)
+
+## 📅 2026-07-08 (last updated: 13:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 17:32:50 IST | ce92b229effb | +18 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-07 19:03:53 IST | e0cce76d3f25 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-08 13:11:09 IST | 17795e32d13e | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-08 01:51:22 IST | 9536b0c6a6fc | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 136 stars today
 
 ### 📰 Hacker News Stories
-- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) — Score: 48
-- [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk) — Score: 20
-- [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/) — Score: 104
-- [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal) — Score: 46
-- [Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026) — Score: 76
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/) — Score: 141
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) — Score: 69
+- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) — Score: 172
+- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/) — Score: 50
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) — Score: 189
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,697.0 🟢 +0.11%
