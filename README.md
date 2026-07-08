@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-08 17:20:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-08 20:16:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Zackriya-Solutions/meetily**
-- BTC: **$62,015.0** ↓ (-2.93%)
+- BTC: **$62,205.0** ↓ (-2.34%)
 - HN top story: **Decoding the obfuscated bash script on a Uniqlo t-shirt**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 12:02:50 UTC | `ce92b229effb` | +18 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-08 13:42:35 UTC | `a95bb3d234d2` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-08 17:20:30 UTC | `5f4bc95acbab` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-08 20:16:08 UTC | `be8bd476bba0` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-09` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-07-08 22:50:30 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `82` day(s) |
+| Last Commit (IST) | `2026-07-09 00:22:23 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-06 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-07 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-08 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-09 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-07-09 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,015.0 | -2.93% | 🔴 |
-| Ethereum | $1,733.53 | -3.64% | 🔴 |
-| Solana | $77.06 | -6.23% | 🔴 |
-| Bnb | $565.76 | -3.17% | 🔴 |
+| Bitcoin | $62,205.0 | -2.34% | 🔴 |
+| Ethereum | $1,736.67 | -2.74% | 🔴 |
+| Solana | $77.38 | -4.69% | 🔴 |
+| Bnb | $566.5 | -2.65% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
