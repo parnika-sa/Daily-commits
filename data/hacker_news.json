@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-08 21:37:11 UTC",
-    "fetched_at_ist": "2026-07-09 03:07:11 IST",
+    "fetched_at_utc": "2026-07-08 22:41:22 UTC",
+    "fetched_at_ist": "2026-07-09 04:11:22 IST",
     "item_count": 5,
-    "content_hash": "3d1fd4dd1aca593d752f488f5b319434cde2763ca7db0ac6a2b522cb7a4e1089",
-    "previous_hash": "a95bb3d234d2df21b6c40dad8ba372d9205adf7a7ec60ccab6ea5144d6db569b",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "cc865f8da147f5fdc021bc4748e05129d855922377973b572d0ecd1e2c5c7aac",
+    "previous_hash": "3d1fd4dd1aca593d752f488f5b319434cde2763ca7db0ac6a2b522cb7a4e1089",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48837396,
-      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 49,
-      "comments": 16
+      "score": 104,
+      "comments": 42
+    },
+    {
+      "id": 48836778,
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "score": 120,
+      "comments": 49
     },
     {
       "id": 48833116,
-      "title": "Chatto is now Open Source",
+      "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 564,
-      "comments": 155
+      "score": 617,
+      "comments": 174
     },
     {
-      "id": 48833866,
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "score": 219,
-      "comments": 117
+      "id": 48835111,
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 386,
+      "comments": 314
     },
     {
       "id": 48829312,
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1201,
-      "comments": 193
-    },
-    {
-      "id": 48832212,
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 359,
-      "comments": 86
+      "score": 1241,
+      "comments": 199
     }
   ]
 }
