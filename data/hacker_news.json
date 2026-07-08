@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-08 07:41:09 UTC",
-    "fetched_at_ist": "2026-07-08 13:11:09 IST",
+    "fetched_at_utc": "2026-07-08 13:42:35 UTC",
+    "fetched_at_ist": "2026-07-08 19:12:35 IST",
     "item_count": 5,
-    "content_hash": "17795e32d13e55c2edf5702f69be3f78e890f1fbbecdd0607ec05939f7e8d0b3",
-    "previous_hash": "e0cce76d3f25c220220546ea4983b0e2137e5b9e4c5a2d9e4dd0cfff3ef00a2a",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "a95bb3d234d2df21b6c40dad8ba372d9205adf7a7ec60ccab6ea5144d6db569b",
+    "previous_hash": "17795e32d13e55c2edf5702f69be3f78e890f1fbbecdd0607ec05939f7e8d0b3",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48827325,
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 141,
-      "comments": 76
+      "id": 48829312,
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 629,
+      "comments": 122
+    },
+    {
+      "id": 48830565,
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "score": 102,
+      "comments": 52
+    },
+    {
+      "id": 48831499,
+      "title": "Tiny data centre used to heat public swimming pool",
+      "url": "https://www.bbc.com/news/technology-64939558",
+      "score": 21,
+      "comments": 14
     },
     {
       "id": 48827858,
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 69,
-      "comments": 20
+      "score": 316,
+      "comments": 125
     },
     {
-      "id": 48825749,
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 172,
-      "comments": 51
-    },
-    {
-      "id": 48827092,
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 50,
-      "comments": 9
-    },
-    {
-      "id": 48824826,
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 189,
-      "comments": 88
+      "id": 48780387,
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "score": 139,
+      "comments": 42
     }
   ]
 }
