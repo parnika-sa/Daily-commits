@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-09 14:33:20 UTC",
-    "fetched_at_ist": "2026-07-09 20:03:20 IST",
+    "fetched_at_utc": "2026-07-09 23:36:43 UTC",
+    "fetched_at_ist": "2026-07-10 05:06:43 IST",
     "item_count": 5,
-    "content_hash": "d0ab4b4d320aadb69e7959c5eca545fa3c2071b52fe0401722dd3221d636c755",
-    "previous_hash": "7164bbb9c59b47205b72f6cda34ffdecef2ce4f795e9a578f4d4004cdec7241b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "954ed3e0ec4699f0ec901711148e1590423f3354f822c3991789c8f89ee1db7b",
+    "previous_hash": "d0ab4b4d320aadb69e7959c5eca545fa3c2071b52fe0401722dd3221d636c755",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48842459,
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 275,
+      "comments": 71
+    },
+    {
+      "id": 48849066,
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 955,
+      "comments": 716
+    },
+    {
+      "id": 48853091,
+      "title": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "score": 53,
+      "comments": 28
+    },
+    {
+      "id": 48843923,
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 923,
+      "comments": 449
+    },
+    {
       "id": 48845049,
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "score": 220,
-      "comments": 91
-    },
-    {
-      "id": 48845422,
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "score": 42,
-      "comments": 24
-    },
-    {
-      "id": 48838876,
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1152,
-      "comments": 231
-    },
-    {
-      "id": 48843438,
-      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "score": 224,
-      "comments": 80
-    },
-    {
-      "id": 48778956,
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "score": 175,
-      "comments": 82
+      "score": 772,
+      "comments": 278
     }
   ]
 }
