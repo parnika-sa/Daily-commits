@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-10 11:31:29 UTC",
-    "fetched_at_ist": "2026-07-10 17:01:29 IST",
+    "fetched_at_utc": "2026-07-10 13:33:16 UTC",
+    "fetched_at_ist": "2026-07-10 19:03:16 IST",
     "item_count": 5,
-    "content_hash": "d91d4f36baf1e9380a339e2cec6011b5f144bec1d3cbc4983459a9139b2ef81a",
-    "previous_hash": "4ab2f655450c6f4cef197ef3413008ab3724a8e3c9b8516d67dbf7747ea2d13d",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "e2de24f4e7be4320d1792da46c45b34f7a1b046cc1d23dd213fb81db98d7fba1",
+    "previous_hash": "d91d4f36baf1e9380a339e2cec6011b5f144bec1d3cbc4983459a9139b2ef81a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48858737,
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 48,
+      "comments": 11
+    },
+    {
       "id": 48849066,
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1332,
-      "comments": 924
+      "score": 1393,
+      "comments": 963
     },
     {
-      "id": 48842459,
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 721,
-      "comments": 175
+      "id": 48857962,
+      "title": "Java 27: What's New?",
+      "url": "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/",
+      "score": 34,
+      "comments": 32
+    },
+    {
+      "id": 48772528,
+      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+      "score": 32,
+      "comments": 3
     },
     {
       "id": 48857230,
       "title": "In Emacs, Everything Looks Like a Service",
       "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 40,
-      "comments": 6
-    },
-    {
-      "id": 48843923,
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1434,
-      "comments": 688
-    },
-    {
-      "id": 48792383,
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 648,
-      "comments": 243
+      "score": 77,
+      "comments": 40
     }
   ]
 }
