@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-10 (last updated: 05:06 IST)
+
+## 📅 2026-07-10 (last updated: 14:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 22 | 2026-07-05 17:32:50 IST | ce92b229effb | +18 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-10 05:06:43 IST | 954ed3e0ec46 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-10 14:07:28 IST | 4ab2f655450c | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-09 10:59:30 IST | 3a59431885fb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +18 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 136 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) — Score: 275
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) — Score: 955
-- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are) — Score: 53
-- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) — Score: 923
-- [Show HN: 18 Words](https://18words.com/) — Score: 772
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) — Score: 636
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) — Score: 1335
+- [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) — Score: 542
+- [Show HN: 18 Words](https://18words.com/) — Score: 976
+- [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/) — Score: 12
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,249.0 🔴 -0.73%
