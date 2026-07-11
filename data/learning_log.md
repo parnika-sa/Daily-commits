@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-11 (last updated: 20:14 IST)
+
+## 📅 2026-07-11 (last updated: 21:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-11 20:14:03 IST | 9887119161d0 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-11 21:07:08 IST | 1245116a9861 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-07-11 17:40:44 IST | 5360f4cfab5b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/) — Score: 118
-- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html) — Score: 76
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 314
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 650
-- [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties) — Score: 46
+- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/) — Score: 162
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 6
+- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html) — Score: 98
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 325
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 664
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,129.0 🔴 -0.56%

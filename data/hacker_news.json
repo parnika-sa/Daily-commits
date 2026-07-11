@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 14:44:03 UTC",
-    "fetched_at_ist": "2026-07-11 20:14:03 IST",
+    "fetched_at_utc": "2026-07-11 15:37:08 UTC",
+    "fetched_at_ist": "2026-07-11 21:07:08 IST",
     "item_count": 5,
-    "content_hash": "9887119161d074ca1a21a28ef9cbfeae4610b89fd915c23efe9e46b9d39372a6",
-    "previous_hash": "a7717dcbe8867c3939f9c724cba179b39b39561ffb2cff9aa4fa0140a9a3a2aa",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "1245116a98619f4396e79776b868010776e662a12b4f1d7648f146e5651bdf95",
+    "previous_hash": "9887119161d074ca1a21a28ef9cbfeae4610b89fd915c23efe9e46b9d39372a6",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48871470,
       "title": "Networking and the Internet, from First Principles",
       "url": "https://fazamhd.com/mental-models/networking/",
-      "score": 118,
-      "comments": 41
+      "score": 162,
+      "comments": 46
+    },
+    {
+      "id": 48872874,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 6,
+      "comments": 0
     },
     {
       "id": 48870799,
       "title": "Your code is fast – if you're lucky",
       "url": "https://tiki.li/blog/lucky_code.html",
-      "score": 76,
-      "comments": 28
+      "score": 98,
+      "comments": 50
     },
     {
       "id": 48866134,
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 314,
-      "comments": 134
+      "score": 325,
+      "comments": 140
     },
     {
       "id": 48861717,
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 650,
-      "comments": 215
-    },
-    {
-      "id": 48825612,
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 46,
-      "comments": 26
+      "score": 664,
+      "comments": 217
     }
   ]
 }
