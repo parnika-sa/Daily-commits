@@ -19,13 +19,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-11 (last updated: 22:01 IST)
+
+## 📅 2026-07-11 (last updated: 23:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-11 22:01:46 IST | 1906cc069acf | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-11 23:09:08 IST | a317c3d43ace | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 17:40:44 IST | 5360f4cfab5b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 51
-- [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf) — Score: 13
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 338
-- [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf) — Score: 54
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 674
+- [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/) — Score: 50
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 82
+- [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf) — Score: 40
+- [Female US rower completes historic solo journey from California to Hawaii](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey) — Score: 33
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 348
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,129.0 🔴 -0.56%
