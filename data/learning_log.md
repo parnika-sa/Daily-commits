@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-11 (last updated: 21:07 IST)
+
+## 📅 2026-07-11 (last updated: 22:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-11 21:07:08 IST | 1245116a9861 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-11 22:01:46 IST | 1906cc069acf | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 17:40:44 IST | 5360f4cfab5b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/) — Score: 162
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 6
-- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html) — Score: 98
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 325
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 664
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 51
+- [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf) — Score: 13
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 338
+- [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf) — Score: 54
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 674
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,129.0 🔴 -0.56%

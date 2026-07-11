@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 15:37:08 UTC",
-    "fetched_at_ist": "2026-07-11 21:07:08 IST",
+    "fetched_at_utc": "2026-07-11 16:31:46 UTC",
+    "fetched_at_ist": "2026-07-11 22:01:46 IST",
     "item_count": 5,
-    "content_hash": "1245116a98619f4396e79776b868010776e662a12b4f1d7648f146e5651bdf95",
-    "previous_hash": "9887119161d074ca1a21a28ef9cbfeae4610b89fd915c23efe9e46b9d39372a6",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "1906cc069acfba60d8dfe0a1073f86f8303763172307ebbdaa8d81b6dd04efe8",
+    "previous_hash": "1245116a98619f4396e79776b868010776e662a12b4f1d7648f146e5651bdf95",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 48871470,
-      "title": "Networking and the Internet, from First Principles",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "score": 162,
-      "comments": 46
-    },
     {
       "id": 48872874,
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 6,
-      "comments": 0
+      "score": 51,
+      "comments": 4
     },
     {
-      "id": 48870799,
-      "title": "Your code is fast – if you're lucky",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "score": 98,
-      "comments": 50
+      "id": 48872858,
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 13,
+      "comments": 0
     },
     {
       "id": 48866134,
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 325,
-      "comments": 140
+      "score": 338,
+      "comments": 147
+    },
+    {
+      "id": 48871932,
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+      "score": 54,
+      "comments": 26
     },
     {
       "id": 48861717,
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 664,
+      "score": 674,
       "comments": 217
     }
   ]
