@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 12:10:44 UTC",
-    "fetched_at_ist": "2026-07-11 17:40:44 IST",
+    "fetched_at_utc": "2026-07-11 14:44:03 UTC",
+    "fetched_at_ist": "2026-07-11 20:14:03 IST",
     "item_count": 5,
-    "content_hash": "a7717dcbe8867c3939f9c724cba179b39b39561ffb2cff9aa4fa0140a9a3a2aa",
-    "previous_hash": "c6a39d4c5b7bfbcd7f7192fa0ffde669b45af514a98b6932d1b1f188237c93d3",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9887119161d074ca1a21a28ef9cbfeae4610b89fd915c23efe9e46b9d39372a6",
+    "previous_hash": "a7717dcbe8867c3939f9c724cba179b39b39561ffb2cff9aa4fa0140a9a3a2aa",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48871470,
+      "title": "Networking and the Internet, from First Principles",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "score": 118,
+      "comments": 41
+    },
+    {
+      "id": 48870799,
+      "title": "Your code is fast – if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "score": 76,
+      "comments": 28
+    },
+    {
       "id": 48866134,
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 283,
-      "comments": 108
+      "score": 314,
+      "comments": 134
     },
     {
       "id": 48861717,
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 620,
-      "comments": 202
-    },
-    {
-      "id": 48830556,
-      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "score": 38,
-      "comments": 1
-    },
-    {
-      "id": 48865019,
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1178,
-      "comments": 610
+      "score": 650,
+      "comments": 215
     },
     {
       "id": 48825612,
       "title": "Google Search lets creators know more about their reach",
       "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 18,
-      "comments": 7
+      "score": 46,
+      "comments": 26
     }
   ]
 }
