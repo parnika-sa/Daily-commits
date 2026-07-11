@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-10 19:35:49 UTC",
-    "fetched_at_ist": "2026-07-11 01:05:49 IST",
+    "fetched_at_utc": "2026-07-11 12:10:44 UTC",
+    "fetched_at_ist": "2026-07-11 17:40:44 IST",
     "item_count": 5,
-    "content_hash": "c6a39d4c5b7bfbcd7f7192fa0ffde669b45af514a98b6932d1b1f188237c93d3",
-    "previous_hash": "e2de24f4e7be4320d1792da46c45b34f7a1b046cc1d23dd213fb81db98d7fba1",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "a7717dcbe8867c3939f9c724cba179b39b39561ffb2cff9aa4fa0140a9a3a2aa",
+    "previous_hash": "c6a39d4c5b7bfbcd7f7192fa0ffde669b45af514a98b6932d1b1f188237c93d3",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48866134,
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 283,
+      "comments": 108
+    },
+    {
       "id": 48861717,
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 247,
-      "comments": 88
+      "score": 620,
+      "comments": 202
     },
     {
-      "id": 48863490,
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 90,
-      "comments": 58
+      "id": 48830556,
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "score": 38,
+      "comments": 1
     },
     {
-      "id": 48862252,
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 89,
-      "comments": 56
+      "id": 48865019,
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 1178,
+      "comments": 610
     },
     {
-      "id": 48862365,
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 79,
-      "comments": 37
-    },
-    {
-      "id": 48863080,
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
-      "score": 32,
-      "comments": 10
+      "id": 48825612,
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "score": 18,
+      "comments": 7
     }
   ]
 }

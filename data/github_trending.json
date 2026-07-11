@@ -2,146 +2,158 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-05 12:02:50 UTC",
-    "fetched_at_ist": "2026-07-05 17:32:50 IST",
-    "item_count": 22,
-    "content_hash": "ce92b229effb7f70dd66094d290c0e415db02f6b69720a8fcd981767a8fb5f06",
-    "previous_hash": "8d85c447d632e182673e487c4bc7988849ce66dd53d6ec9de71f383d4dbe5faa",
-    "new_repos_vs_previous": 18,
+    "fetched_at_utc": "2026-07-11 12:10:43 UTC",
+    "fetched_at_ist": "2026-07-11 17:40:43 IST",
+    "item_count": 24,
+    "content_hash": "df9a907e3de79742ee6cb9933753db1f8de7196360338e0a0e0020cf0820e1c8",
+    "previous_hash": "ce92b229effb7f70dd66094d290c0e415db02f6b69720a8fcd981767a8fb5f06",
+    "new_repos_vs_previous": 24,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "language": "Rust",
-      "stars_today": "718 stars today"
+      "name": "catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_today": "117 stars today"
     },
     {
-      "name": "openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "718 stars today"
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_today": "120 stars today"
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "471 stars today"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "JavaScript",
-      "stars_today": "850 stars today"
-    },
-    {
-      "name": "alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "136 stars today"
+      "stars_today": "230 stars today"
     },
     {
-      "name": "rommapp/romm",
-      "description": "A beautiful, powerful, self-hosted rom manager and player.",
-      "language": "Python",
-      "stars_today": "398 stars today"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_today": "707 stars today"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_today": "742 stars today"
+      "stars_today": "338 stars today"
     },
     {
-      "name": "harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
-      "language": "Python",
-      "stars_today": "443 stars today"
+      "name": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars_today": "229 stars today"
     },
     {
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "1,904 stars today"
+      "name": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars_today": "111 stars today"
     },
     {
-      "name": "hesreallyhim/awesome-claude-code",
-      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-      "language": "Python",
-      "stars_today": "133 stars today"
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "126 stars today"
+      "stars_today": "112 stars today"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": "900 stars today"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars_today": "75 stars today"
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "654 stars today"
+    },
+    {
+      "name": "actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars_today": "8 stars today"
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars_today": "125 stars today"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars_today": "130 stars today"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars_today": "75 stars today"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
       "language": "JavaScript",
-      "stars_today": "1,089 stars today"
+      "stars_today": "331 stars today"
     },
     {
-      "name": "CoplayDev/unity-mcp",
-      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "name": "DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "language": "TypeScript",
+      "stars_today": "74 stars today"
+    },
+    {
+      "name": "malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars_today": "789 stars today"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "language": "C#",
       "stars_today": "69 stars today"
     },
     {
-      "name": "facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
+      "name": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars_today": "903 stars today"
+      "stars_today": "284 stars today"
     },
     {
-      "name": "immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "476 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "737 stars today"
+    },
+    {
+      "name": "nasa/fprime",
+      "description": "F´ - A flight software and embedded systems framework",
+      "language": "C++",
+      "stars_today": "100 stars today"
+    },
+    {
+      "name": "ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "language": "Python",
+      "stars_today": "20 stars today"
+    },
+    {
+      "name": "nuxt/nuxt",
+      "description": "the full-stack Vue framework",
       "language": "TypeScript",
-      "stars_today": "201 stars today"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "133 stars today"
-    },
-    {
-      "name": "gastownhall/gastown",
-      "description": "Gas Town - multi-agent workspace manager",
-      "language": "Go",
-      "stars_today": "48 stars today"
-    },
-    {
-      "name": "dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "language": "C#",
-      "stars_today": "59 stars today"
-    },
-    {
-      "name": "OthmanAdi/planning-with-files",
-      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-      "language": "Python",
-      "stars_today": "61 stars today"
-    },
-    {
-      "name": "steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "stars_today": "98 stars today"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "Python",
-      "stars_today": "357 stars today"
+      "stars_today": "10 stars today"
     }
   ]
 }
