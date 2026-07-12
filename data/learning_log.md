@@ -19,13 +19,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 22:03 IST)
+
+## 📅 2026-07-12 (last updated: 23:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 22:03:14 IST | c2e7687dda0b | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-12 23:10:23 IST | 6925fe03b06c | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-12 19:56:39 IST | 4bc4ae810a9c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 250
-- [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery) — Score: 80
-- [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) — Score: 25
-- [Understanding the Odin Programming Language](https://odinbook.com/) — Score: 83
-- [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html) — Score: 15
+- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 298
+- [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html) — Score: 58
+- [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) — Score: 100
+- [Automation Without Understanding](https://arxiv.org/abs/2607.06377) — Score: 10
+- [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/) — Score: 15
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,958.0 🔴 -0.60%
