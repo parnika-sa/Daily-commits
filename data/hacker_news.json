@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 17:40:23 UTC",
-    "fetched_at_ist": "2026-07-12 23:10:23 IST",
+    "fetched_at_utc": "2026-07-12 18:34:45 UTC",
+    "fetched_at_ist": "2026-07-13 00:04:45 IST",
     "item_count": 5,
-    "content_hash": "6925fe03b06c70e6cd9737bf0f594fe915ea97ea0f91dbee68af3b4be6b09c91",
-    "previous_hash": "c2e7687dda0b4615d03b4300cf4863edeae98e2ed0ed4f802af7248cf4cc16cf",
+    "content_hash": "b0a3c2f1ccac84c8062a9f6ce44baed63f1993a4ac0ee0a38354539ed20844ec",
+    "previous_hash": "6925fe03b06c70e6cd9737bf0f594fe915ea97ea0f91dbee68af3b4be6b09c91",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 48880170,
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 298,
-      "comments": 77
+      "score": 330,
+      "comments": 92
     },
     {
       "id": 48881830,
-      "title": "Don't You Mean Extinct?",
+      "title": "Don't you mean extinct?",
       "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 58,
-      "comments": 17
+      "score": 94,
+      "comments": 38
     },
     {
-      "id": 48882056,
-      "title": "How to Read More Books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 100,
-      "comments": 41
-    },
-    {
-      "id": 48882554,
-      "title": "Automation Without Understanding",
-      "url": "https://arxiv.org/abs/2607.06377",
-      "score": 10,
-      "comments": 1
+      "id": 48881874,
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "score": 78,
+      "comments": 61
     },
     {
       "id": 48882562,
       "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
       "url": "https://github.com/hasenj/go-shirei/",
-      "score": 15,
-      "comments": 7
+      "score": 36,
+      "comments": 18
+    },
+    {
+      "id": 48882956,
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "score": 19,
+      "comments": 1
     }
   ]
 }
