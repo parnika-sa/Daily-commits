@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 04:35:36 UTC",
-    "fetched_at_ist": "2026-07-12 10:05:36 IST",
+    "fetched_at_utc": "2026-07-12 15:32:03 UTC",
+    "fetched_at_ist": "2026-07-12 21:02:03 IST",
     "item_count": 5,
-    "content_hash": "864e93d8158b1d9caed1f65eac0ced390163ff6526ef0fe2ce9bb4aee3e2a8ce",
-    "previous_hash": "deeb044888a0829e52ce23c4c54f8eb60ad50a9e96a55dbcc321f88673c36741",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "eddbb751e20b95f1febcf45267d3922bf92c340f9e8fbc1a5c295672f2064032",
+    "previous_hash": "864e93d8158b1d9caed1f65eac0ced390163ff6526ef0fe2ce9bb4aee3e2a8ce",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48877668,
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "score": 42,
-      "comments": 7
+      "id": 48880170,
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 199,
+      "comments": 50
     },
     {
-      "id": 48876505,
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 157,
-      "comments": 36
+      "id": 48881043,
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "score": 45,
+      "comments": 32
     },
     {
-      "id": 48878195,
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "score": 7,
-      "comments": 1
+      "id": 48880499,
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "score": 62,
+      "comments": 17
     },
     {
-      "id": 48877314,
-      "title": "A pure scheme web programming tool",
-      "url": "https://goeteia.dev",
-      "score": 46,
-      "comments": 15
+      "id": 48880985,
+      "title": "Gina Gallery of International Naive Art",
+      "url": "https://www.ginagallery.com/",
+      "score": 13,
+      "comments": 4
     },
     {
-      "id": 48875377,
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "score": 210,
-      "comments": 90
+      "id": 48879504,
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "score": 113,
+      "comments": 8
     }
   ]
 }

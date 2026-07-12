@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 19:56 IST)
+
+## 📅 2026-07-12 (last updated: 21:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 10:05:36 IST | 864e93d8158b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-12 21:02:03 IST | eddbb751e20b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-12 19:56:39 IST | 4bc4ae810a9c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) — Score: 42
-- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) — Score: 157
-- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html) — Score: 7
-- [A pure scheme web programming tool](https://goeteia.dev) — Score: 46
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 210
+- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 199
+- [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery) — Score: 45
+- [Understanding the Odin Programming Language](https://odinbook.com/) — Score: 62
+- [Gina Gallery of International Naive Art](https://www.ginagallery.com/) — Score: 13
+- [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/) — Score: 113
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,958.0 🔴 -0.60%
