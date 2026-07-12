@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 18:34:45 UTC",
-    "fetched_at_ist": "2026-07-13 00:04:45 IST",
+    "fetched_at_utc": "2026-07-12 20:35:35 UTC",
+    "fetched_at_ist": "2026-07-13 02:05:35 IST",
     "item_count": 5,
-    "content_hash": "b0a3c2f1ccac84c8062a9f6ce44baed63f1993a4ac0ee0a38354539ed20844ec",
-    "previous_hash": "6925fe03b06c70e6cd9737bf0f594fe915ea97ea0f91dbee68af3b4be6b09c91",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "455c41308e1a93241d44ef3d7b089c0912ed8da89c509e1845a45eeb81999e6a",
+    "previous_hash": "b0a3c2f1ccac84c8062a9f6ce44baed63f1993a4ac0ee0a38354539ed20844ec",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48883275,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 234,
+      "comments": 118
+    },
+    {
+      "id": 48883090,
+      "title": "Can We Understand How Large Language Models Reason?",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "score": 44,
+      "comments": 39
+    },
     {
       "id": 48880170,
       "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 330,
-      "comments": 92
+      "score": 365,
+      "comments": 104
     },
     {
-      "id": 48881830,
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 94,
-      "comments": 38
+      "id": 48883343,
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 151,
+      "comments": 80
     },
     {
-      "id": 48881874,
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "score": 78,
-      "comments": 61
-    },
-    {
-      "id": 48882562,
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "url": "https://github.com/hasenj/go-shirei/",
-      "score": 36,
-      "comments": 18
-    },
-    {
-      "id": 48882956,
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 19,
-      "comments": 1
+      "id": 48883415,
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "score": 16,
+      "comments": 3
     }
   ]
 }
