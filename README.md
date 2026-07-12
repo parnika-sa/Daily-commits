@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-12 04:35:36 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-12 09:15:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **catchorg/Catch2**
-- BTC: **$63,863.0** ↓ (-0.44%)
+- BTC: **$63,858.0** ↓ (-0.53%)
 - HN top story: **We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 12:10:43 UTC | `df9a907e3de7` | +24 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-12 04:35:36 UTC | `864e93d8158b` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-11 23:27:29 UTC | `85fab5e7b8db` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-12 09:15:43 UTC | `7dcf3c3acd4b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-12` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `83` day(s) |
-| Last Commit (IST) | `2026-07-12 10:05:36 IST` |
+| Last Commit (IST) | `2026-07-12 12:43:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-09 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-10 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-11 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-07-12 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-07-12 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,863.0 | -0.44% | 🔴 |
-| Ethereum | $1,796.99 | +0.05% | 🟢 |
-| Solana | $77.15 | -1.10% | 🔴 |
-| Bnb | $576.64 | +0.13% | 🟢 |
+| Bitcoin | $63,858.0 | -0.53% | 🔴 |
+| Ethereum | $1,800.44 | +0.13% | 🟢 |
+| Solana | $76.59 | -1.97% | 🔴 |
+| Bnb | $572.7 | -0.90% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
