@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 04:57 IST)
+
+## 📅 2026-07-12 (last updated: 10:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 03:01:28 IST | deeb044888a0 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-12 10:05:36 IST | 864e93d8158b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-12 04:57:29 IST | 85fab5e7b8db | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 82
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 146
-- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) — Score: 78
-- [UPI: Anatomy of a Payment Transaction](https://timeseriesofindia.com/economy/reads/upi-architecture/) — Score: 51
-- [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) — Score: 149
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) — Score: 42
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) — Score: 157
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html) — Score: 7
+- [A pure scheme web programming tool](https://goeteia.dev) — Score: 46
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 210
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,863.0 🔴 -0.44%
