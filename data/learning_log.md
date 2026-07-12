@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-13 (last updated: 02:05 IST)
+
+## 📅 2026-07-13 (last updated: 03:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 02:05:35 IST | 455c41308e1a | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-13 03:02:07 IST | d0d20e939e42 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-12 19:56:39 IST | 4bc4ae810a9c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Score: 234
-- [Can We Understand How Large Language Models Reason?](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/) — Score: 44
-- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 365
-- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — Score: 151
-- [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html) — Score: 16
+- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) — Score: 34
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) — Score: 62
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Score: 297
+- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 380
+- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — Score: 207
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,958.0 🔴 -0.60%
