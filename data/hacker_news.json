@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 21:32:07 UTC",
-    "fetched_at_ist": "2026-07-13 03:02:07 IST",
+    "fetched_at_utc": "2026-07-13 04:43:18 UTC",
+    "fetched_at_ist": "2026-07-13 10:13:18 IST",
     "item_count": 5,
-    "content_hash": "d0d20e939e428ec8f4741e5bc571c2906198847d5b19bdd0ed1d29fc512a1aba",
-    "previous_hash": "455c41308e1a93241d44ef3d7b089c0912ed8da89c509e1845a45eeb81999e6a",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "78f1ef0100c579445e89f70bb16f1778b1ebb4aaacf87c2cf1d49fc53b2e73e6",
+    "previous_hash": "d0d20e939e428ec8f4741e5bc571c2906198847d5b19bdd0ed1d29fc512a1aba",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48884853,
-      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "score": 34,
-      "comments": 8
+      "id": 48834309,
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 153,
+      "comments": 55
+    },
+    {
+      "id": 48885643,
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "score": 121,
+      "comments": 27
+    },
+    {
+      "id": 48886741,
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "score": 222,
+      "comments": 148
     },
     {
       "id": 48884395,
       "title": "Tiny Emulators",
       "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 62,
-      "comments": 2
+      "score": 180,
+      "comments": 11
     },
     {
-      "id": 48883275,
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 297,
-      "comments": 167
-    },
-    {
-      "id": 48880170,
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 380,
-      "comments": 105
-    },
-    {
-      "id": 48883343,
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 207,
-      "comments": 116
+      "id": 48827126,
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 134,
+      "comments": 19
     }
   ]
 }

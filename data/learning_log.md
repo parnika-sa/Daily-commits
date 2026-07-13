@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-13 (last updated: 04:57 IST)
+
+## 📅 2026-07-13 (last updated: 10:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 03:02:07 IST | d0d20e939e42 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-13 10:13:18 IST | 78f1ef0100c5 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-13 04:57:10 IST | 6e009fe4196d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) — Score: 34
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) — Score: 62
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Score: 297
-- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 380
-- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — Score: 207
+- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) — Score: 153
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) — Score: 121
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) — Score: 222
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) — Score: 180
+- [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) — Score: 134
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,800.0 🔴 -0.12%
