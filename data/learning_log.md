@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-14 (last updated: 02:03 IST)
+
+## 📅 2026-07-14 (last updated: 03:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-14 02:03:55 IST | f51d89d72ee6 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-14 03:03:14 IST | 5a508c59845f | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-13 04:57:10 IST | 6e009fe4196d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/) — Score: 99
-- [Show HN: Super Dario](https://superdario.pawb.de) — Score: 310
-- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 315
-- [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me) — Score: 37
-- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 83
+- [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3) — Score: 79
+- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 351
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 137
+- [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me) — Score: 108
+- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/) — Score: 232
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,800.0 🔴 -0.12%
