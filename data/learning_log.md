@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-14 (last updated: 10:13 IST)
+
+## 📅 2026-07-14 (last updated: 02:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 10:13:18 IST | 78f1ef0100c5 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-14 02:03:55 IST | f51d89d72ee6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-13 04:57:10 IST | 6e009fe4196d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) — Score: 153
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) — Score: 121
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) — Score: 222
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) — Score: 180
-- [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) — Score: 134
+- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/) — Score: 99
+- [Show HN: Super Dario](https://superdario.pawb.de) — Score: 310
+- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 315
+- [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me) — Score: 37
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 83
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,800.0 🔴 -0.12%
@@ -44,18 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $573.63 🔴 -0.46%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-13 (last updated: 10:13 IST)
 
 ### 🧪 Source Integrity Snapshot
