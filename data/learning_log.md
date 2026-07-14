@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-14 (last updated: 11:55 IST)
+
+## 📅 2026-07-14 (last updated: 14:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 24 | 2026-07-11 17:40:43 IST | df9a907e3de7 | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-14 05:02:39 IST | f08c875f1387 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-14 14:02:55 IST | 49a1ce16be85 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-14 11:55:44 IST | 478602f31f86 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +24 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 229 stars today
 
 ### 📰 Hacker News Stories
-- [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays) — Score: 32
-- [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks) — Score: 50
-- [Building and shipping Mac and iOS apps without ever opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 237
-- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 400
-- [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser) — Score: 50
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) — Score: 408
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb) — Score: 102
+- [The Git history command](https://lalitm.com/post/git-history/) — Score: 265
+- [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/) — Score: 5
+- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html) — Score: 122
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,621.0 🔴 -0.11%
