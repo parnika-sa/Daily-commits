@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-14 08:32:55 UTC",
-    "fetched_at_ist": "2026-07-14 14:02:55 IST",
+    "fetched_at_utc": "2026-07-14 16:36:50 UTC",
+    "fetched_at_ist": "2026-07-14 22:06:50 IST",
     "item_count": 5,
-    "content_hash": "49a1ce16be85509e92d99ac4c5d7481a841ef87c067c96b6db9edf34eaeec05c",
-    "previous_hash": "f08c875f13876bc5f85d946f4313777748d7298ce807b7304f4e91c149dd1e30",
+    "content_hash": "9cb160826a31cd304e67717c41da3c67edc3c705a309adccf563cd0e7587c515",
+    "previous_hash": "49a1ce16be85509e92d99ac4c5d7481a841ef87c067c96b6db9edf34eaeec05c",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48901569,
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 408,
-      "comments": 96
+      "id": 48908271,
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "score": 50,
+      "comments": 28
     },
     {
-      "id": 48902026,
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 102,
-      "comments": 29
+      "id": 48908214,
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "score": 35,
+      "comments": 39
     },
     {
-      "id": 48901010,
-      "title": "The Git history command",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 265,
-      "comments": 151
+      "id": 48869989,
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 310,
+      "comments": 241
     },
     {
-      "id": 48903715,
-      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "score": 5,
+      "id": 48908950,
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 10,
       "comments": 0
     },
     {
-      "id": 48901454,
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 122,
-      "comments": 4
+      "id": 48908178,
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 111,
+      "comments": 103
     }
   ]
 }
