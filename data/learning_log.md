@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-15 (last updated: 05:41 IST)
+
+## 📅 2026-07-15 (last updated: 09:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-15 05:41:51 IST | 8b91e14bf504 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-15 05:41:52 IST | 62d2e6c28f0c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-15 09:01:32 IST | 806456b55165 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-15 05:41:51 IST | f44d1a2cc8b0 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 4,276 stars today
 
 ### 📰 Hacker News Stories
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) — Score: 381
-- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) — Score: 64
-- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) — Score: 70
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) — Score: 310
-- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) — Score: 219
+- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) — Score: 153
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) — Score: 63
+- [Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/) — Score: 57
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) — Score: 479
+- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) — Score: 54
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,962.0 🟢 +4.15%
