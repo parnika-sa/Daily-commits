@@ -2,158 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-11 12:10:43 UTC",
-    "fetched_at_ist": "2026-07-11 17:40:43 IST",
-    "item_count": 24,
-    "content_hash": "df9a907e3de79742ee6cb9933753db1f8de7196360338e0a0e0020cf0820e1c8",
-    "previous_hash": "ce92b229effb7f70dd66094d290c0e415db02f6b69720a8fcd981767a8fb5f06",
-    "new_repos_vs_previous": 24,
+    "fetched_at_utc": "2026-07-15 00:11:51 UTC",
+    "fetched_at_ist": "2026-07-15 05:41:51 IST",
+    "item_count": 16,
+    "content_hash": "8b91e14bf5042e183a237188cf8e093b3b707ba33dc3e5446da83ebfb459e07e",
+    "previous_hash": "df9a907e3de79742ee6cb9933753db1f8de7196360338e0a0e0020cf0820e1c8",
+    "new_repos_vs_previous": 16,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "stars_today": "117 stars today"
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "stars_today": "120 stars today"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
       "language": "Python",
-      "stars_today": "230 stars today"
+      "stars_today": "1,196 stars today"
     },
     {
-      "name": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars_today": "338 stars today"
-    },
-    {
-      "name": "hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars_today": "229 stars today"
-    },
-    {
-      "name": "zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "stars_today": "111 stars today"
-    },
-    {
-      "name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "112 stars today"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "900 stars today"
-    },
-    {
-      "name": "chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "stars_today": "75 stars today"
-    },
-    {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "654 stars today"
-    },
-    {
-      "name": "actions/checkout",
-      "description": "Action for checking out a repo",
-      "language": "TypeScript",
-      "stars_today": "8 stars today"
-    },
-    {
-      "name": "home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "125 stars today"
+      "stars_today": "1,106 stars today"
     },
     {
-      "name": "microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "stars_today": "130 stars today"
-    },
-    {
-      "name": "cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "stars_today": "75 stars today"
-    },
-    {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_today": "331 stars today"
-    },
-    {
-      "name": "DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "language": "TypeScript",
-      "stars_today": "74 stars today"
-    },
-    {
-      "name": "malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "language": "Rust",
-      "stars_today": "789 stars today"
-    },
-    {
-      "name": "dotnet/aspnetcore",
-      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "language": "C#",
-      "stars_today": "69 stars today"
-    },
-    {
-      "name": "prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "language": "TypeScript",
-      "stars_today": "284 stars today"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "476 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "737 stars today"
+      "stars_today": "1,679 stars today"
     },
     {
-      "name": "nasa/fprime",
-      "description": "F´ - A flight software and embedded systems framework",
-      "language": "C++",
-      "stars_today": "100 stars today"
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "473 stars today"
     },
     {
-      "name": "ansible/ansible",
-      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
-      "language": "Python",
-      "stars_today": "20 stars today"
-    },
-    {
-      "name": "nuxt/nuxt",
-      "description": "the full-stack Vue framework",
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "10 stars today"
+      "stars_today": "4,276 stars today"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "109 stars today"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "1,015 stars today"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "1,256 stars today"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_today": "783 stars today"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "851 stars today"
+    },
+    {
+      "name": "penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "stars_today": "395 stars today"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "language": "TypeScript",
+      "stars_today": "85 stars today"
+    },
+    {
+      "name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars_today": "332 stars today"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "language": "Go",
+      "stars_today": "186 stars today"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,851 stars today"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": "112 stars today"
     }
   ]
 }

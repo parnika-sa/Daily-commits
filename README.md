@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-14 23:25:52 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-15 00:11:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **catchorg/Catch2**
-- BTC: **$64,868.0** ↑ (+4.46%)
-- HN top story: **Show HN: Opening lines of famous literary works**
+- Top GitHub repo: **1c7/chinese-independent-developer**
+- BTC: **$64,962.0** ↑ (+4.15%)
+- HN top story: **Bonsai 27B: A 27B-Class model that runs on a phone**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 24 | 2026-07-11 12:10:43 UTC | `df9a907e3de7` | +24 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-14 16:36:50 UTC | `9cb160826a31` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-14 23:25:52 UTC | `5e38635f4fdd` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-07-15 00:11:51 UTC | `8b91e14bf504` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-15 00:11:52 UTC | `62d2e6c28f0c` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-15 00:11:51 UTC | `f44d1a2cc8b0` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +24 new repos, top changed: yes
+- GitHub: +16 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-15` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-15 03:59:48 IST` |
+| Last Commit (IST) | `2026-07-15 04:55:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-12 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-07-13 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-14 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-15 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,868.0 | +4.46% | 🟢 |
-| Ethereum | $1,883.74 | +6.79% | 🟢 |
-| Solana | $77.68 | +4.06% | 🟢 |
-| Bnb | $581.77 | +2.84% | 🟢 |
+| Bitcoin | $64,962.0 | +4.15% | 🟢 |
+| Ethereum | $1,888.18 | +6.22% | 🟢 |
+| Solana | $77.74 | +3.88% | 🟢 |
+| Bnb | $582.38 | +2.63% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | 117 stars today | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, … |
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 120 stars today | Abseil Common Libraries (C++) |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 230 stars today | CLI tool for configuring and monitoring Claude Code |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 338 stars today | A library of Agent Skills designed to work with the Stitch MCP server. Each skil… |
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | 229 stars today | Terraform enables you to safely and predictably create, change, and improve infr… |
-| [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | C++ | 111 stars today | Mesh optimization library that makes meshes smaller and faster to render |
-| [openai/plugins](https://github.com/openai/plugins) | JavaScript | 112 stars today | OpenAI Plugins |
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 900 stars today | This is MCP server for Claude that gives it terminal control, file system search… |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | Python | 1,196 stars today | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 1,106 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,679 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 473 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 4,276 stars today | The open-source CapCut alternative |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 109 stars today | An AI Hedge Fund Team |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,015 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 1,256 stars today | "Vibe-Trading: Your Personal Trading Agent" |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/) | 50 | 28 |
-| [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/) | 35 | 39 |
-| [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) | 310 | 241 |
-| [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai) | 10 | 0 |
-| [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai) | 111 | 103 |
+| [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) | 381 | 144 |
+| [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) | 64 | 10 |
+| [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) | 70 | 41 |
+| [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) | 310 | 152 |
+| [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) | 219 | 90 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
