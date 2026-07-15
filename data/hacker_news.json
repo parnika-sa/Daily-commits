@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-15 03:31:32 UTC",
-    "fetched_at_ist": "2026-07-15 09:01:32 IST",
+    "fetched_at_utc": "2026-07-15 16:42:58 UTC",
+    "fetched_at_ist": "2026-07-15 22:12:58 IST",
     "item_count": 5,
-    "content_hash": "806456b5516517d28dcf042ccb1d85f66168e229756c502a7a58853b742db7ec",
-    "previous_hash": "62d2e6c28f0cc7d3c6b9ce5fc0a3ba9ff16a736b54809b62c66308341c535e26",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c60d1b880977ec8143a0ee5d19403b26b6f80ac7147bdfb42f72e3c578459454",
+    "previous_hash": "806456b5516517d28dcf042ccb1d85f66168e229756c502a7a58853b742db7ec",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48914644,
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 153,
-      "comments": 58
+      "id": 48919363,
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "score": 506,
+      "comments": 248
     },
     {
-      "id": 48915004,
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 63,
-      "comments": 25
+      "id": 48920475,
+      "title": "Mysteries of Telegram Data Centers",
+      "url": "https://dev.moe/en/3025",
+      "score": 129,
+      "comments": 31
     },
     {
-      "id": 48915244,
-      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-      "score": 57,
-      "comments": 37
+      "id": 48923079,
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "score": 24,
+      "comments": 11
     },
     {
-      "id": 48910545,
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 479,
-      "comments": 174
+      "id": 48922803,
+      "title": "J-space comparisons across open models",
+      "url": "https://eliebak.com/viz/jspace-open-v2",
+      "score": 17,
+      "comments": 1
     },
     {
-      "id": 48914646,
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 54,
-      "comments": 14
+      "id": 48919198,
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "score": 159,
+      "comments": 88
     }
   ]
 }
