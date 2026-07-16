@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 20:33:08 UTC",
-    "fetched_at_ist": "2026-07-17 02:03:08 IST",
+    "fetched_at_utc": "2026-07-16 21:43:20 UTC",
+    "fetched_at_ist": "2026-07-17 03:13:20 IST",
     "item_count": 5,
-    "content_hash": "ada7929c5ccfcf3a9843e62be2e6a73b47fa8201ddf36b315392098a6fd6e0c0",
-    "previous_hash": "dd2de6cc99598e35768d7583ee444524b6013736d9b87be6bb42eb576896ec1b",
+    "content_hash": "b50e251abe4fbd117297d95e7f36ffb9fd283228135bc799ee6cf751d9cc2460",
+    "previous_hash": "ada7929c5ccfcf3a9843e62be2e6a73b47fa8201ddf36b315392098a6fd6e0c0",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 48935342,
-      "title": "Kimi K3 is now live",
-      "url": "https://www.kimi.com/en",
-      "score": 699,
-      "comments": 397
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 844,
+      "comments": 507
+    },
+    {
+      "id": 48939662,
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 45,
+      "comments": 11
     },
     {
       "id": 48936426,
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 345,
-      "comments": 81
+      "score": 410,
+      "comments": 92
     },
     {
       "id": 48936584,
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 217,
-      "comments": 71
+      "score": 287,
+      "comments": 79
     },
     {
-      "id": 48936451,
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 143,
-      "comments": 81
-    },
-    {
-      "id": 48932539,
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 475,
-      "comments": 269
+      "id": 48939524,
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 43,
+      "comments": 30
     }
   ]
 }
