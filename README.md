@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-16 10:33:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-16 12:07:28 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **OpenCut-app/OpenCut**
-- BTC: **$64,877.0** ↑ (+0.06%)
-- HN top story: **The lost joy of music piracy**
+- Top GitHub repo: **apache/ossie**
+- BTC: **$64,117.0** ↓ (-0.79%)
+- HN top story: **OnePlus halts operations in USA and Europe**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-07-16 00:08:17 UTC | `9844639704cc` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-16 10:33:14 UTC | `32b637587fa2` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-16 06:02:59 UTC | `1d1df223bf82` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-07-16 12:07:27 UTC | `9f118ecad4ed` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-16 12:07:28 UTC | `0afca8bc5a3c` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-16 12:07:27 UTC | `d1916ee6a1ee` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-16` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
-| Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-16 14:01:04 IST` |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Streak | `83` day(s) |
+| Last Commit (IST) | `2026-07-16 16:03:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-13 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-14 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-16 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-07-16 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,877.0 | +0.06% | 🟢 |
-| Ethereum | $1,924.17 | +2.36% | 🟢 |
-| Solana | $77.41 | -0.96% | 🔴 |
-| Bnb | $583.22 | +0.58% | 🟢 |
+| Bitcoin | $64,117.0 | -0.79% | 🔴 |
+| Ethereum | $1,880.76 | +0.03% | 🟢 |
+| Solana | $76.15 | -1.59% | 🔴 |
+| Bnb | $576.96 | -0.19% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,664 stars today | The open-source CapCut alternative |
+| [apache/ossie](https://github.com/apache/ossie) | Python | 34 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,277 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,130 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 110 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 471 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 915 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,664 stars today | The open-source CapCut alternative |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 58 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 299 stars today | A coding agent for low-cost models |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 172 stars today | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 323 stars today | Bonsai Demo |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 949 stars today | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou… |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 1,236 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) | 353 | 199 |
-| [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | 993 | 249 |
-| [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/) | 141 | 63 |
-| [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com) | 28 | 6 |
-| [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/) | 69 | 25 |
+| [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237) | 94 | 51 |
+| [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) | 427 | 267 |
+| [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | 1039 | 259 |
+| [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com) | 92 | 24 |
+| [A Beautiful Theory Falls to Ugly Data](https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html) | 29 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

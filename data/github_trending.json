@@ -2,20 +2,20 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-16 00:08:17 UTC",
-    "fetched_at_ist": "2026-07-16 05:38:17 IST",
-    "item_count": 13,
-    "content_hash": "9844639704cc64f918985fdbbfa9e4ec6d241c7aa75222d98ebce33d5089d7b0",
-    "previous_hash": "8b91e14bf5042e183a237188cf8e093b3b707ba33dc3e5446da83ebfb459e07e",
-    "new_repos_vs_previous": 5,
+    "fetched_at_utc": "2026-07-16 12:07:27 UTC",
+    "fetched_at_ist": "2026-07-16 17:37:27 IST",
+    "item_count": 17,
+    "content_hash": "9f118ecad4ed7e15b2b9040c7a6a666864ed56503f87402c2bfdbf9c8f784498",
+    "previous_hash": "9844639704cc64f918985fdbbfa9e4ec6d241c7aa75222d98ebce33d5089d7b0",
+    "new_repos_vs_previous": 9,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_today": "1,664 stars today"
+      "name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "34 stars today"
     },
     {
       "name": "Nutlope/hallmark",
@@ -24,28 +24,16 @@
       "stars_today": "1,277 stars today"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "2,130 stars today"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "110 stars today"
+      "stars_today": "1,664 stars today"
     },
     {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_today": "471 stars today"
-    },
-    {
-      "name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_today": "915 stars today"
+      "stars_today": "58 stars today"
     },
     {
       "name": "openinterpreter/openinterpreter",
@@ -54,16 +42,16 @@
       "stars_today": "299 stars today"
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "stars_today": "172 stars today"
+      "name": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars_today": "323 stars today"
     },
     {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "language": "TypeScript",
-      "stars_today": "725 stars today"
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "949 stars today"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -72,10 +60,10 @@
       "stars_today": "1,236 stars today"
     },
     {
-      "name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars_today": "340 stars today"
+      "name": "lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars_today": "51 stars today"
     },
     {
       "name": "YimMenu/YimMenuV2",
@@ -84,10 +72,46 @@
       "stars_today": "38 stars today"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": "172 stars today"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,130 stars today"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "8 stars today"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_today": "141 stars today"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,623 stars today"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "464 stars today"
+    },
+    {
+      "name": "ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
-      "stars_today": "949 stars today"
+      "stars_today": "125 stars today"
     }
   ]
 }
