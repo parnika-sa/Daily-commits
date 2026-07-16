@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 21:43:20 UTC",
-    "fetched_at_ist": "2026-07-17 03:13:20 IST",
+    "fetched_at_utc": "2026-07-16 22:37:48 UTC",
+    "fetched_at_ist": "2026-07-17 04:07:48 IST",
     "item_count": 5,
-    "content_hash": "b50e251abe4fbd117297d95e7f36ffb9fd283228135bc799ee6cf751d9cc2460",
-    "previous_hash": "ada7929c5ccfcf3a9843e62be2e6a73b47fa8201ddf36b315392098a6fd6e0c0",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "0ed84d296965ecc67116139c4b8d15278774baac0ede2729eedd4feca41b5c5b",
+    "previous_hash": "b50e251abe4fbd117297d95e7f36ffb9fd283228135bc799ee6cf751d9cc2460",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48935342,
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 844,
-      "comments": 507
+      "score": 951,
+      "comments": 575
     },
     {
       "id": 48939662,
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 45,
-      "comments": 11
+      "score": 81,
+      "comments": 27
     },
     {
       "id": 48936426,
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 410,
-      "comments": 92
+      "score": 443,
+      "comments": 102
     },
     {
       "id": 48936584,
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 287,
-      "comments": 79
+      "score": 328,
+      "comments": 86
     },
     {
-      "id": 48939524,
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "id": 48939896,
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
       "score": 43,
-      "comments": 30
+      "comments": 1
     }
   ]
 }
