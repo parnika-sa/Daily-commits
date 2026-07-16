@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-15 16:42:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-16 00:08:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **1c7/chinese-independent-developer**
-- BTC: **$65,295.0** ↑ (+2.32%)
-- HN top story: **Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)**
+- Top GitHub repo: **OpenCut-app/OpenCut**
+- BTC: **$64,760.0** ↓ (-0.30%)
+- HN top story: **Inkling: Our Open-Weights Model**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-07-15 00:11:51 UTC | `8b91e14bf504` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-15 16:42:58 UTC | `c60d1b880977` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-15 13:15:26 UTC | `e3002b8dbfcf` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-07-16 00:08:17 UTC | `9844639704cc` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-16 00:08:18 UTC | `72ad852be7fe` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-16 00:08:17 UTC | `29aa521958b8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-16` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-16 03:42:00 IST` |
+| Last Commit (IST) | `2026-07-16 04:41:10 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-13 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-14 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-16 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,295.0 | +2.32% | 🟢 |
-| Ethereum | $1,936.76 | +4.27% | 🟢 |
-| Solana | $78.7 | +2.81% | 🟢 |
-| Bnb | $582.66 | +1.06% | 🟢 |
+| Bitcoin | $64,760.0 | -0.30% | 🔴 |
+| Ethereum | $1,920.18 | +1.67% | 🟢 |
+| Solana | $77.3 | -0.63% | 🔴 |
+| Bnb | $581.14 | -0.22% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | Python | 1,196 stars today | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 1,106 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,679 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 473 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 4,276 stars today | The open-source CapCut alternative |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 109 stars today | An AI Hedge Fund Team |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,015 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 1,256 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,664 stars today | The open-source CapCut alternative |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,277 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,130 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 110 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 471 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 915 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 299 stars today | A coding agent for low-cost models |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 172 stars today | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269) | 506 | 248 |
-| [Mysteries of Telegram Data Centers](https://dev.moe/en/3025) | 129 | 31 |
-| [Codex Micro](https://openai.com/supply/co-lab/work-louder/) | 24 | 11 |
-| [J-space comparisons across open models](https://eliebak.com/viz/jspace-open-v2) | 17 | 1 |
-| [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/) | 159 | 88 |
+| [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | 588 | 144 |
+| [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) | 57 | 29 |
+| [Grok Build is open source](https://github.com/xai-org/grok-build) | 199 | 238 |
+| [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/) | 30 | 5 |
+| [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) | 19 | 5 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

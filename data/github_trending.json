@@ -2,110 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-15 00:11:51 UTC",
-    "fetched_at_ist": "2026-07-15 05:41:51 IST",
-    "item_count": 16,
-    "content_hash": "8b91e14bf5042e183a237188cf8e093b3b707ba33dc3e5446da83ebfb459e07e",
-    "previous_hash": "df9a907e3de79742ee6cb9933753db1f8de7196360338e0a0e0020cf0820e1c8",
-    "new_repos_vs_previous": 16,
+    "fetched_at_utc": "2026-07-16 00:08:17 UTC",
+    "fetched_at_ist": "2026-07-16 05:38:17 IST",
+    "item_count": 13,
+    "content_hash": "9844639704cc64f918985fdbbfa9e4ec6d241c7aa75222d98ebce33d5089d7b0",
+    "previous_hash": "8b91e14bf5042e183a237188cf8e093b3b707ba33dc3e5446da83ebfb459e07e",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "1c7/chinese-independent-developer",
-      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-      "language": "Python",
-      "stars_today": "1,196 stars today"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "stars_today": "1,106 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "1,679 stars today"
-    },
-    {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_today": "473 stars today"
-    },
-    {
       "name": "OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "4,276 stars today"
-    },
-    {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars_today": "109 stars today"
+      "stars_today": "1,664 stars today"
     },
     {
       "name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "1,015 stars today"
+      "stars_today": "1,277 stars today"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,130 stars today"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "110 stars today"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "471 stars today"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "1,256 stars today"
+      "stars_today": "915 stars today"
     },
     {
-      "name": "Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "stars_today": "783 stars today"
+      "name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "language": "Rust",
+      "stars_today": "299 stars today"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "language": "HTML",
-      "stars_today": "851 stars today"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-      "language": "Clojure",
-      "stars_today": "395 stars today"
-    },
-    {
-      "name": "AIEraDev/Clypra",
-      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-      "language": "TypeScript",
-      "stars_today": "85 stars today"
-    },
-    {
-      "name": "par274/sharpemu",
-      "description": "An experimental PlayStation 5 emulator project.",
-      "language": "C#",
-      "stars_today": "332 stars today"
-    },
-    {
-      "name": "chenyme/grok2api",
-      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-      "language": "Go",
-      "stars_today": "186 stars today"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars_today": "1,851 stars today"
+      "stars_today": "172 stars today"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars_today": "112 stars today"
+      "stars_today": "725 stars today"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "1,236 stars today"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "340 stars today"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars_today": "38 stars today"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "949 stars today"
     }
   ]
 }

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-15 16:42:58 UTC",
-    "fetched_at_ist": "2026-07-15 22:12:58 IST",
+    "fetched_at_utc": "2026-07-16 00:08:18 UTC",
+    "fetched_at_ist": "2026-07-16 05:38:18 IST",
     "item_count": 5,
-    "content_hash": "c60d1b880977ec8143a0ee5d19403b26b6f80ac7147bdfb42f72e3c578459454",
-    "previous_hash": "806456b5516517d28dcf042ccb1d85f66168e229756c502a7a58853b742db7ec",
+    "content_hash": "72ad852be7feea1a7d049f84e8ec94a3ec42e20b4ff6236ebb93acc7bfc7f02e",
+    "previous_hash": "c60d1b880977ec8143a0ee5d19403b26b6f80ac7147bdfb42f72e3c578459454",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48919363,
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 506,
-      "comments": 248
+      "id": 48924912,
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 588,
+      "comments": 144
     },
     {
-      "id": 48920475,
-      "title": "Mysteries of Telegram Data Centers",
-      "url": "https://dev.moe/en/3025",
-      "score": 129,
-      "comments": 31
+      "id": 48928135,
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 57,
+      "comments": 29
     },
     {
-      "id": 48923079,
-      "title": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "score": 24,
-      "comments": 11
+      "id": 48926590,
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 199,
+      "comments": 238
     },
     {
-      "id": 48922803,
-      "title": "J-space comparisons across open models",
-      "url": "https://eliebak.com/viz/jspace-open-v2",
-      "score": 17,
-      "comments": 1
+      "id": 48928234,
+      "title": "The Anti-Mac User Interface (1996)",
+      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "score": 30,
+      "comments": 5
     },
     {
-      "id": 48919198,
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "score": 159,
-      "comments": 88
+      "id": 48928313,
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "score": 19,
+      "comments": 5
     }
   ]
 }
