@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-16 (last updated: 09:03 IST)
+
+## 📅 2026-07-16 (last updated: 11:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-07-16 05:38:17 IST | 9844639704cc | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-16 09:03:21 IST | 148c0d76f12b | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-16 05:38:17 IST | 29aa521958b8 | 4 assets moved, biggest mover: ethereum |
+| Hacker News | 5 | 2026-07-16 11:32:59 IST | 57b56f8d65fb | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-16 11:32:59 IST | 1d1df223bf82 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,17 +38,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 471 stars today
 
 ### 📰 Hacker News Stories
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) — Score: 760
-- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) — Score: 145
-- [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) — Score: 48
-- [Grok Build is open source](https://github.com/xai-org/grok-build) — Score: 306
-- [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) — Score: 110
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) — Score: 43
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/) — Score: 57
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) — Score: 852
+- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) — Score: 195
+- [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark) — Score: 61
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,760.0 🔴 -0.30%
-- Ethereum: $1,920.18 🟢 +1.67%
-- Solana: $77.3 🔴 -0.63%
-- Bnb: $581.14 🔴 -0.22%
+- Bitcoin: $64,877.0 🟢 +0.06%
+- Ethereum: $1,924.17 🟢 +2.36%
+- Solana: $77.41 🔴 -0.96%
+- Bnb: $583.22 🟢 +0.58%
 
 ---
 ## 📅 2026-07-15 (last updated: 22:12 IST)

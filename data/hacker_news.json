@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 03:33:21 UTC",
-    "fetched_at_ist": "2026-07-16 09:03:21 IST",
+    "fetched_at_utc": "2026-07-16 06:02:59 UTC",
+    "fetched_at_ist": "2026-07-16 11:32:59 IST",
     "item_count": 5,
-    "content_hash": "148c0d76f12bca38574c66b950f118201f1116eb0fbdff993fb94908efd3c863",
-    "previous_hash": "72ad852be7feea1a7d049f84e8ec94a3ec42e20b4ff6236ebb93acc7bfc7f02e",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "57b56f8d65fb1ab6c3839ec98e2d0e2378d889d8649959ebb5fa14f6710e66ae",
+    "previous_hash": "148c0d76f12bca38574c66b950f118201f1116eb0fbdff993fb94908efd3c863",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48930454,
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 43,
+      "comments": 6
+    },
+    {
+      "id": 48930136,
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "score": 57,
+      "comments": 9
+    },
     {
       "id": 48924912,
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 760,
-      "comments": 194
+      "score": 852,
+      "comments": 214
     },
     {
       "id": 48928135,
       "title": "SQLite should have (Rust-style) editions",
       "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 145,
-      "comments": 59
+      "score": 195,
+      "comments": 76
     },
     {
-      "id": 48871721,
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 48,
-      "comments": 16
-    },
-    {
-      "id": 48926590,
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 306,
-      "comments": 350
-    },
-    {
-      "id": 48927095,
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 110,
-      "comments": 47
+      "id": 48929351,
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "score": 61,
+      "comments": 24
     }
   ]
 }
