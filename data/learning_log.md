@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-17 (last updated: 01:08 IST)
+
+## 📅 2026-07-17 (last updated: 02:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 17:37:27 IST | 9f118ecad4ed | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 01:08:18 IST | dd2de6cc9959 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-17 02:03:08 IST | ada7929c5ccf | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-16 23:47:36 IST | e3b3e1d5e9d7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 299 stars today
 
 ### 📰 Hacker News Stories
-- [Kimi K3 is now live](https://www.kimi.com/en) — Score: 608
-- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) — Score: 277
-- [Decoy Font](https://www.mixfont.com/experiments/decoy-font) — Score: 171
-- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/) — Score: 80
-- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 23
+- [Kimi K3 is now live](https://www.kimi.com/en) — Score: 699
+- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) — Score: 345
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font) — Score: 217
+- [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) — Score: 143
+- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237) — Score: 475
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,141.0 🔴 -1.41%
@@ -44,20 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $575.56 🔴 -0.88%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-16 (last updated: 23:47 IST)
 
 ### 🧪 Source Integrity Snapshot
