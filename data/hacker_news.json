@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 12:07:28 UTC",
-    "fetched_at_ist": "2026-07-16 17:37:28 IST",
+    "fetched_at_utc": "2026-07-16 19:38:18 UTC",
+    "fetched_at_ist": "2026-07-17 01:08:18 IST",
     "item_count": 5,
-    "content_hash": "0afca8bc5a3c8876daf0ea740e15a283e9a0ebbef29e17f293ec7aae306b2f70",
-    "previous_hash": "32b637587fa2f7dde201a792c266ad0276d6baeaa8b046ec8ef30f3d3ac2eaa8",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "dd2de6cc99598e35768d7583ee444524b6013736d9b87be6bb42eb576896ec1b",
+    "previous_hash": "0afca8bc5a3c8876daf0ea740e15a283e9a0ebbef29e17f293ec7aae306b2f70",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48932539,
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 94,
-      "comments": 51
+      "id": 48935342,
+      "title": "Kimi K3 is now live",
+      "url": "https://www.kimi.com/en",
+      "score": 608,
+      "comments": 324
     },
     {
-      "id": 48930454,
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 427,
-      "comments": 267
+      "id": 48936426,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 277,
+      "comments": 73
     },
     {
-      "id": 48924912,
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 1039,
-      "comments": 259
+      "id": 48936584,
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 171,
+      "comments": 63
     },
     {
-      "id": 48931588,
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
-      "score": 92,
-      "comments": 24
+      "id": 48936880,
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 80,
+      "comments": 52
     },
     {
-      "id": 48884068,
-      "title": "A Beautiful Theory Falls to Ugly Data",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
-      "score": 29,
-      "comments": 9
+      "id": 48938607,
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 23,
+      "comments": 5
     }
   ]
 }
