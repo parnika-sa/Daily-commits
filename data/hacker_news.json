@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 22:37:48 UTC",
-    "fetched_at_ist": "2026-07-17 04:07:48 IST",
+    "fetched_at_utc": "2026-07-16 23:35:52 UTC",
+    "fetched_at_ist": "2026-07-17 05:05:52 IST",
     "item_count": 5,
-    "content_hash": "0ed84d296965ecc67116139c4b8d15278774baac0ede2729eedd4feca41b5c5b",
-    "previous_hash": "b50e251abe4fbd117297d95e7f36ffb9fd283228135bc799ee6cf751d9cc2460",
+    "content_hash": "4277ed37aaaa2ac0becf2a0d08f8eb244d8a45604673873cfd2557151a303721",
+    "previous_hash": "0ed84d296965ecc67116139c4b8d15278774baac0ede2729eedd4feca41b5c5b",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48935342,
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 951,
-      "comments": 575
+      "score": 1025,
+      "comments": 631
+    },
+    {
+      "id": 48941129,
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "score": 66,
+      "comments": 55
     },
     {
       "id": 48939662,
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 81,
-      "comments": 27
+      "score": 113,
+      "comments": 38
     },
     {
       "id": 48936426,
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 443,
-      "comments": 102
+      "score": 468,
+      "comments": 107
     },
     {
       "id": 48936584,
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 328,
-      "comments": 86
-    },
-    {
-      "id": 48939896,
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 43,
-      "comments": 1
+      "score": 349,
+      "comments": 89
     }
   ]
 }
