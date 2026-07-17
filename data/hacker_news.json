@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 23:35:52 UTC",
-    "fetched_at_ist": "2026-07-17 05:05:52 IST",
+    "fetched_at_utc": "2026-07-17 06:34:01 UTC",
+    "fetched_at_ist": "2026-07-17 12:04:01 IST",
     "item_count": 5,
-    "content_hash": "4277ed37aaaa2ac0becf2a0d08f8eb244d8a45604673873cfd2557151a303721",
-    "previous_hash": "0ed84d296965ecc67116139c4b8d15278774baac0ede2729eedd4feca41b5c5b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "407c8762fe27846df551628226e9a041b338f92524119cde2cb974c7a6c96421",
+    "previous_hash": "4277ed37aaaa2ac0becf2a0d08f8eb244d8a45604673873cfd2557151a303721",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48943142,
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 70,
+      "comments": 36
+    },
     {
       "id": 48935342,
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1025,
-      "comments": 631
+      "score": 1455,
+      "comments": 877
     },
     {
-      "id": 48941129,
-      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
-      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-      "score": 66,
-      "comments": 55
+      "id": 48943174,
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "score": 44,
+      "comments": 1
     },
     {
-      "id": 48939662,
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 113,
-      "comments": 38
+      "id": 48862165,
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 107,
+      "comments": 1
     },
     {
-      "id": 48936426,
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 468,
-      "comments": 107
-    },
-    {
-      "id": 48936584,
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 349,
-      "comments": 89
+      "id": 48942454,
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "score": 80,
+      "comments": 48
     }
   ]
 }
