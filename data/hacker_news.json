@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 19:44:27 UTC",
-    "fetched_at_ist": "2026-07-18 01:14:27 IST",
+    "fetched_at_utc": "2026-07-17 20:34:09 UTC",
+    "fetched_at_ist": "2026-07-18 02:04:09 IST",
     "item_count": 5,
-    "content_hash": "dd02c453f8961c24cd028f4421600267386ad015d1c498ec41b25c50ab8ec6c9",
-    "previous_hash": "3d48b998a61f490e68a40f7f2c93391d5cedbf16d019f7f6979d137796b86536",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "3f4dd1d8b5fea0b91921cd27629e065bab71d865ea27d9f1d7e053b23f516352",
+    "previous_hash": "dd02c453f8961c24cd028f4421600267386ad015d1c498ec41b25c50ab8ec6c9",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48951461,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 36,
+      "comments": 4
+    },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 809,
-      "comments": 447
-    },
-    {
-      "id": 48951147,
-      "title": "Why the People Who Could Fix It Are the First to Leave",
-      "url": "https://www.hackingleadership.com/p/why-the-people-who-could-fix-it-are-the-first-to-leave",
-      "score": 15,
-      "comments": 3
+      "score": 870,
+      "comments": 476
     },
     {
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 239,
-      "comments": 170
+      "score": 273,
+      "comments": 192
     },
     {
       "id": 48950122,
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 47,
-      "comments": 5
+      "score": 75,
+      "comments": 18
     },
     {
       "id": 48948597,
-      "title": "Frame – the first Linux Assembly X server",
+      "title": "Frame – Linux X server in Assembly",
       "url": "https://isene.org/2026/07/Frame.html",
-      "score": 86,
-      "comments": 52
+      "score": 103,
+      "comments": 62
     }
   ]
 }
