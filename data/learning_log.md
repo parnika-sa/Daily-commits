@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 03:00 IST)
+
+## 📅 2026-07-18 (last updated: 03:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 17:37:27 IST | 9f118ecad4ed | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-18 03:00:05 IST | 60983dad08d8 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-17 22:52:43 IST | 33641cc42baa | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-18 03:53:21 IST | d430789e56f8 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html) — Score: 115
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,908.0 🔴 -0.42%
-- Ethereum: $1,842.62 🔴 -1.57%
-- Solana: $75.25 🔴 -0.82%
-- Bnb: $565.52 🔴 -1.79%
+- Bitcoin: $63,963.0 🔴 -0.09%
+- Ethereum: $1,839.07 🔴 -1.91%
+- Solana: $74.86 🔴 -1.30%
+- Bnb: $567.35 🔴 -1.37%
 
 ---
 ## 📅 2026-07-17 (last updated: 22:52 IST)

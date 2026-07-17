@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-17 21:30:05 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-17 22:23:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **apache/ossie**
-- BTC: **$63,908.0** ↓ (-0.42%)
+- BTC: **$63,963.0** ↓ (-0.09%)
 - HN top story: **The Zilog Z80 has turned 50**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 12:07:27 UTC | `9f118ecad4ed` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-17 21:30:05 UTC | `60983dad08d8` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-17 17:22:43 UTC | `33641cc42baa` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-17 22:23:21 UTC | `d430789e56f8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-18 02:04:09 IST` |
+| Last Commit (IST) | `2026-07-18 03:00:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-18 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,908.0 | -0.42% | 🔴 |
-| Ethereum | $1,842.62 | -1.57% | 🔴 |
-| Solana | $75.25 | -0.82% | 🔴 |
-| Bnb | $565.52 | -1.79% | 🔴 |
+| Bitcoin | $63,963.0 | -0.09% | 🔴 |
+| Ethereum | $1,839.07 | -1.91% | 🔴 |
+| Solana | $74.86 | -1.30% | 🔴 |
+| Bnb | $567.35 | -1.37% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
