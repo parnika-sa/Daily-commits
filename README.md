@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-17 10:38:32 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-17 17:22:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **apache/ossie**
-- BTC: **$63,301.0** ↓ (-1.85%)
+- BTC: **$63,908.0** ↓ (-0.42%)
 - HN top story: **EEG shows brain can simultaneous encode two speech streams**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 12:07:27 UTC | `9f118ecad4ed` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-17 10:38:32 UTC | `997fca4fafc3` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 04:21:50 UTC | `755c0094222b` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-17 17:22:43 UTC | `33641cc42baa` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-17` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-17 20:22:46 IST` |
+| Last Commit (IST) | `2026-07-17 21:37:59 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-14 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-17 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,301.0 | -1.85% | 🔴 |
-| Ethereum | $1,844.59 | -3.59% | 🔴 |
-| Solana | $74.91 | -2.53% | 🔴 |
-| Bnb | $570.33 | -1.74% | 🔴 |
+| Bitcoin | $63,908.0 | -0.42% | 🔴 |
+| Ethereum | $1,842.62 | -1.57% | 🔴 |
+| Solana | $75.25 | -0.82% | 🔴 |
+| Bnb | $565.52 | -1.79% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

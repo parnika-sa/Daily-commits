@@ -17,19 +17,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 16:08 IST)
+
+## 📅 2026-07-17 (last updated: 22:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 17:37:27 IST | 9f118ecad4ed | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-17 16:08:32 IST | 997fca4fafc3 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 09:51:50 IST | 755c0094222b | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-17 22:52:43 IST | 33641cc42baa | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
@@ -51,10 +52,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) — Score: 692
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,301.0 🔴 -1.85%
-- Ethereum: $1,844.59 🔴 -3.59%
-- Solana: $74.91 🔴 -2.53%
-- Bnb: $570.33 🔴 -1.74%
+- Bitcoin: $63,908.0 🔴 -0.42%
+- Ethereum: $1,842.62 🔴 -1.57%
+- Solana: $75.25 🔴 -0.82%
+- Bnb: $565.52 🔴 -1.79%
 
 ---
 ## 📅 2026-07-16 (last updated: 23:47 IST)
