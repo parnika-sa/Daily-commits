@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 20:34:09 UTC",
-    "fetched_at_ist": "2026-07-18 02:04:09 IST",
+    "fetched_at_utc": "2026-07-17 21:30:05 UTC",
+    "fetched_at_ist": "2026-07-18 03:00:05 IST",
     "item_count": 5,
-    "content_hash": "3f4dd1d8b5fea0b91921cd27629e065bab71d865ea27d9f1d7e053b23f516352",
-    "previous_hash": "dd02c453f8961c24cd028f4421600267386ad015d1c498ec41b25c50ab8ec6c9",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "60983dad08d852b7955560cc5a46051fa61ec1801743385efbfd920780782875",
+    "previous_hash": "3f4dd1d8b5fea0b91921cd27629e065bab71d865ea27d9f1d7e053b23f516352",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48951461,
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 36,
-      "comments": 4
+      "score": 80,
+      "comments": 18
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 870,
-      "comments": 476
+      "score": 923,
+      "comments": 594
     },
     {
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 273,
-      "comments": 192
+      "score": 296,
+      "comments": 202
     },
     {
       "id": 48950122,
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 75,
-      "comments": 18
+      "score": 99,
+      "comments": 24
     },
     {
       "id": 48948597,
       "title": "Frame – Linux X server in Assembly",
       "url": "https://isene.org/2026/07/Frame.html",
-      "score": 103,
-      "comments": 62
+      "score": 115,
+      "comments": 78
     }
   ]
 }
