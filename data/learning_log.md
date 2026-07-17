@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 12:04 IST)
+
+## 📅 2026-07-17 (last updated: 16:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-16 17:37:27 IST | 9f118ecad4ed | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 12:04:01 IST | 407c8762fe27 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-17 16:08:32 IST | 997fca4fafc3 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-17 09:51:50 IST | 755c0094222b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 299 stars today
 
 ### 📰 Hacker News Stories
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 70
-- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1455
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 44
-- [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029) — Score: 107
-- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/) — Score: 80
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Score: 108
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1664
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 126
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 135
+- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) — Score: 692
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,301.0 🔴 -1.85%

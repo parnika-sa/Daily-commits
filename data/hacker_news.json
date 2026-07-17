@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 06:34:01 UTC",
-    "fetched_at_ist": "2026-07-17 12:04:01 IST",
+    "fetched_at_utc": "2026-07-17 10:38:32 UTC",
+    "fetched_at_ist": "2026-07-17 16:08:32 IST",
     "item_count": 5,
-    "content_hash": "407c8762fe27846df551628226e9a041b338f92524119cde2cb974c7a6c96421",
-    "previous_hash": "4277ed37aaaa2ac0becf2a0d08f8eb244d8a45604673873cfd2557151a303721",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "997fca4fafc354cbf7843e2b4858b75150cdf21018b4dbf972828416c2b3facc",
+    "previous_hash": "407c8762fe27846df551628226e9a041b338f92524119cde2cb974c7a6c96421",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48943142,
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 70,
-      "comments": 36
+      "id": 48943745,
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "score": 108,
+      "comments": 58
     },
     {
       "id": 48935342,
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1455,
-      "comments": 877
+      "score": 1664,
+      "comments": 978
     },
     {
       "id": 48943174,
       "title": "Pebble Mega Update – July 2026",
       "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 44,
-      "comments": 1
-    },
-    {
-      "id": 48862165,
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 107,
-      "comments": 1
-    },
-    {
-      "id": 48942454,
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "score": 80,
+      "score": 126,
       "comments": 48
+    },
+    {
+      "id": 48943142,
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 135,
+      "comments": 98
+    },
+    {
+      "id": 48936426,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 692,
+      "comments": 153
     }
   ]
 }
