@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-18 05:42:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-18 07:18:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **codecrafters-io/build-your-own-x**
-- BTC: **$63,909.0** ↑ (+0.43%)
+- BTC: **$63,953.0** ↑ (+1.83%)
 - HN top story: **Kaiser nurses say AI, workplace surveillance are making their jobs, care worse**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-18 00:09:28 UTC | `78b63d2a6f60` | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-18 05:42:08 UTC | `5a49d686fa29` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-18 03:28:06 UTC | `c19ee04eccd1` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-18 07:18:07 UTC | `f3af1269705a` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +6 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-18 08:58:07 IST` |
+| Last Commit (IST) | `2026-07-18 11:12:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-07-18 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,909.0 | +0.43% | 🟢 |
-| Ethereum | $1,842.33 | -0.78% | 🔴 |
-| Solana | $75.17 | -0.18% | 🔴 |
-| Bnb | $567.77 | -0.87% | 🔴 |
+| Bitcoin | $63,953.0 | +1.83% | 🟢 |
+| Ethereum | $1,842.22 | +0.77% | 🟢 |
+| Solana | $74.89 | +0.58% | 🟢 |
+| Bnb | $567.05 | -0.27% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
