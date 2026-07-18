@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-18 05:42:08 UTC",
-    "fetched_at_ist": "2026-07-18 11:12:08 IST",
+    "fetched_at_utc": "2026-07-18 10:38:53 UTC",
+    "fetched_at_ist": "2026-07-18 16:08:53 IST",
     "item_count": 5,
-    "content_hash": "5a49d686fa290e89297cbfc8a4c967dd3eefcc64c37bfd9e23abe5079b768117",
-    "previous_hash": "c5c730985f182e973856765997bc75b8999bf571e78cf2ed2409293134a421f7",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "d234a63069309b35efdbcf642c3b2059c29980509a000da67b52695cb56f6678",
+    "previous_hash": "5a49d686fa290e89297cbfc8a4c967dd3eefcc64c37bfd9e23abe5079b768117",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48952880,
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 426,
-      "comments": 278
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 368,
+      "comments": 34
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1117,
-      "comments": 663
+      "score": 1199,
+      "comments": 709
     },
     {
       "id": 48949551,
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 474,
-      "comments": 48
+      "score": 616,
+      "comments": 64
     },
     {
-      "id": 48907063,
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "score": 34,
-      "comments": 15
+      "id": 48923929,
+      "title": "Funny item co-occurrences in 3.2M Instacart orders",
+      "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
+      "score": 8,
+      "comments": 1
     },
     {
-      "id": 48947560,
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 412,
-      "comments": 251
+      "id": 48917755,
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "score": 36,
+      "comments": 5
     }
   ]
 }
