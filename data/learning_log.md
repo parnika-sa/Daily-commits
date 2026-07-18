@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 03:53 IST)
+
+## 📅 2026-07-18 (last updated: 05:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-16 17:37:27 IST | 9f118ecad4ed | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 03:00:05 IST | 60983dad08d8 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-18 03:53:21 IST | d430789e56f8 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-18 05:39:28 IST | 78b63d2a6f60 | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 05:39:29 IST | c5c730985f18 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 05:39:28 IST | 86c2e48da88f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
-  ⭐ 34 stars today
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
+  ⭐ 1,068 stars today
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
+  ⭐ 438 stars today
+- **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** (TypeScript) — Become a cracked AI/ML Research Engineer  
+  ⭐ 200 stars today
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** (CSS) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
-  ⭐ 1,277 stars today
-- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** (TypeScript) — The open-source CapCut alternative  
-  ⭐ 1,664 stars today
-- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is an all-in-one developer platform for building successful products.   
-  ⭐ 58 stars today
-- **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** (Rust) — A coding agent for low-cost models  
-  ⭐ 299 stars today
+  ⭐ 1,485 stars today
+- **[github/copilot-sdk](https://github.com/github/copilot-sdk)** (Java) — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
+  ⭐ 233 stars today
 
 ### 📰 Hacker News Stories
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 80
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 923
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 296
-- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) — Score: 99
-- [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html) — Score: 115
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) — Score: 167
+- [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) — Score: 51
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1009
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 145
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 235
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,963.0 🔴 -0.09%
-- Ethereum: $1,839.07 🔴 -1.91%
-- Solana: $74.86 🔴 -1.30%
-- Bnb: $567.35 🔴 -1.37%
+- Bitcoin: $63,865.0 🟢 +0.22%
+- Ethereum: $1,839.43 🔴 -1.22%
+- Solana: $74.99 🔴 -0.32%
+- Bnb: $567.57 🔴 -0.69%
 
 ---
 ## 📅 2026-07-17 (last updated: 22:52 IST)

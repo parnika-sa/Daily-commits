@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-17 22:23:21 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-18 00:09:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **apache/ossie**
-- BTC: **$63,963.0** ↓ (-0.09%)
-- HN top story: **The Zilog Z80 has turned 50**
+- Top GitHub repo: **codecrafters-io/build-your-own-x**
+- BTC: **$63,865.0** ↑ (+0.22%)
+- HN top story: **Kaiser nurses say AI, workplace surveillance are making their jobs, care worse**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-16 12:07:27 UTC | `9f118ecad4ed` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 21:30:05 UTC | `60983dad08d8` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-17 22:23:21 UTC | `d430789e56f8` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-18 00:09:28 UTC | `78b63d2a6f60` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 00:09:29 UTC | `c5c730985f18` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 00:09:28 UTC | `86c2e48da88f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-18 03:53:21 IST` |
+| Last Commit (IST) | `2026-07-18 04:43:41 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-07-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,963.0 | -0.09% | 🔴 |
-| Ethereum | $1,839.07 | -1.91% | 🔴 |
-| Solana | $74.86 | -1.30% | 🔴 |
-| Bnb | $567.35 | -1.37% | 🔴 |
+| Bitcoin | $63,865.0 | +0.22% | 🟢 |
+| Ethereum | $1,839.43 | -1.22% | 🔴 |
+| Solana | $74.99 | -0.32% | 🔴 |
+| Bnb | $567.57 | -0.69% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [apache/ossie](https://github.com/apache/ossie) | Python | 34 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,277 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,664 stars today | The open-source CapCut alternative |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 58 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 299 stars today | A coding agent for low-cost models |
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 323 stars today | Bonsai Demo |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 949 stars today | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou… |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 1,236 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,068 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 438 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 200 stars today | Become a cracked AI/ML Research Engineer |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,485 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 233 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 45 stars today | No description |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 278 stars today | Bonsai Demo |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 11 stars today | Protocol Buffers - Google's data interchange format |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) | 80 | 18 |
-| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 923 | 594 |
-| [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) | 296 | 202 |
-| [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) | 99 | 24 |
-| [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html) | 115 | 78 |
+| [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) | 167 | 119 |
+| [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) | 51 | 32 |
+| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 1009 | 625 |
+| [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) | 145 | 40 |
+| [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) | 235 | 19 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
