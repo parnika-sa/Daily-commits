@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 08:58 IST)
+
+## 📅 2026-07-18 (last updated: 11:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-18 05:39:28 IST | 78b63d2a6f60 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 05:39:29 IST | c5c730985f18 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-18 11:12:08 IST | 5a49d686fa29 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-18 08:58:06 IST | c19ee04eccd1 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 233 stars today
 
 ### 📰 Hacker News Stories
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) — Score: 167
-- [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) — Score: 51
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1009
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 145
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 235
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) — Score: 426
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1117
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 474
+- [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html) — Score: 34
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 412
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,909.0 🟢 +0.43%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-18 00:09:29 UTC",
-    "fetched_at_ist": "2026-07-18 05:39:29 IST",
+    "fetched_at_utc": "2026-07-18 05:42:08 UTC",
+    "fetched_at_ist": "2026-07-18 11:12:08 IST",
     "item_count": 5,
-    "content_hash": "c5c730985f182e973856765997bc75b8999bf571e78cf2ed2409293134a421f7",
-    "previous_hash": "60983dad08d852b7955560cc5a46051fa61ec1801743385efbfd920780782875",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "5a49d686fa290e89297cbfc8a4c967dd3eefcc64c37bfd9e23abe5079b768117",
+    "previous_hash": "c5c730985f182e973856765997bc75b8999bf571e78cf2ed2409293134a421f7",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48952880,
       "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 167,
-      "comments": 119
-    },
-    {
-      "id": 48952939,
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "score": 51,
-      "comments": 32
+      "score": 426,
+      "comments": 278
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1009,
-      "comments": 625
-    },
-    {
-      "id": 48951461,
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 145,
-      "comments": 40
+      "score": 1117,
+      "comments": 663
     },
     {
       "id": 48949551,
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 235,
-      "comments": 19
+      "score": 474,
+      "comments": 48
+    },
+    {
+      "id": 48907063,
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 34,
+      "comments": 15
+    },
+    {
+      "id": 48947560,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 412,
+      "comments": 251
     }
   ]
 }
