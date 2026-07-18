@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 17:05 IST)
+
+## 📅 2026-07-18 (last updated: 18:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-18 05:39:28 IST | 78b63d2a6f60 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 17:05:30 IST | 5ec1206e8d67 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-18 18:06:21 IST | de1ec5558f1a | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-07-18 12:48:07 IST | f3af1269705a | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 233 stars today
 
 ### 📰 Hacker News Stories
-- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) — Score: 11
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 407
-- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) — Score: 95
-- [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/) — Score: 24
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1213
+- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) — Score: 230
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) — Score: 205
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 442
+- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) — Score: 14
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1221
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,953.0 🟢 +1.83%

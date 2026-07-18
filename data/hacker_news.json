@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-18 11:35:30 UTC",
-    "fetched_at_ist": "2026-07-18 17:05:30 IST",
+    "fetched_at_utc": "2026-07-18 12:36:21 UTC",
+    "fetched_at_ist": "2026-07-18 18:06:21 IST",
     "item_count": 5,
-    "content_hash": "5ec1206e8d67e5bdab8f658cb43d454bc9d006908c0d96908c1a797052d8d7e8",
-    "previous_hash": "d234a63069309b35efdbcf642c3b2059c29980509a000da67b52695cb56f6678",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "de1ec5558f1a33489635269b94ecbf8e278a377ef0d6273b1f0e35af604225aa",
+    "previous_hash": "5ec1206e8d67e5bdab8f658cb43d454bc9d006908c0d96908c1a797052d8d7e8",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48956924,
       "title": "Why do AI company logos look like buttholes?",
       "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "score": 11,
-      "comments": 0
-    },
-    {
-      "id": 48954851,
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 407,
-      "comments": 40
+      "score": 230,
+      "comments": 72
     },
     {
       "id": 48956688,
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 95,
-      "comments": 39
+      "score": 205,
+      "comments": 103
     },
     {
-      "id": 48923929,
-      "title": "Funny item co-occurrences in 3.2M Instacart orders",
-      "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
-      "score": 24,
-      "comments": 25
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 442,
+      "comments": 45
+    },
+    {
+      "id": 48956879,
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 14,
+      "comments": 5
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1213,
-      "comments": 715
+      "score": 1221,
+      "comments": 716
     }
   ]
 }
