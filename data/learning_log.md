@@ -21,44 +21,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 18:06 IST)
+
+## 📅 2026-07-18 (last updated: 23:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-18 05:39:28 IST | 78b63d2a6f60 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 18:06:21 IST | de1ec5558f1a | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-18 12:48:07 IST | f3af1269705a | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-07-18 23:36:13 IST | d69d62f48599 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 23:36:14 IST | 04ed78f249ff | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 23:36:13 IST | 0f354cba1cef | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
-  ⭐ 1,068 stars today
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
+  ⭐ 827 stars today
+- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
+  ⭐ 48 stars today
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 438 stars today
-- **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** (TypeScript) — Become a cracked AI/ML Research Engineer  
-  ⭐ 200 stars today
-- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** (CSS) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
-  ⭐ 1,485 stars today
-- **[github/copilot-sdk](https://github.com/github/copilot-sdk)** (Java) — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
-  ⭐ 233 stars today
+  ⭐ 337 stars today
+- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
+  ⭐ 242 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) — Score: 230
-- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) — Score: 205
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 442
-- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) — Score: 14
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1221
+- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) — Score: 20
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) — Score: 332
+- [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam) — Score: 95
+- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) — Score: 72
+- [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) — Score: 25
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,953.0 🟢 +1.83%
-- Ethereum: $1,842.22 🟢 +0.77%
-- Solana: $74.89 🟢 +0.58%
-- Bnb: $567.05 🔴 -0.27%
+- Bitcoin: $64,427.0 🟢 +0.71%
+- Ethereum: $1,850.18 🟢 +0.49%
+- Solana: $75.29 🟢 +0.13%
+- Bnb: $570.63 🟢 +0.86%
 
 ---
 ## 📅 2026-07-17 (last updated: 22:52 IST)

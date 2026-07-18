@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-18 12:36:21 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-18 18:06:14 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **codecrafters-io/build-your-own-x**
-- BTC: **$63,953.0** ↑ (+1.83%)
-- HN top story: **Why do AI company logos look like buttholes?**
+- Top GitHub repo: **Robbyant/lingbot-map**
+- BTC: **$64,427.0** ↑ (+0.71%)
+- HN top story: **Goodbye, and Thanks for All the Bikesheds**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-18 00:09:28 UTC | `78b63d2a6f60` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 12:36:21 UTC | `de1ec5558f1a` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-18 07:18:07 UTC | `f3af1269705a` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-07-18 18:06:13 UTC | `d69d62f48599` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 18:06:14 UTC | `04ed78f249ff` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 18:06:13 UTC | `0f354cba1cef` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-18 21:39:18 IST` |
+| Last Commit (IST) | `2026-07-18 22:41:58 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-15 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,953.0 | +1.83% | 🟢 |
-| Ethereum | $1,842.22 | +0.77% | 🟢 |
-| Solana | $74.89 | +0.58% | 🟢 |
-| Bnb | $567.05 | -0.27% | 🔴 |
+| Bitcoin | $64,427.0 | +0.71% | 🟢 |
+| Ethereum | $1,850.18 | +0.49% | 🟢 |
+| Solana | $75.29 | +0.13% | 🟢 |
+| Bnb | $570.63 | +0.86% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,068 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 438 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 200 stars today | Become a cracked AI/ML Research Engineer |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,485 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 233 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 45 stars today | No description |
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 278 stars today | Bonsai Demo |
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 11 stars today | Protocol Buffers - Google's data interchange format |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 827 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [apache/ossie](https://github.com/apache/ossie) | Python | 48 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 242 stars today | Skills for Design Engineers |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 240 stars today | Learn it. Build it. Ship it for others. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 356 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 63 stars today | LIBERATED AI CHAT |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) | 230 | 72 |
-| [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) | 205 | 103 |
-| [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) | 442 | 45 |
-| [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) | 14 | 5 |
-| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 1221 | 716 |
+| [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) | 20 | 2 |
+| [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) | 332 | 195 |
+| [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam) | 95 | 54 |
+| [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) | 72 | 39 |
+| [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) | 25 | 15 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

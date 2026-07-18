@@ -2,98 +2,80 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-18 00:09:28 UTC",
-    "fetched_at_ist": "2026-07-18 05:39:28 IST",
-    "item_count": 14,
-    "content_hash": "78b63d2a6f60e8f7e9ba6a2c139e58c687c524beeb32e59484105c5bf39c5f6b",
-    "previous_hash": "9f118ecad4ed7e15b2b9040c7a6a666864ed56503f87402c2bfdbf9c8f784498",
-    "new_repos_vs_previous": 6,
+    "fetched_at_utc": "2026-07-18 18:06:13 UTC",
+    "fetched_at_ist": "2026-07-18 23:36:13 IST",
+    "item_count": 11,
+    "content_hash": "d69d62f4859902f4ebcf9011d01c7d6511edaca466afa8291797353394210ac9",
+    "previous_hash": "78b63d2a6f60e8f7e9ba6a2c139e58c687c524beeb32e59484105c5bf39c5f6b",
+    "new_repos_vs_previous": 8,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars_today": "1,068 stars today"
+      "name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_today": "827 stars today"
+    },
+    {
+      "name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "48 stars today"
     },
     {
       "name": "PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "438 stars today"
+      "stars_today": "337 stars today"
     },
     {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
+      "name": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_today": "200 stars today"
+      "stars_today": "242 stars today"
     },
     {
-      "name": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": "1,485 stars today"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars_today": "233 stars today"
-    },
-    {
-      "name": "anthropics/cwc-workshops",
-      "description": "No description",
-      "language": "TypeScript",
-      "stars_today": "45 stars today"
-    },
-    {
-      "name": "PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "stars_today": "278 stars today"
-    },
-    {
-      "name": "protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "stars_today": "11 stars today"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "240 stars today"
     },
     {
       "name": "tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "74 stars today"
+      "stars_today": "356 stars today"
     },
     {
-      "name": "docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "stars_today": "91 stars today"
-    },
-    {
-      "name": "openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars_today": "431 stars today"
-    },
-    {
-      "name": "RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Python",
-      "stars_today": "280 stars today"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "stars_today": "531 stars today"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
-      "stars_today": "1,074 stars today"
+      "stars_today": "63 stars today"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "242 stars today"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "192 stars today"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "1,131 stars today"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars_today": "48 stars today"
     }
   ]
 }
