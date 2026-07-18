@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 16:08 IST)
+
+## 📅 2026-07-18 (last updated: 17:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-18 05:39:28 IST | 78b63d2a6f60 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 16:08:53 IST | d234a6306930 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-18 17:05:30 IST | 5ec1206e8d67 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-18 12:48:07 IST | f3af1269705a | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 233 stars today
 
 ### 📰 Hacker News Stories
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 368
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1199
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 616
-- [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/) — Score: 8
-- [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1) — Score: 36
+- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) — Score: 11
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 407
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) — Score: 95
+- [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/) — Score: 24
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1213
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,953.0 🟢 +1.83%
