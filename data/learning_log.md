@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-19 (last updated: 11:53 IST)
+
+## 📅 2026-07-19 (last updated: 14:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-19 05:36:54 IST | 2ba889e9c89d | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-19 05:36:56 IST | 9fb6838ac5a3 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-19 14:13:38 IST | 9918b657f818 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-19 11:53:15 IST | 96c46220a6c6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [Codex Resets](https://codex-resets.com/) — Score: 37
-- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) — Score: 203
-- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) — Score: 21
-- [Judge a book by its first pages](https://uncovered.ink) — Score: 27
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) — Score: 482
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 473
+- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) — Score: 438
+- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) — Score: 31
+- [Codex Resets](https://codex-resets.com/) — Score: 167
+- [Better and Cheaper Than IPTV](https://github.com/stupside/castor) — Score: 175
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,690.0 🟢 +1.15%
