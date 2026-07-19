@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-20 (last updated: 17:42 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 18 | 2026-07-19 17:42:23 IST | 47039c205ac7 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-19 17:42:24 IST | a00091177bc6 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-19 17:42:23 IST | 7902aad62eab | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 551 stars today
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
+  ⭐ 328 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 507 stars today
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
+  ⭐ 629 stars today
+- **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** (TypeScript) — The go-to web for your AI coding agent — local-first search, fetch, crawl & rese  
+  ⭐ 605 stars today
+
+### 📰 Hacker News Stories
+- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) — Score: 100
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 573
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) — Score: 60
+- [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) — Score: 52
+- [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 253
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $64,329.0 🟢 +0.36%
+- Ethereum: $1,864.53 🟢 +1.03%
+- Solana: $75.87 🟢 +1.19%
+- Bnb: $566.94 🔴 -0.51%
+
+---
 
 
 
