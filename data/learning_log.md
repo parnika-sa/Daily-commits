@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-19 (last updated: 00:52 IST)
+
+## 📅 2026-07-19 (last updated: 05:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-18 23:36:13 IST | d69d62f48599 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 23:36:14 IST | 04ed78f249ff | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-19 00:52:03 IST | 120c308b1f85 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-07-19 05:36:54 IST | 2ba889e9c89d | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-19 05:36:56 IST | 9fb6838ac5a3 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-19 05:36:55 IST | fa817903ce9d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
-  ⭐ 827 stars today
+  ⭐ 831 stars today
 - **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
-  ⭐ 48 stars today
+  ⭐ 47 stars today
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 337 stars today
+  ⭐ 338 stars today
 - **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
-  ⭐ 242 stars today
+  ⭐ 123 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 240 stars today
+  ⭐ 191 stars today
 
 ### 📰 Hacker News Stories
-- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) — Score: 20
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) — Score: 332
-- [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam) — Score: 95
-- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) — Score: 72
-- [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) — Score: 25
+- [Codex Resets](https://codex-resets.com/) — Score: 37
+- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) — Score: 203
+- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) — Score: 21
+- [Judge a book by its first pages](https://uncovered.ink) — Score: 27
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) — Score: 482
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,522.0 🟢 +0.83%
-- Ethereum: $1,857.97 🟢 +1.17%
-- Solana: $75.32 🟢 +0.54%
-- Bnb: $570.8 🟢 +0.92%
+- Bitcoin: $64,794.0 🟢 +1.46%
+- Ethereum: $1,861.19 🟢 +1.19%
+- Solana: $75.47 🟢 +0.66%
+- Bnb: $570.6 🟢 +0.50%
 
 ---
 ## 📅 2026-07-18 (last updated: 23:36 IST)

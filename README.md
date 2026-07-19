@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-18 19:22:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-19 00:06:56 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Robbyant/lingbot-map**
-- BTC: **$64,522.0** ↑ (+0.83%)
-- HN top story: **Goodbye, and Thanks for All the Bikesheds**
+- BTC: **$64,794.0** ↑ (+1.46%)
+- HN top story: **Codex Resets**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-18 18:06:13 UTC | `d69d62f48599` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 18:06:14 UTC | `04ed78f249ff` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-18 19:22:03 UTC | `120c308b1f85` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-07-19 00:06:54 UTC | `2ba889e9c89d` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-19 00:06:56 UTC | `9fb6838ac5a3` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-19 00:06:55 UTC | `fa817903ce9d` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-19` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-19 03:34:56 IST` |
+| Last Commit (IST) | `2026-07-19 04:37:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-07-19 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,522.0 | +0.83% | 🟢 |
-| Ethereum | $1,857.97 | +1.17% | 🟢 |
-| Solana | $75.32 | +0.54% | 🟢 |
-| Bnb | $570.8 | +0.92% | 🟢 |
+| Bitcoin | $64,794.0 | +1.46% | 🟢 |
+| Ethereum | $1,861.19 | +1.19% | 🟢 |
+| Solana | $75.47 | +0.66% | 🟢 |
+| Bnb | $570.6 | +0.50% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 827 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
-| [apache/ossie](https://github.com/apache/ossie) | Python | 48 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 242 stars today | Skills for Design Engineers |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 240 stars today | Learn it. Build it. Ship it for others. |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 356 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 63 stars today | LIBERATED AI CHAT |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 831 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [apache/ossie](https://github.com/apache/ossie) | Python | 47 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 338 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 123 stars today | Skills for Design Engineers |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 191 stars today | Learn it. Build it. Ship it for others. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 355 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 69 stars today | LIBERATED AI CHAT |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 161 stars today | AirLLM 70B inference with single 4GB GPU |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) | 20 | 2 |
-| [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) | 332 | 195 |
-| [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam) | 95 | 54 |
-| [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) | 72 | 39 |
-| [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) | 25 | 15 |
+| [Codex Resets](https://codex-resets.com/) | 37 | 27 |
+| [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) | 203 | 25 |
+| [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) | 21 | 5 |
+| [Judge a book by its first pages](https://uncovered.ink) | 27 | 24 |
+| [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) | 482 | 312 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
