@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-19 11:28:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-19 12:12:24 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Robbyant/lingbot-map**
-- BTC: **$64,505.0** ↑ (+0.82%)
-- HN top story: **Transcribe.cpp**
+- Top GitHub repo: **tirth8205/code-review-graph**
+- BTC: **$64,329.0** ↑ (+0.36%)
+- HN top story: **Qwen 3.8 Max Preview**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-19 00:06:54 UTC | `2ba889e9c89d` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-19 08:43:38 UTC | `9918b657f818` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-19 11:28:47 UTC | `b218071dc902` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 18 | 2026-07-19 12:12:23 UTC | `47039c205ac7` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-19 12:12:24 UTC | `a00091177bc6` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-19 12:12:23 UTC | `7902aad62eab` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-19` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-19 15:43:10 IST` |
+| Last Commit (IST) | `2026-07-19 16:58:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-16 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-07-19 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-19 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,505.0 | +0.82% | 🟢 |
-| Ethereum | $1,874.23 | +1.62% | 🟢 |
-| Solana | $76.27 | +1.76% | 🟢 |
-| Bnb | $568.8 | -0.17% | 🔴 |
+| Bitcoin | $64,329.0 | +0.36% | 🟢 |
+| Ethereum | $1,864.53 | +1.03% | 🟢 |
+| Solana | $75.87 | +1.19% | 🟢 |
+| Bnb | $566.94 | -0.51% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 831 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
-| [apache/ossie](https://github.com/apache/ossie) | Python | 47 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 338 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 123 stars today | Skills for Design Engineers |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 191 stars today | Learn it. Build it. Ship it for others. |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 355 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 69 stars today | LIBERATED AI CHAT |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 161 stars today | AirLLM 70B inference with single 4GB GPU |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 551 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 328 stars today | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 507 stars today | Learn it. Build it. Ship it for others. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 629 stars today | The open-source AI voice studio. Clone, dictate, create. |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 605 stars today | The go-to web for your AI coding agent — local-first search, fetch, crawl & rese… |
+| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | 55 stars today | An unofficial desktop client for Jellyfin |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 111 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 424 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) | 473 | 88 |
-| [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) | 438 | 57 |
-| [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) | 31 | 11 |
-| [Codex Resets](https://codex-resets.com/) | 167 | 124 |
-| [Better and Cheaper Than IPTV](https://github.com/stupside/castor) | 175 | 44 |
+| [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) | 100 | 45 |
+| [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) | 573 | 121 |
+| [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) | 60 | 31 |
+| [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) | 52 | 13 |
+| [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) | 253 | 128 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

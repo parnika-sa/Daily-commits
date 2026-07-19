@@ -14,44 +14,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-19 (last updated: 16:58 IST)
+
+## 📅 2026-07-19 (last updated: 17:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-19 05:36:54 IST | 2ba889e9c89d | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-19 14:13:38 IST | 9918b657f818 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-19 16:58:47 IST | b218071dc902 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 18 | 2026-07-19 17:42:23 IST | 47039c205ac7 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-19 17:42:24 IST | a00091177bc6 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-19 17:42:23 IST | 7902aad62eab | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
-  ⭐ 831 stars today
-- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
-  ⭐ 47 stars today
-- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 338 stars today
-- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
-  ⭐ 123 stars today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 551 stars today
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
+  ⭐ 328 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 191 stars today
+  ⭐ 507 stars today
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
+  ⭐ 629 stars today
+- **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** (TypeScript) — The go-to web for your AI coding agent — local-first search, fetch, crawl & rese  
+  ⭐ 605 stars today
 
 ### 📰 Hacker News Stories
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 473
-- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) — Score: 438
-- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) — Score: 31
-- [Codex Resets](https://codex-resets.com/) — Score: 167
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor) — Score: 175
+- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) — Score: 100
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 573
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) — Score: 60
+- [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) — Score: 52
+- [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 253
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,505.0 🟢 +0.82%
-- Ethereum: $1,874.23 🟢 +1.62%
-- Solana: $76.27 🟢 +1.76%
-- Bnb: $568.8 🔴 -0.17%
+- Bitcoin: $64,329.0 🟢 +0.36%
+- Ethereum: $1,864.53 🟢 +1.03%
+- Solana: $75.87 🟢 +1.19%
+- Bnb: $566.94 🔴 -0.51%
 
 ---
 ## 📅 2026-07-18 (last updated: 23:36 IST)
