@@ -4,14 +4,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-21 (last updated: 23:48 IST)
+
+## 📅 2026-07-21 (last updated: 02:51 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-20 20:08:43 IST | 24ff1bbdc6dd | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-20 23:48:06 IST | 36ca61f0d002 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-21 02:51:40 IST | 89ac6a58b957 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
@@ -38,24 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,697.0 🟢 +1.98%
-- Ethereum: $1,915.17 🟢 +2.91%
-- Solana: $78.12 🟢 +3.32%
-- Bnb: $574.47 🟢 +1.28%
+- Bitcoin: $65,279.0 🟢 +1.32%
+- Ethereum: $1,904.66 🟢 +2.27%
+- Solana: $77.88 🟢 +2.42%
+- Bnb: $571.39 🟢 +0.43%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-20 (last updated: 23:48 IST)
 
 ### 🧪 Source Integrity Snapshot
