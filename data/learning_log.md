@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-21 (last updated: 03:58 IST)
+
+## 📅 2026-07-21 (last updated: 05:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-20 20:08:43 IST | 24ff1bbdc6dd | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-21 05:00:28 IST | 9a4c6899bc96 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-21 03:58:23 IST | 18e0e9553dad | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 610 stars today
 
 ### 📰 Hacker News Stories
-- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 138
-- [Airport Simulator](https://airport.apunen.com/) — Score: 246
-- [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution) — Score: 29
-- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) — Score: 20
-- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
+- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) — Score: 894
+- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 328
+- [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 94
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 285
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) — Score: 146
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,191.0 🟢 +0.71%
