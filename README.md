@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-20 21:21:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-20 22:28:23 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bojieli/ai-agent-book**
-- BTC: **$65,279.0** ↑ (+1.32%)
+- BTC: **$65,191.0** ↑ (+0.71%)
 - HN top story: **Hacker wipes Romania's land registry database**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 00:09:05 UTC | `3ed9f4aac655` | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-20 14:38:43 UTC | `24ff1bbdc6dd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-20 21:21:40 UTC | `89ac6a58b957` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-20 22:28:23 UTC | `18e0e9553dad` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-21` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-21 01:32:39 IST` |
+| Last Commit (IST) | `2026-07-21 02:51:40 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-07-19 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-21 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-07-21 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,279.0 | +1.32% | 🟢 |
-| Ethereum | $1,904.66 | +2.27% | 🟢 |
-| Solana | $77.88 | +2.42% | 🟢 |
-| Bnb | $571.39 | +0.43% | 🟢 |
+| Bitcoin | $65,191.0 | +0.71% | 🟢 |
+| Ethereum | $1,897.02 | +1.41% | 🟢 |
+| Solana | $77.63 | +2.01% | 🟢 |
+| Bnb | $570.48 | -0.03% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
