@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-21 (last updated: 23:48 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-20 20:08:43 IST | 24ff1bbdc6dd | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-20 23:48:06 IST | 36ca61f0d002 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +1 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
+  ⭐ 1,734 stars today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 663 stars today
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
+  ⭐ 360 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 501 stars today
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
+  ⭐ 610 stars today
+
+### 📰 Hacker News Stories
+- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 138
+- [Airport Simulator](https://airport.apunen.com/) — Score: 246
+- [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution) — Score: 29
+- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) — Score: 20
+- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $65,697.0 🟢 +1.98%
+- Ethereum: $1,915.17 🟢 +2.91%
+- Solana: $78.12 🟢 +3.32%
+- Bnb: $574.47 🟢 +1.28%
+
+---
 
 
 
