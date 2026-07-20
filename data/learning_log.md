@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-20 (last updated: 17:42 IST)
+
+## 📅 2026-07-20 (last updated: 05:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-07-19 17:42:23 IST | 47039c205ac7 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-19 17:42:24 IST | a00091177bc6 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-19 17:42:23 IST | 7902aad62eab | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-20 05:39:10 IST | 7ce84bd01578 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-20 05:39:06 IST | 9c1bb6cfd409 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +11 new repos, top changed: yes
+- GitHub: +1 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
+  ⭐ 1,734 stars today
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
-  ⭐ 551 stars today
+  ⭐ 663 stars today
 - **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
-  ⭐ 328 stars today
+  ⭐ 360 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 507 stars today
+  ⭐ 501 stars today
 - **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
-  ⭐ 629 stars today
-- **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** (TypeScript) — The go-to web for your AI coding agent — local-first search, fetch, crawl & rese  
-  ⭐ 605 stars today
+  ⭐ 610 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) — Score: 100
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 573
-- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) — Score: 60
-- [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) — Score: 52
-- [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 253
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) — Score: 1312
+- [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) — Score: 218
+- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 751
+- [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) — Score: 92
+- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) — Score: 38
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,329.0 🟢 +0.36%
-- Ethereum: $1,864.53 🟢 +1.03%
-- Solana: $75.87 🟢 +1.19%
-- Bnb: $566.94 🔴 -0.51%
+- Bitcoin: $64,740.0 🔴 -0.07%
+- Ethereum: $1,873.87 🟢 +0.68%
+- Solana: $76.29 🟢 +1.11%
+- Bnb: $570.29 🔴 -0.10%
 
 ---
 ## 📅 2026-07-19 (last updated: 17:42 IST)

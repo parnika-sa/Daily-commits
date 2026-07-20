@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-19 12:12:24 UTC",
-    "fetched_at_ist": "2026-07-19 17:42:24 IST",
+    "fetched_at_utc": "2026-07-20 00:09:10 UTC",
+    "fetched_at_ist": "2026-07-20 05:39:10 IST",
     "item_count": 5,
-    "content_hash": "a00091177bc621cf9e2d535d1471561459136f375c2ff97bf91ff0e315fffd63",
-    "previous_hash": "9918b657f8189c8fe44922eb38dd24c9b2ec1364c59357980a5416d07d2569b2",
+    "content_hash": "7ce84bd01578200c005c0e11b5b0a7fac65a28a4be191158dd1af8fc088efcb4",
+    "previous_hash": "a00091177bc621cf9e2d535d1471561459136f375c2ff97bf91ff0e315fffd63",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48966190,
-      "title": "Qwen 3.8 Max Preview",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "score": 100,
-      "comments": 45
+      "id": 48968606,
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 1312,
+      "comments": 147
     },
     {
-      "id": 48963879,
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 573,
-      "comments": 121
-    },
-    {
-      "id": 48911021,
-      "title": "Blender 5.2 LTS",
-      "url": "https://www.blender.org/download/releases/5-2-lts/",
-      "score": 60,
-      "comments": 31
-    },
-    {
-      "id": 48965850,
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 52,
-      "comments": 13
+      "id": 48971738,
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "score": 218,
+      "comments": 109
     },
     {
       "id": 48966120,
-      "title": "Qwen3.8 is launching and going open-weight soon",
+      "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 253,
-      "comments": 128
+      "score": 751,
+      "comments": 533
+    },
+    {
+      "id": 48907390,
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 92,
+      "comments": 6
+    },
+    {
+      "id": 48971566,
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 38,
+      "comments": 25
     }
   ]
 }

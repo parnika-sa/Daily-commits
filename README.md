@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-19 12:12:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-20 00:09:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **tirth8205/code-review-graph**
-- BTC: **$64,329.0** ↑ (+0.36%)
-- HN top story: **Qwen 3.8 Max Preview**
+- Top GitHub repo: **bojieli/ai-agent-book**
+- BTC: **$64,740.0** ↓ (-0.07%)
+- HN top story: **Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-07-19 12:12:23 UTC | `47039c205ac7` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-19 12:12:24 UTC | `a00091177bc6` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-19 12:12:23 UTC | `7902aad62eab` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-07-20 00:09:05 UTC | `3ed9f4aac655` | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-20 00:09:10 UTC | `7ce84bd01578` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-20 00:09:06 UTC | `9c1bb6cfd409` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
+- GitHub: +1 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-20` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-20 03:37:27 IST` |
+| Last Commit (IST) | `2026-07-20 04:37:58 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-07-19 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-07-20 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,329.0 | +0.36% | 🟢 |
-| Ethereum | $1,864.53 | +1.03% | 🟢 |
-| Solana | $75.87 | +1.19% | 🟢 |
-| Bnb | $566.94 | -0.51% | 🔴 |
+| Bitcoin | $64,740.0 | -0.07% | 🔴 |
+| Ethereum | $1,873.87 | +0.68% | 🟢 |
+| Solana | $76.29 | +1.11% | 🟢 |
+| Bnb | $570.29 | -0.10% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 551 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 328 stars today | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 507 stars today | Learn it. Build it. Ship it for others. |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 629 stars today | The open-source AI voice studio. Clone, dictate, create. |
-| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 605 stars today | The go-to web for your AI coding agent — local-first search, fetch, crawl & rese… |
-| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | 55 stars today | An unofficial desktop client for Jellyfin |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 111 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 424 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | 1,734 stars today | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 663 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 360 stars today | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 501 stars today | Learn it. Build it. Ship it for others. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 610 stars today | The open-source AI voice studio. Clone, dictate, create. |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 595 stars today | The go-to web for your AI coding agent — local-first search, fetch, crawl & rese… |
+| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | 43 stars today | An unofficial desktop client for Jellyfin |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 39 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) | 100 | 45 |
-| [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) | 573 | 121 |
-| [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/) | 60 | 31 |
-| [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) | 52 | 13 |
-| [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) | 253 | 128 |
+| [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) | 1312 | 147 |
+| [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) | 218 | 109 |
+| [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) | 751 | 533 |
+| [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) | 92 | 6 |
+| [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) | 38 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
