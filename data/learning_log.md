@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-20 (last updated: 17:59 IST)
+
+## 📅 2026-07-20 (last updated: 20:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-20 05:39:10 IST | 7ce84bd01578 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-20 20:08:43 IST | 24ff1bbdc6dd | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-20 17:59:04 IST | 874971e5cbd8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 610 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) — Score: 1312
-- [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) — Score: 218
-- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 751
-- [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) — Score: 92
-- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) — Score: 38
+- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 138
+- [Airport Simulator](https://airport.apunen.com/) — Score: 246
+- [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution) — Score: 29
+- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) — Score: 20
+- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,633.0 🟢 +0.56%
