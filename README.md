@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-20 07:25:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-20 10:23:16 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bojieli/ai-agent-book**
-- BTC: **$63,974.0** ↓ (-1.07%)
+- BTC: **$64,229.0** ↓ (-0.51%)
 - HN top story: **Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 00:09:05 UTC | `3ed9f4aac655` | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-20 00:09:10 UTC | `7ce84bd01578` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-20 07:25:43 UTC | `8b13d26a27f9` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-20 10:23:16 UTC | `3c4b7ff84cd8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +1 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-20` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-20 09:30:27 IST` |
+| Last Commit (IST) | `2026-07-20 12:55:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-07-19 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-07-20 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-07-20 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,974.0 | -1.07% | 🔴 |
-| Ethereum | $1,853.71 | -0.73% | 🔴 |
-| Solana | $75.67 | -0.55% | 🔴 |
-| Bnb | $564.63 | -0.69% | 🔴 |
+| Bitcoin | $64,229.0 | -0.51% | 🔴 |
+| Ethereum | $1,864.5 | -0.07% | 🔴 |
+| Solana | $76.41 | +0.58% | 🟢 |
+| Bnb | $566.21 | -0.23% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
