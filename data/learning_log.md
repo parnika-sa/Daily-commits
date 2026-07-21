@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-21 (last updated: 15:06 IST)
+
+## 📅 2026-07-21 (last updated: 16:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-21 15:06:48 IST | e20ddfa58838 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-21 09:58:43 IST | b18708149bc4 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-21 16:57:30 IST | 7be7cb7d0b15 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) — Score: 67
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,514.0 🟢 +1.26%
-- Ethereum: $1,922.51 🟢 +2.69%
-- Solana: $78.08 🟢 +2.25%
-- Bnb: $573.98 🟢 +1.00%
+- Bitcoin: $66,159.0 🟢 +2.91%
+- Ethereum: $1,926.79 🟢 +2.90%
+- Solana: $78.14 🟢 +2.28%
+- Bnb: $576.11 🟢 +1.63%
 
 ---
 ## 📅 2026-07-20 (last updated: 23:48 IST)
