@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-21 20:33:52 UTC",
-    "fetched_at_ist": "2026-07-22 02:03:52 IST",
+    "fetched_at_utc": "2026-07-21 21:43:54 UTC",
+    "fetched_at_ist": "2026-07-22 03:13:54 IST",
     "item_count": 5,
-    "content_hash": "7f8f7beb948cbe3c04a3858199851017cfad5bfbdf3be029aa20580a23ca7433",
-    "previous_hash": "e20ddfa588387a1d8dd77ccab3a790cbde0876399462a4a72b848d3da7a51894",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "73be410ccd3a5edcf0662f9119125025ba47c23ee13bc5ff1367a81b4f8b07bb",
+    "previous_hash": "7f8f7beb948cbe3c04a3858199851017cfad5bfbdf3be029aa20580a23ca7433",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48997548,
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 318,
+      "comments": 177
+    },
+    {
       "id": 48996318,
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "score": 166,
-      "comments": 39
+      "score": 265,
+      "comments": 62
     },
     {
       "id": 48993414,
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 490,
-      "comments": 385
-    },
-    {
-      "id": 48997548,
-      "title": "OpenAI and Hugging Face partner to address security incident",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 68,
-      "comments": 18
+      "score": 531,
+      "comments": 428
     },
     {
       "id": 48993816,
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 230,
-      "comments": 38
+      "score": 251,
+      "comments": 45
     },
     {
       "id": 48995213,
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 118,
-      "comments": 103
+      "score": 160,
+      "comments": 150
     }
   ]
 }
