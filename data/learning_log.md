@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-21 (last updated: 09:58 IST)
+
+## 📅 2026-07-21 (last updated: 15:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-21 05:00:28 IST | 9a4c6899bc96 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-21 15:06:48 IST | e20ddfa58838 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-21 09:58:43 IST | b18708149bc4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 610 stars today
 
 ### 📰 Hacker News Stories
-- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) — Score: 894
-- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 328
-- [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 94
-- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 285
-- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) — Score: 146
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) — Score: 40
+- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) — Score: 191
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 633
+- [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of) — Score: 41
+- [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) — Score: 67
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,514.0 🟢 +1.26%

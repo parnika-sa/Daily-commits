@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-20 23:30:28 UTC",
-    "fetched_at_ist": "2026-07-21 05:00:28 IST",
+    "fetched_at_utc": "2026-07-21 09:36:48 UTC",
+    "fetched_at_ist": "2026-07-21 15:06:48 IST",
     "item_count": 5,
-    "content_hash": "9a4c6899bc9617e2cf4d246109888fa940f60c8560ef1a5840ee2109a3fd86ee",
-    "previous_hash": "24ff1bbdc6ddf33f1827c9e376a8bf73b5013c9d19799b0a3f1355e4540aa28b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e20ddfa588387a1d8dd77ccab3a790cbde0876399462a4a72b848d3da7a51894",
+    "previous_hash": "9a4c6899bc9617e2cf4d246109888fa940f60c8560ef1a5840ee2109a3fd86ee",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48979269,
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 894,
-      "comments": 724
+      "id": 48989701,
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "score": 40,
+      "comments": 20
     },
     {
-      "id": 48981703,
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 328,
-      "comments": 154
+      "id": 48987822,
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "score": 191,
+      "comments": 32
     },
     {
       "id": 48977128,
-      "title": "Who's Afraid of Chinese Models?",
+      "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 94,
-      "comments": 71
+      "score": 633,
+      "comments": 430
     },
     {
-      "id": 48981620,
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 285,
-      "comments": 119
+      "id": 48988793,
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "score": 41,
+      "comments": 18
     },
     {
-      "id": 48983382,
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 146,
-      "comments": 56
+      "id": 48987846,
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "score": 67,
+      "comments": 13
     }
   ]
 }
