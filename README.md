@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-20 23:30:28 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-21 04:28:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bojieli/ai-agent-book**
-- BTC: **$65,191.0** ↑ (+0.71%)
+- BTC: **$65,514.0** ↑ (+1.26%)
 - HN top story: **China’s open-weights AI strategy is winning**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 00:09:05 UTC | `3ed9f4aac655` | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-20 23:30:28 UTC | `9a4c6899bc96` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-20 22:28:23 UTC | `18e0e9553dad` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-21 04:28:43 UTC | `b18708149bc4` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +1 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-21` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-21 05:00:28 IST` |
+| Last Commit (IST) | `2026-07-21 06:35:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-18 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-07-19 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-21 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,191.0 | +0.71% | 🟢 |
-| Ethereum | $1,897.02 | +1.41% | 🟢 |
-| Solana | $77.63 | +2.01% | 🟢 |
-| Bnb | $570.48 | -0.03% | 🔴 |
+| Bitcoin | $65,514.0 | +1.26% | 🟢 |
+| Ethereum | $1,922.51 | +2.69% | 🟢 |
+| Solana | $78.08 | +2.25% | 🟢 |
+| Bnb | $573.98 | +1.00% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
