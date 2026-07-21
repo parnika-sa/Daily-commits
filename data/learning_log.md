@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-22 (last updated: 21:49 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-21 15:06:48 IST | e20ddfa58838 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-21 21:49:14 IST | 81b074b2cbe6 | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +1 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
+  ⭐ 1,734 stars today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 663 stars today
+- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
+  ⭐ 360 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 501 stars today
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
+  ⭐ 610 stars today
+
+### 📰 Hacker News Stories
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) — Score: 40
+- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) — Score: 191
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 633
+- [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of) — Score: 41
+- [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) — Score: 67
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $66,557.0 🟢 +1.75%
+- Ethereum: $1,928.12 🟢 +1.52%
+- Solana: $78.03 🟢 +0.47%
+- Bnb: $575.1 🟢 +0.27%
+
+---
 
 
 
