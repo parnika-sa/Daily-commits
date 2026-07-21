@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-21 21:43:54 UTC",
-    "fetched_at_ist": "2026-07-22 03:13:54 IST",
+    "fetched_at_utc": "2026-07-21 22:36:41 UTC",
+    "fetched_at_ist": "2026-07-22 04:06:41 IST",
     "item_count": 5,
-    "content_hash": "73be410ccd3a5edcf0662f9119125025ba47c23ee13bc5ff1367a81b4f8b07bb",
-    "previous_hash": "7f8f7beb948cbe3c04a3858199851017cfad5bfbdf3be029aa20580a23ca7433",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": true
+    "content_hash": "a63f731dd60785bd30829673046b7d4c9b88e838f53ab5499024699758529661",
+    "previous_hash": "73be410ccd3a5edcf0662f9119125025ba47c23ee13bc5ff1367a81b4f8b07bb",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48997548,
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 318,
-      "comments": 177
+      "score": 429,
+      "comments": 278
     },
     {
       "id": 48996318,
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "score": 265,
-      "comments": 62
+      "score": 306,
+      "comments": 68
+    },
+    {
+      "id": 48998362,
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "score": 63,
+      "comments": 15
     },
     {
       "id": 48993414,
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 531,
-      "comments": 428
+      "score": 555,
+      "comments": 445
     },
     {
       "id": 48993816,
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 251,
-      "comments": 45
-    },
-    {
-      "id": 48995213,
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 160,
-      "comments": 150
+      "score": 263,
+      "comments": 48
     }
   ]
 }
