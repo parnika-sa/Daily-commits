@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-22 (last updated: 10:01 IST)
+
+## 📅 2026-07-22 (last updated: 12:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-22 10:01:21 IST | 27934eddcb6f | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-21 21:49:14 IST | 81b074b2cbe6 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-22 12:49:10 IST | 8ff5d0a65a63 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Advertise in ChatGPT](https://ads.openai.com/) — Score: 503
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,557.0 🟢 +1.75%
-- Ethereum: $1,928.12 🟢 +1.52%
-- Solana: $78.03 🟢 +0.47%
-- Bnb: $575.1 🟢 +0.27%
+- Bitcoin: $65,878.0 🔴 -0.05%
+- Ethereum: $1,915.93 🔴 -0.98%
+- Solana: $77.19 🔴 -1.76%
+- Bnb: $567.54 🔴 -1.35%
 
 ---
 ## 📅 2026-07-21 (last updated: 21:49 IST)
