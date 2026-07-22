@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 04:31:21 UTC",
-    "fetched_at_ist": "2026-07-22 10:01:21 IST",
+    "fetched_at_utc": "2026-07-22 11:42:02 UTC",
+    "fetched_at_ist": "2026-07-22 17:12:02 IST",
     "item_count": 5,
-    "content_hash": "27934eddcb6f7077c4dd680d4e445f50469d7410c444d3582d98e2a57e27fdb5",
-    "previous_hash": "3ff87e5b3e659c9a0d125075d820a7b06418c2ced8c2d9013fd13a2e4acbbec5",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "1ba77261c727a589f90d21193483d10a6c3ba61320a3237b6522701e91e82646",
+    "previous_hash": "27934eddcb6f7077c4dd680d4e445f50469d7410c444d3582d98e2a57e27fdb5",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48997548,
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 859,
-      "comments": 599
+      "score": 1253,
+      "comments": 854
     },
     {
       "id": 48999291,
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 411,
-      "comments": 256
+      "score": 691,
+      "comments": 368
     },
     {
-      "id": 49000864,
-      "title": "LG to ban residential proxies from smart TV apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "score": 92,
-      "comments": 67
+      "id": 48961698,
+      "title": "Intel Starts Shipping High-NA EUV Silicon",
+      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+      "score": 111,
+      "comments": 38
     },
     {
-      "id": 48996318,
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
-      "score": 459,
-      "comments": 110
+      "id": 48969200,
+      "title": "Introduction to Formal Verification with Lean Part 1",
+      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+      "score": 55,
+      "comments": 1
     },
     {
-      "id": 48996571,
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "score": 503,
-      "comments": 393
+      "id": 49002166,
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "score": 91,
+      "comments": 28
     }
   ]
 }

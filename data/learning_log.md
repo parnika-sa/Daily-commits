@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-22 (last updated: 12:49 IST)
+
+## 📅 2026-07-22 (last updated: 17:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-22 10:01:21 IST | 27934eddcb6f | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-22 17:12:02 IST | 1ba77261c727 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-07-22 12:49:10 IST | 8ff5d0a65a63 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 610 stars today
 
 ### 📰 Hacker News Stories
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) — Score: 859
-- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) — Score: 411
-- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) — Score: 92
-- [FreeInk: Open ecosystem for e-readers](https://freeink.org/) — Score: 459
-- [Advertise in ChatGPT](https://ads.openai.com/) — Score: 503
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) — Score: 1253
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) — Score: 691
+- [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv) — Score: 111
+- [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)) — Score: 55
+- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) — Score: 91
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,878.0 🔴 -0.05%
