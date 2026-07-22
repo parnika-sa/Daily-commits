@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 18:02:22 UTC",
-    "fetched_at_ist": "2026-07-22 23:32:22 IST",
+    "fetched_at_utc": "2026-07-22 20:43:07 UTC",
+    "fetched_at_ist": "2026-07-23 02:13:07 IST",
     "item_count": 5,
-    "content_hash": "23d4ba17bcd1242012d67047eaab10c3dc7a87f94dc5156c8e44eb8e3685f925",
-    "previous_hash": "1ba77261c727a589f90d21193483d10a6c3ba61320a3237b6522701e91e82646",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "df977ea320278f9f738f5beb8ba4d0ace3f5057050e25ae07f5dbaa0244cc7a7",
+    "previous_hash": "23d4ba17bcd1242012d67047eaab10c3dc7a87f94dc5156c8e44eb8e3685f925",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49010345,
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 71,
-      "comments": 15
-    },
-    {
-      "id": 49008211,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 346,
-      "comments": 76
+      "score": 371,
+      "comments": 190
     },
     {
       "id": 49010167,
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 37,
-      "comments": 2
+      "score": 225,
+      "comments": 45
     },
     {
-      "id": 49008440,
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 122,
-      "comments": 38
+      "id": 49008211,
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 512,
+      "comments": 106
     },
     {
-      "id": 49005787,
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 170,
-      "comments": 79
+      "id": 49010129,
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 200,
+      "comments": 81
+    },
+    {
+      "id": 49012070,
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 39,
+      "comments": 10
     }
   ]
 }
