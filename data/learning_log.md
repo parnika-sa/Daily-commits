@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-23 (last updated: 02:13 IST)
+
+## 📅 2026-07-23 (last updated: 03:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 02:13:07 IST | df977ea32027 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-23 03:14:21 IST | c2189cb69ad4 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-22 23:32:22 IST | 8e2a0a90cb8a | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 172 stars today
 
 ### 📰 Hacker News Stories
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 371
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 225
-- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 512
-- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) — Score: 200
-- [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302) — Score: 39
+- [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302) — Score: 292
+- [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/) — Score: 109
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 440
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 270
+- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,999.0 🔴 -0.19%

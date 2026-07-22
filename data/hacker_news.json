@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 20:43:07 UTC",
-    "fetched_at_ist": "2026-07-23 02:13:07 IST",
+    "fetched_at_utc": "2026-07-22 21:44:21 UTC",
+    "fetched_at_ist": "2026-07-23 03:14:21 IST",
     "item_count": 5,
-    "content_hash": "df977ea320278f9f738f5beb8ba4d0ace3f5057050e25ae07f5dbaa0244cc7a7",
-    "previous_hash": "23d4ba17bcd1242012d67047eaab10c3dc7a87f94dc5156c8e44eb8e3685f925",
+    "content_hash": "c2189cb69ad4c4bcc949ac179ddea7e62e7e81bc18163207d378fa373b6a2d78",
+    "previous_hash": "df977ea320278f9f738f5beb8ba4d0ace3f5057050e25ae07f5dbaa0244cc7a7",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49012070,
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 292,
+      "comments": 52
+    },
+    {
+      "id": 49013036,
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "score": 109,
+      "comments": 21
+    },
     {
       "id": 49010345,
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 371,
-      "comments": 190
+      "score": 440,
+      "comments": 240
     },
     {
       "id": 49010167,
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 225,
-      "comments": 45
+      "score": 270,
+      "comments": 50
     },
     {
-      "id": 49008211,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 512,
-      "comments": 106
-    },
-    {
-      "id": 49010129,
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 200,
-      "comments": 81
-    },
-    {
-      "id": 49012070,
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 39,
-      "comments": 10
+      "id": 49013538,
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 19,
+      "comments": 0
     }
   ]
 }
