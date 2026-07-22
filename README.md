@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-22 15:15:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-22 18:02:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bojieli/ai-agent-book**
-- BTC: **$65,856.0** ↓ (-1.28%)
-- HN top story: **OpenAI and Hugging Face address security incident during model evaluation**
+- Top GitHub repo: **koala73/worldmonitor**
+- BTC: **$65,999.0** ↓ (-0.19%)
+- HN top story: **Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-20 00:09:05 UTC | `3ed9f4aac655` | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-22 11:42:02 UTC | `1ba77261c727` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-07-22 15:15:08 UTC | `a0d348a9f939` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-07-22 18:02:21 UTC | `fbc8d5879225` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-22 18:02:22 UTC | `23d4ba17bcd1` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-22 18:02:22 UTC | `8e2a0a90cb8a` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-22` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-22 20:45:09 IST` |
+| Last Commit (IST) | `2026-07-22 22:18:27 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-19 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-21 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-22 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-07-22 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,856.0 | -1.28% | 🔴 |
-| Ethereum | $1,937.89 | +0.50% | 🟢 |
-| Solana | $78.15 | +0.29% | 🟢 |
-| Bnb | $571.52 | -0.61% | 🔴 |
+| Bitcoin | $65,999.0 | -0.19% | 🔴 |
+| Ethereum | $1,938.18 | +1.08% | 🟢 |
+| Solana | $78.19 | +0.72% | 🟢 |
+| Bnb | $571.56 | -0.17% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | 1,734 stars today | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 663 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | 360 stars today | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 501 stars today | Learn it. Build it. Ship it for others. |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 610 stars today | The open-source AI voice studio. Clone, dictate, create. |
-| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | 595 stars today | The go-to web for your AI coding agent — local-first search, fetch, crawl & rese… |
-| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | 43 stars today | An unofficial desktop client for Jellyfin |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 39 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 4,131 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 875 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 1,682 stars today | A skill for your coding agent to stop it from burying the answer. ADHD-friendly … |
+| [schollz/croc](https://github.com/schollz/croc) | Go | 737 stars today | Easily and securely send things from one computer to another 🐊 📦 |
+| [likec4/likec4](https://github.com/likec4/likec4) | TypeScript | 172 stars today | Visualize, collaborate, and evolve the software architecture with always actual … |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 766 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 565 stars today | The open-source AI voice studio. Clone, dictate, create. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,648 stars today | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free),… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) | 1253 | 854 |
-| [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) | 691 | 368 |
-| [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv) | 111 | 38 |
-| [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)) | 55 | 1 |
-| [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) | 91 | 28 |
+| [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) | 71 | 15 |
+| [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) | 346 | 76 |
+| [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) | 37 | 2 |
+| [Making](https://beej.us/blog/data/ai-making/) | 122 | 38 |
+| [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide) | 170 | 79 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

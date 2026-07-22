@@ -16,44 +16,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-22 (last updated: 20:45 IST)
+
+## 📅 2026-07-22 (last updated: 23:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-22 17:12:02 IST | 1ba77261c727 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-07-22 20:45:08 IST | a0d348a9f939 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-22 23:32:22 IST | 23d4ba17bcd1 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-22 23:32:22 IST | 8e2a0a90cb8a | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
-  ⭐ 1,734 stars today
-- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
-  ⭐ 663 stars today
-- **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** (Python) — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Opti  
-  ⭐ 360 stars today
-- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 501 stars today
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source AI voice studio. Clone, dictate, create.  
-  ⭐ 610 stars today
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
+  ⭐ 4,131 stars today
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
+  ⭐ 875 stars today
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Python) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly   
+  ⭐ 1,682 stars today
+- **[schollz/croc](https://github.com/schollz/croc)** (Go) — Easily and securely send things from one computer to another 🐊 📦  
+  ⭐ 737 stars today
+- **[likec4/likec4](https://github.com/likec4/likec4)** (TypeScript) — Visualize, collaborate, and evolve the software architecture with always actual   
+  ⭐ 172 stars today
 
 ### 📰 Hacker News Stories
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) — Score: 1253
-- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) — Score: 691
-- [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv) — Score: 111
-- [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)) — Score: 55
-- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) — Score: 91
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 71
+- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 346
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 37
+- [Making](https://beej.us/blog/data/ai-making/) — Score: 122
+- [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide) — Score: 170
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,856.0 🔴 -1.28%
-- Ethereum: $1,937.89 🟢 +0.50%
-- Solana: $78.15 🟢 +0.29%
-- Bnb: $571.52 🔴 -0.61%
+- Bitcoin: $65,999.0 🔴 -0.19%
+- Ethereum: $1,938.18 🟢 +1.08%
+- Solana: $78.19 🟢 +0.72%
+- Bnb: $571.56 🔴 -0.17%
 
 ---
 ## 📅 2026-07-21 (last updated: 21:49 IST)
