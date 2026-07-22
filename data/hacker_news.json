@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 21:44:21 UTC",
-    "fetched_at_ist": "2026-07-23 03:14:21 IST",
+    "fetched_at_utc": "2026-07-22 22:41:21 UTC",
+    "fetched_at_ist": "2026-07-23 04:11:21 IST",
     "item_count": 5,
-    "content_hash": "c2189cb69ad4c4bcc949ac179ddea7e62e7e81bc18163207d378fa373b6a2d78",
-    "previous_hash": "df977ea320278f9f738f5beb8ba4d0ace3f5057050e25ae07f5dbaa0244cc7a7",
+    "content_hash": "c37a0d27deba6560955edc6d8c8dcad28197825d43080e3786355852809e2485",
+    "previous_hash": "c2189cb69ad4c4bcc949ac179ddea7e62e7e81bc18163207d378fa373b6a2d78",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49012070,
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 292,
-      "comments": 52
-    },
-    {
-      "id": 49013036,
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "score": 109,
-      "comments": 21
-    },
-    {
       "id": 49010345,
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 440,
-      "comments": 240
+      "score": 487,
+      "comments": 282
     },
     {
       "id": 49010167,
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 270,
-      "comments": 50
+      "score": 298,
+      "comments": 56
+    },
+    {
+      "id": 49014007,
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 24,
+      "comments": 3
+    },
+    {
+      "id": 49007247,
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 33,
+      "comments": 12
     },
     {
       "id": 49013538,
       "title": "Malleable Computing, Emacs, and You",
       "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 19,
-      "comments": 0
+      "score": 39,
+      "comments": 4
     }
   ]
 }
