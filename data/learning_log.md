@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-22 (last updated: 17:12 IST)
+
+## 📅 2026-07-22 (last updated: 20:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-20 05:39:05 IST | 3ed9f4aac655 | +1 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-22 17:12:02 IST | 1ba77261c727 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-07-22 12:49:10 IST | 8ff5d0a65a63 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-22 20:45:08 IST | a0d348a9f939 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) — Score: 91
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,878.0 🔴 -0.05%
-- Ethereum: $1,915.93 🔴 -0.98%
-- Solana: $77.19 🔴 -1.76%
-- Bnb: $567.54 🔴 -1.35%
+- Bitcoin: $65,856.0 🔴 -1.28%
+- Ethereum: $1,937.89 🟢 +0.50%
+- Solana: $78.15 🟢 +0.29%
+- Bnb: $571.52 🔴 -0.61%
 
 ---
 ## 📅 2026-07-21 (last updated: 21:49 IST)
