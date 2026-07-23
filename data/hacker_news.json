@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 22:36:52 UTC",
-    "fetched_at_ist": "2026-07-24 04:06:52 IST",
+    "fetched_at_utc": "2026-07-23 23:36:06 UTC",
+    "fetched_at_ist": "2026-07-24 05:06:06 IST",
     "item_count": 5,
-    "content_hash": "56618ee9827dd62541b33105d1c7dae37583998b3752d31c6d00f4f6c38bf0bf",
-    "previous_hash": "e8e928cf185e865472024d08aa57fc964f35b9224419e7e8e6eb91053d3f46bb",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "15fe302ec213db22b389a2b2fb57ebc18ad7e9e42d7396c81f47ae5d75e4dbba",
+    "previous_hash": "56618ee9827dd62541b33105d1c7dae37583998b3752d31c6d00f4f6c38bf0bf",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49027892,
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "score": 149,
-      "comments": 58
-    },
-    {
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 846,
-      "comments": 424
+      "score": 883,
+      "comments": 447
+    },
+    {
+      "id": 49028927,
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 41,
+      "comments": 4
     },
     {
       "id": 49026810,
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 156,
-      "comments": 71
-    },
-    {
-      "id": 49028037,
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
-      "url": "https://news.ycombinator.com/item?id=49028037",
-      "score": 176,
-      "comments": 44
+      "score": 179,
+      "comments": 86
     },
     {
       "id": 49007221,
       "title": "The Beam Engine",
       "url": "https://glinscott.github.io/beam-engine/",
-      "score": 75,
-      "comments": 30
+      "score": 94,
+      "comments": 41
+    },
+    {
+      "id": 49024691,
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 254,
+      "comments": 117
     }
   ]
 }
