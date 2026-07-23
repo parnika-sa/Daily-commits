@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 18:07:38 UTC",
-    "fetched_at_ist": "2026-07-23 23:37:38 IST",
+    "fetched_at_utc": "2026-07-23 19:42:58 UTC",
+    "fetched_at_ist": "2026-07-24 01:12:58 IST",
     "item_count": 5,
-    "content_hash": "a8599fbd9504c9fb670b39896a107b20c431e1c7cc74ec6426e9de957552fbe4",
-    "previous_hash": "76958a07e8f89c8a206da2f30a95e6cb327638b8847669406a14e85c0d769d10",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "5c4f122f9e5a3f36bb3b76a98b86c7b80df9eca71ae587a8b606a6f85351006e",
+    "previous_hash": "a8599fbd9504c9fb670b39896a107b20c431e1c7cc74ec6426e9de957552fbe4",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 458,
-      "comments": 216
+      "score": 627,
+      "comments": 312
     },
     {
       "id": 49024691,
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 84,
-      "comments": 14
+      "score": 161,
+      "comments": 58
     },
     {
-      "id": 49022038,
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "score": 140,
-      "comments": 24
+      "id": 49025984,
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "score": 54,
+      "comments": 15
+    },
+    {
+      "id": 49026810,
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 22,
+      "comments": 1
     },
     {
       "id": 49023016,
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 364,
-      "comments": 363
-    },
-    {
-      "id": 49022634,
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "score": 92,
-      "comments": 48
+      "score": 484,
+      "comments": 470
     }
   ]
 }
