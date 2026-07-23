@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 11:32:27 UTC",
-    "fetched_at_ist": "2026-07-23 17:02:27 IST",
+    "fetched_at_utc": "2026-07-23 18:07:38 UTC",
+    "fetched_at_ist": "2026-07-23 23:37:38 IST",
     "item_count": 5,
-    "content_hash": "76958a07e8f89c8a206da2f30a95e6cb327638b8847669406a14e85c0d769d10",
-    "previous_hash": "9449d8b32b5de4b9fa7f135c4b0a01074b031768d0d8b3d90eb73112896f4294",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "a8599fbd9504c9fb670b39896a107b20c431e1c7cc74ec6426e9de957552fbe4",
+    "previous_hash": "76958a07e8f89c8a206da2f30a95e6cb327638b8847669406a14e85c0d769d10",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49019301,
-      "title": "Code mode yields a 99.2% cost reduction in our systems",
-      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
-      "score": 21,
-      "comments": 4
+      "id": 49022152,
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 458,
+      "comments": 216
     },
     {
-      "id": 48990219,
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "score": 82,
-      "comments": 51
+      "id": 49024691,
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 84,
+      "comments": 14
     },
     {
-      "id": 49010345,
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 917,
-      "comments": 530
+      "id": 49022038,
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 140,
+      "comments": 24
     },
     {
-      "id": 49017344,
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "score": 72,
-      "comments": 35
+      "id": 49023016,
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 364,
+      "comments": 363
     },
     {
-      "id": 49007247,
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 387,
-      "comments": 147
+      "id": 49022634,
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 92,
+      "comments": 48
     }
   ]
 }

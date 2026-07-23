@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-23 15:22:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-23 18:07:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **koala73/worldmonitor**
-- BTC: **$64,843.0** ↓ (-1.72%)
-- HN top story: **Code mode yields a 99.2% cost reduction in our systems**
+- Top GitHub repo: **block/buzz**
+- BTC: **$64,654.0** ↓ (-2.07%)
+- HN top story: **Writing by hand is good for your brain**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-22 18:02:21 UTC | `fbc8d5879225` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 11:32:27 UTC | `76958a07e8f8` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-23 15:22:55 UTC | `fa4dfa15cb6c` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-07-23 18:07:37 UTC | `dcece938f5f0` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-23 18:07:38 UTC | `a8599fbd9504` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-23 18:07:37 UTC | `73ecdc5ce15b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-23` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-23 20:52:56 IST` |
+| Last Commit (IST) | `2026-07-23 22:23:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-21 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-22 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-07-23 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-07-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,843.0 | -1.72% | 🔴 |
-| Ethereum | $1,887.91 | -3.05% | 🔴 |
-| Solana | $76.04 | -3.04% | 🔴 |
-| Bnb | $564.73 | -1.33% | 🔴 |
+| Bitcoin | $64,654.0 | -2.07% | 🔴 |
+| Ethereum | $1,876.52 | -3.16% | 🔴 |
+| Solana | $75.56 | -3.39% | 🔴 |
+| Bnb | $565.44 | -1.13% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 4,131 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 875 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 1,682 stars today | A skill for your coding agent to stop it from burying the answer. ADHD-friendly … |
-| [schollz/croc](https://github.com/schollz/croc) | Go | 737 stars today | Easily and securely send things from one computer to another 🐊 📦 |
-| [likec4/likec4](https://github.com/likec4/likec4) | TypeScript | 172 stars today | Visualize, collaborate, and evolve the software architecture with always actual … |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 766 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 565 stars today | The open-source AI voice studio. Clone, dictate, create. |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,648 stars today | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free),… |
+| [block/buzz](https://github.com/block/buzz) | Rust | 2,460 stars today | A hive mind communication platform |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 3,196 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 398 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Rust | 563 stars today | Empowering everyone to host fast and efficient Minecraft servers. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 219 stars today | The best browser for both you and your AI agents work in parallel. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 599 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,925 stars today | Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free),… |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 637 stars today | A curated list of awesome Claude Skills, resources, and tools for customizing Cl… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings) | 21 | 4 |
-| [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html) | 82 | 51 |
-| [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) | 917 | 530 |
-| [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) | 72 | 35 |
-| [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) | 387 | 147 |
+| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | 458 | 216 |
+| [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) | 84 | 14 |
+| [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) | 140 | 24 |
+| [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | 364 | 363 |
+| [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) | 92 | 48 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

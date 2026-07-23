@@ -16,44 +16,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 20:52 IST)
+
+## 📅 2026-07-23 (last updated: 23:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 17:02:27 IST | 76958a07e8f8 | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-23 20:52:55 IST | fa4dfa15cb6c | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-23 23:37:38 IST | a8599fbd9504 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-23 23:37:37 IST | 73ecdc5ce15b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[block/buzz](https://github.com/block/buzz)** (Rust) — A hive mind communication platform  
+  ⭐ 2,460 stars today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
-  ⭐ 4,131 stars today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
-  ⭐ 875 stars today
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Python) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly   
-  ⭐ 1,682 stars today
-- **[schollz/croc](https://github.com/schollz/croc)** (Go) — Easily and securely send things from one computer to another 🐊 📦  
-  ⭐ 737 stars today
-- **[likec4/likec4](https://github.com/likec4/likec4)** (TypeScript) — Visualize, collaborate, and evolve the software architecture with always actual   
-  ⭐ 172 stars today
+  ⭐ 3,196 stars today
+- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** (Python) — Kronos: A Foundation Model for the Language of Financial Markets  
+  ⭐ 398 stars today
+- **[Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** (Rust) — Empowering everyone to host fast and efficient Minecraft servers.  
+  ⭐ 563 stars today
+- **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** (JavaScript) — The best browser for both you and your AI agents work in parallel.  
+  ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings) — Score: 21
-- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html) — Score: 82
-- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 917
-- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) — Score: 72
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 387
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 458
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) — Score: 84
+- [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) — Score: 140
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) — Score: 364
+- [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) — Score: 92
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,843.0 🔴 -1.72%
-- Ethereum: $1,887.91 🔴 -3.05%
-- Solana: $76.04 🔴 -3.04%
-- Bnb: $564.73 🔴 -1.33%
+- Bitcoin: $64,654.0 🔴 -2.07%
+- Ethereum: $1,876.52 🔴 -3.16%
+- Solana: $75.56 🔴 -3.39%
+- Bnb: $565.44 🔴 -1.13%
 
 ---
 ## 📅 2026-07-22 (last updated: 23:32 IST)
