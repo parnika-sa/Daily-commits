@@ -11,13 +11,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 12:45 IST)
+
+## 📅 2026-07-23 (last updated: 15:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 10:00:20 IST | e923e2314bda | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-23 15:13:55 IST | 9449d8b32b5d | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-23 12:45:39 IST | eb42677e0143 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 172 stars today
 
 ### 📰 Hacker News Stories
-- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html) — Score: 22
-- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 697
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 227
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 409
-- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 714
+- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html) — Score: 58
+- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 874
+- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734) — Score: 50
+- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html) — Score: 145
+- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 364
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,333.0 🔴 -0.81%
