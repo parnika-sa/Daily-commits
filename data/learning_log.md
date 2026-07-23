@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 10:00 IST)
+
+## 📅 2026-07-23 (last updated: 12:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-23 10:00:20 IST | e923e2314bda | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-22 23:32:22 IST | 8e2a0a90cb8a | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-23 12:45:39 IST | eb42677e0143 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 714
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,999.0 🔴 -0.19%
-- Ethereum: $1,938.18 🟢 +1.08%
-- Solana: $78.19 🟢 +0.72%
-- Bnb: $571.56 🔴 -0.17%
+- Bitcoin: $65,333.0 🔴 -0.81%
+- Ethereum: $1,914.62 🔴 -0.05%
+- Solana: $77.08 🔴 -0.12%
+- Bnb: $568.31 🟢 +0.16%
 
 ---
 ## 📅 2026-07-22 (last updated: 23:32 IST)
