@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-24 (last updated: 02:11 IST)
+
+## 📅 2026-07-24 (last updated: 03:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-24 02:11:51 IST | add1332cd6ef | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-24 03:11:17 IST | e8e928cf185e | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-23 23:37:37 IST | 73ecdc5ce15b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 720
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) — Score: 82
-- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) — Score: 193
-- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) — Score: 75
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) — Score: 556
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 792
+- [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public) — Score: 41
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) — Score: 123
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) — Score: 214
+- [The Beam Engine](https://glinscott.github.io/beam-engine/) — Score: 44
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,654.0 🔴 -2.07%

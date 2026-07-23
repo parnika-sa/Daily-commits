@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 20:41:51 UTC",
-    "fetched_at_ist": "2026-07-24 02:11:51 IST",
+    "fetched_at_utc": "2026-07-23 21:41:17 UTC",
+    "fetched_at_ist": "2026-07-24 03:11:17 IST",
     "item_count": 5,
-    "content_hash": "add1332cd6efd9133bdc6b417c6a10450a1c4f6d550c21ceb23aa683c25e448e",
-    "previous_hash": "5c4f122f9e5a3f36bb3b76a98b86c7b80df9eca71ae587a8b606a6f85351006e",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "e8e928cf185e865472024d08aa57fc964f35b9224419e7e8e6eb91053d3f46bb",
+    "previous_hash": "add1332cd6efd9133bdc6b417c6a10450a1c4f6d550c21ceb23aa683c25e448e",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 720,
-      "comments": 364
+      "score": 792,
+      "comments": 400
+    },
+    {
+      "id": 49027892,
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "score": 41,
+      "comments": 6
     },
     {
       "id": 49026810,
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 82,
-      "comments": 26
+      "score": 123,
+      "comments": 57
     },
     {
       "id": 49024691,
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 193,
-      "comments": 79
+      "score": 214,
+      "comments": 99
     },
     {
-      "id": 49025984,
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "score": 75,
-      "comments": 29
-    },
-    {
-      "id": 49023016,
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 556,
-      "comments": 526
+      "id": 49007221,
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 44,
+      "comments": 14
     }
   ]
 }
