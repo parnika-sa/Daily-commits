@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 09:43:55 UTC",
-    "fetched_at_ist": "2026-07-23 15:13:55 IST",
+    "fetched_at_utc": "2026-07-23 11:32:27 UTC",
+    "fetched_at_ist": "2026-07-23 17:02:27 IST",
     "item_count": 5,
-    "content_hash": "9449d8b32b5de4b9fa7f135c4b0a01074b031768d0d8b3d90eb73112896f4294",
-    "previous_hash": "e923e2314bdaf7d1942f698d736d32d0dda033da737d40752f2c65096da74041",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "76958a07e8f89c8a206da2f30a95e6cb327638b8847669406a14e85c0d769d10",
+    "previous_hash": "9449d8b32b5de4b9fa7f135c4b0a01074b031768d0d8b3d90eb73112896f4294",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49019301,
+      "title": "Code mode yields a 99.2% cost reduction in our systems",
+      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+      "score": 21,
+      "comments": 4
+    },
+    {
       "id": 48990219,
       "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
       "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "score": 58,
-      "comments": 14
+      "score": 82,
+      "comments": 51
     },
     {
       "id": 49010345,
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 874,
-      "comments": 508
+      "score": 917,
+      "comments": 530
     },
     {
       "id": 49017344,
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
       "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "score": 50,
-      "comments": 19
-    },
-    {
-      "id": 48991882,
-      "title": "git's –end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 145,
-      "comments": 72
+      "score": 72,
+      "comments": 35
     },
     {
       "id": 49007247,
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 364,
-      "comments": 119
+      "score": 387,
+      "comments": 147
     }
   ]
 }
