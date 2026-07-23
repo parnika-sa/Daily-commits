@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 17:02 IST)
+
+## 📅 2026-07-23 (last updated: 20:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-22 23:32:21 IST | fbc8d5879225 | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-23 17:02:27 IST | 76958a07e8f8 | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-23 12:45:39 IST | eb42677e0143 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-23 20:52:55 IST | fa4dfa15cb6c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 387
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,333.0 🔴 -0.81%
-- Ethereum: $1,914.62 🔴 -0.05%
-- Solana: $77.08 🔴 -0.12%
-- Bnb: $568.31 🟢 +0.16%
+- Bitcoin: $64,843.0 🔴 -1.72%
+- Ethereum: $1,887.91 🔴 -3.05%
+- Solana: $76.04 🔴 -3.04%
+- Bnb: $564.73 🔴 -1.33%
 
 ---
 ## 📅 2026-07-22 (last updated: 23:32 IST)
