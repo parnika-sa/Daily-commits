@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 23:36:06 UTC",
-    "fetched_at_ist": "2026-07-24 05:06:06 IST",
+    "fetched_at_utc": "2026-07-24 09:31:00 UTC",
+    "fetched_at_ist": "2026-07-24 15:01:00 IST",
     "item_count": 5,
-    "content_hash": "15fe302ec213db22b389a2b2fb57ebc18ad7e9e42d7396c81f47ae5d75e4dbba",
-    "previous_hash": "56618ee9827dd62541b33105d1c7dae37583998b3752d31c6d00f4f6c38bf0bf",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "7536148f8e46e304642a7f38488fba151bac23ae80f289b7671b147fba255f0d",
+    "previous_hash": "15fe302ec213db22b389a2b2fb57ebc18ad7e9e42d7396c81f47ae5d75e4dbba",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49031796,
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "score": 228,
+      "comments": 54
+    },
+    {
+      "id": 49032095,
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "score": 40,
+      "comments": 37
+    },
+    {
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 883,
-      "comments": 447
+      "score": 1300,
+      "comments": 586
     },
     {
-      "id": 49028927,
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "score": 41,
-      "comments": 4
+      "id": 49023016,
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 927,
+      "comments": 769
     },
     {
       "id": 49026810,
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 179,
-      "comments": 86
-    },
-    {
-      "id": 49007221,
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "score": 94,
-      "comments": 41
-    },
-    {
-      "id": 49024691,
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 254,
-      "comments": 117
+      "score": 381,
+      "comments": 179
     }
   ]
 }
