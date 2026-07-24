@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-24 09:31:00 UTC",
-    "fetched_at_ist": "2026-07-24 15:01:00 IST",
+    "fetched_at_utc": "2026-07-24 20:44:19 UTC",
+    "fetched_at_ist": "2026-07-25 02:14:19 IST",
     "item_count": 5,
-    "content_hash": "7536148f8e46e304642a7f38488fba151bac23ae80f289b7671b147fba255f0d",
-    "previous_hash": "15fe302ec213db22b389a2b2fb57ebc18ad7e9e42d7396c81f47ae5d75e4dbba",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "4bff7ead2de92d17c479174b7eae79b41599df9ee48959f36569205530be95f7",
+    "previous_hash": "7536148f8e46e304642a7f38488fba151bac23ae80f289b7671b147fba255f0d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49031796,
-      "title": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "score": 228,
-      "comments": 54
-    },
-    {
-      "id": 49032095,
-      "title": "The PImpl idiom and the C++26 std:indirect type",
-      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-      "score": 40,
-      "comments": 37
-    },
-    {
-      "id": 49022152,
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1300,
-      "comments": 586
-    },
-    {
-      "id": 49023016,
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "id": 49038433,
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
       "score": 927,
-      "comments": 769
+      "comments": 508
     },
     {
-      "id": 49026810,
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 381,
-      "comments": 179
+      "id": 49035303,
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 295,
+      "comments": 169
+    },
+    {
+      "id": 49040296,
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 82,
+      "comments": 14
+    },
+    {
+      "id": 49034292,
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 424,
+      "comments": 154
+    },
+    {
+      "id": 48973835,
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "score": 388,
+      "comments": 114
     }
   ]
 }

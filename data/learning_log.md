@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-25 (last updated: 00:48 IST)
+
+## 📅 2026-07-25 (last updated: 02:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-24 15:01:00 IST | 7536148f8e46 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 02:14:19 IST | 4bff7ead2de9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 00:48:59 IST | adc6a758d051 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Flux 3](https://bfl.ai/blog/flux-3) — Score: 228
-- [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/) — Score: 40
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 1300
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) — Score: 927
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) — Score: 381
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 927
+- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) — Score: 295
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 82
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) — Score: 424
+- [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) — Score: 388
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,109.0 🔴 -1.07%
@@ -44,18 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $564.58 🔴 -0.30%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-24 (last updated: 16:52 IST)
 
 ### 🧪 Source Integrity Snapshot
