@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 10:52 IST)
+
+## 📅 2026-07-25 (last updated: 13:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-25 02:14:19 IST | 4bff7ead2de9 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 13:00:51 IST | a3f90d993dc4 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 10:52:40 IST | 2d2ded715304 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 927
-- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) — Score: 295
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 82
-- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) — Score: 424
-- [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) — Score: 388
+- [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) — Score: 32
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1491
+- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc) — Score: 62
+- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) — Score: 103
+- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) — Score: 37
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,092.0 🔴 -1.87%

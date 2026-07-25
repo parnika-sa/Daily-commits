@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-24 20:44:19 UTC",
-    "fetched_at_ist": "2026-07-25 02:14:19 IST",
+    "fetched_at_utc": "2026-07-25 07:30:51 UTC",
+    "fetched_at_ist": "2026-07-25 13:00:51 IST",
     "item_count": 5,
-    "content_hash": "4bff7ead2de92d17c479174b7eae79b41599df9ee48959f36569205530be95f7",
-    "previous_hash": "7536148f8e46e304642a7f38488fba151bac23ae80f289b7671b147fba255f0d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "a3f90d993dc41044ccfcf6eb8c4af302cefab883bf341ba4b158f68d2b500d58",
+    "previous_hash": "4bff7ead2de92d17c479174b7eae79b41599df9ee48959f36569205530be95f7",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49045040,
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "score": 32,
+      "comments": 15
+    },
+    {
       "id": 49038433,
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 927,
-      "comments": 508
+      "score": 1491,
+      "comments": 819
     },
     {
-      "id": 49035303,
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 295,
-      "comments": 169
+      "id": 48981665,
+      "title": "GC and Exceptions in Wasmtime",
+      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+      "score": 62,
+      "comments": 0
     },
     {
-      "id": 49040296,
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 82,
-      "comments": 14
+      "id": 49043724,
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "score": 103,
+      "comments": 19
     },
     {
-      "id": 49034292,
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 424,
-      "comments": 154
-    },
-    {
-      "id": 48973835,
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 388,
-      "comments": 114
+      "id": 49044492,
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "score": 37,
+      "comments": 10
     }
   ]
 }
