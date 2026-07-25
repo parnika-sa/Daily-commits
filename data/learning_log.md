@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 22:06 IST)
+
+## 📅 2026-07-25 (last updated: 23:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-25 22:06:11 IST | abcf4d88e3c0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 23:09:26 IST | 03be59bc71c2 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 14:50:20 IST | c5f29403c175 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/) — Score: 27
-- [The whole premise of checking for human writing is daft](https://mohammedshehu.com/checking-for-human-writing-is-daft/) — Score: 21
-- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 653
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 108
-- [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6) — Score: 62
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 178
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 698
+- [Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) — Score: 76
+- [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6) — Score: 85
+- [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/) — Score: 58
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,849.0 🔴 -1.72%

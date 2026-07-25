@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 16:36:11 UTC",
-    "fetched_at_ist": "2026-07-25 22:06:11 IST",
+    "fetched_at_utc": "2026-07-25 17:39:26 UTC",
+    "fetched_at_ist": "2026-07-25 23:09:26 IST",
     "item_count": 5,
-    "content_hash": "abcf4d88e3c0775758b1e7f4964f887596c49ca274d62ffe84b60346afe86513",
-    "previous_hash": "4f36bdad92ebd5c6f83f094275694078c821b03df356f4f33675fed4b5284e8d",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "03be59bc71c2a1e1cce2b49137bccb9def1ede305949310b7509f506fcb9779c",
+    "previous_hash": "abcf4d88e3c0775758b1e7f4964f887596c49ca274d62ffe84b60346afe86513",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49048819,
-      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-      "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-      "score": 27,
-      "comments": 6
-    },
-    {
-      "id": 49048584,
-      "title": "The whole premise of checking for human writing is daft",
-      "url": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
-      "score": 21,
-      "comments": 12
+      "id": 48976262,
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "score": 178,
+      "comments": 48
     },
     {
       "id": 49045159,
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 653,
-      "comments": 289
+      "score": 698,
+      "comments": 315
     },
     {
-      "id": 48976262,
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 108,
-      "comments": 29
+      "id": 49048034,
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 76,
+      "comments": 41
     },
     {
       "id": 49047365,
       "title": "Bitchat Is Now on Radicle",
       "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "score": 62,
-      "comments": 20
+      "score": 85,
+      "comments": 34
+    },
+    {
+      "id": 49048819,
+      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+      "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+      "score": 58,
+      "comments": 41
     }
   ]
 }
