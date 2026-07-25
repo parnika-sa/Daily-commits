@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 17:39:26 UTC",
-    "fetched_at_ist": "2026-07-25 23:09:26 IST",
+    "fetched_at_utc": "2026-07-25 18:37:10 UTC",
+    "fetched_at_ist": "2026-07-26 00:07:10 IST",
     "item_count": 5,
-    "content_hash": "03be59bc71c2a1e1cce2b49137bccb9def1ede305949310b7509f506fcb9779c",
-    "previous_hash": "abcf4d88e3c0775758b1e7f4964f887596c49ca274d62ffe84b60346afe86513",
+    "content_hash": "72a1124d4275eac41d229b8a525f5ea734ce28e84c85e5af248fd9c04b69833e",
+    "previous_hash": "03be59bc71c2a1e1cce2b49137bccb9def1ede305949310b7509f506fcb9779c",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48976262,
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 178,
-      "comments": 48
+      "score": 266,
+      "comments": 66
+    },
+    {
+      "id": 49048034,
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 133,
+      "comments": 86
+    },
+    {
+      "id": 49050152,
+      "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
+      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+      "score": 11,
+      "comments": 0
     },
     {
       "id": 49045159,
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 698,
-      "comments": 315
-    },
-    {
-      "id": 49048034,
-      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 76,
-      "comments": 41
+      "score": 725,
+      "comments": 324
     },
     {
       "id": 49047365,
       "title": "Bitchat Is Now on Radicle",
       "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "score": 85,
-      "comments": 34
-    },
-    {
-      "id": 49048819,
-      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-      "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-      "score": 58,
-      "comments": 41
+      "score": 118,
+      "comments": 55
     }
   ]
 }
