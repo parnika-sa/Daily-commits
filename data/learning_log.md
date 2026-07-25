@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 03:04 IST)
+
+## 📅 2026-07-26 (last updated: 04:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 03:04:19 IST | 938acca3db56 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-26 04:04:37 IST | 8f1debf8d046 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 14:50:20 IST | c5f29403c175 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 462
-- [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/) — Score: 52
-- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 821
-- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) — Score: 256
-- [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations) — Score: 73
+- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) — Score: 39
+- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Score: 76
+- [Did They Ghost You?](https://didtheyghostyou.com/) — Score: 79
+- [Fly.io CEO Kurt Mackey is stepping down](https://fly.io/blog/kurt-scott-money-sprites/) — Score: 91
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 490
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,849.0 🔴 -1.72%

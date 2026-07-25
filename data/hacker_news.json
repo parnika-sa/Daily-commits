@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 21:34:19 UTC",
-    "fetched_at_ist": "2026-07-26 03:04:19 IST",
+    "fetched_at_utc": "2026-07-25 22:34:37 UTC",
+    "fetched_at_ist": "2026-07-26 04:04:37 IST",
     "item_count": 5,
-    "content_hash": "938acca3db56485ebe8ddcf7e1ad1635f978651c2f023bb9615bb93ff06f8e0b",
-    "previous_hash": "be94b7dfe6343478a6c7cacf68c014daa27d010e619740779bdfcaf94c34bbd9",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "8f1debf8d046a873fe6222fad67fe26568ccea7b77fdbe35b43c0ab8a6d6c410",
+    "previous_hash": "938acca3db56485ebe8ddcf7e1ad1635f978651c2f023bb9615bb93ff06f8e0b",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49051947,
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 39,
+      "comments": 4
+    },
+    {
+      "id": 49051361,
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 76,
+      "comments": 36
+    },
+    {
+      "id": 49051120,
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "score": 79,
+      "comments": 32
+    },
+    {
+      "id": 49051369,
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "score": 91,
+      "comments": 41
+    },
     {
       "id": 48976262,
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 462,
-      "comments": 107
-    },
-    {
-      "id": 49050735,
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 52,
-      "comments": 20
-    },
-    {
-      "id": 49045159,
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 821,
-      "comments": 393
-    },
-    {
-      "id": 49048034,
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 256,
-      "comments": 192
-    },
-    {
-      "id": 49039868,
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "score": 73,
-      "comments": 8
+      "score": 490,
+      "comments": 115
     }
   ]
 }
