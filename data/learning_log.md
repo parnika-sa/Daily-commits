@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 13:00 IST)
+
+## 📅 2026-07-25 (last updated: 14:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-25 13:00:51 IST | a3f90d993dc4 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-25 10:52:40 IST | 2d2ded715304 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-25 14:50:20 IST | c5f29403c175 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) — Score: 37
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,092.0 🔴 -1.87%
-- Ethereum: $1,859.39 🔴 -1.09%
-- Solana: $74.16 🔴 -2.13%
-- Bnb: $565.42 🔴 -0.32%
+- Bitcoin: $63,849.0 🔴 -1.72%
+- Ethereum: $1,853.32 🔴 -1.45%
+- Solana: $73.86 🔴 -2.05%
+- Bnb: $564.41 🔴 -0.38%
 
 ---
 ## 📅 2026-07-24 (last updated: 16:52 IST)
