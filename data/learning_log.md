@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 14:50 IST)
+
+## 📅 2026-07-25 (last updated: 20:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-25 13:00:51 IST | a3f90d993dc4 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 20:11:25 IST | 4f36bdad92eb | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 14:50:20 IST | c5f29403c175 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [ARC-AGI Leaderboard](https://arcprize.org/leaderboard) — Score: 32
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1491
-- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc) — Score: 62
-- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) — Score: 103
-- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) — Score: 37
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 524
+- [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01) — Score: 34
+- [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html) — Score: 70
+- [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) — Score: 43
+- [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html) — Score: 24
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,849.0 🔴 -1.72%

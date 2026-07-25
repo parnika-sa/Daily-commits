@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 07:30:51 UTC",
-    "fetched_at_ist": "2026-07-25 13:00:51 IST",
+    "fetched_at_utc": "2026-07-25 14:41:25 UTC",
+    "fetched_at_ist": "2026-07-25 20:11:25 IST",
     "item_count": 5,
-    "content_hash": "a3f90d993dc41044ccfcf6eb8c4af302cefab883bf341ba4b158f68d2b500d58",
-    "previous_hash": "4bff7ead2de92d17c479174b7eae79b41599df9ee48959f36569205530be95f7",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "4f36bdad92ebd5c6f83f094275694078c821b03df356f4f33675fed4b5284e8d",
+    "previous_hash": "a3f90d993dc41044ccfcf6eb8c4af302cefab883bf341ba4b158f68d2b500d58",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49045040,
-      "title": "ARC-AGI Leaderboard",
-      "url": "https://arcprize.org/leaderboard",
-      "score": 32,
-      "comments": 15
+      "id": 49045159,
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 524,
+      "comments": 245
     },
     {
-      "id": 49038433,
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1491,
-      "comments": 819
+      "id": 49047198,
+      "title": "League of Legends designer shares game design field manual",
+      "url": "https://areadenial.games/design/preface#00-01",
+      "score": 34,
+      "comments": 21
     },
     {
-      "id": 48981665,
-      "title": "GC and Exceptions in Wasmtime",
-      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "score": 62,
-      "comments": 0
+      "id": 49006096,
+      "title": "My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "score": 70,
+      "comments": 25
     },
     {
-      "id": 49043724,
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 103,
-      "comments": 19
+      "id": 49046525,
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "score": 43,
+      "comments": 2
     },
     {
-      "id": 49044492,
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "score": 37,
-      "comments": 10
+      "id": 49007018,
+      "title": "Spatial languages: Writing code in 2D",
+      "url": "https://shukla.io/blog/2026-07/cccx.html",
+      "score": 24,
+      "comments": 3
     }
   ]
 }
