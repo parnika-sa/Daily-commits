@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-26 12:14:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-26 18:11:14 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **permissionlesstech/bitchat**
-- BTC: **$64,536.0** ↑ (+0.85%)
-- HN top story: **Ruff v0.16.0 – Significant new updates – 413 default rules up from 59**
+- BTC: **$64,634.0** ↑ (+0.50%)
+- HN top story: **Park by Robot at London Gatwick Airport**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-26 12:14:08 UTC | `6c9f1ef6e3f5` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 12:14:09 UTC | `fe915b1779f0` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-26 12:14:08 UTC | `7e96cb0622ba` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-07-26 18:11:13 UTC | `45bfc8435f3b` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-26 18:11:14 UTC | `e662160c9f53` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-26 18:11:13 UTC | `efa5d5234596` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-26` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-26 21:34:20 IST` |
+| Last Commit (IST) | `2026-07-26 22:43:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-24 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-25 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-26 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-07-26 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,536.0 | +0.85% | 🟢 |
-| Ethereum | $1,887.39 | +1.67% | 🟢 |
-| Solana | $74.95 | +1.53% | 🟢 |
-| Bnb | $570.95 | +1.05% | 🟢 |
+| Bitcoin | $64,634.0 | +0.50% | 🟢 |
+| Ethereum | $1,910.27 | +2.03% | 🟢 |
+| Solana | $75.27 | +1.03% | 🟢 |
+| Bnb | $572.18 | +0.73% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,720 stars today | bluetooth mesh chat, IRC vibes |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 986 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
-| [block/buzz](https://github.com/block/buzz) | Rust | 2,491 stars today | A hive mind communication platform |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 202 stars today | No description |
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 426 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 586 stars today | Pretty fancy and modern terminal file manager |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,198 stars today | bluetooth mesh chat, IRC vibes |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 898 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
+| [block/buzz](https://github.com/block/buzz) | Rust | 1,705 stars today | A hive mind communication platform |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 159 stars today | No description |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 892 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 180 stars today | Pretty fancy and modern terminal file manager |
 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 37 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 360 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 399 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) | 112 | 56 |
-| [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) | 244 | 99 |
-| [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War) | 18 | 12 |
-| [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) | 131 | 69 |
-| [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/) | 14 | 2 |
+| [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/) | 182 | 119 |
+| [Kill The Cookie Banner](https://killthecookiebanner.eu/) | 338 | 183 |
+| [Design Is Compromise](https://stephango.com/design-is-compromise) | 80 | 28 |
+| [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) | 31 | 6 |
+| [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market) | 76 | 28 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
