@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-27 (last updated: 01:02 IST)
+
+## 📅 2026-07-27 (last updated: 02:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 01:02:44 IST | 7928c6f30525 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-27 02:04:52 IST | 98c585713c0a | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-26 23:41:13 IST | efa5d5234596 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Kill The Cookie Banner](https://killthecookiebanner.eu/) — Score: 570
-- [London Gatwick has launched a robotic airport parking service](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/) — Score: 220
-- [Design is compromise](https://stephango.com/design-is-compromise) — Score: 103
-- [Decker](https://beyondloom.com/decker/) — Score: 25
-- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) — Score: 47
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 78
+- [Design is compromise](https://stephango.com/design-is-compromise) — Score: 126
+- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/) — Score: 37
+- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) — Score: 64
+- [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) — Score: 229
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,634.0 🟢 +0.50%
@@ -44,22 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $572.18 🟢 +0.73%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-26 (last updated: 23:41 IST)
 
 ### 🧪 Source Integrity Snapshot

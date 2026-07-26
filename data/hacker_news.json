@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 19:32:44 UTC",
-    "fetched_at_ist": "2026-07-27 01:02:44 IST",
+    "fetched_at_utc": "2026-07-26 20:34:52 UTC",
+    "fetched_at_ist": "2026-07-27 02:04:52 IST",
     "item_count": 5,
-    "content_hash": "7928c6f305255f6ceea8fbf95db2ee2f065766b52e6f9cc53a1ca35881c80ab0",
-    "previous_hash": "e662160c9f5345c807753fbce8baaed071fdef9b7387cac6d551661ec0e2dc5d",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "98c585713c0a395ee6aa458870c161f4327e13fee91bb9e99a499493ddb6664c",
+    "previous_hash": "7928c6f305255f6ceea8fbf95db2ee2f065766b52e6f9cc53a1ca35881c80ab0",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49057175,
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 570,
-      "comments": 278
-    },
-    {
-      "id": 49058669,
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 220,
-      "comments": 167
+      "id": 49060856,
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 78,
+      "comments": 14
     },
     {
       "id": 49059367,
       "title": "Design is compromise",
       "url": "https://stephango.com/design-is-compromise",
-      "score": 103,
-      "comments": 44
+      "score": 126,
+      "comments": 62
     },
     {
-      "id": 49060856,
-      "title": "Decker",
-      "url": "https://beyondloom.com/decker/",
-      "score": 25,
-      "comments": 6
+      "id": 49060945,
+      "title": "How to Block Some of the Bots",
+      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+      "score": 37,
+      "comments": 20
     },
     {
       "id": 49059398,
       "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
       "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 47,
-      "comments": 12
+      "score": 64,
+      "comments": 13
+    },
+    {
+      "id": 49057241,
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 229,
+      "comments": 76
     }
   ]
 }
