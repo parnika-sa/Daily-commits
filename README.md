@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-26 09:29:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-26 12:14:09 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **block/buzz**
-- BTC: **$64,488.0** ↑ (+0.95%)
-- HN top story: **Show HN: I mapped every US golf course – 16k+ courses, free, no signup**
+- Top GitHub repo: **permissionlesstech/bitchat**
+- BTC: **$64,536.0** ↑ (+0.85%)
+- HN top story: **Ruff v0.16.0 – Significant new updates – 413 default rules up from 59**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-07-23 18:07:37 UTC | `dcece938f5f0` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 04:42:21 UTC | `5fa226c4176d` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-26 09:29:38 UTC | `055d0d1ce2cc` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-07-26 12:14:08 UTC | `6c9f1ef6e3f5` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-26 12:14:09 UTC | `fe915b1779f0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-26 12:14:08 UTC | `7e96cb0622ba` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-26` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-26 14:59:39 IST` |
+| Last Commit (IST) | `2026-07-26 16:32:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-24 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-25 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-26 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-26 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,488.0 | +0.95% | 🟢 |
-| Ethereum | $1,882.91 | +1.54% | 🟢 |
-| Solana | $75.01 | +1.46% | 🟢 |
-| Bnb | $570.87 | +1.00% | 🟢 |
+| Bitcoin | $64,536.0 | +0.85% | 🟢 |
+| Ethereum | $1,887.39 | +1.67% | 🟢 |
+| Solana | $74.95 | +1.53% | 🟢 |
+| Bnb | $570.95 | +1.05% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [block/buzz](https://github.com/block/buzz) | Rust | 2,460 stars today | A hive mind communication platform |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 3,196 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 398 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | Rust | 563 stars today | Empowering everyone to host fast and efficient Minecraft servers. |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 219 stars today | The best browser for both you and your AI agents work in parallel. |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 599 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 1,925 stars today | Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free),… |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 637 stars today | A curated list of awesome Claude Skills, resources, and tools for customizing Cl… |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,720 stars today | bluetooth mesh chat, IRC vibes |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 986 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
+| [block/buzz](https://github.com/block/buzz) | Rust | 2,491 stars today | A hive mind communication platform |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 202 stars today | No description |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 426 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 586 stars today | Pretty fancy and modern terminal file manager |
+| [nodejs/node](https://github.com/nodejs/node) | JavaScript | 37 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 360 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/) | 61 | 27 |
-| [JetZero](https://www.jetzero.aero) | 100 | 70 |
-| [Humans Haven't Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure) | 28 | 11 |
-| [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) | 38 | 10 |
-| [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) | 642 | 156 |
+| [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) | 112 | 56 |
+| [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) | 244 | 99 |
+| [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War) | 18 | 12 |
+| [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) | 131 | 69 |
+| [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/) | 14 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
