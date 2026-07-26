@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-27 (last updated: 03:06 IST)
+
+## 📅 2026-07-27 (last updated: 04:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 03:06:16 IST | dc253dc3a0ac | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-27 04:09:21 IST | 45b854da89a9 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-26 23:41:13 IST | efa5d5234596 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 123
-- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/) — Score: 79
-- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 55
-- [Design is compromise](https://stephango.com/design-is-compromise) — Score: 143
-- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) — Score: 79
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 160
+- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/) — Score: 140
+- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 76
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) — Score: 19
+- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up) — Score: 22
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,634.0 🟢 +0.50%

@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 21:36:16 UTC",
-    "fetched_at_ist": "2026-07-27 03:06:16 IST",
+    "fetched_at_utc": "2026-07-26 22:39:21 UTC",
+    "fetched_at_ist": "2026-07-27 04:09:21 IST",
     "item_count": 5,
-    "content_hash": "dc253dc3a0acffd99af928e2d79f11865bba49801362c38fff8eb59dc0f552dd",
-    "previous_hash": "98c585713c0a395ee6aa458870c161f4327e13fee91bb9e99a499493ddb6664c",
+    "content_hash": "45b854da89a94b602962ce1d9a7a7bcdd24073e023b3b4629a3f7f83f843dc80",
+    "previous_hash": "dc253dc3a0acffd99af928e2d79f11865bba49801362c38fff8eb59dc0f552dd",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49060856,
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "score": 123,
-      "comments": 26
+      "score": 160,
+      "comments": 34
     },
     {
       "id": 49060592,
       "title": "It's not empowering to hand off the details",
       "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "score": 79,
-      "comments": 21
+      "score": 140,
+      "comments": 64
     },
     {
       "id": 49060724,
       "title": "Introduction to Data-Oriented Design [pdf]",
       "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 55,
-      "comments": 12
+      "score": 76,
+      "comments": 18
     },
     {
-      "id": 49059367,
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 143,
-      "comments": 64
+      "id": 49062291,
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 19,
+      "comments": 1
     },
     {
-      "id": 49059398,
-      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 79,
-      "comments": 16
+      "id": 49062120,
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "score": 22,
+      "comments": 3
     }
   ]
 }
