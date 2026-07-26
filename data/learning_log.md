@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-27 (last updated: 04:09 IST)
+
+## 📅 2026-07-27 (last updated: 05:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 04:09:21 IST | 45b854da89a9 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-27 05:09:29 IST | 28bb0809256b | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-07-26 23:41:13 IST | efa5d5234596 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 160
-- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/) — Score: 140
-- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 76
-- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) — Score: 19
-- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up) — Score: 22
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 181
+- [Japan legend Miura, 59, scores first goal since 2022](https://www.bbc.com/sport/football/articles/c3r087181ndo) — Score: 17
+- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) — Score: 24
+- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 85
+- [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,634.0 🟢 +0.50%

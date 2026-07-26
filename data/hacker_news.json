@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 22:39:21 UTC",
-    "fetched_at_ist": "2026-07-27 04:09:21 IST",
+    "fetched_at_utc": "2026-07-26 23:39:29 UTC",
+    "fetched_at_ist": "2026-07-27 05:09:29 IST",
     "item_count": 5,
-    "content_hash": "45b854da89a94b602962ce1d9a7a7bcdd24073e023b3b4629a3f7f83f843dc80",
-    "previous_hash": "dc253dc3a0acffd99af928e2d79f11865bba49801362c38fff8eb59dc0f552dd",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "28bb0809256b22f99e068f494ef502cb23a352abe865355325aa222fa425ed23",
+    "previous_hash": "45b854da89a94b602962ce1d9a7a7bcdd24073e023b3b4629a3f7f83f843dc80",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49060856,
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "score": 160,
-      "comments": 34
+      "score": 181,
+      "comments": 40
     },
     {
-      "id": 49060592,
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "score": 140,
-      "comments": 64
+      "id": 49063266,
+      "title": "Japan legend Miura, 59, scores first goal since 2022",
+      "url": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
+      "score": 17,
+      "comments": 1
+    },
+    {
+      "id": 49062700,
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "score": 24,
+      "comments": 7
     },
     {
       "id": 49060724,
       "title": "Introduction to Data-Oriented Design [pdf]",
       "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 76,
-      "comments": 18
+      "score": 85,
+      "comments": 23
     },
     {
-      "id": 49062291,
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 19,
-      "comments": 1
-    },
-    {
-      "id": 49062120,
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "score": 22,
-      "comments": 3
+      "id": 49063186,
+      "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://github.com/hkc5/cursor-bridge",
+      "score": 8,
+      "comments": 5
     }
   ]
 }
