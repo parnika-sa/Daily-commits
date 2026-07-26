@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-27 (last updated: 02:04 IST)
+
+## 📅 2026-07-27 (last updated: 03:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 02:04:52 IST | 98c585713c0a | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-27 03:06:16 IST | dc253dc3a0ac | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-26 23:41:13 IST | efa5d5234596 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 78
-- [Design is compromise](https://stephango.com/design-is-compromise) — Score: 126
-- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/) — Score: 37
-- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) — Score: 64
-- [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) — Score: 229
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 123
+- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/) — Score: 79
+- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 55
+- [Design is compromise](https://stephango.com/design-is-compromise) — Score: 143
+- [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) — Score: 79
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,634.0 🟢 +0.50%
