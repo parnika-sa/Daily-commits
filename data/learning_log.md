@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 05:10 IST)
+
+## 📅 2026-07-26 (last updated: 10:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-07-23 23:37:37 IST | dcece938f5f0 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 05:10:50 IST | dd15221789e0 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-26 10:12:21 IST | 5fa226c4176d | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 14:50:20 IST | c5f29403c175 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 219 stars today
 
 ### 📰 Hacker News Stories
-- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) — Score: 78
-- [Did They Ghost You?](https://didtheyghostyou.com/) — Score: 171
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Score: 113
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 518
-- [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) — Score: 30
+- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/) — Score: 61
+- [JetZero](https://www.jetzero.aero) — Score: 100
+- [Humans Haven't Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure) — Score: 28
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) — Score: 38
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 642
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,849.0 🔴 -1.72%
