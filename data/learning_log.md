@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-28 (last updated: 02:51 IST)
+
+## 📅 2026-07-28 (last updated: 04:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 20:08:11 IST | af5ccf2118a8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-28 04:02:02 IST | d5b056de2e9e | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-28 02:51:30 IST | 06a43c399c72 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) — Score: 685
-- [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html) — Score: 65
-- [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) — Score: 239
-- [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) — Score: 79
-- [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565) — Score: 339
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) — Score: 88
+- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) — Score: 131
+- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 51
+- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) — Score: 83
+- [Securing Services with Rootless Containers](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/) — Score: 24
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,810.0 🟢 +0.20%
