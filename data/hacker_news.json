@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 23:39:29 UTC",
-    "fetched_at_ist": "2026-07-27 05:09:29 IST",
+    "fetched_at_utc": "2026-07-27 14:38:11 UTC",
+    "fetched_at_ist": "2026-07-27 20:08:11 IST",
     "item_count": 5,
-    "content_hash": "28bb0809256b22f99e068f494ef502cb23a352abe865355325aa222fa425ed23",
-    "previous_hash": "45b854da89a94b602962ce1d9a7a7bcdd24073e023b3b4629a3f7f83f843dc80",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "af5ccf2118a8be1b9e36bcd5853932e06eec61207b3037bf5f6de714cf365fc9",
+    "previous_hash": "28bb0809256b22f99e068f494ef502cb23a352abe865355325aa222fa425ed23",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49060856,
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 181,
-      "comments": 40
+      "id": 49065752,
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 685,
+      "comments": 305
     },
     {
-      "id": 49063266,
-      "title": "Japan legend Miura, 59, scores first goal since 2022",
-      "url": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
-      "score": 17,
-      "comments": 1
+      "id": 49069132,
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "score": 65,
+      "comments": 42
     },
     {
-      "id": 49062700,
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 24,
-      "comments": 7
+      "id": 49067854,
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 239,
+      "comments": 159
     },
     {
-      "id": 49060724,
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 85,
-      "comments": 23
+      "id": 49067301,
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "score": 79,
+      "comments": 43
     },
     {
-      "id": 49063186,
-      "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-      "url": "https://github.com/hkc5/cursor-bridge",
-      "score": 8,
-      "comments": 5
+      "id": 49068738,
+      "title": "AI companies are shredding rare books",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "score": 339,
+      "comments": 202
     }
   ]
 }

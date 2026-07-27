@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-27 (last updated: 06:46 IST)
+
+## 📅 2026-07-27 (last updated: 20:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 05:09:29 IST | 28bb0809256b | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-27 20:08:11 IST | af5ccf2118a8 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-27 06:46:42 IST | b6ba565277b7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 181
-- [Japan legend Miura, 59, scores first goal since 2022](https://www.bbc.com/sport/football/articles/c3r087181ndo) — Score: 17
-- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) — Score: 24
-- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) — Score: 85
-- [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge) — Score: 8
+- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3) — Score: 685
+- [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html) — Score: 65
+- [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html) — Score: 239
+- [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) — Score: 79
+- [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565) — Score: 339
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,994.0 🟢 +0.88%
