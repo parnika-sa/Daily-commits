@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 04:02 IST)
+
+## 📅 2026-07-28 (last updated: 05:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-28 04:02:02 IST | d5b056de2e9e | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-28 05:12:36 IST | a2b633d076e8 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-28 02:51:30 IST | 06a43c399c72 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) — Score: 88
-- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) — Score: 131
-- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 51
-- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) — Score: 83
-- [Securing Services with Rootless Containers](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/) — Score: 24
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) — Score: 277
+- [A Discord Alternative – Echoed](https://echoed.gg/) — Score: 29
+- [DConf 2026 in London](https://dconf.org/2026/index.html) — Score: 13
+- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) — Score: 151
+- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 54
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,810.0 🟢 +0.20%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-27 22:32:02 UTC",
-    "fetched_at_ist": "2026-07-28 04:02:02 IST",
+    "fetched_at_utc": "2026-07-27 23:42:36 UTC",
+    "fetched_at_ist": "2026-07-28 05:12:36 IST",
     "item_count": 5,
-    "content_hash": "d5b056de2e9e168a126d781d10c6e4c3893a4c6885b2a34aff3b883a342f18f7",
-    "previous_hash": "af5ccf2118a8be1b9e36bcd5853932e06eec61207b3037bf5f6de714cf365fc9",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "a2b633d076e8bb3d0cc32c4082077f7d6abba1491dc42941842dabc5175310f5",
+    "previous_hash": "d5b056de2e9e168a126d781d10c6e4c3893a4c6885b2a34aff3b883a342f18f7",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 88,
-      "comments": 53
+      "score": 277,
+      "comments": 320
+    },
+    {
+      "id": 49076497,
+      "title": "A Discord Alternative – Echoed",
+      "url": "https://echoed.gg/",
+      "score": 29,
+      "comments": 28
+    },
+    {
+      "id": 49076840,
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "score": 13,
+      "comments": 0
     },
     {
       "id": 49045474,
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 131,
-      "comments": 15
+      "score": 151,
+      "comments": 16
     },
     {
       "id": 49074817,
       "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
       "url": "https://www.rise-reforming.com",
-      "score": 51,
-      "comments": 16
-    },
-    {
-      "id": 49073942,
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 83,
-      "comments": 20
-    },
-    {
-      "id": 49021024,
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "score": 24,
-      "comments": 9
+      "score": 54,
+      "comments": 19
     }
   ]
 }
