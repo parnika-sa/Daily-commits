@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-28 22:31:07 UTC",
-    "fetched_at_ist": "2026-07-29 04:01:07 IST",
+    "fetched_at_utc": "2026-07-28 23:37:33 UTC",
+    "fetched_at_ist": "2026-07-29 05:07:33 IST",
     "item_count": 5,
-    "content_hash": "ec70a6277f0b1ac19524953667ff3b61c56726f310a3f0cfb7c911b78c1883b5",
-    "previous_hash": "78951c34d546fe00b8841bb9fc3a0cc706fc8611137687d7a65d6641d9823e80",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "72c1bbb186701d426c3e10041fe93fb21c9c14d7cdecf8b206331b75b8555e82",
+    "previous_hash": "ec70a6277f0b1ac19524953667ff3b61c56726f310a3f0cfb7c911b78c1883b5",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49089755,
       "title": "OpenAI just open-sourced Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 184,
-      "comments": 36
+      "score": 272,
+      "comments": 57
     },
     {
-      "id": 49086788,
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 347,
-      "comments": 186
+      "id": 49090867,
+      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "score": 74,
+      "comments": 32
     },
     {
       "id": 49089814,
       "title": "Half-Life ported to Mac OS 9",
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 53,
-      "comments": 20
+      "score": 97,
+      "comments": 29
     },
     {
-      "id": 49090083,
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "score": 23,
-      "comments": 1
+      "id": 49090607,
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 48,
+      "comments": 22
     },
     {
-      "id": 49086971,
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 169,
-      "comments": 63
+      "id": 49086788,
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 372,
+      "comments": 195
     }
   ]
 }
