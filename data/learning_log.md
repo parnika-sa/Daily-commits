@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 02:50 IST)
+
+## 📅 2026-07-29 (last updated: 04:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-28 19:11:55 IST | 78951c34d546 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-29 04:01:07 IST | ec70a6277f0b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-29 02:50:42 IST | 8aeb3fc39116 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) — Score: 443
-- [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection) — Score: 21
-- [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067) — Score: 123
-- [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) — Score: 32
-- [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083) — Score: 52
+- [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security) — Score: 184
+- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) — Score: 347
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) — Score: 53
+- [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo) — Score: 23
+- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) — Score: 169
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,854.0 🔴 -1.48%

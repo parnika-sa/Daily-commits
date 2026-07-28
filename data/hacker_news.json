@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-28 13:41:55 UTC",
-    "fetched_at_ist": "2026-07-28 19:11:55 IST",
+    "fetched_at_utc": "2026-07-28 22:31:07 UTC",
+    "fetched_at_ist": "2026-07-29 04:01:07 IST",
     "item_count": 5,
-    "content_hash": "78951c34d546fe00b8841bb9fc3a0cc706fc8611137687d7a65d6641d9823e80",
-    "previous_hash": "a2b633d076e8bb3d0cc32c4082077f7d6abba1491dc42941842dabc5175310f5",
+    "content_hash": "ec70a6277f0b1ac19524953667ff3b61c56726f310a3f0cfb7c911b78c1883b5",
+    "previous_hash": "78951c34d546fe00b8841bb9fc3a0cc706fc8611137687d7a65d6641d9823e80",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49080664,
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 443,
-      "comments": 81
+      "id": 49089755,
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 184,
+      "comments": 36
     },
     {
-      "id": 49083239,
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 21,
-      "comments": 3
+      "id": 49086788,
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 347,
+      "comments": 186
     },
     {
-      "id": 49081555,
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "score": 123,
-      "comments": 71
+      "id": 49089814,
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 53,
+      "comments": 20
     },
     {
-      "id": 49083314,
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 32,
-      "comments": 11
+      "id": 49090083,
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "score": 23,
+      "comments": 1
     },
     {
-      "id": 49081644,
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 52,
-      "comments": 34
+      "id": 49086971,
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 169,
+      "comments": 63
     }
   ]
 }
