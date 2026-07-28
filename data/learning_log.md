@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 09:54 IST)
+
+## 📅 2026-07-28 (last updated: 19:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-28 05:12:36 IST | a2b633d076e8 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-28 19:11:55 IST | 78951c34d546 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-28 09:54:49 IST | 2ee945bd700f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) — Score: 277
-- [A Discord Alternative – Echoed](https://echoed.gg/) — Score: 29
-- [DConf 2026 in London](https://dconf.org/2026/index.html) — Score: 13
-- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) — Score: 151
-- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 54
+- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) — Score: 443
+- [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection) — Score: 21
+- [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067) — Score: 123
+- [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) — Score: 32
+- [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083) — Score: 52
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,287.0 🔴 -3.24%

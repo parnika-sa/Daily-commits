@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-27 23:42:36 UTC",
-    "fetched_at_ist": "2026-07-28 05:12:36 IST",
+    "fetched_at_utc": "2026-07-28 13:41:55 UTC",
+    "fetched_at_ist": "2026-07-28 19:11:55 IST",
     "item_count": 5,
-    "content_hash": "a2b633d076e8bb3d0cc32c4082077f7d6abba1491dc42941842dabc5175310f5",
-    "previous_hash": "d5b056de2e9e168a126d781d10c6e4c3893a4c6885b2a34aff3b883a342f18f7",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "78951c34d546fe00b8841bb9fc3a0cc706fc8611137687d7a65d6641d9823e80",
+    "previous_hash": "a2b633d076e8bb3d0cc32c4082077f7d6abba1491dc42941842dabc5175310f5",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49076057,
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 277,
-      "comments": 320
+      "id": 49080664,
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "score": 443,
+      "comments": 81
     },
     {
-      "id": 49076497,
-      "title": "A Discord Alternative – Echoed",
-      "url": "https://echoed.gg/",
-      "score": 29,
-      "comments": 28
+      "id": 49083239,
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 21,
+      "comments": 3
     },
     {
-      "id": 49076840,
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 13,
-      "comments": 0
+      "id": 49081555,
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "score": 123,
+      "comments": 71
     },
     {
-      "id": 49045474,
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 151,
-      "comments": 16
+      "id": 49083314,
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 32,
+      "comments": 11
     },
     {
-      "id": 49074817,
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "score": 54,
-      "comments": 19
+      "id": 49081644,
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 52,
+      "comments": 34
     }
   ]
 }
