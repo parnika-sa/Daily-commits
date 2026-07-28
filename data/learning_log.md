@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 05:12 IST)
+
+## 📅 2026-07-28 (last updated: 09:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-28 05:12:36 IST | a2b633d076e8 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-28 02:51:30 IST | 06a43c399c72 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-28 09:54:49 IST | 2ee945bd700f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 54
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,810.0 🟢 +0.20%
-- Ethereum: $1,945.12 🟢 +1.55%
-- Solana: $75.77 🟢 +0.51%
-- Bnb: $573.74 🟢 +0.21%
+- Bitcoin: $63,287.0 🔴 -3.24%
+- Ethereum: $1,879.07 🔴 -3.97%
+- Solana: $73.16 🔴 -4.34%
+- Bnb: $565.09 🔴 -1.50%
 
 ---
 ## 📅 2026-07-27 (last updated: 23:48 IST)
