@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 05:07 IST)
+
+## 📅 2026-07-29 (last updated: 09:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-29 05:07:33 IST | 72c1bbb18670 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-29 02:50:42 IST | 8aeb3fc39116 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-29 09:57:58 IST | 5bbec78976a9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) — Score: 372
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,854.0 🔴 -1.48%
-- Ethereum: $1,918.43 🔴 -1.40%
-- Solana: $74.01 🔴 -2.32%
-- Bnb: $570.7 🔴 -0.53%
+- Bitcoin: $63,687.0 🟢 +0.68%
+- Ethereum: $1,891.3 🟢 +0.72%
+- Solana: $73.04 🔴 -0.09%
+- Bnb: $566.8 🟢 +0.32%
 
 ---
 ## 📅 2026-07-28 (last updated: 22:49 IST)
