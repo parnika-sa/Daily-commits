@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 20:07 IST)
+
+## 📅 2026-07-29 (last updated: 23:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-29 20:07:38 IST | 8af17ca5c7be | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-29 23:05:23 IST | 6b7ef3a57994 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-29 17:47:14 IST | 6feb2f762899 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [KOReader](https://koreader.rocks/) — Score: 313
-- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) — Score: 74
-- [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb) — Score: 33
-- [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector) — Score: 47
-- [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) — Score: 156
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 280
+- [Superlogical](https://www.superlogical.com/) — Score: 128
+- [KOReader](https://koreader.rocks/) — Score: 514
+- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) — Score: 199
+- [Hugging Face: Anatomy of a frontier-lab agent intrusion](https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html) — Score: 71
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,418.0 🟢 +1.63%
