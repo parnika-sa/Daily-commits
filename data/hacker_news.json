@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 22:33:31 UTC",
-    "fetched_at_ist": "2026-07-31 04:03:31 IST",
+    "fetched_at_utc": "2026-07-30 23:39:43 UTC",
+    "fetched_at_ist": "2026-07-31 05:09:43 IST",
     "item_count": 5,
-    "content_hash": "44618fe18ade3bc98f8d9f8b7a51de7451b0c33df1a378e03dc3912cb3bcf10a",
-    "previous_hash": "d9713186c39589410b821f06a05f375e49b433b249798a6b02790c011e1ae07b",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "faab922461317a9abecad07ba12fbffe8d0c9ca114ad554aac320937c18c578d",
+    "previous_hash": "44618fe18ade3bc98f8d9f8b7a51de7451b0c33df1a378e03dc3912cb3bcf10a",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49112744,
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 417,
-      "comments": 237
-    },
-    {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 358,
-      "comments": 120
-    },
-    {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 422,
-      "comments": 376
+      "score": 481,
+      "comments": 273
     },
     {
       "id": 49114639,
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 87,
-      "comments": 29
+      "score": 131,
+      "comments": 50
     },
     {
-      "id": 49113338,
-      "title": "CodePen 2.0",
-      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "score": 101,
-      "comments": 26
+      "id": 49116922,
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "score": 26,
+      "comments": 12
+    },
+    {
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 409,
+      "comments": 144
+    },
+    {
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 453,
+      "comments": 383
     }
   ]
 }
