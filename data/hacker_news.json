@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 15:31:52 UTC",
-    "fetched_at_ist": "2026-07-30 21:01:52 IST",
+    "fetched_at_utc": "2026-07-30 18:43:02 UTC",
+    "fetched_at_ist": "2026-07-31 00:13:02 IST",
     "item_count": 5,
-    "content_hash": "1b79e05af9ad2e77d2f30d1029effdf3fde9a75c6b667f7e21657e9a7492a851",
-    "previous_hash": "84fb77112bbe8e966be669d04dbb036be48bbf6af3f468aa2854ed6a2fe1b746",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "d9713186c39589410b821f06a05f375e49b433b249798a6b02790c011e1ae07b",
+    "previous_hash": "1b79e05af9ad2e77d2f30d1029effdf3fde9a75c6b667f7e21657e9a7492a851",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49109440,
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "score": 389,
-      "comments": 140
+      "id": 49112867,
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 235,
+      "comments": 132
     },
     {
       "id": 49111237,
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 29,
-      "comments": 6
+      "score": 287,
+      "comments": 278
     },
     {
-      "id": 49110348,
-      "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
-      "url": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
-      "score": 31,
-      "comments": 23
+      "id": 49112744,
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 142,
+      "comments": 55
     },
     {
-      "id": 49110655,
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "url": "https://github.com/n67094/sdl_gp",
-      "score": 18,
-      "comments": 3
+      "id": 49113059,
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "score": 82,
+      "comments": 54
     },
     {
-      "id": 49110308,
-      "title": "The Lost Civic Life of Movie Rental Stores",
-      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-      "score": 28,
-      "comments": 13
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 95,
+      "comments": 24
     }
   ]
 }
