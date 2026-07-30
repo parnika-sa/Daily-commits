@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 18:39:08 UTC",
-    "fetched_at_ist": "2026-07-30 00:09:08 IST",
+    "fetched_at_utc": "2026-07-30 01:40:46 UTC",
+    "fetched_at_ist": "2026-07-30 07:10:46 IST",
     "item_count": 5,
-    "content_hash": "84069bd4be0b271b999f9001d34e9a58caf2b793c062334488417080892d8961",
-    "previous_hash": "6b7ef3a579942497436a898b74eccec7922e8f772fb745645994d7fa404fe6e3",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "43589ab4d530b2b599c14381df061b903e2d2d7123b40185c0db6bc25df7af1f",
+    "previous_hash": "84069bd4be0b271b999f9001d34e9a58caf2b793c062334488417080892d8961",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49103285,
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 196,
+      "comments": 112
+    },
+    {
+      "id": 49102774,
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 385,
+      "comments": 181
+    },
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 384,
-      "comments": 119
+      "score": 651,
+      "comments": 226
     },
     {
       "id": 49098965,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 240,
-      "comments": 179
+      "score": 524,
+      "comments": 322
     },
     {
-      "id": 49099715,
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 87,
-      "comments": 31
-    },
-    {
-      "id": 49095865,
-      "title": "KOReader",
-      "url": "https://koreader.rocks/",
-      "score": 552,
-      "comments": 175
-    },
-    {
-      "id": 49096969,
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
-      "score": 223,
-      "comments": 145
+      "id": 49104117,
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 48,
+      "comments": 17
     }
   ]
 }

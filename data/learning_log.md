@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-30 (last updated: 00:09 IST)
+
+## 📅 2026-07-30 (last updated: 07:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-30 00:09:08 IST | 84069bd4be0b | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-30 07:10:46 IST | 43589ab4d530 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-29 17:47:14 IST | 6feb2f762899 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 384
-- [Superlogical](https://www.superlogical.com/) — Score: 240
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) — Score: 87
-- [KOReader](https://koreader.rocks/) — Score: 552
-- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) — Score: 223
+- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Score: 196
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 385
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 651
+- [Superlogical](https://www.superlogical.com/) — Score: 524
+- [LLM Honeypot](https://llm2human.pages.dev/) — Score: 48
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,418.0 🟢 +1.63%
