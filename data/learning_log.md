@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-30 (last updated: 18:59 IST)
+
+## 📅 2026-07-30 (last updated: 21:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-30 10:09:33 IST | 84fb77112bbe | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-30 21:01:52 IST | 1b79e05af9ad | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-30 18:59:17 IST | b6a73fd93a95 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Score: 300
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 486
-- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four) — Score: 54
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 703
-- [Superlogical](https://www.superlogical.com/) — Score: 581
+- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312) — Score: 389
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) — Score: 29
+- [Why DNA damage from smoking and UV rays cause cancer in some but not others](https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others) — Score: 31
+- [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp) — Score: 18
+- [The Lost Civic Life of Movie Rental Stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/) — Score: 28
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,781.0 🟢 +0.97%
