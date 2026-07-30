@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 18:43:02 UTC",
-    "fetched_at_ist": "2026-07-31 00:13:02 IST",
+    "fetched_at_utc": "2026-07-30 22:33:31 UTC",
+    "fetched_at_ist": "2026-07-31 04:03:31 IST",
     "item_count": 5,
-    "content_hash": "d9713186c39589410b821f06a05f375e49b433b249798a6b02790c011e1ae07b",
-    "previous_hash": "1b79e05af9ad2e77d2f30d1029effdf3fde9a75c6b667f7e21657e9a7492a851",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "44618fe18ade3bc98f8d9f8b7a51de7451b0c33df1a378e03dc3912cb3bcf10a",
+    "previous_hash": "d9713186c39589410b821f06a05f375e49b433b249798a6b02790c011e1ae07b",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49112867,
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "score": 235,
-      "comments": 132
-    },
-    {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 287,
-      "comments": 278
-    },
-    {
       "id": 49112744,
-      "title": "Read This Before You Buy That TV Streaming Stick",
+      "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 142,
-      "comments": 55
-    },
-    {
-      "id": 49113059,
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "score": 82,
-      "comments": 54
+      "score": 417,
+      "comments": 237
     },
     {
       "id": 49112232,
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 95,
-      "comments": 24
+      "score": 358,
+      "comments": 120
+    },
+    {
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 422,
+      "comments": 376
+    },
+    {
+      "id": 49114639,
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 87,
+      "comments": 29
+    },
+    {
+      "id": 49113338,
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 101,
+      "comments": 26
     }
   ]
 }
