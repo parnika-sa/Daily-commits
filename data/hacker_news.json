@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-31 07:32:30 UTC",
-    "fetched_at_ist": "2026-07-31 13:02:30 IST",
+    "fetched_at_utc": "2026-07-31 18:05:01 UTC",
+    "fetched_at_ist": "2026-07-31 23:35:01 IST",
     "item_count": 5,
-    "content_hash": "244d281fa41fb436d4539a0c8999c566044e1a33dcb88a3a531b22bc38803917",
-    "previous_hash": "d99481f087176cebf1b9ff908b817008ae1dc8c5c270b873fb1ab5357d7f8dfd",
+    "content_hash": "b79b34eb741fe69836a1a5389ab937b2101c3e436a7770d761fed68028b2e92d",
+    "previous_hash": "244d281fa41fb436d4539a0c8999c566044e1a33dcb88a3a531b22bc38803917",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49118781,
-      "title": "The session you cannot take with you",
-      "url": "https://earendil.com/posts/session-portability/",
-      "score": 177,
-      "comments": 31
+      "id": 49124218,
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 383,
+      "comments": 132
     },
     {
-      "id": 49119063,
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "url": "https://github.com/openjdk/jdk/pull/31120",
-      "score": 55,
-      "comments": 18
+      "id": 49124858,
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "score": 83,
+      "comments": 32
     },
     {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 606,
-      "comments": 201
+      "id": 49125034,
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "score": 40,
+      "comments": 22
     },
     {
-      "id": 49119559,
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 77,
-      "comments": 24
+      "id": 49120299,
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "score": 433,
+      "comments": 230
     },
     {
-      "id": 49077372,
-      "title": "Where USB Memory Sticks are Born (2013)",
-      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-      "score": 38,
-      "comments": 2
+      "id": 49124658,
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "score": 36,
+      "comments": 8
     }
   ]
 }

@@ -15,44 +15,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-31 (last updated: 21:59 IST)
+
+## 📅 2026-07-31 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-31 13:02:30 IST | 244d281fa41f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-31 21:59:47 IST | 6644300320e1 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-07-31 23:35:00 IST | 1d7e37ef6e89 | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-31 23:35:01 IST | b79b34eb741f | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-31 23:35:00 IST | e645764372d1 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
+- GitHub: +12 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
-  ⭐ 1,198 stars today
-- **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** (JavaScript) — The fastest browser for AI agents to run web automation, built for sharing your   
-  ⭐ 898 stars today
-- **[block/buzz](https://github.com/block/buzz)** (Rust) — A hive mind communication platform  
-  ⭐ 1,705 stars today
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (TypeScript) — No description  
-  ⭐ 159 stars today
-- **[CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)** (TypeScript) — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste  
-  ⭐ 892 stars today
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** (PowerShell) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R  
+  ⭐ 612 stars today
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** (TypeScript) — The open-source alternative to Claude Cowork (powered by opencode)  
+  ⭐ 796 stars today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 660 stars today
+- **[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** (Python) — A curated list of awesome libraries, packages, strategies, books, blogs, tutoria  
+  ⭐ 765 stars today
+- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** (Jupyter Notebook) — 12 Weeks, 24 Lessons, AI for All!  
+  ⭐ 1,592 stars today
 
 ### 📰 Hacker News Stories
-- [The session you cannot take with you](https://earendil.com/posts/session-portability/) — Score: 177
-- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) — Score: 55
-- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) — Score: 606
-- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) — Score: 77
-- [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/) — Score: 38
+- [Elevators](https://john.fun/elevators) — Score: 383
+- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) — Score: 83
+- [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) — Score: 40
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) — Score: 433
+- [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/) — Score: 36
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,832.0 🔴 -3.08%
-- Ethereum: $1,863.57 🔴 -2.99%
-- Solana: $73.14 🔴 -2.03%
-- Bnb: $586.12 🔴 -1.00%
+- Bitcoin: $63,187.0 🔴 -2.51%
+- Ethereum: $1,873.18 🔴 -2.42%
+- Solana: $73.32 🔴 -1.95%
+- Bnb: $588.61 🔴 -0.98%
 
 ---
 ## 📅 2026-07-30 (last updated: 21:01 IST)

@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-31 16:29:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-31 18:05:01 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **permissionlesstech/bitchat**
-- BTC: **$62,832.0** ↓ (-3.08%)
-- HN top story: **The session you cannot take with you**
+- Top GitHub repo: **zhaoxuya520/reverse-skill**
+- BTC: **$63,187.0** ↓ (-2.51%)
+- HN top story: **Elevators**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-26 18:11:13 UTC | `45bfc8435f3b` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-31 07:32:30 UTC | `244d281fa41f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-31 16:29:47 UTC | `6644300320e1` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-07-31 18:05:00 UTC | `1d7e37ef6e89` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-31 18:05:01 UTC | `b79b34eb741f` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-31 18:05:00 UTC | `e645764372d1` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +12 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-31` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-31 20:24:21 IST` |
+| Last Commit (IST) | `2026-07-31 21:59:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-07-31 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,832.0 | -3.08% | 🔴 |
-| Ethereum | $1,863.57 | -2.99% | 🔴 |
-| Solana | $73.14 | -2.03% | 🔴 |
-| Bnb | $586.12 | -1.00% | 🔴 |
+| Bitcoin | $63,187.0 | -2.51% | 🔴 |
+| Ethereum | $1,873.18 | -2.42% | 🔴 |
+| Solana | $73.32 | -1.95% | 🔴 |
+| Bnb | $588.61 | -0.98% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,198 stars today | bluetooth mesh chat, IRC vibes |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 898 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
-| [block/buzz](https://github.com/block/buzz) | Rust | 1,705 stars today | A hive mind communication platform |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 159 stars today | No description |
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 892 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 180 stars today | Pretty fancy and modern terminal file manager |
-| [nodejs/node](https://github.com/nodejs/node) | JavaScript | 37 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 399 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 612 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 796 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 660 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 765 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,592 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 7 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 53 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
+| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 336 stars today | a code review TUI with vim keybindings |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The session you cannot take with you](https://earendil.com/posts/session-portability/) | 177 | 31 |
-| [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) | 55 | 18 |
-| [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) | 606 | 201 |
-| [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) | 77 | 24 |
-| [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/) | 38 | 2 |
+| [Elevators](https://john.fun/elevators) | 383 | 132 |
+| [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) | 83 | 32 |
+| [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) | 40 | 22 |
+| [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) | 433 | 230 |
+| [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/) | 36 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
