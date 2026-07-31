@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 23:39:43 UTC",
-    "fetched_at_ist": "2026-07-31 05:09:43 IST",
+    "fetched_at_utc": "2026-07-31 04:37:25 UTC",
+    "fetched_at_ist": "2026-07-31 10:07:25 IST",
     "item_count": 5,
-    "content_hash": "faab922461317a9abecad07ba12fbffe8d0c9ca114ad554aac320937c18c578d",
-    "previous_hash": "44618fe18ade3bc98f8d9f8b7a51de7451b0c33df1a378e03dc3912cb3bcf10a",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "d99481f087176cebf1b9ff908b817008ae1dc8c5c270b873fb1ab5357d7f8dfd",
+    "previous_hash": "faab922461317a9abecad07ba12fbffe8d0c9ca114ad554aac320937c18c578d",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49117099,
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 205,
+      "comments": 105
+    },
+    {
+      "id": 49118933,
+      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "url": "https://greyswansignals.com/?theme=dark",
+      "score": 11,
+      "comments": 0
+    },
     {
       "id": 49112744,
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 481,
-      "comments": 273
+      "score": 626,
+      "comments": 367
     },
     {
-      "id": 49114639,
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 131,
-      "comments": 50
+      "id": 49118663,
+      "title": "A California aquifer may have crossed the point of no return",
+      "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+      "score": 78,
+      "comments": 55
     },
     {
-      "id": 49116922,
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 26,
-      "comments": 12
-    },
-    {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 409,
-      "comments": 144
-    },
-    {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 453,
-      "comments": 383
+      "id": 49116721,
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 133,
+      "comments": 57
     }
   ]
 }
