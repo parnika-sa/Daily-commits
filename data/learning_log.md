@@ -12,19 +12,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-31 (last updated: 13:02 IST)
+
+## 📅 2026-07-31 (last updated: 17:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-31 13:02:30 IST | 244d281fa41f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-31 02:50:49 IST | 83e878f48d9d | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-31 17:46:23 IST | dadd71a5cc92 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
@@ -46,10 +47,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/) — Score: 38
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,698.0 🟢 +2.02%
-- Ethereum: $1,921.35 🟢 +1.97%
-- Solana: $74.51 🟢 +2.58%
-- Bnb: $591.17 🟢 +4.36%
+- Bitcoin: $63,674.0 🔴 -1.94%
+- Ethereum: $1,875.92 🔴 -2.52%
+- Solana: $73.42 🔴 -1.07%
+- Bnb: $590.87 🟢 +0.61%
 
 ---
 ## 📅 2026-07-30 (last updated: 21:01 IST)
