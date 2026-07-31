@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-31 (last updated: 10:07 IST)
+
+## 📅 2026-07-31 (last updated: 13:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-26 23:41:13 IST | 45bfc8435f3b | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-31 10:07:25 IST | d99481f08717 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-31 13:02:30 IST | 244d281fa41f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-31 02:50:49 IST | 83e878f48d9d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) — Score: 205
-- [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark) — Score: 11
-- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — Score: 626
-- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return) — Score: 78
-- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) — Score: 133
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/) — Score: 177
+- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) — Score: 55
+- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) — Score: 606
+- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) — Score: 77
+- [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/) — Score: 38
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,698.0 🟢 +2.02%
