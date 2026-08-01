@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 06:12:53 UTC",
-    "fetched_at_ist": "2026-08-01 11:42:53 IST",
+    "fetched_at_utc": "2026-08-01 11:38:35 UTC",
+    "fetched_at_ist": "2026-08-01 17:08:35 IST",
     "item_count": 5,
-    "content_hash": "e8da5fe10caa4bdeab7848b180eb56de81da4ba5d116d39b63ca050a1adf6cee",
-    "previous_hash": "aed97c4a777f3345f79ad18a91e0c143e0bc1145b1a24ceadd5083dcdc4b1b07",
+    "content_hash": "a20a7749028e9b5b294c3c82a5a95eae8f13950916d2ea128585828405cae71d",
+    "previous_hash": "e8da5fe10caa4bdeab7848b180eb56de81da4ba5d116d39b63ca050a1adf6cee",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49132130,
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "score": 136,
+      "comments": 114
+    },
+    {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1125,
-      "comments": 265
+      "score": 1338,
+      "comments": 326
     },
     {
       "id": 49130604,
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 57,
+      "score": 137,
+      "comments": 48
+    },
+    {
+      "id": 49132289,
+      "title": "How to Do Great Work (2023)",
+      "url": "https://paulgraham.com/greatwork.html",
+      "score": 31,
       "comments": 17
     },
     {
-      "id": 49129990,
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 114,
-      "comments": 57
-    },
-    {
-      "id": 49130726,
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 49,
-      "comments": 18
-    },
-    {
-      "id": 49126604,
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 525,
-      "comments": 110
+      "id": 49132460,
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "score": 100,
+      "comments": 52
     }
   ]
 }
