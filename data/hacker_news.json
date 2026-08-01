@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 11:38:35 UTC",
-    "fetched_at_ist": "2026-08-01 17:08:35 IST",
+    "fetched_at_utc": "2026-08-01 12:37:08 UTC",
+    "fetched_at_ist": "2026-08-01 18:07:08 IST",
     "item_count": 5,
-    "content_hash": "a20a7749028e9b5b294c3c82a5a95eae8f13950916d2ea128585828405cae71d",
-    "previous_hash": "e8da5fe10caa4bdeab7848b180eb56de81da4ba5d116d39b63ca050a1adf6cee",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ebc7728cccb9772ee843e81686b5c11761da0d12b5150add1b3b3e315972eccc",
+    "previous_hash": "a20a7749028e9b5b294c3c82a5a95eae8f13950916d2ea128585828405cae71d",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49132130,
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "score": 136,
-      "comments": 114
-    },
-    {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1338,
-      "comments": 326
+      "score": 1369,
+      "comments": 334
     },
     {
       "id": 49130604,
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 137,
-      "comments": 48
+      "score": 150,
+      "comments": 55
+    },
+    {
+      "id": 49126604,
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "score": 589,
+      "comments": 123
+    },
+    {
+      "id": 49129990,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 243,
+      "comments": 134
     },
     {
       "id": 49132289,
       "title": "How to Do Great Work (2023)",
       "url": "https://paulgraham.com/greatwork.html",
-      "score": 31,
-      "comments": 17
-    },
-    {
-      "id": 49132460,
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "score": 100,
-      "comments": 52
+      "score": 41,
+      "comments": 27
     }
   ]
 }
