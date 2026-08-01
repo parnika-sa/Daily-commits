@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 20:32:46 UTC",
-    "fetched_at_ist": "2026-08-02 02:02:46 IST",
+    "fetched_at_utc": "2026-08-01 21:34:31 UTC",
+    "fetched_at_ist": "2026-08-02 03:04:31 IST",
     "item_count": 5,
-    "content_hash": "de495404ab15f957d8a4a638d7bbdc55d29533dc1d758b4ff71fef9d258f01ed",
-    "previous_hash": "e728b11f102cee631f4e4884d534ac6a4bdfa4e06ad29909aa19b9afda6f40c5",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "1defb51d662a75e009054aa02d2a168176292b8a9ee6bc33d690697bc4f9e1a7",
+    "previous_hash": "de495404ab15f957d8a4a638d7bbdc55d29533dc1d758b4ff71fef9d258f01ed",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49137681,
-      "title": "Google News is just Forrest Gump's shrimp boat now",
-      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "score": 103,
-      "comments": 59
+      "id": 49136821,
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 152,
+      "comments": 45
+    },
+    {
+      "id": 49138045,
+      "title": "The Silicon Valley Founder Meat Grinder",
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "score": 70,
+      "comments": 33
+    },
+    {
+      "id": 49138188,
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 41,
+      "comments": 7
     },
     {
       "id": 49137060,
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 67,
-      "comments": 27
-    },
-    {
-      "id": 49136821,
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 44,
-      "comments": 9
+      "score": 82,
+      "comments": 30
     },
     {
       "id": 49134599,
       "title": "The Art of 64-bit Assembly",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 137,
-      "comments": 66
-    },
-    {
-      "id": 49137713,
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "score": 10,
-      "comments": 0
+      "score": 150,
+      "comments": 71
     }
   ]
 }
