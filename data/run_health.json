@@ -2,16 +2,16 @@
   "schema_version": 2,
   "date_ist": "2026-08-01",
   "target_commits_per_day": 100,
-  "commits_today": 6,
-  "remaining_today": 94,
+  "commits_today": 7,
+  "remaining_today": 93,
   "status": "on-track",
   "streak_days": 86,
   "commit_count_source": "git-history",
   "pending_commit_included": 1,
-  "last_commit_utc": "2026-08-01 00:00:11 UTC",
-  "last_commit_ist": "2026-08-01 05:30:11 IST",
-  "last_data_update_utc": "2026-08-01 03:25:01 UTC",
-  "last_data_update_ist": "2026-08-01 08:55:01 IST",
+  "last_commit_utc": "2026-08-01 03:25:01 UTC",
+  "last_commit_ist": "2026-08-01 08:55:01 IST",
+  "last_data_update_utc": "2026-08-01 06:12:53 UTC",
+  "last_data_update_ist": "2026-08-01 11:42:53 IST",
   "sources": {
     "github": {
       "label": "GitHub Trending",
@@ -26,20 +26,20 @@
     "hacker_news": {
       "label": "Hacker News",
       "item_count": 5,
-      "last_fetch_utc": "2026-08-01 00:00:11 UTC",
-      "last_fetch_ist": "2026-08-01 05:30:11 IST",
-      "content_hash": "aed97c4a777f3345f79ad18a91e0c143e0bc1145b1a24ceadd5083dcdc4b1b07",
-      "content_hash_short": "aed97c4a777f",
+      "last_fetch_utc": "2026-08-01 06:12:53 UTC",
+      "last_fetch_ist": "2026-08-01 11:42:53 IST",
+      "content_hash": "e8da5fe10caa4bdeab7848b180eb56de81da4ba5d116d39b63ca050a1adf6cee",
+      "content_hash_short": "e8da5fe10caa",
       "change_flag": true,
-      "change_summary": "+4 new stories"
+      "change_summary": "+3 new stories"
     },
     "crypto": {
       "label": "Crypto",
       "item_count": 4,
-      "last_fetch_utc": "2026-08-01 03:25:01 UTC",
-      "last_fetch_ist": "2026-08-01 08:55:01 IST",
-      "content_hash": "2856ab16d238adeb7144df548fce8df5836ac280b804b727111e07272f93d248",
-      "content_hash_short": "2856ab16d238",
+      "last_fetch_utc": "2026-08-01 06:12:52 UTC",
+      "last_fetch_ist": "2026-08-01 11:42:52 IST",
+      "content_hash": "147c16f7e8f53a7684018cd48206912a1d7acf08399f94ad51bd36aa50158529",
+      "content_hash_short": "147c16f7e8f5",
       "change_flag": true,
       "change_summary": "4 assets moved"
     }

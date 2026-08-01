@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 00:00:11 UTC",
-    "fetched_at_ist": "2026-08-01 05:30:11 IST",
+    "fetched_at_utc": "2026-08-01 06:12:53 UTC",
+    "fetched_at_ist": "2026-08-01 11:42:53 IST",
     "item_count": 5,
-    "content_hash": "aed97c4a777f3345f79ad18a91e0c143e0bc1145b1a24ceadd5083dcdc4b1b07",
-    "previous_hash": "b79b34eb741fe69836a1a5389ab937b2101c3e436a7770d761fed68028b2e92d",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e8da5fe10caa4bdeab7848b180eb56de81da4ba5d116d39b63ca050a1adf6cee",
+    "previous_hash": "aed97c4a777f3345f79ad18a91e0c143e0bc1145b1a24ceadd5083dcdc4b1b07",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49127306,
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 375,
-      "comments": 151
-    },
-    {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 814,
-      "comments": 208
+      "score": 1125,
+      "comments": 265
+    },
+    {
+      "id": 49130604,
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 57,
+      "comments": 17
+    },
+    {
+      "id": 49129990,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 114,
+      "comments": 57
+    },
+    {
+      "id": 49130726,
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 49,
+      "comments": 18
     },
     {
       "id": 49126604,
-      "title": "qm",
+      "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 391,
-      "comments": 88
-    },
-    {
-      "id": 49083599,
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 103,
-      "comments": 34
-    },
-    {
-      "id": 49117089,
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 25,
-      "comments": 10
+      "score": 525,
+      "comments": 110
     }
   ]
 }
