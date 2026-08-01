@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-31 18:05:01 UTC",
-    "fetched_at_ist": "2026-07-31 23:35:01 IST",
+    "fetched_at_utc": "2026-08-01 00:00:11 UTC",
+    "fetched_at_ist": "2026-08-01 05:30:11 IST",
     "item_count": 5,
-    "content_hash": "b79b34eb741fe69836a1a5389ab937b2101c3e436a7770d761fed68028b2e92d",
-    "previous_hash": "244d281fa41fb436d4539a0c8999c566044e1a33dcb88a3a531b22bc38803917",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "aed97c4a777f3345f79ad18a91e0c143e0bc1145b1a24ceadd5083dcdc4b1b07",
+    "previous_hash": "b79b34eb741fe69836a1a5389ab937b2101c3e436a7770d761fed68028b2e92d",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49127306,
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 375,
+      "comments": 151
+    },
+    {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 383,
-      "comments": 132
+      "score": 814,
+      "comments": 208
     },
     {
-      "id": 49124858,
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 83,
-      "comments": 32
+      "id": 49126604,
+      "title": "qm",
+      "url": "https://github.com/yc-software/qm",
+      "score": 391,
+      "comments": 88
     },
     {
-      "id": 49125034,
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 40,
-      "comments": 22
+      "id": 49083599,
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "score": 103,
+      "comments": 34
     },
     {
-      "id": 49120299,
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 433,
-      "comments": 230
-    },
-    {
-      "id": 49124658,
-      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 36,
-      "comments": 8
+      "id": 49117089,
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 25,
+      "comments": 10
     }
   ]
 }

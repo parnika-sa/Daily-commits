@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-31 18:05:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-01 00:00:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zhaoxuya520/reverse-skill**
-- BTC: **$63,187.0** ↓ (-2.51%)
-- HN top story: **Elevators**
+- BTC: **$62,812.0** ↓ (-2.97%)
+- HN top story: **Tailscale didn't stop the Hugging Face intrusion**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-31 18:05:00 UTC | `1d7e37ef6e89` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-31 18:05:01 UTC | `b79b34eb741f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-31 18:05:00 UTC | `e645764372d1` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-08-01 00:00:09 UTC | `9657b9b10f60` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-01 00:00:11 UTC | `aed97c4a777f` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-01 00:00:10 UTC | `ed87b9fcad12` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-01` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-01 03:27:39 IST` |
+| Last Commit (IST) | `2026-08-01 04:27:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-31 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-08-01 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-08-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,187.0 | -2.51% | 🔴 |
-| Ethereum | $1,873.18 | -2.42% | 🔴 |
-| Solana | $73.32 | -1.95% | 🔴 |
-| Bnb | $588.61 | -0.98% | 🔴 |
+| Bitcoin | $62,812.0 | -2.97% | 🔴 |
+| Ethereum | $1,860.34 | -3.00% | 🔴 |
+| Solana | $72.79 | -2.25% | 🔴 |
+| Bnb | $586.44 | -0.91% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 612 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 796 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 660 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 765 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 335 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 806 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 658 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 763 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,592 stars today | 12 Weeks, 24 Lessons, AI for All! |
 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 7 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 53 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 336 stars today | a code review TUI with vim keybindings |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
+| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 335 stars today | a code review TUI with vim keybindings |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Elevators](https://john.fun/elevators) | 383 | 132 |
-| [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) | 83 | 32 |
-| [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) | 40 | 22 |
-| [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) | 433 | 230 |
-| [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/) | 36 | 8 |
+| [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion) | 375 | 151 |
+| [Elevators](https://john.fun/elevators) | 814 | 208 |
+| [qm](https://github.com/yc-software/qm) | 391 | 88 |
+| [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/) | 103 | 34 |
+| [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus) | 25 | 10 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
