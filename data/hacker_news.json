@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 19:43:37 UTC",
-    "fetched_at_ist": "2026-08-02 01:13:37 IST",
+    "fetched_at_utc": "2026-08-01 20:32:46 UTC",
+    "fetched_at_ist": "2026-08-02 02:02:46 IST",
     "item_count": 5,
-    "content_hash": "e728b11f102cee631f4e4884d534ac6a4bdfa4e06ad29909aa19b9afda6f40c5",
-    "previous_hash": "ebc7728cccb9772ee843e81686b5c11761da0d12b5150add1b3b3e315972eccc",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "de495404ab15f957d8a4a638d7bbdc55d29533dc1d758b4ff71fef9d258f01ed",
+    "previous_hash": "e728b11f102cee631f4e4884d534ac6a4bdfa4e06ad29909aa19b9afda6f40c5",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49136736,
-      "title": "NetBSD 11.0 Released",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 95,
-      "comments": 19
+      "id": 49137681,
+      "title": "Google News is just Forrest Gump's shrimp boat now",
+      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "score": 103,
+      "comments": 59
     },
     {
       "id": 49137060,
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 42,
-      "comments": 15
+      "score": 67,
+      "comments": 27
+    },
+    {
+      "id": 49136821,
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 44,
+      "comments": 9
     },
     {
       "id": 49134599,
       "title": "The Art of 64-bit Assembly",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 124,
-      "comments": 65
+      "score": 137,
+      "comments": 66
     },
     {
-      "id": 49135985,
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "score": 30,
-      "comments": 5
-    },
-    {
-      "id": 49135245,
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 51,
-      "comments": 19
+      "id": 49137713,
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 10,
+      "comments": 0
     }
   ]
 }
