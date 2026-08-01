@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 22:35:55 UTC",
-    "fetched_at_ist": "2026-08-02 04:05:55 IST",
+    "fetched_at_utc": "2026-08-01 23:38:26 UTC",
+    "fetched_at_ist": "2026-08-02 05:08:26 IST",
     "item_count": 5,
-    "content_hash": "605017db9e421cd0f0222b40a3bc97d5d1db24a7e66f092f204c5e48fcacb1fa",
-    "previous_hash": "1defb51d662a75e009054aa02d2a168176292b8a9ee6bc33d690697bc4f9e1a7",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "9f07a0a6625c507ea8e72884a29893e8a763f95116dfd4557956351d9d384f9e",
+    "previous_hash": "605017db9e421cd0f0222b40a3bc97d5d1db24a7e66f092f204c5e48fcacb1fa",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49136821,
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 255,
-      "comments": 63
+      "id": 49139102,
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 60,
+      "comments": 38
     },
     {
       "id": 49138188,
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 79,
-      "comments": 10
+      "score": 124,
+      "comments": 20
     },
     {
       "id": 49138302,
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 41,
-      "comments": 10
+      "score": 81,
+      "comments": 28
     },
     {
-      "id": 49139102,
-      "title": "From MIT: AI financial advice is surprisingly good",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 9,
-      "comments": 3
+      "id": 49139562,
+      "title": "Stop fucking around with database commits and transactions",
+      "url": "https://www.droppedasbaby.com/posts/db-commits/",
+      "score": 6,
+      "comments": 0
     },
     {
       "id": 49137060,
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 92,
-      "comments": 33
+      "score": 104,
+      "comments": 37
     }
   ]
 }
