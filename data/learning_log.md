@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-02 (last updated: 05:08 IST)
+
+## 📅 2026-08-02 (last updated: 10:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-01 05:30:09 IST | 9657b9b10f60 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-02 05:08:26 IST | 9f07a0a6625c | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-02 10:06:58 IST | 749a7344286b | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-01 23:58:52 IST | f5cccb59503c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,592 stars today
 
 ### 📰 Hacker News Stories
-- [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) — Score: 60
-- [Diátaxis](https://diataxis.fr/) — Score: 124
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) — Score: 81
-- [Stop fucking around with database commits and transactions](https://www.droppedasbaby.com/posts/db-commits/) — Score: 6
-- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) — Score: 104
+- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow) — Score: 62
+- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) — Score: 87
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — Score: 20
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) — Score: 226
+- [Diátaxis](https://diataxis.fr/) — Score: 249
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,527.0 🔴 -0.78%

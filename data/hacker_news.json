@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 23:38:26 UTC",
-    "fetched_at_ist": "2026-08-02 05:08:26 IST",
+    "fetched_at_utc": "2026-08-02 04:36:58 UTC",
+    "fetched_at_ist": "2026-08-02 10:06:58 IST",
     "item_count": 5,
-    "content_hash": "9f07a0a6625c507ea8e72884a29893e8a763f95116dfd4557956351d9d384f9e",
-    "previous_hash": "605017db9e421cd0f0222b40a3bc97d5d1db24a7e66f092f204c5e48fcacb1fa",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "749a7344286b839768c3fe724de7f940b5cf005ef2125ae4749549366372f67d",
+    "previous_hash": "9f07a0a6625c507ea8e72884a29893e8a763f95116dfd4557956351d9d384f9e",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49139102,
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 60,
-      "comments": 38
+      "id": 49140633,
+      "title": "Plug-in solar is coming. Plug-in batteries should follow",
+      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "score": 62,
+      "comments": 40
     },
     {
-      "id": 49138188,
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 124,
-      "comments": 20
+      "id": 49140218,
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 87,
+      "comments": 22
+    },
+    {
+      "id": 49140702,
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 20,
+      "comments": 1
     },
     {
       "id": 49138302,
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 81,
-      "comments": 28
+      "score": 226,
+      "comments": 111
     },
     {
-      "id": 49139562,
-      "title": "Stop fucking around with database commits and transactions",
-      "url": "https://www.droppedasbaby.com/posts/db-commits/",
-      "score": 6,
-      "comments": 0
-    },
-    {
-      "id": 49137060,
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 104,
-      "comments": 37
+      "id": 49138188,
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 249,
+      "comments": 33
     }
   ]
 }
