@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-02 09:28:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-02 12:02:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **zhaoxuya520/reverse-skill**
-- BTC: **$63,216.0** ↑ (+0.26%)
-- HN top story: **Plug-in solar is coming. Plug-in batteries should follow**
+- Top GitHub repo: **microsoft/AI-For-Beginners**
+- BTC: **$63,010.0** ↓ (-0.05%)
+- HN top story: **Is the Industrial Revolution a good precedent for explosive growth today?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-01 00:00:09 UTC | `9657b9b10f60` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-02 04:36:58 UTC | `749a7344286b` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-02 09:28:46 UTC | `068223b1596f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-08-02 12:02:47 UTC | `a6dc0994e644` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-02 12:02:48 UTC | `8d1d31d059dd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-02 12:02:47 UTC | `bba3fd5866d7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-02` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
-| Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-02 14:58:47 IST` |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Streak | `85` day(s) |
+| Last Commit (IST) | `2026-08-02 16:28:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-31 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-08-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-08-02 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-08-02 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,216.0 | +0.26% | 🟢 |
-| Ethereum | $1,869.7 | +0.09% | 🟢 |
-| Solana | $73.28 | +0.53% | 🟢 |
-| Bnb | $583.21 | -0.22% | 🔴 |
+| Bitcoin | $63,010.0 | -0.05% | 🔴 |
+| Ethereum | $1,852.35 | -0.73% | 🔴 |
+| Solana | $72.98 | +0.17% | 🟢 |
+| Bnb | $581.84 | +0.37% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 335 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 806 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 658 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 763 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,592 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 7 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 335 stars today | a code review TUI with vim keybindings |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 949 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 760 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 435 stars today | Invidious is an alternative front-end to YouTube |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 710 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,320 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 585 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 108 stars today | 21 Lessons, Get Started Building with Generative AI |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow) | 62 | 40 |
-| [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) | 87 | 22 |
-| [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) | 20 | 1 |
-| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | 226 | 111 |
-| [Diátaxis](https://diataxis.fr/) | 249 | 33 |
+| [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html) | 30 | 36 |
+| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 47 | 10 |
+| [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) | 6 | 0 |
+| [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) | 17 | 5 |
+| [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) | 29 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

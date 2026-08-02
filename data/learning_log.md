@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-02 (last updated: 14:58 IST)
+
+## 📅 2026-08-02 (last updated: 17:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-01 05:30:09 IST | 9657b9b10f60 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-02 10:06:58 IST | 749a7344286b | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-02 14:58:46 IST | 068223b1596f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-08-02 17:32:47 IST | a6dc0994e644 | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-02 17:32:48 IST | 8d1d31d059dd | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-02 17:32:47 IST | bba3fd5866d7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** (PowerShell) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R  
-  ⭐ 335 stars today
-- **[different-ai/openwork](https://github.com/different-ai/openwork)** (TypeScript) — The open-source alternative to Claude Cowork (powered by opencode)  
-  ⭐ 806 stars today
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 658 stars today
-- **[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** (Python) — A curated list of awesome libraries, packages, strategies, books, blogs, tutoria  
-  ⭐ 763 stars today
 - **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** (Jupyter Notebook) — 12 Weeks, 24 Lessons, AI for All!  
-  ⭐ 1,592 stars today
+  ⭐ 949 stars today
+- **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** (TypeScript) — 🎯 All you need. Nothing you don't. Open source project management that works for  
+  ⭐ 760 stars today
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** (Jupyter Notebook) — AirLLM 70B inference with single 4GB GPU  
+  ⭐ 242 stars today
+- **[iv-org/invidious](https://github.com/iv-org/invidious)** (Crystal) — Invidious is an alternative front-end to YouTube  
+  ⭐ 435 stars today
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
+  ⭐ 710 stars today
 
 ### 📰 Hacker News Stories
-- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow) — Score: 62
-- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) — Score: 87
-- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — Score: 20
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) — Score: 226
-- [Diátaxis](https://diataxis.fr/) — Score: 249
+- [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html) — Score: 30
+- [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) — Score: 47
+- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) — Score: 6
+- [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) — Score: 17
+- [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) — Score: 29
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,216.0 🟢 +0.26%
-- Ethereum: $1,869.7 🟢 +0.09%
-- Solana: $73.28 🟢 +0.53%
-- Bnb: $583.21 🔴 -0.22%
+- Bitcoin: $63,010.0 🔴 -0.05%
+- Ethereum: $1,852.35 🔴 -0.73%
+- Solana: $72.98 🟢 +0.17%
+- Bnb: $581.84 🟢 +0.37%
 
 ---
 ## 📅 2026-08-01 (last updated: 23:58 IST)
