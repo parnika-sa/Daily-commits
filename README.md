@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-02 12:02:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-03 00:09:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/AI-For-Beginners**
-- BTC: **$63,010.0** ↓ (-0.05%)
-- HN top story: **Is the Industrial Revolution a good precedent for explosive growth today?**
+- BTC: **$63,398.0** ↑ (+0.87%)
+- HN top story: **Karpathy’s Pelican**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-08-02 12:02:47 UTC | `a6dc0994e644` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-02 12:02:48 UTC | `8d1d31d059dd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-02 12:02:47 UTC | `bba3fd5866d7` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-08-03 00:09:45 UTC | `4579af7f721d` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-03 00:09:46 UTC | `aff89c4f3991` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-03 00:09:45 UTC | `8be31f5b1040` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-03` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-03 03:37:52 IST` |
+| Last Commit (IST) | `2026-08-03 04:38:24 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-31 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-08-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-02 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-08-03 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-08-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,010.0 | -0.05% | 🔴 |
-| Ethereum | $1,852.35 | -0.73% | 🔴 |
-| Solana | $72.98 | +0.17% | 🟢 |
-| Bnb | $581.84 | +0.37% | 🟢 |
+| Bitcoin | $63,398.0 | +0.87% | 🟢 |
+| Ethereum | $1,878.78 | +1.77% | 🟢 |
+| Solana | $73.38 | +1.99% | 🟢 |
+| Bnb | $586.22 | +1.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 949 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 760 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
-| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 435 stars today | Invidious is an alternative front-end to YouTube |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 710 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,320 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 585 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 108 stars today | 21 Lessons, Get Started Building with Generative AI |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 2,629 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 496 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 819 stars today | AirLLM 70B inference with single 4GB GPU |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 305 stars today | Invidious is an alternative front-end to YouTube |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 674 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,141 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 280 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 588 stars today | 21 Lessons, Get Started Building with Generative AI |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html) | 30 | 36 |
-| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 47 | 10 |
-| [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) | 6 | 0 |
-| [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) | 17 | 5 |
-| [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) | 29 | 3 |
+| [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) | 407 | 320 |
+| [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) | 37 | 4 |
+| [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty) | 25 | 7 |
+| [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest) | 77 | 58 |
+| [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) | 108 | 29 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
