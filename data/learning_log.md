@@ -11,13 +11,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-03 (last updated: 05:39 IST)
+
+## 📅 2026-08-03 (last updated: 16:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-08-03 05:39:45 IST | 4579af7f721d | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-03 05:39:46 IST | aff89c4f3991 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-03 16:02:39 IST | d1824ba43ab9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-03 05:39:45 IST | 8be31f5b1040 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 674 stars today
 
 ### 📰 Hacker News Stories
-- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) — Score: 407
-- [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) — Score: 37
-- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty) — Score: 25
-- [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest) — Score: 77
-- [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) — Score: 108
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) — Score: 614
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) — Score: 594
+- [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/) — Score: 23
+- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai) — Score: 49
+- [Less Coffee, Better Sleep](https://www.marginalia.nu/log/a_109_sleep2/) — Score: 25
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,398.0 🟢 +0.87%
