@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-03 18:02:36 UTC",
-    "fetched_at_ist": "2026-08-03 23:32:36 IST",
+    "fetched_at_utc": "2026-08-04 06:38:23 UTC",
+    "fetched_at_ist": "2026-08-04 12:08:23 IST",
     "item_count": 5,
-    "content_hash": "95b99df62fb67b311ae444db0b4420ba34e1e17d7c1e3f4656cb2a769094d298",
-    "previous_hash": "d1824ba43ab939e37ece2dd4df8179ae8da6db7c07696c3561e341b41284992f",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "75a2b3a3e322bdaef241aaf7dc27963fca65c19c2ae02ac6cd286ba9613134bf",
+    "previous_hash": "95b99df62fb67b311ae444db0b4420ba34e1e17d7c1e3f4656cb2a769094d298",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49156111,
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 245,
-      "comments": 81
+      "id": 49161518,
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 737,
+      "comments": 311
+    },
+    {
+      "id": 49158333,
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "score": 106,
+      "comments": 31
+    },
+    {
+      "id": 49099336,
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "score": 110,
+      "comments": 76
     },
     {
       "id": 49157930,
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 58,
-      "comments": 372
+      "score": 512,
+      "comments": 784
     },
     {
-      "id": 49155629,
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 169,
-      "comments": 50
-    },
-    {
-      "id": 49155359,
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-      "score": 142,
-      "comments": 55
-    },
-    {
-      "id": 49158474,
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 24,
-      "comments": 4
+      "id": 49156111,
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "score": 568,
+      "comments": 197
     }
   ]
 }

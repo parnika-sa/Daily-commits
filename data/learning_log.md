@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-04 (last updated: 04:46 IST)
+
+## 📅 2026-08-04 (last updated: 12:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 23:32:35 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-03 23:32:36 IST | 95b99df62fb6 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-04 12:08:23 IST | 75a2b3a3e322 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-04 04:46:54 IST | e63ca555cd88 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,091 stars today
 
 ### 📰 Hacker News Stories
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 245
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 58
-- [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) — Score: 169
-- [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) — Score: 142
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) — Score: 24
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 737
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) — Score: 106
+- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) — Score: 110
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 512
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 568
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,484.0 🟢 +0.31%
