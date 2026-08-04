@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-04 06:38:23 UTC",
-    "fetched_at_ist": "2026-08-04 12:08:23 IST",
+    "fetched_at_utc": "2026-08-04 11:37:16 UTC",
+    "fetched_at_ist": "2026-08-04 17:07:16 IST",
     "item_count": 5,
-    "content_hash": "75a2b3a3e322bdaef241aaf7dc27963fca65c19c2ae02ac6cd286ba9613134bf",
-    "previous_hash": "95b99df62fb67b311ae444db0b4420ba34e1e17d7c1e3f4656cb2a769094d298",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "88ced8964641374c44fe4b1b6e582012d6fd088432633d7d2e4406262b6daac9",
+    "previous_hash": "75a2b3a3e322bdaef241aaf7dc27963fca65c19c2ae02ac6cd286ba9613134bf",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49166202,
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "score": 208,
+      "comments": 39
+    },
+    {
+      "id": 49166386,
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "score": 57,
+      "comments": 7
+    },
+    {
       "id": 49161518,
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 737,
-      "comments": 311
+      "score": 1020,
+      "comments": 433
     },
     {
-      "id": 49158333,
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 106,
-      "comments": 31
+      "id": 49166860,
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "score": 71,
+      "comments": 41
     },
     {
-      "id": 49099336,
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 110,
-      "comments": 76
-    },
-    {
-      "id": 49157930,
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 512,
-      "comments": 784
-    },
-    {
-      "id": 49156111,
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 568,
-      "comments": 197
+      "id": 49164896,
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "score": 81,
+      "comments": 10
     }
   ]
 }

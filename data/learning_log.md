@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-04 (last updated: 14:55 IST)
+
+## 📅 2026-08-04 (last updated: 17:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 23:32:35 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-04 12:08:23 IST | 75a2b3a3e322 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-04 17:07:16 IST | 88ced8964641 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-04 14:55:54 IST | 6f170ced7c4e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,091 stars today
 
 ### 📰 Hacker News Stories
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 737
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) — Score: 106
-- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) — Score: 110
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 512
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 568
+- [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES) — Score: 208
+- [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) — Score: 57
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 1020
+- [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html) — Score: 71
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/) — Score: 81
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,523.0 🟢 +1.50%
