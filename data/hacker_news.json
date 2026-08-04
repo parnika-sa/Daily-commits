@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-04 11:37:16 UTC",
-    "fetched_at_ist": "2026-08-04 17:07:16 IST",
+    "fetched_at_utc": "2026-08-04 15:43:17 UTC",
+    "fetched_at_ist": "2026-08-04 21:13:17 IST",
     "item_count": 5,
-    "content_hash": "88ced8964641374c44fe4b1b6e582012d6fd088432633d7d2e4406262b6daac9",
-    "previous_hash": "75a2b3a3e322bdaef241aaf7dc27963fca65c19c2ae02ac6cd286ba9613134bf",
+    "content_hash": "7cb4f004fe718bf9056ced6c6d310eb69359477e198a1f06c73be9a2504d8437",
+    "previous_hash": "88ced8964641374c44fe4b1b6e582012d6fd088432633d7d2e4406262b6daac9",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49166202,
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "score": 208,
-      "comments": 39
+      "id": 49166491,
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "score": 344,
+      "comments": 141
     },
     {
       "id": 49166386,
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 57,
-      "comments": 7
+      "score": 237,
+      "comments": 56
     },
     {
-      "id": 49161518,
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 1020,
-      "comments": 433
+      "id": 49170165,
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 12,
+      "comments": 0
     },
     {
-      "id": 49166860,
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "score": 71,
-      "comments": 41
+      "id": 49169640,
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "score": 39,
+      "comments": 16
     },
     {
-      "id": 49164896,
-      "title": "Harness Engineering for Self-Improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 81,
-      "comments": 10
+      "id": 49168886,
+      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+      "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+      "score": 17,
+      "comments": 4
     }
   ]
 }
