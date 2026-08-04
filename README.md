@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-04 06:38:23 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-04 09:25:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **lyogavin/airllm**
-- BTC: **$63,484.0** ↑ (+0.31%)
+- BTC: **$63,523.0** ↑ (+1.50%)
 - HN top story: **LLMs reward expertise**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 18:02:35 UTC | `99ab1e0a0ba1` | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-04 06:38:23 UTC | `75a2b3a3e322` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-03 23:16:54 UTC | `e63ca555cd88` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-04 09:25:54 UTC | `6f170ced7c4e` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +6 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-04` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-04 09:40:22 IST` |
+| Last Commit (IST) | `2026-08-04 12:08:23 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-01 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-02 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-03 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-08-04 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-08-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,484.0 | +0.31% | 🟢 |
-| Ethereum | $1,855.03 | -1.12% | 🔴 |
-| Solana | $73.35 | -0.11% | 🔴 |
-| Bnb | $589.03 | +0.31% | 🟢 |
+| Bitcoin | $63,523.0 | +1.50% | 🟢 |
+| Ethereum | $1,854.0 | +0.75% | 🟢 |
+| Solana | $73.18 | +1.14% | 🟢 |
+| Bnb | $588.25 | +0.52% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
