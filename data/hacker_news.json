@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 07:35:18 UTC",
-    "fetched_at_ist": "2026-08-05 13:05:18 IST",
+    "fetched_at_utc": "2026-08-05 14:43:10 UTC",
+    "fetched_at_ist": "2026-08-05 20:13:10 IST",
     "item_count": 5,
-    "content_hash": "2ea1329b052501de2fec9fd79533e829c5a6183156479e38aa595a93e09b89d9",
-    "previous_hash": "57448fe5d807110a96302fa933713e3bcc3237c5392f8af0671c75409a2f3127",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "22ccc2f6fde2478c4ec9930252ff5cbae075dcaabcee9847ca26073a68941736",
+    "previous_hash": "2ea1329b052501de2fec9fd79533e829c5a6183156479e38aa595a93e09b89d9",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49131438,
-      "title": "Stateless MCP has recaptured my interest",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 126,
-      "comments": 68
+      "id": 49182996,
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "score": 75,
+      "comments": 40
     },
     {
-      "id": 49176038,
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 292,
-      "comments": 110
+      "id": 49181083,
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 139,
+      "comments": 84
     },
     {
-      "id": 49172784,
-      "title": "The Golden Age of British Ice Cream",
-      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-      "score": 36,
-      "comments": 22
+      "id": 49181519,
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 69,
+      "comments": 47
     },
     {
-      "id": 49105978,
-      "title": "\"Gravity is worth asking about.\"",
-      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 18,
-      "comments": 7
+      "id": 49182957,
+      "title": "Not hiring junior engineers won't solve the problem you think you have",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
+      "score": 16,
+      "comments": 6
     },
     {
-      "id": 49171268,
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 382,
-      "comments": 93
+      "id": 49182946,
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "score": 10,
+      "comments": 4
     }
   ]
 }
