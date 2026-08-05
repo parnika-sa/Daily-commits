@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-04 20:42:19 UTC",
-    "fetched_at_ist": "2026-08-05 02:12:19 IST",
+    "fetched_at_utc": "2026-08-05 07:35:18 UTC",
+    "fetched_at_ist": "2026-08-05 13:05:18 IST",
     "item_count": 5,
-    "content_hash": "57448fe5d807110a96302fa933713e3bcc3237c5392f8af0671c75409a2f3127",
-    "previous_hash": "7cb4f004fe718bf9056ced6c6d310eb69359477e198a1f06c73be9a2504d8437",
+    "content_hash": "2ea1329b052501de2fec9fd79533e829c5a6183156479e38aa595a93e09b89d9",
+    "previous_hash": "57448fe5d807110a96302fa933713e3bcc3237c5392f8af0671c75409a2f3127",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49170165,
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 361,
-      "comments": 79
+      "id": 49131438,
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "score": 126,
+      "comments": 68
+    },
+    {
+      "id": 49176038,
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 292,
+      "comments": 110
+    },
+    {
+      "id": 49172784,
+      "title": "The Golden Age of British Ice Cream",
+      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "score": 36,
+      "comments": 22
+    },
+    {
+      "id": 49105978,
+      "title": "\"Gravity is worth asking about.\"",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 18,
+      "comments": 7
     },
     {
       "id": 49171268,
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 118,
-      "comments": 36
-    },
-    {
-      "id": 49172836,
-      "title": "Waymo – Dallas Open to All",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 104,
-      "comments": 90
-    },
-    {
-      "id": 49166860,
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "score": 303,
-      "comments": 462
-    },
-    {
-      "id": 49172550,
-      "title": "Why some people mow a lawn better than others",
-      "url": "https://pudding.cool/2026/06/mow/",
-      "score": 99,
-      "comments": 90
+      "score": 382,
+      "comments": 93
     }
   ]
 }
