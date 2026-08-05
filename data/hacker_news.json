@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 14:43:10 UTC",
-    "fetched_at_ist": "2026-08-05 20:13:10 IST",
+    "fetched_at_utc": "2026-08-05 19:38:46 UTC",
+    "fetched_at_ist": "2026-08-06 01:08:46 IST",
     "item_count": 5,
-    "content_hash": "22ccc2f6fde2478c4ec9930252ff5cbae075dcaabcee9847ca26073a68941736",
-    "previous_hash": "2ea1329b052501de2fec9fd79533e829c5a6183156479e38aa595a93e09b89d9",
+    "content_hash": "d7f00bfa6bfe970a88ac18362e203e8c9c20bc4d57d0dfa96de2cd3b5737fc04",
+    "previous_hash": "22ccc2f6fde2478c4ec9930252ff5cbae075dcaabcee9847ca26073a68941736",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49182996,
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "id": 49184960,
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "score": 344,
+      "comments": 198
+    },
+    {
+      "id": 49187256,
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
       "score": 75,
-      "comments": 40
+      "comments": 13
     },
     {
-      "id": 49181083,
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 139,
-      "comments": 84
+      "id": 49184755,
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 189,
+      "comments": 359
     },
     {
-      "id": 49181519,
-      "title": "Why the Legendary Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "score": 69,
-      "comments": 47
+      "id": 49186762,
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 57,
+      "comments": 12
     },
     {
-      "id": 49182957,
-      "title": "Not hiring junior engineers won't solve the problem you think you have",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
-      "score": 16,
-      "comments": 6
-    },
-    {
-      "id": 49182946,
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "score": 10,
-      "comments": 4
+      "id": 49187061,
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 54,
+      "comments": 41
     }
   ]
 }
