@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 19:38:46 UTC",
-    "fetched_at_ist": "2026-08-06 01:08:46 IST",
+    "fetched_at_utc": "2026-08-06 11:38:17 UTC",
+    "fetched_at_ist": "2026-08-06 17:08:17 IST",
     "item_count": 5,
-    "content_hash": "d7f00bfa6bfe970a88ac18362e203e8c9c20bc4d57d0dfa96de2cd3b5737fc04",
-    "previous_hash": "22ccc2f6fde2478c4ec9930252ff5cbae075dcaabcee9847ca26073a68941736",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "0d6a407d337bb03270a5083c340270c267dba68a8066a696fb47d3d672cd56f3",
+    "previous_hash": "d7f00bfa6bfe970a88ac18362e203e8c9c20bc4d57d0dfa96de2cd3b5737fc04",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49168622,
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "score": 142,
+      "comments": 35
+    },
+    {
+      "id": 49192566,
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "score": 270,
+      "comments": 105
+    },
+    {
+      "id": 49193314,
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "score": 73,
+      "comments": 29
+    },
+    {
+      "id": 49096439,
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "score": 21,
+      "comments": 11
+    },
+    {
       "id": 49184960,
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 344,
-      "comments": 198
-    },
-    {
-      "id": 49187256,
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 75,
-      "comments": 13
-    },
-    {
-      "id": 49184755,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 189,
-      "comments": 359
-    },
-    {
-      "id": 49186762,
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 57,
-      "comments": 12
-    },
-    {
-      "id": 49187061,
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 54,
-      "comments": 41
+      "score": 776,
+      "comments": 487
     }
   ]
 }
