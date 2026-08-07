@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 06:41:06 UTC",
-    "fetched_at_ist": "2026-08-07 12:11:06 IST",
+    "fetched_at_utc": "2026-08-07 11:38:08 UTC",
+    "fetched_at_ist": "2026-08-07 17:08:08 IST",
     "item_count": 5,
-    "content_hash": "541ba1a849c85fc4a0507febea058c7d3f9e1007d5f6588ac9072e88e422b209",
-    "previous_hash": "f6d28c940fac6b3237799c627992a4359860f4e500febba7b14feccecd42b9bb",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "3af8f1f126e31045f836fe5969ea82ae84a4a0426dbfde59e5285522055d413c",
+    "previous_hash": "541ba1a849c85fc4a0507febea058c7d3f9e1007d5f6588ac9072e88e422b209",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49208314,
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "score": 163,
+      "comments": 113
+    },
+    {
+      "id": 49204352,
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 345,
+      "comments": 225
+    },
     {
       "id": 49201970,
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 548,
-      "comments": 424
+      "score": 711,
+      "comments": 538
     },
     {
-      "id": 49195231,
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 988,
-      "comments": 154
-    },
-    {
-      "id": 49129015,
-      "title": "Atomic Clocks",
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "score": 23,
-      "comments": 9
+      "id": 49162299,
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "score": 35,
+      "comments": 18
     },
     {
       "id": 49199346,
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 337,
-      "comments": 256
-    },
-    {
-      "id": 49184355,
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 199,
-      "comments": 42
+      "score": 466,
+      "comments": 337
     }
   ]
 }

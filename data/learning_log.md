@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-07 (last updated: 12:11 IST)
+
+## 📅 2026-08-07 (last updated: 17:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 23:32:35 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-07 12:11:06 IST | 541ba1a849c8 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-07 17:08:08 IST | 3af8f1f126e3 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-07 10:51:38 IST | 397d076fd99c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,091 stars today
 
 ### 📰 Hacker News Stories
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) — Score: 548
-- [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) — Score: 988
-- [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work) — Score: 23
-- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) — Score: 337
-- [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) — Score: 199
+- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o) — Score: 163
+- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) — Score: 345
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) — Score: 711
+- [Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding](https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding) — Score: 35
+- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) — Score: 466
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,164.0 🔴 -1.08%
