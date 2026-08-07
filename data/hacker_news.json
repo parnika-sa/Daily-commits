@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 15:37:29 UTC",
-    "fetched_at_ist": "2026-08-07 21:07:29 IST",
+    "fetched_at_utc": "2026-08-07 16:32:00 UTC",
+    "fetched_at_ist": "2026-08-07 22:02:00 IST",
     "item_count": 5,
-    "content_hash": "b0922763a070196a4eaf8797609af2c6beb3363b12e22474852c1d43df2e178f",
-    "previous_hash": "3af8f1f126e31045f836fe5969ea82ae84a4a0426dbfde59e5285522055d413c",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "f26c01001e7c3bb8a6addd21be6283bb996a82e6c0e2daa829be6ff3b7926c81",
+    "previous_hash": "b0922763a070196a4eaf8797609af2c6beb3363b12e22474852c1d43df2e178f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49211386,
       "title": "99% of My Website Traffic Is Bots",
       "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 76,
-      "comments": 75
+      "score": 188,
+      "comments": 174
     },
     {
-      "id": 49211758,
-      "title": "Another Corner of the Internet Has Been Ruined",
-      "url": "https://www.freeformatter.com/",
-      "score": 18,
-      "comments": 9
-    },
-    {
-      "id": 49208314,
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 721,
-      "comments": 681
+      "id": 49211438,
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+      "score": 115,
+      "comments": 31
     },
     {
       "id": 49209385,
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 66,
-      "comments": 29
+      "score": 89,
+      "comments": 41
     },
     {
       "id": 49204352,
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 502,
-      "comments": 276
+      "score": 537,
+      "comments": 296
+    },
+    {
+      "id": 49212459,
+      "title": "Zohran Mamdani's NYC Tech Team Is What DOGE Should Have Been",
+      "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+      "score": 26,
+      "comments": 6
     }
   ]
 }
