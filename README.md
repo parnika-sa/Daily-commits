@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-07 11:38:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-07 12:26:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **lyogavin/airllm**
-- BTC: **$64,164.0** ↓ (-1.08%)
+- BTC: **$65,070.0** ↑ (+0.93%)
 - HN top story: **US strikes $1.2B deal to pay German firm to halt offshore wind projects**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 18:02:35 UTC | `99ab1e0a0ba1` | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-07 11:38:08 UTC | `3af8f1f126e3` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-07 05:21:38 UTC | `397d076fd99c` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-07 12:26:21 UTC | `e8befda7eb1d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +6 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-07` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-07 16:21:17 IST` |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Streak | `85` day(s) |
+| Last Commit (IST) | `2026-08-07 17:08:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-04 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-08-06 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-08-07 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-08-07 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,164.0 | -1.08% | 🔴 |
-| Ethereum | $1,895.31 | -0.88% | 🔴 |
-| Solana | $72.62 | -2.08% | 🔴 |
-| Bnb | $586.09 | -1.67% | 🔴 |
+| Bitcoin | $65,070.0 | +0.93% | 🟢 |
+| Ethereum | $1,927.77 | +1.31% | 🟢 |
+| Solana | $73.87 | +0.76% | 🟢 |
+| Bnb | $591.16 | -0.38% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
