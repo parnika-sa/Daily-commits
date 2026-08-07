@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 17:31:18 UTC",
-    "fetched_at_ist": "2026-08-07 23:01:18 IST",
+    "fetched_at_utc": "2026-08-07 21:31:34 UTC",
+    "fetched_at_ist": "2026-08-08 03:01:34 IST",
     "item_count": 5,
-    "content_hash": "e31cba26a89bb2c0621f39b66cab8e3e2ae502970e23b9f43684c88adb1299aa",
-    "previous_hash": "f26c01001e7c3bb8a6addd21be6283bb996a82e6c0e2daa829be6ff3b7926c81",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "3a34d3c433a8164feef828a690ea74a33cc75fc682bafe0a4ee268dc79b5a4f6",
+    "previous_hash": "e31cba26a89bb2c0621f39b66cab8e3e2ae502970e23b9f43684c88adb1299aa",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49214008,
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 291,
+      "comments": 181
+    },
+    {
+      "id": 49214098,
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "score": 152,
+      "comments": 32
+    },
+    {
+      "id": 49214770,
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 71,
+      "comments": 24
+    },
+    {
       "id": 49213029,
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 29,
-      "comments": 20
+      "score": 124,
+      "comments": 136
     },
     {
       "id": 49211921,
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 50,
-      "comments": 14
-    },
-    {
-      "id": 49204352,
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 580,
-      "comments": 333
-    },
-    {
-      "id": 49213097,
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "score": 70,
-      "comments": 27
-    },
-    {
-      "id": 49208535,
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 115,
-      "comments": 48
+      "score": 112,
+      "comments": 30
     }
   ]
 }
