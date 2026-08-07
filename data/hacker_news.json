@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-06 15:38:44 UTC",
-    "fetched_at_ist": "2026-08-06 21:08:44 IST",
+    "fetched_at_utc": "2026-08-07 00:35:37 UTC",
+    "fetched_at_ist": "2026-08-07 06:05:37 IST",
     "item_count": 5,
-    "content_hash": "5bf58426231ca88a4173b4b6645f035241c7f035040e768073562fdb5586cc14",
-    "previous_hash": "0d6a407d337bb03270a5083c340270c267dba68a8066a696fb47d3d672cd56f3",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "fbd65a10f1839d916650e5772da4ab25e04f654400c2e3be478bf9aedabce018",
+    "previous_hash": "5bf58426231ca88a4173b4b6645f035241c7f035040e768073562fdb5586cc14",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 317,
+      "comments": 250
+    },
+    {
+      "id": 49184355,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 126,
+      "comments": 21
+    },
+    {
+      "id": 49203105,
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 63,
+      "comments": 13
+    },
+    {
       "id": 49195231,
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 350,
-      "comments": 67
+      "score": 851,
+      "comments": 147
     },
     {
-      "id": 49195468,
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 109,
-      "comments": 81
-    },
-    {
-      "id": 49184656,
-      "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
-      "score": 38,
-      "comments": 36
-    },
-    {
-      "id": 49168622,
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "score": 305,
-      "comments": 92
-    },
-    {
-      "id": 49192566,
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 439,
-      "comments": 134
+      "id": 49152255,
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 54,
+      "comments": 33
     }
   ]
 }
