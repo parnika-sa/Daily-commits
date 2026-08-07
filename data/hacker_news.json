@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 11:38:08 UTC",
-    "fetched_at_ist": "2026-08-07 17:08:08 IST",
+    "fetched_at_utc": "2026-08-07 15:37:29 UTC",
+    "fetched_at_ist": "2026-08-07 21:07:29 IST",
     "item_count": 5,
-    "content_hash": "3af8f1f126e31045f836fe5969ea82ae84a4a0426dbfde59e5285522055d413c",
-    "previous_hash": "541ba1a849c85fc4a0507febea058c7d3f9e1007d5f6588ac9072e88e422b209",
+    "content_hash": "b0922763a070196a4eaf8797609af2c6beb3363b12e22474852c1d43df2e178f",
+    "previous_hash": "3af8f1f126e31045f836fe5969ea82ae84a4a0426dbfde59e5285522055d413c",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49211386,
+      "title": "99% of My Website Traffic Is Bots",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "score": 76,
+      "comments": 75
+    },
+    {
+      "id": 49211758,
+      "title": "Another Corner of the Internet Has Been Ruined",
+      "url": "https://www.freeformatter.com/",
+      "score": 18,
+      "comments": 9
+    },
+    {
       "id": 49208314,
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 163,
-      "comments": 113
+      "score": 721,
+      "comments": 681
+    },
+    {
+      "id": 49209385,
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "score": 66,
+      "comments": 29
     },
     {
       "id": 49204352,
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 345,
-      "comments": 225
-    },
-    {
-      "id": 49201970,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 711,
-      "comments": 538
-    },
-    {
-      "id": 49162299,
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-      "score": 35,
-      "comments": 18
-    },
-    {
-      "id": 49199346,
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 466,
-      "comments": 337
+      "score": 502,
+      "comments": 276
     }
   ]
 }
