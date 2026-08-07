@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 03:37:06 UTC",
-    "fetched_at_ist": "2026-08-07 09:07:06 IST",
+    "fetched_at_utc": "2026-08-07 06:41:06 UTC",
+    "fetched_at_ist": "2026-08-07 12:11:06 IST",
     "item_count": 5,
-    "content_hash": "f6d28c940fac6b3237799c627992a4359860f4e500febba7b14feccecd42b9bb",
-    "previous_hash": "fbd65a10f1839d916650e5772da4ab25e04f654400c2e3be478bf9aedabce018",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "541ba1a849c85fc4a0507febea058c7d3f9e1007d5f6588ac9072e88e422b209",
+    "previous_hash": "f6d28c940fac6b3237799c627992a4359860f4e500febba7b14feccecd42b9bb",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49201970,
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 440,
-      "comments": 340
+      "score": 548,
+      "comments": 424
     },
     {
       "id": 49195231,
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 922,
-      "comments": 151
+      "score": 988,
+      "comments": 154
     },
     {
-      "id": 49204060,
-      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-      "score": 12,
-      "comments": 1
+      "id": 49129015,
+      "title": "Atomic Clocks",
+      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "score": 23,
+      "comments": 9
+    },
+    {
+      "id": 49199346,
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 337,
+      "comments": 256
     },
     {
       "id": 49184355,
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 161,
-      "comments": 33
-    },
-    {
-      "id": 49152255,
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "score": 109,
-      "comments": 65
+      "score": 199,
+      "comments": 42
     }
   ]
 }
