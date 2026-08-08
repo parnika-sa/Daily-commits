@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 07:33:59 UTC",
-    "fetched_at_ist": "2026-08-08 13:03:59 IST",
+    "fetched_at_utc": "2026-08-08 17:34:15 UTC",
+    "fetched_at_ist": "2026-08-08 23:04:15 IST",
     "item_count": 5,
-    "content_hash": "460d732d967a9e75fe4d443e35c2d8efe70f6ec1d5081443fc0bcb5a6c325bdc",
-    "previous_hash": "c54f5a9f83fc24a3c16f3a09eda859aad3165ade541db0ea303e4c13b7c96316",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "a1904ae30bc9ec97290bb757a9c38ee61a88d2361cce8cec53562ccb57a14d1f",
+    "previous_hash": "460d732d967a9e75fe4d443e35c2d8efe70f6ec1d5081443fc0bcb5a6c325bdc",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49189457,
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 124,
-      "comments": 19
+      "id": 49221668,
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "score": 181,
+      "comments": 84
     },
     {
-      "id": 49214008,
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 579,
-      "comments": 348
+      "id": 49223082,
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 28,
+      "comments": 0
     },
     {
-      "id": 49216946,
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "score": 205,
-      "comments": 67
+      "id": 49220126,
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "score": 275,
+      "comments": 86
     },
     {
-      "id": 49214098,
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 318,
-      "comments": 77
+      "id": 49220609,
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 178,
+      "comments": 187
     },
     {
-      "id": 49209539,
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 572,
-      "comments": 658
+      "id": 49223475,
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "score": 10,
+      "comments": 4
     }
   ]
 }
