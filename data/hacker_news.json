@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 17:34:15 UTC",
-    "fetched_at_ist": "2026-08-08 23:04:15 IST",
+    "fetched_at_utc": "2026-08-08 18:01:50 UTC",
+    "fetched_at_ist": "2026-08-08 23:31:50 IST",
     "item_count": 5,
-    "content_hash": "a1904ae30bc9ec97290bb757a9c38ee61a88d2361cce8cec53562ccb57a14d1f",
-    "previous_hash": "460d732d967a9e75fe4d443e35c2d8efe70f6ec1d5081443fc0bcb5a6c325bdc",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "4feb52b434fb5647f6eddee8de29ceade8273a281e1260cf891a0e4b0a107cbe",
+    "previous_hash": "a1904ae30bc9ec97290bb757a9c38ee61a88d2361cce8cec53562ccb57a14d1f",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49221668,
-      "title": "A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 181,
-      "comments": 84
-    },
-    {
       "id": 49223082,
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 28,
-      "comments": 0
+      "score": 64,
+      "comments": 19
     },
     {
-      "id": 49220126,
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 275,
-      "comments": 86
-    },
-    {
-      "id": 49220609,
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 178,
-      "comments": 187
+      "id": 49221668,
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "score": 207,
+      "comments": 92
     },
     {
       "id": 49223475,
       "title": "LinkedIn Feed Blocker",
       "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "score": 10,
-      "comments": 4
+      "score": 29,
+      "comments": 24
+    },
+    {
+      "id": 49220126,
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "score": 287,
+      "comments": 92
+    },
+    {
+      "id": 49220609,
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 193,
+      "comments": 206
     }
   ]
 }

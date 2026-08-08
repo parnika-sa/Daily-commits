@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-08 17:34:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-08 18:01:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **lyogavin/airllm**
-- BTC: **$65,038.0** ↑ (+0.14%)
-- HN top story: **A domain can now say it is for sale, in DNS**
+- Top GitHub repo: **PrimeIntellect-ai/prime-agent**
+- BTC: **$65,071.0** ↑ (+0.53%)
+- HN top story: **Fastmail offers EU data region**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-03 18:02:35 UTC | `99ab1e0a0ba1` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-08 17:34:15 UTC | `a1904ae30bc9` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-08 16:21:53 UTC | `aea50616fe1a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-08-08 18:01:49 UTC | `b898225a610b` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-08 18:01:50 UTC | `4feb52b434fb` | +0 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-08 18:01:49 UTC | `5ae4f4080259` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-08` |
-| Commits Today | `30` / `100` |
-| Remaining Today | `70` |
-| Progress | `██████░░░░░░░░░░░░░░` 30% |
+| Commits Today | `31` / `100` |
+| Remaining Today | `69` |
+| Progress | `██████░░░░░░░░░░░░░░` 31% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-08-08 22:29:57 IST` |
+| Last Commit (IST) | `2026-08-08 23:04:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-08-06 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-07 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-08-08 | 30 | `██████░░░░░░░░░░░░░░` 30% |
+| 2026-08-08 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,038.0 | +0.14% | 🟢 |
-| Ethereum | $1,921.62 | +0.17% | 🟢 |
-| Solana | $76.3 | +3.18% | 🟢 |
-| Bnb | $605.49 | +2.10% | 🟢 |
+| Bitcoin | $65,071.0 | +0.53% | 🟢 |
+| Ethereum | $1,922.7 | +0.63% | 🟢 |
+| Solana | $76.35 | +4.06% | 🟢 |
+| Bnb | $604.08 | +2.12% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 1,081 stars today | AirLLM 70B inference with single 4GB GPU |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 2,442 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 1,769 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 877 stars today | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach… |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,091 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,902 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 776 stars today | 21 Lessons, Get Started Building with Generative AI |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 323 stars today | Learn how to design large-scale systems. Prep for the system design interview. I… |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,483 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 778 stars today | Production-grade engineering skills for AI coding agents. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 591 stars today | 所有小初高、大学PDF教材。 |
+| [google/skills](https://github.com/google/skills) | Python | 481 stars today | Agent Skills for Google products and technologies |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,354 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 467 stars today | The authentication glue you need. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 126 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [google/guava](https://github.com/google/guava) | Java | 93 stars today | Google core libraries for Java |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/) | 181 | 84 |
-| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | 28 | 0 |
-| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | 275 | 86 |
-| [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 178 | 187 |
-| [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker) | 10 | 4 |
+| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | 64 | 19 |
+| [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/) | 207 | 92 |
+| [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker) | 29 | 24 |
+| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | 287 | 92 |
+| [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 193 | 206 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
