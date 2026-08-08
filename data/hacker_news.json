@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 21:31:34 UTC",
-    "fetched_at_ist": "2026-08-08 03:01:34 IST",
+    "fetched_at_utc": "2026-08-08 06:35:56 UTC",
+    "fetched_at_ist": "2026-08-08 12:05:56 IST",
     "item_count": 5,
-    "content_hash": "3a34d3c433a8164feef828a690ea74a33cc75fc682bafe0a4ee268dc79b5a4f6",
-    "previous_hash": "e31cba26a89bb2c0621f39b66cab8e3e2ae502970e23b9f43684c88adb1299aa",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "c54f5a9f83fc24a3c16f3a09eda859aad3165ade541db0ea303e4c13b7c96316",
+    "previous_hash": "3a34d3c433a8164feef828a690ea74a33cc75fc682bafe0a4ee268dc79b5a4f6",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49218179,
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 172,
+      "comments": 27
+    },
+    {
+      "id": 49217993,
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "score": 251,
+      "comments": 107
+    },
+    {
       "id": 49214008,
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 291,
-      "comments": 181
+      "score": 559,
+      "comments": 335
     },
     {
-      "id": 49214098,
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 152,
-      "comments": 32
+      "id": 49189457,
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "score": 88,
+      "comments": 16
     },
     {
-      "id": 49214770,
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "score": 71,
-      "comments": 24
-    },
-    {
-      "id": 49213029,
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 124,
-      "comments": 136
-    },
-    {
-      "id": 49211921,
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 112,
-      "comments": 30
+      "id": 49216946,
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "score": 192,
+      "comments": 64
     }
   ]
 }
