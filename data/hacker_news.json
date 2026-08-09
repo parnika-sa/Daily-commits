@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-09 04:33:41 UTC",
-    "fetched_at_ist": "2026-08-09 10:03:41 IST",
+    "fetched_at_utc": "2026-08-09 05:32:14 UTC",
+    "fetched_at_ist": "2026-08-09 11:02:14 IST",
     "item_count": 5,
-    "content_hash": "7c45f170a58622e6ea7706153538b9cbfec4870e64ce2ecaa9b51eeaffc0cd19",
-    "previous_hash": "4feb52b434fb5647f6eddee8de29ceade8273a281e1260cf891a0e4b0a107cbe",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "6022810da92dd072890bd4325434b2398fb32e8bed994571d6df41c886c62c50",
+    "previous_hash": "7c45f170a58622e6ea7706153538b9cbfec4870e64ce2ecaa9b51eeaffc0cd19",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49228458,
+      "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+      "url": "https://longbets.org/601/",
+      "score": 27,
+      "comments": 4
+    },
+    {
       "id": 49226636,
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
-      "score": 183,
-      "comments": 74
+      "score": 205,
+      "comments": 82
     },
     {
       "id": 49226923,
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "url": "https://os8088.com/",
-      "score": 91,
-      "comments": 35
+      "score": 107,
+      "comments": 41
     },
     {
       "id": 49079995,
       "title": "Improving Heuristics for A* Pathfinding",
       "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "score": 121,
+      "score": 148,
       "comments": 15
-    },
-    {
-      "id": 49223082,
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 347,
-      "comments": 174
     },
     {
       "id": 49226536,
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "score": 96,
-      "comments": 56
+      "score": 120,
+      "comments": 71
     }
   ]
 }
