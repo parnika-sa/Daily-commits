@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-09 14:31:42 UTC",
-    "fetched_at_ist": "2026-08-09 20:01:42 IST",
+    "fetched_at_utc": "2026-08-09 15:43:56 UTC",
+    "fetched_at_ist": "2026-08-09 21:13:56 IST",
     "item_count": 5,
-    "content_hash": "c09022c7435e57003c3a574b31362ef34af279fe3269cdde614c00d61b230b76",
-    "previous_hash": "a57af063a1351ca52414a48071916800291dd4f00bf4de0851aba3ba65f90773",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "8747be504c24c847c59d9b4408f65f89a753882341b74091f7a4d57ce053625f",
+    "previous_hash": "c09022c7435e57003c3a574b31362ef34af279fe3269cdde614c00d61b230b76",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49231154,
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 95,
-      "comments": 40
+      "score": 207,
+      "comments": 86
     },
     {
       "id": 49230891,
       "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
       "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 22,
-      "comments": 3
+      "score": 45,
+      "comments": 13
+    },
+    {
+      "id": 49231397,
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "url": "https://kibotronics.net/unlisted/lilly-machines/",
+      "score": 21,
+      "comments": 5
     },
     {
       "id": 49229174,
       "title": "There Are Magic Hexagons of Every Order",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "score": 110,
-      "comments": 19
-    },
-    {
-      "id": 49230022,
-      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-      "url": "https://halfhill.com/byte/1998-12_alpha.html",
-      "score": 40,
+      "score": 130,
       "comments": 20
     },
     {
-      "id": 49226636,
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "score": 407,
-      "comments": 182
+      "id": 49138084,
+      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+      "url": "https://github.com/uber/submitqueue/",
+      "score": 52,
+      "comments": 34
     }
   ]
 }
