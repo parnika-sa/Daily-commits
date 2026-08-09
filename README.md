@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-09 11:31:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-09 12:00:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **PrimeIntellect-ai/prime-agent**
-- BTC: **$64,870.0** ↓ (-0.14%)
+- BTC: **$64,918.0** ↓ (-0.02%)
 - HN top story: **There Are Magic Hexagons of Every Order**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-08 18:01:49 UTC | `b898225a610b` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-09 11:31:15 UTC | `cafc0f970eba` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-09 10:15:22 UTC | `b793fa9bb138` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-08-09 12:00:47 UTC | `11c9f52a6e2b` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-09 12:00:48 UTC | `a57af063a135` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-09 12:00:48 UTC | `3030b171f37a` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-09` |
-| Commits Today | `23` / `100` |
-| Remaining Today | `77` |
-| Progress | `████░░░░░░░░░░░░░░░░` 23% |
+| Commits Today | `24` / `100` |
+| Remaining Today | `76` |
+| Progress | `████░░░░░░░░░░░░░░░░` 24% |
 | Streak | `83` day(s) |
-| Last Commit (IST) | `2026-08-09 16:29:27 IST` |
+| Last Commit (IST) | `2026-08-09 17:01:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-06 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-07 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-08 | 31 | `██████░░░░░░░░░░░░░░` 31% |
-| 2026-08-09 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
+| 2026-08-09 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,870.0 | -0.14% | 🔴 |
-| Ethereum | $1,920.25 | +0.04% | 🟢 |
-| Solana | $76.44 | +2.07% | 🟢 |
-| Bnb | $603.51 | +1.52% | 🟢 |
+| Bitcoin | $64,918.0 | -0.02% | 🔴 |
+| Ethereum | $1,917.82 | -0.10% | 🔴 |
+| Solana | $76.46 | +1.24% | 🟢 |
+| Bnb | $603.55 | +1.25% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,483 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 778 stars today | Production-grade engineering skills for AI coding agents. |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 591 stars today | 所有小初高、大学PDF教材。 |
-| [google/skills](https://github.com/google/skills) | Python | 481 stars today | Agent Skills for Google products and technologies |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,354 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 59 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 446 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | 556 stars today | Why is this running? Trace any process, port, container, or file back to what st… |
+| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | Python | 55 stars today | No description |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 779 stars today | Production-grade engineering skills for AI coding agents. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 287 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 467 stars today | The authentication glue you need. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 126 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [google/guava](https://github.com/google/guava) | Java | 93 stars today | Google core libraries for Java |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html) | 49 | 9 |
-| [My server is a phone now](https://seg6.space/posts/phone-server/) | 355 | 139 |
-| [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) | 89 | 40 |
-| [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html) | 10 | 2 |
-| [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) | 185 | 101 |
+| [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html) | 55 | 12 |
+| [My server is a phone now](https://seg6.space/posts/phone-server/) | 365 | 146 |
+| [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword) | 93 | 41 |
+| [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) | 188 | 109 |
+| [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground) | 36 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
