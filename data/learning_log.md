@@ -25,44 +25,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-10 (last updated: 20:46 IST)
+
+## 📅 2026-08-10 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-09 17:30:47 IST | 11c9f52a6e2b | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-10 03:05:09 IST | 3e923d8c5bcf | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-10 20:46:24 IST | 6bad926388a1 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-08-10 23:30:59 IST | f9d0ac7d88ea | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-10 23:30:59 IST | 64d01026c86b | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-10 23:30:59 IST | e9908b8339d9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: no
+- GitHub: +9 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** (TypeScript) — A self-improving RLM agent for coding workflows and long-running autonomous task  
-  ⭐ 2,483 stars today
-- **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** (Python) — The ultimate RAG for your monorepo. Query, understand, and edit multi-language c  
-  ⭐ 59 stars today
+- **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** (Python) — Graph-Native Infrastructure for Context and Accountable AI Systems  
+  ⭐ 967 stars today
 - **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** (Shell) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun  
-  ⭐ 446 stars today
-- **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** (Go) — Why is this running? Trace any process, port, container, or file back to what st  
-  ⭐ 556 stars today
-- **[google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)** (Python) — No description  
-  ⭐ 55 stars today
+  ⭐ 1,352 stars today
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** (Python) — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬  
+  ⭐ 215 stars today
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (JavaScript) — Production-grade engineering skills for AI coding agents.  
+  ⭐ 659 stars today
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** (TypeScript) — The open-source app everyone uses to manage agents at work  
+  ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) — Score: 189
-- [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware) — Score: 35
-- [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID) — Score: 37
-- [Saying No](https://rozumem.xyz/posts/19) — Score: 92
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) — Score: 129
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) — Score: 762
+- [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) — Score: 82
+- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com) — Score: 26
+- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante) — Score: 66
+- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) — Score: 48
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,545.0 🔴 -1.00%
-- Ethereum: $1,879.4 🔴 -2.38%
-- Solana: $76.09 🔴 -1.00%
-- Bnb: $599.95 🔴 -1.31%
+- Bitcoin: $63,880.0 🔴 -1.96%
+- Ethereum: $1,871.89 🔴 -2.59%
+- Solana: $75.92 🔴 -1.55%
+- Bnb: $599.63 🔴 -1.41%
 
 ---
 ## 📅 2026-08-09 (last updated: 23:56 IST)

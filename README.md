@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-10 15:16:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-10 18:00:59 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **PrimeIntellect-ai/prime-agent**
-- BTC: **$64,545.0** ↓ (-1.00%)
-- HN top story: **How I use LLMs to learn complex topics**
+- Top GitHub repo: **semantica-agi/semantica**
+- BTC: **$63,880.0** ↓ (-1.96%)
+- HN top story: **Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-09 12:00:47 UTC | `11c9f52a6e2b` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-09 21:35:09 UTC | `3e923d8c5bcf` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-10 15:16:24 UTC | `6bad926388a1` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-08-10 18:00:59 UTC | `f9d0ac7d88ea` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-10 18:00:59 UTC | `64d01026c86b` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-10 18:00:59 UTC | `e9908b8339d9` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
+- GitHub: +9 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-10` |
-| Commits Today | `22` / `100` |
-| Remaining Today | `78` |
-| Progress | `████░░░░░░░░░░░░░░░░` 22% |
+| Commits Today | `23` / `100` |
+| Remaining Today | `77` |
+| Progress | `████░░░░░░░░░░░░░░░░` 23% |
 | Streak | `81` day(s) |
-| Last Commit (IST) | `2026-08-10 21:43:09 IST` |
+| Last Commit (IST) | `2026-08-10 22:37:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-07 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-08 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-08-09 | 34 | `██████░░░░░░░░░░░░░░` 34% |
-| 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
+| 2026-08-10 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,545.0 | -1.00% | 🔴 |
-| Ethereum | $1,879.4 | -2.38% | 🔴 |
-| Solana | $76.09 | -1.00% | 🔴 |
-| Bnb | $599.95 | -1.31% | 🔴 |
+| Bitcoin | $63,880.0 | -1.96% | 🔴 |
+| Ethereum | $1,871.89 | -2.59% | 🔴 |
+| Solana | $75.92 | -1.55% | 🔴 |
+| Bnb | $599.63 | -1.41% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,483 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 59 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 446 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | 556 stars today | Why is this running? Trace any process, port, container, or file back to what st… |
-| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | Python | 55 stars today | No description |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 779 stars today | Production-grade engineering skills for AI coding agents. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 287 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 467 stars today | The authentication glue you need. |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 967 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,352 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 659 stars today | Production-grade engineering skills for AI coding agents. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 167 stars today | The open-source app everyone uses to manage agents at work |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,655 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 190 stars today | Truly independent web browser |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 186 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | 189 | 102 |
-| [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware) | 35 | 17 |
-| [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID) | 37 | 20 |
-| [Saying No](https://rozumem.xyz/posts/19) | 92 | 75 |
-| [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) | 129 | 462 |
+| [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | 762 | 420 |
+| [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) | 82 | 20 |
+| [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com) | 26 | 8 |
+| [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante) | 66 | 38 |
+| [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) | 48 | 14 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
