@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-11 11:27:52 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-11 12:08:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **semantica-agi/semantica**
-- BTC: **$64,287.0** ↓ (-1.12%)
+- Top GitHub repo: **msitarzewski/agency-agents**
+- BTC: **$64,382.0** ↓ (-1.14%)
 - HN top story: **France to ban unsolicited telemarketing calls**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-10 18:00:59 UTC | `f9d0ac7d88ea` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 10:33:09 UTC | `39152b541450` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-11 11:27:52 UTC | `d3273ea08ec2` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-11 12:08:20 UTC | `ca4d71662a6e` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-11 12:08:21 UTC | `0360479fe5ca` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-11 12:08:20 UTC | `f59cfd5095ef` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-11` |
-| Commits Today | `17` / `100` |
-| Remaining Today | `83` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Commits Today | `18` / `100` |
+| Remaining Today | `82` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
 | Streak | `80` day(s) |
-| Last Commit (IST) | `2026-08-11 16:03:09 IST` |
+| Last Commit (IST) | `2026-08-11 16:57:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-08 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-08-09 | 34 | `██████░░░░░░░░░░░░░░` 34% |
 | 2026-08-10 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-08-11 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
+| 2026-08-11 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,287.0 | -1.12% | 🔴 |
-| Ethereum | $1,890.31 | -1.40% | 🔴 |
-| Solana | $76.07 | -0.92% | 🔴 |
-| Bnb | $607.11 | +0.38% | 🟢 |
+| Bitcoin | $64,382.0 | -1.14% | 🔴 |
+| Ethereum | $1,892.57 | -1.46% | 🔴 |
+| Solana | $76.08 | -1.16% | 🔴 |
+| Bnb | $609.25 | +0.74% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 967 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,352 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,349 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 970 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 18 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 659 stars today | Production-grade engineering skills for AI coding agents. |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 167 stars today | The open-source app everyone uses to manage agents at work |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,655 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 190 stars today | Truly independent web browser |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 186 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 731 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 682 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 468 stars today | Public repository for Agent Skills |
+| [3b1b/manim](https://github.com/3b1b/manim) | Python | 381 stars today | Animation engine for explanatory math videos |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) | 174 | 110 |
-| [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) | 284 | 60 |
-| [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/) | 16 | 18 |
-| [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) | 313 | 318 |
-| [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) | 48 | 26 |
+| [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) | 360 | 222 |
+| [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) | 308 | 66 |
+| [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) | 383 | 449 |
+| [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) | 76 | 52 |
+| [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) | 211 | 27 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

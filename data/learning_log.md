@@ -20,44 +20,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 16:57 IST)
+
+## 📅 2026-08-11 (last updated: 17:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-10 23:30:59 IST | f9d0ac7d88ea | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 16:03:09 IST | 39152b541450 | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-11 16:57:52 IST | d3273ea08ec2 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-11 17:38:20 IST | ca4d71662a6e | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-11 17:38:21 IST | 0360479fe5ca | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-11 17:38:20 IST | f59cfd5095ef | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** (Python) — Graph-Native Infrastructure for Context and Accountable AI Systems  
-  ⭐ 967 stars today
 - **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** (Shell) — A complete AI agency at your fingertips - From frontend wizards to Reddit commun  
-  ⭐ 1,352 stars today
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** (Python) — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬  
-  ⭐ 215 stars today
+  ⭐ 1,349 stars today
+- **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** (Python) — Graph-Native Infrastructure for Context and Accountable AI Systems  
+  ⭐ 970 stars today
+- **[nvm-sh/nvm](https://github.com/nvm-sh/nvm)** (Shell) — Node Version Manager - POSIX-compliant bash script to manage multiple active nod  
+  ⭐ 18 stars today
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (JavaScript) — Production-grade engineering skills for AI coding agents.  
   ⭐ 659 stars today
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** (TypeScript) — The open-source app everyone uses to manage agents at work  
-  ⭐ 167 stars today
+- **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** (Python) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock  
+  ⭐ 731 stars today
 
 ### 📰 Hacker News Stories
-- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) — Score: 174
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 284
-- [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/) — Score: 16
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 313
-- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) — Score: 48
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) — Score: 360
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 308
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 383
+- [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) — Score: 76
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 211
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,287.0 🔴 -1.12%
-- Ethereum: $1,890.31 🔴 -1.40%
-- Solana: $76.07 🔴 -0.92%
-- Bnb: $607.11 🟢 +0.38%
+- Bitcoin: $64,382.0 🔴 -1.14%
+- Ethereum: $1,892.57 🔴 -1.46%
+- Solana: $76.08 🔴 -1.16%
+- Bnb: $609.25 🟢 +0.74%
 
 ---
 ## 📅 2026-08-10 (last updated: 23:30 IST)
