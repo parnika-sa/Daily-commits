@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 21:41:17 UTC",
-    "fetched_at_ist": "2026-08-11 03:11:17 IST",
+    "fetched_at_utc": "2026-08-11 04:36:56 UTC",
+    "fetched_at_ist": "2026-08-11 10:06:56 IST",
     "item_count": 5,
-    "content_hash": "15ce9ee0139fa536a9becd8a3eb21c498ca4fe644c6f88f94acc52c42f0e67d6",
-    "previous_hash": "64d01026c86b0dcf4ae354098481a20f6031f3654683d19acfbd7076f3208975",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "156d0bfec15e63537d61160f03de1220e2638b44d3960aa63ebf768e6a394f87",
+    "previous_hash": "15ce9ee0139fa536a9becd8a3eb21c498ca4fe644c6f88f94acc52c42f0e67d6",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49249150,
-      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "score": 141,
-      "comments": 134
+      "id": 49251411,
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "score": 409,
+      "comments": 273
     },
     {
-      "id": 49241679,
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 934,
-      "comments": 525
+      "id": 49252179,
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "score": 102,
+      "comments": 13
     },
     {
-      "id": 49246804,
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 40,
-      "comments": 14
+      "id": 49251702,
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 105,
+      "comments": 11
     },
     {
-      "id": 49247477,
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 73,
-      "comments": 35
+      "id": 49251179,
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 120,
+      "comments": 29
     },
     {
-      "id": 49208296,
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 243,
-      "comments": 65
+      "id": 49252462,
+      "title": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "score": 32,
+      "comments": 6
     }
   ]
 }
