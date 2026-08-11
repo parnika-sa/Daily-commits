@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 04:36:56 UTC",
-    "fetched_at_ist": "2026-08-11 10:06:56 IST",
+    "fetched_at_utc": "2026-08-11 05:40:09 UTC",
+    "fetched_at_ist": "2026-08-11 11:10:09 IST",
     "item_count": 5,
-    "content_hash": "156d0bfec15e63537d61160f03de1220e2638b44d3960aa63ebf768e6a394f87",
-    "previous_hash": "15ce9ee0139fa536a9becd8a3eb21c498ca4fe644c6f88f94acc52c42f0e67d6",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "4cf58f13322dff5b25d1d8e7384cdc6699781e43edfe9635c75bcd0359a4308a",
+    "previous_hash": "156d0bfec15e63537d61160f03de1220e2638b44d3960aa63ebf768e6a394f87",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49251411,
-      "title": "The UK's War on Anonymity Has Come to America",
-      "url": "https://www.effort.news/uk-lobby",
-      "score": 409,
-      "comments": 273
-    },
-    {
       "id": 49252179,
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "score": 102,
-      "comments": 13
+      "score": 147,
+      "comments": 16
     },
     {
       "id": 49251702,
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 105,
-      "comments": 11
+      "score": 121,
+      "comments": 14
+    },
+    {
+      "id": 49253721,
+      "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+      "url": "https://github.com/activeing123/mcptoon",
+      "score": 5,
+      "comments": 0
     },
     {
       "id": 49251179,
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "score": 120,
-      "comments": 29
+      "score": 135,
+      "comments": 35
     },
     {
       "id": 49252462,
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "score": 32,
-      "comments": 6
+      "score": 39,
+      "comments": 13
     }
   ]
 }
