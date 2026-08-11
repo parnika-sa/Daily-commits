@@ -16,13 +16,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 12:03 IST)
+
+## 📅 2026-08-11 (last updated: 14:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 23:30:59 IST | f9d0ac7d88ea | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 12:03:06 IST | 1d74e4267681 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-11 14:14:03 IST | 238e32f7609f | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-11 03:48:36 IST | 9d161de8dd56 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/) — Score: 28
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 183
-- [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself) — Score: 16
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 134
-- [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon) — Score: 23
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 243
+- [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon) — Score: 40
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 237
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 180
+- [LFM2.5 2.6B model competitive with 4x larger models](https://huggingface.co/LiquidAI/LFM2.5-2.6B) — Score: 62
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,993.0 🔴 -2.06%
