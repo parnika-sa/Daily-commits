@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-11 10:33:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-11 11:27:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **semantica-agi/semantica**
-- BTC: **$63,993.0** ↓ (-2.06%)
+- BTC: **$64,287.0** ↓ (-1.12%)
 - HN top story: **France to ban unsolicited telemarketing calls**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 18:00:59 UTC | `f9d0ac7d88ea` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-11 10:33:09 UTC | `39152b541450` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-10 22:18:36 UTC | `9d161de8dd56` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-11 11:27:52 UTC | `d3273ea08ec2` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-11` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
-| Streak | `81` day(s) |
-| Last Commit (IST) | `2026-08-11 15:12:20 IST` |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Streak | `80` day(s) |
+| Last Commit (IST) | `2026-08-11 16:03:09 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-08 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-08-09 | 34 | `██████░░░░░░░░░░░░░░` 34% |
 | 2026-08-10 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-08-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-08-11 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,993.0 | -2.06% | 🔴 |
-| Ethereum | $1,875.82 | -2.95% | 🔴 |
-| Solana | $76.26 | -1.69% | 🔴 |
-| Bnb | $599.28 | -1.67% | 🔴 |
+| Bitcoin | $64,287.0 | -1.12% | 🔴 |
+| Ethereum | $1,890.31 | -1.40% | 🔴 |
+| Solana | $76.07 | -0.92% | 🔴 |
+| Bnb | $607.11 | +0.38% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
