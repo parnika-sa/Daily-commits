@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 13:38:52 UTC",
-    "fetched_at_ist": "2026-08-11 19:08:52 IST",
+    "fetched_at_utc": "2026-08-11 14:41:38 UTC",
+    "fetched_at_ist": "2026-08-11 20:11:38 IST",
     "item_count": 5,
-    "content_hash": "1c59e891a7494f090af507ec533272241e92a20851c1c95412a51fe4496ab0ec",
-    "previous_hash": "0360479fe5ca7eeba9610d987779a05f35862f3b3a6a22997c681138b2b0f750",
+    "content_hash": "67adb4b4e9ada8e481caabb5941252db9f6897e2b6f805317a962af19ba58e6b",
+    "previous_hash": "1c59e891a7494f090af507ec533272241e92a20851c1c95412a51fe4496ab0ec",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 43,
-      "comments": 13
+      "score": 145,
+      "comments": 71
     },
     {
       "id": 49254880,
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "score": 550,
-      "comments": 311
+      "score": 657,
+      "comments": 347
     },
     {
-      "id": 49255672,
-      "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
-      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
-      "score": 127,
-      "comments": 98
+      "id": 49258881,
+      "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+      "url": "https://github.com/anthropics/claude-code/issues/78431",
+      "score": 27,
+      "comments": 11
     },
     {
       "id": 49250836,
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 484,
-      "comments": 563
+      "score": 555,
+      "comments": 643
     },
     {
-      "id": 49252179,
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "score": 345,
-      "comments": 76
+      "id": 49255710,
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "score": 67,
+      "comments": 13
     }
   ]
 }
