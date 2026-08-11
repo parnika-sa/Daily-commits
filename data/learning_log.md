@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 14:14 IST)
+
+## 📅 2026-08-11 (last updated: 15:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 23:30:59 IST | f9d0ac7d88ea | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 14:14:03 IST | 238e32f7609f | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-11 15:12:20 IST | 470311f73ff7 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-11 03:48:36 IST | 9d161de8dd56 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 243
-- [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon) — Score: 40
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 237
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 180
-- [LFM2.5 2.6B model competitive with 4x larger models](https://huggingface.co/LiquidAI/LFM2.5-2.6B) — Score: 62
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 264
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) — Score: 88
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 284
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 191
+- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) — Score: 38
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,993.0 🔴 -2.06%
