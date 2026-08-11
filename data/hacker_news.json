@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 16:32:27 UTC",
-    "fetched_at_ist": "2026-08-11 22:02:27 IST",
+    "fetched_at_utc": "2026-08-11 17:37:39 UTC",
+    "fetched_at_ist": "2026-08-11 23:07:39 IST",
     "item_count": 5,
-    "content_hash": "7096c15d00c830fae0b20100ca8d7a331a91e3bbc2cdab77020c7030e6cb9791",
-    "previous_hash": "2ad3cd78ba002ea88a195d4e21a9a32c07c8b1aeff5016eb53abd4b4e2431cd9",
+    "content_hash": "a17bac78e38aeb81bba90b7cbb3a343c8fa4075fd461787b65f61205522f6c71",
+    "previous_hash": "7096c15d00c830fae0b20100ca8d7a331a91e3bbc2cdab77020c7030e6cb9791",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 284,
-      "comments": 192
+      "score": 351,
+      "comments": 256
     },
     {
       "id": 49259339,
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 94,
-      "comments": 20
-    },
-    {
-      "id": 49259611,
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "url": "https://github.com/TheRealYT/git-knife",
-      "score": 52,
-      "comments": 29
+      "score": 156,
+      "comments": 27
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 141,
-      "comments": 51
+      "score": 229,
+      "comments": 84
     },
     {
       "id": 49258764,
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 40,
-      "comments": 13
+      "score": 68,
+      "comments": 30
+    },
+    {
+      "id": 49261133,
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 11,
+      "comments": 0
     }
   ]
 }

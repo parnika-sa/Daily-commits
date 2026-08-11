@@ -25,13 +25,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 22:02 IST)
+
+## 📅 2026-08-11 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-11 17:38:20 IST | ca4d71662a6e | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 22:02:27 IST | 7096c15d00c8 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-11 23:07:39 IST | a17bac78e38a | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-11 17:38:20 IST | f59cfd5095ef | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -52,11 +53,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 731 stars today
 
 ### 📰 Hacker News Stories
-- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 284
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 94
-- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) — Score: 52
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 141
-- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users) — Score: 40
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 351
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 156
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 229
+- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users) — Score: 68
+- [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) — Score: 11
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,382.0 🔴 -1.14%
