@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 15:36:50 UTC",
-    "fetched_at_ist": "2026-08-11 21:06:50 IST",
+    "fetched_at_utc": "2026-08-11 16:32:27 UTC",
+    "fetched_at_ist": "2026-08-11 22:02:27 IST",
     "item_count": 5,
-    "content_hash": "2ad3cd78ba002ea88a195d4e21a9a32c07c8b1aeff5016eb53abd4b4e2431cd9",
-    "previous_hash": "67adb4b4e9ada8e481caabb5941252db9f6897e2b6f805317a962af19ba58e6b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "7096c15d00c830fae0b20100ca8d7a331a91e3bbc2cdab77020c7030e6cb9791",
+    "previous_hash": "2ad3cd78ba002ea88a195d4e21a9a32c07c8b1aeff5016eb53abd4b4e2431cd9",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 232,
-      "comments": 128
+      "score": 284,
+      "comments": 192
     },
     {
       "id": 49259339,
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 38,
-      "comments": 8
+      "score": 94,
+      "comments": 20
     },
     {
       "id": 49259611,
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "score": 19,
-      "comments": 6
+      "score": 52,
+      "comments": 29
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 77,
-      "comments": 25
+      "score": 141,
+      "comments": 51
     },
     {
-      "id": 49259309,
-      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "url": "https://www.trykeet.com/",
-      "score": 8,
-      "comments": 4
+      "id": 49258764,
+      "title": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "score": 40,
+      "comments": 13
     }
   ]
 }

@@ -24,18 +24,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 21:06 IST)
+
+## 📅 2026-08-11 (last updated: 22:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-11 17:38:20 IST | ca4d71662a6e | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 21:06:50 IST | 2ad3cd78ba00 | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-11 22:02:27 IST | 7096c15d00c8 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-11 17:38:20 IST | f59cfd5095ef | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -51,11 +52,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 731 stars today
 
 ### 📰 Hacker News Stories
-- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 232
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 38
-- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) — Score: 19
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 77
-- [Launch HN: Keet (YC S24) – An app to create video courses on anything](https://www.trykeet.com/) — Score: 8
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 284
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 94
+- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) — Score: 52
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 141
+- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users) — Score: 40
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,382.0 🔴 -1.14%
