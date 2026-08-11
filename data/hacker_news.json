@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 17:37:39 UTC",
-    "fetched_at_ist": "2026-08-11 23:07:39 IST",
+    "fetched_at_utc": "2026-08-11 18:32:57 UTC",
+    "fetched_at_ist": "2026-08-12 00:02:57 IST",
     "item_count": 5,
-    "content_hash": "a17bac78e38aeb81bba90b7cbb3a343c8fa4075fd461787b65f61205522f6c71",
-    "previous_hash": "7096c15d00c830fae0b20100ca8d7a331a91e3bbc2cdab77020c7030e6cb9791",
+    "content_hash": "b4620003ce68f8eb36a0db9ae4e8876b0ccf9a0d1599674073a89b19c0afc589",
+    "previous_hash": "a17bac78e38aeb81bba90b7cbb3a343c8fa4075fd461787b65f61205522f6c71",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49261218,
+      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "score": 180,
+      "comments": 141
+    },
     {
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 351,
-      "comments": 256
+      "score": 392,
+      "comments": 282
     },
     {
       "id": 49259339,
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 156,
-      "comments": 27
+      "score": 197,
+      "comments": 30
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 229,
-      "comments": 84
-    },
-    {
-      "id": 49258764,
-      "title": "Manus will return to operating as an independent company",
-      "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 68,
-      "comments": 30
+      "score": 271,
+      "comments": 97
     },
     {
       "id": 49261133,
       "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 11,
-      "comments": 0
+      "score": 88,
+      "comments": 78
     }
   ]
 }
