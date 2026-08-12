@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 16:33:00 UTC",
-    "fetched_at_ist": "2026-08-12 22:03:00 IST",
+    "fetched_at_utc": "2026-08-12 17:39:08 UTC",
+    "fetched_at_ist": "2026-08-12 23:09:08 IST",
     "item_count": 5,
-    "content_hash": "cc089502af998be08598c165bce694e0a41aa663caed4bd2f717e3b5a80fb0b5",
-    "previous_hash": "8756c9252aaf91ebc8aff3c41acbe24bcbbf42a73f4fb3b32930c5bf8e60c1d6",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "59df008c554ca44b3b2afd4deda3457e6e34101683b2a0f8cf9ecd3be9cf3eb2",
+    "previous_hash": "cc089502af998be08598c165bce694e0a41aa663caed4bd2f717e3b5a80fb0b5",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49274600,
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 216,
+      "comments": 67
+    },
+    {
       "id": 49272832,
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 258,
-      "comments": 31
+      "score": 391,
+      "comments": 59
     },
     {
       "id": 49270953,
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 352,
-      "comments": 79
+      "score": 378,
+      "comments": 90
+    },
+    {
+      "id": 49275114,
+      "title": "DeepSeek V4 Pro 0813 quietly released",
+      "url": "https://api-docs.deepseek.com/guides/responses_api/",
+      "score": 64,
+      "comments": 6
     },
     {
       "id": 49272655,
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 88,
-      "comments": 19
-    },
-    {
-      "id": 49272569,
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 87,
-      "comments": 36
-    },
-    {
-      "id": 49272549,
-      "title": "Why Tiny JPEGs Look Different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 110,
-      "comments": 23
+      "score": 115,
+      "comments": 22
     }
   ]
 }
