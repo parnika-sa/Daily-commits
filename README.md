@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-12 00:42:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-12 06:14:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$63,578.0** ↓ (-0.71%)
-- HN top story: **WorldClaw Agentic 3D open-world generation at scale**
+- BTC: **$63,676.0** ↓ (-0.49%)
+- HN top story: **llama.cpp**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-11 12:08:20 UTC | `ca4d71662a6e` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-12 00:42:02 UTC | `122cf4e2caae` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-08-11 20:24:02 UTC | `bbc60c5a2e17` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-08-12 06:14:33 UTC | `3a3c1c3b8bb3` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-12 06:14:34 UTC | `7987267bcb3c` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-12 06:14:33 UTC | `c6c98fbb2c42` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-12` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `80` day(s) |
-| Last Commit (IST) | `2026-08-12 08:39:43 IST` |
+| Last Commit (IST) | `2026-08-12 10:28:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-09 | 34 | `██████░░░░░░░░░░░░░░` 34% |
 | 2026-08-10 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-08-11 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-08-12 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-08-12 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,578.0 | -0.71% | 🔴 |
-| Ethereum | $1,879.2 | +0.13% | 🟢 |
-| Solana | $75.86 | -0.45% | 🔴 |
-| Bnb | $611.98 | +1.98% | 🟢 |
+| Bitcoin | $63,676.0 | -0.49% | 🔴 |
+| Ethereum | $1,886.53 | +0.72% | 🟢 |
+| Solana | $76.18 | +0.32% | 🟢 |
+| Bnb | $610.36 | +1.74% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,349 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 970 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 18 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 659 stars today | Production-grade engineering skills for AI coding agents. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 731 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 682 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 468 stars today | Public repository for Agent Skills |
-| [3b1b/manim](https://github.com/3b1b/manim) | Python | 381 stars today | Animation engine for explanatory math videos |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 958 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 893 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 22 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 578 stars today | Production-grade engineering skills for AI coding agents. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 243 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 341 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 485 stars today | Public repository for Agent Skills |
+| [3b1b/manim](https://github.com/3b1b/manim) | Python | 197 stars today | Animation engine for explanatory math videos |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | 97 | 31 |
-| [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) | 169 | 84 |
-| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | 220 | 97 |
-| [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) | 275 | 124 |
-| [Go is an ideal language for AI-assisted software engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) | 246 | 287 |
+| [llama.cpp](https://llama.app) | 47 | 8 |
+| [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/) | 112 | 14 |
+| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | 429 | 172 |
+| [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/) | 59 | 12 |
+| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | 185 | 57 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
