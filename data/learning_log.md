@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-12 (last updated: 15:47 IST)
+
+## 📅 2026-08-12 (last updated: 20:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-12 11:44:33 IST | 3a3c1c3b8bb3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-12 11:44:34 IST | 7987267bcb3c | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-12 20:00:57 IST | 9990b04b9581 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-12 15:47:56 IST | 854da5d84566 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 243 stars today
 
 ### 📰 Hacker News Stories
-- [llama.cpp](https://llama.app) — Score: 47
-- [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/) — Score: 112
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) — Score: 429
-- [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/) — Score: 59
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) — Score: 185
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) — Score: 238
+- [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html) — Score: 15
+- [Why Tiny JPEGs Look Different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/) — Score: 33
+- [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) — Score: 34
+- [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) — Score: 160
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,069.0 🔴 -0.16%
