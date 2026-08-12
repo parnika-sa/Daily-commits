@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-12 (last updated: 20:00 IST)
+
+## 📅 2026-08-12 (last updated: 21:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-12 11:44:33 IST | 3a3c1c3b8bb3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-12 20:00:57 IST | 9990b04b9581 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-12 21:05:24 IST | 8756c9252aaf | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-12 15:47:56 IST | 854da5d84566 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 243 stars today
 
 ### 📰 Hacker News Stories
-- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) — Score: 238
-- [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html) — Score: 15
-- [Why Tiny JPEGs Look Different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/) — Score: 33
-- [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) — Score: 34
-- [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) — Score: 160
+- [License Plate Reader Searches Should Require a Warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/) — Score: 150
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) — Score: 314
+- [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html) — Score: 69
+- [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) — Score: 89
+- [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights) — Score: 48
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,069.0 🔴 -0.16%
