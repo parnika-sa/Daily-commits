@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 15:35:24 UTC",
-    "fetched_at_ist": "2026-08-12 21:05:24 IST",
+    "fetched_at_utc": "2026-08-12 16:33:00 UTC",
+    "fetched_at_ist": "2026-08-12 22:03:00 IST",
     "item_count": 5,
-    "content_hash": "8756c9252aaf91ebc8aff3c41acbe24bcbbf42a73f4fb3b32930c5bf8e60c1d6",
-    "previous_hash": "9990b04b95817ef061bb0584f1d18dfd77271251124db715d0ca83a96810db62",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "cc089502af998be08598c165bce694e0a41aa663caed4bd2f717e3b5a80fb0b5",
+    "previous_hash": "8756c9252aaf91ebc8aff3c41acbe24bcbbf42a73f4fb3b32930c5bf8e60c1d6",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49273165,
-      "title": "License Plate Reader Searches Should Require a Warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 150,
-      "comments": 59
+      "id": 49272832,
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 258,
+      "comments": 31
     },
     {
       "id": 49270953,
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 314,
-      "comments": 72
+      "score": 352,
+      "comments": 79
     },
     {
       "id": 49272655,
-      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+      "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 69,
-      "comments": 13
-    },
-    {
-      "id": 49272832,
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 89,
-      "comments": 8
+      "score": 88,
+      "comments": 19
     },
     {
       "id": 49272569,
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "score": 48,
-      "comments": 12
+      "score": 87,
+      "comments": 36
+    },
+    {
+      "id": 49272549,
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "score": 110,
+      "comments": 23
     }
   ]
 }
