@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 18:33:27 UTC",
-    "fetched_at_ist": "2026-08-13 00:03:27 IST",
+    "fetched_at_utc": "2026-08-12 20:33:46 UTC",
+    "fetched_at_ist": "2026-08-13 02:03:46 IST",
     "item_count": 5,
-    "content_hash": "42fb4ff2411795860e020d9c8811b3e243856b96070ca7b405c6a95a3775a5ef",
-    "previous_hash": "59df008c554ca44b3b2afd4deda3457e6e34101683b2a0f8cf9ecd3be9cf3eb2",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "93b0de31dcee2952f84d111ff9c57db526a6fae198c38b63a21a3d506d9e56aa",
+    "previous_hash": "42fb4ff2411795860e020d9c8811b3e243856b96070ca7b405c6a95a3775a5ef",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 345,
-      "comments": 112
+      "score": 517,
+      "comments": 189
+    },
+    {
+      "id": 49276574,
+      "title": "Zed: Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 174,
+      "comments": 68
     },
     {
       "id": 49272832,
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 460,
-      "comments": 75
+      "score": 584,
+      "comments": 95
+    },
+    {
+      "id": 49273478,
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 325,
+      "comments": 76
     },
     {
       "id": 49270953,
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 392,
-      "comments": 101
-    },
-    {
-      "id": 49275385,
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "score": 146,
-      "comments": 101
-    },
-    {
-      "id": 49272655,
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 134,
-      "comments": 23
+      "score": 424,
+      "comments": 114
     }
   ]
 }
