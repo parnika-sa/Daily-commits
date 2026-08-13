@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 13:43:10 UTC",
-    "fetched_at_ist": "2026-08-13 19:13:10 IST",
+    "fetched_at_utc": "2026-08-13 14:43:50 UTC",
+    "fetched_at_ist": "2026-08-13 20:13:50 IST",
     "item_count": 5,
-    "content_hash": "e1b26027a415cb47c033fff712f415c9a2da9ec69cb67c69ea41ee883a7bb7bd",
-    "previous_hash": "b93abdfb51904c6afd89dac4bf0b02937aa168ec28b43ead732f1c3c589def38",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "f08adf6b6896b795bb1b064312dae46686e6565078b94d1fe561a35b57282e47",
+    "previous_hash": "e1b26027a415cb47c033fff712f415c9a2da9ec69cb67c69ea41ee883a7bb7bd",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49284774,
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 166,
-      "comments": 142
-    },
-    {
-      "id": 49285327,
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 28,
-      "comments": 6
-    },
-    {
       "id": 49285244,
       "title": "DeepSeek Harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "score": 18,
+      "score": 164,
+      "comments": 66
+    },
+    {
+      "id": 49285982,
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 50,
+      "comments": 4
+    },
+    {
+      "id": 49285604,
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "score": 42,
+      "comments": 22
+    },
+    {
+      "id": 49286341,
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 19,
       "comments": 0
     },
     {
-      "id": 49281916,
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "score": 290,
-      "comments": 192
-    },
-    {
-      "id": 49224997,
-      "title": "Picking berries is my meditation",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "score": 48,
-      "comments": 31
+      "id": 49286270,
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "score": 22,
+      "comments": 8
     }
   ]
 }
