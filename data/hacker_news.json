@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 18:34:55 UTC",
-    "fetched_at_ist": "2026-08-14 00:04:55 IST",
+    "fetched_at_utc": "2026-08-13 19:42:14 UTC",
+    "fetched_at_ist": "2026-08-14 01:12:14 IST",
     "item_count": 5,
-    "content_hash": "8e2ac865440bc2ce5ff0eca43dbbc949a929517fe431378bb1e9b95857866152",
-    "previous_hash": "913ae20c9fac6f72fec0d629a77566f6794fe84471865806ea3937ffdb2abc34",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b2ac739b943f78c11aabfbaf1c29d11dda72c12194cb60a625b8db03eed1d973",
+    "previous_hash": "8e2ac865440bc2ce5ff0eca43dbbc949a929517fe431378bb1e9b95857866152",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 218,
-      "comments": 144
+      "score": 328,
+      "comments": 212
     },
     {
-      "id": 49288889,
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 86,
-      "comments": 21
+      "id": 49289844,
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 150,
+      "comments": 45
     },
     {
       "id": 49289512,
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 49,
-      "comments": 14
-    },
-    {
-      "id": 49286341,
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 312,
-      "comments": 94
+      "score": 114,
+      "comments": 56
     },
     {
       "id": 49289465,
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 35,
-      "comments": 9
+      "score": 76,
+      "comments": 30
+    },
+    {
+      "id": 49288889,
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 130,
+      "comments": 41
     }
   ]
 }
