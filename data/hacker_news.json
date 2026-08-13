@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 16:32:30 UTC",
-    "fetched_at_ist": "2026-08-13 22:02:30 IST",
+    "fetched_at_utc": "2026-08-13 17:39:00 UTC",
+    "fetched_at_ist": "2026-08-13 23:09:00 IST",
     "item_count": 5,
-    "content_hash": "68954092f420deef83fbca5cee6868f45e35a836106bf2e1786d27a8ca007419",
-    "previous_hash": "ed8e242da5610e1393f3abbf0e4290b18607d3c6a7c228cd703e3c16c11c6c29",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "913ae20c9fac6f72fec0d629a77566f6794fe84471865806ea3937ffdb2abc34",
+    "previous_hash": "68954092f420deef83fbca5cee6868f45e35a836106bf2e1786d27a8ca007419",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49285244,
-      "title": "DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "score": 353,
-      "comments": 157
-    },
-    {
-      "id": 49285982,
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "score": 195,
-      "comments": 75
-    },
-    {
-      "id": 49284774,
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 292,
-      "comments": 308
+      "id": 49289112,
+      "title": "Gemini 3.7 Flash",
+      "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+      "score": 61,
+      "comments": 37
     },
     {
       "id": 49286341,
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 180,
-      "comments": 50
+      "score": 269,
+      "comments": 72
     },
     {
       "id": 49258428,
       "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
       "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "score": 32,
-      "comments": 4
+      "score": 42,
+      "comments": 8
+    },
+    {
+      "id": 49285244,
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 405,
+      "comments": 191
+    },
+    {
+      "id": 49285982,
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 264,
+      "comments": 132
     }
   ]
 }
