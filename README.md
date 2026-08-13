@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-13 11:26:57 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-13 12:07:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$63,439.0** ↓ (-1.06%)
+- Top GitHub repo: **cathrynlavery/diagram-design**
+- BTC: **$63,400.0** ↓ (-1.26%)
 - HN top story: **ChatGPT Desktop (Codex Desktop) for Linux**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-12 06:14:33 UTC | `3a3c1c3b8bb3` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-13 10:42:18 UTC | `d214043924d2` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-08-13 11:26:57 UTC | `3e4265e42c1d` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-13 12:07:35 UTC | `f394fa6b407a` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-13 12:07:36 UTC | `b93abdfb5190` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-13 12:07:35 UTC | `fc8a62b0adfc` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +13 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-13` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-08-13 16:12:18 IST` |
+| Last Commit (IST) | `2026-08-13 16:56:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-10 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-08-11 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-08-12 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-08-13 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-08-13 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,439.0 | -1.06% | 🔴 |
-| Ethereum | $1,876.27 | -1.77% | 🔴 |
-| Solana | $75.54 | -1.60% | 🔴 |
-| Bnb | $609.96 | -0.61% | 🔴 |
+| Bitcoin | $63,400.0 | -1.26% | 🔴 |
+| Ethereum | $1,877.74 | -1.89% | 🔴 |
+| Solana | $75.61 | -1.68% | 🔴 |
+| Bnb | $608.31 | -0.97% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 958 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 893 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 22 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 578 stars today | Production-grade engineering skills for AI coding agents. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 243 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 341 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 485 stars today | Public repository for Agent Skills |
-| [3b1b/manim](https://github.com/3b1b/manim) | Python | 197 stars today | Animation engine for explanatory math videos |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,855 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 845 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 569 stars today | Public repository for Agent Skills |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 315 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 83 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 592 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [megadose/holehe](https://github.com/megadose/holehe) | Python | 166 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | 159 | 83 |
-| [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | 17 | 0 |
-| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 936 | 382 |
-| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1055 | 196 |
-| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 636 | 148 |
+| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | 227 | 141 |
+| [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | 43 | 7 |
+| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 963 | 412 |
+| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1084 | 202 |
+| [Picking berries is my meditation](https://www.tsoon.com/posts/picking-berries-meditation/) | 18 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
