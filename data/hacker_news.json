@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 12:07:36 UTC",
-    "fetched_at_ist": "2026-08-13 17:37:36 IST",
+    "fetched_at_utc": "2026-08-13 13:43:10 UTC",
+    "fetched_at_ist": "2026-08-13 19:13:10 IST",
     "item_count": 5,
-    "content_hash": "b93abdfb51904c6afd89dac4bf0b02937aa168ec28b43ead732f1c3c589def38",
-    "previous_hash": "d214043924d20b65f61f01776127b0a9063dc784a4b63b9a6c365e4976fb8729",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "e1b26027a415cb47c033fff712f415c9a2da9ec69cb67c69ea41ee883a7bb7bd",
+    "previous_hash": "b93abdfb51904c6afd89dac4bf0b02937aa168ec28b43ead732f1c3c589def38",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49284774,
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "score": 166,
+      "comments": 142
+    },
+    {
+      "id": 49285327,
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 28,
+      "comments": 6
+    },
+    {
+      "id": 49285244,
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "score": 18,
+      "comments": 0
+    },
     {
       "id": 49281916,
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 227,
-      "comments": 141
-    },
-    {
-      "id": 49243687,
-      "title": "The lattice of sets of natural numbers is rich",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "score": 43,
-      "comments": 7
-    },
-    {
-      "id": 49274600,
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 963,
-      "comments": 412
-    },
-    {
-      "id": 49272832,
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1084,
-      "comments": 202
+      "score": 290,
+      "comments": 192
     },
     {
       "id": 49224997,
       "title": "Picking berries is my meditation",
       "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "score": 18,
-      "comments": 9
+      "score": 48,
+      "comments": 31
     }
   ]
 }
