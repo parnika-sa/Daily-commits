@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 14:43:50 UTC",
-    "fetched_at_ist": "2026-08-13 20:13:50 IST",
+    "fetched_at_utc": "2026-08-13 15:38:36 UTC",
+    "fetched_at_ist": "2026-08-13 21:08:36 IST",
     "item_count": 5,
-    "content_hash": "f08adf6b6896b795bb1b064312dae46686e6565078b94d1fe561a35b57282e47",
-    "previous_hash": "e1b26027a415cb47c033fff712f415c9a2da9ec69cb67c69ea41ee883a7bb7bd",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "ed8e242da5610e1393f3abbf0e4290b18607d3c6a7c228cd703e3c16c11c6c29",
+    "previous_hash": "f08adf6b6896b795bb1b064312dae46686e6565078b94d1fe561a35b57282e47",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49285244,
       "title": "DeepSeek Harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "score": 164,
-      "comments": 66
+      "score": 274,
+      "comments": 117
     },
     {
       "id": 49285982,
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
-      "score": 50,
-      "comments": 4
-    },
-    {
-      "id": 49285604,
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "score": 42,
-      "comments": 22
+      "score": 128,
+      "comments": 44
     },
     {
       "id": 49286341,
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 19,
-      "comments": 0
+      "score": 117,
+      "comments": 28
     },
     {
       "id": 49286270,
       "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
       "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "score": 22,
-      "comments": 8
+      "score": 54,
+      "comments": 38
+    },
+    {
+      "id": 49285604,
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "score": 105,
+      "comments": 104
     }
   ]
 }
