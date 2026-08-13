@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 23:38:53 UTC",
-    "fetched_at_ist": "2026-08-13 05:08:53 IST",
+    "fetched_at_utc": "2026-08-13 00:42:34 UTC",
+    "fetched_at_ist": "2026-08-13 06:12:34 IST",
     "item_count": 5,
-    "content_hash": "31274cf809ac3f7f9ab804fc4ac20723c6609dbbbeb14697276bde06d1227e9a",
-    "previous_hash": "93b0de31dcee2952f84d111ff9c57db526a6fae198c38b63a21a3d506d9e56aa",
+    "content_hash": "036fd55e870e8c4a67493589c6ab817d7ddd0f0fa04e7990fe3dec319da2fa9a",
+    "previous_hash": "31274cf809ac3f7f9ab804fc4ac20723c6609dbbbeb14697276bde06d1227e9a",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,35 +15,35 @@
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 692,
-      "comments": 243
+      "score": 716,
+      "comments": 268
     },
     {
       "id": 49276574,
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 339,
-      "comments": 112
+      "score": 362,
+      "comments": 120
     },
     {
       "id": 49272832,
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 736,
-      "comments": 120
+      "score": 769,
+      "comments": 135
     },
     {
       "id": 49273478,
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 453,
-      "comments": 95
+      "score": 475,
+      "comments": 102
     },
     {
-      "id": 49269429,
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 9,
+      "id": 49280184,
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 11,
       "comments": 1
     }
   ]
