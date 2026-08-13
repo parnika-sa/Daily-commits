@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 06:42:29 UTC",
-    "fetched_at_ist": "2026-08-13 12:12:29 IST",
+    "fetched_at_utc": "2026-08-13 09:31:01 UTC",
+    "fetched_at_ist": "2026-08-13 15:01:01 IST",
     "item_count": 5,
-    "content_hash": "5d5f619221db115a538f930d18a93982c9b602ca6e59ae1bb4a925d5c85ca6cc",
-    "previous_hash": "036fd55e870e8c4a67493589c6ab817d7ddd0f0fa04e7990fe3dec319da2fa9a",
+    "content_hash": "acc20c7960cb7653835dce8dcaf9b8a60b236db83f7f8bd5d3c7f1147552a866",
+    "previous_hash": "5d5f619221db115a538f930d18a93982c9b602ca6e59ae1bb4a925d5c85ca6cc",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49281916,
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "score": 111,
+      "comments": 50
+    },
     {
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 862,
-      "comments": 340
+      "score": 921,
+      "comments": 373
     },
     {
       "id": 49272832,
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 957,
-      "comments": 180
-    },
-    {
-      "id": 49218040,
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 46,
-      "comments": 22
-    },
-    {
-      "id": 49276574,
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 503,
-      "comments": 170
+      "score": 1029,
+      "comments": 191
     },
     {
       "id": 49273478,
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 575,
-      "comments": 131
+      "score": 617,
+      "comments": 146
+    },
+    {
+      "id": 49276574,
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 545,
+      "comments": 196
     }
   ]
 }
