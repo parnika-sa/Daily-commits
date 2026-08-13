@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 09:31:01 UTC",
-    "fetched_at_ist": "2026-08-13 15:01:01 IST",
+    "fetched_at_utc": "2026-08-13 10:42:18 UTC",
+    "fetched_at_ist": "2026-08-13 16:12:18 IST",
     "item_count": 5,
-    "content_hash": "acc20c7960cb7653835dce8dcaf9b8a60b236db83f7f8bd5d3c7f1147552a866",
-    "previous_hash": "5d5f619221db115a538f930d18a93982c9b602ca6e59ae1bb4a925d5c85ca6cc",
+    "content_hash": "d214043924d20b65f61f01776127b0a9063dc784a4b63b9a6c365e4976fb8729",
+    "previous_hash": "acc20c7960cb7653835dce8dcaf9b8a60b236db83f7f8bd5d3c7f1147552a866",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49281916,
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 111,
-      "comments": 50
+      "score": 159,
+      "comments": 83
+    },
+    {
+      "id": 49243687,
+      "title": "The lattice of sets of natural numbers is rich",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "score": 17,
+      "comments": 0
     },
     {
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 921,
-      "comments": 373
+      "score": 936,
+      "comments": 382
     },
     {
       "id": 49272832,
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1029,
-      "comments": 191
+      "score": 1055,
+      "comments": 196
     },
     {
       "id": 49273478,
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 617,
-      "comments": 146
-    },
-    {
-      "id": 49276574,
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 545,
-      "comments": 196
+      "score": 636,
+      "comments": 148
     }
   ]
 }
