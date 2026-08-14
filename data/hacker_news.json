@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 23:41:24 UTC",
-    "fetched_at_ist": "2026-08-14 05:11:24 IST",
+    "fetched_at_utc": "2026-08-14 00:42:26 UTC",
+    "fetched_at_ist": "2026-08-14 06:12:26 IST",
     "item_count": 5,
-    "content_hash": "536163db5380a5ff4c84a3a12657aa27b1402e08e929e3370671537e4cddacf3",
-    "previous_hash": "b2ac739b943f78c11aabfbaf1c29d11dda72c12194cb60a625b8db03eed1d973",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "2fdc55c3df4191e045877fe3d9b40967e73bf4e4020f8d6a19c9248fb590da9c",
+    "previous_hash": "536163db5380a5ff4c84a3a12657aa27b1402e08e929e3370671537e4cddacf3",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49293324,
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 23,
+      "comments": 0
+    },
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 554,
-      "comments": 320
+      "score": 584,
+      "comments": 330
     },
     {
       "id": 49289844,
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 376,
-      "comments": 150
+      "score": 398,
+      "comments": 168
     },
     {
       "id": 49291268,
       "title": "NP-Overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 105,
-      "comments": 53
+      "score": 128,
+      "comments": 74
     },
     {
       "id": 49290299,
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 149,
-      "comments": 76
-    },
-    {
-      "id": 49289465,
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "score": 170,
-      "comments": 72
+      "score": 182,
+      "comments": 94
     }
   ]
 }
