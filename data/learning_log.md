@@ -24,44 +24,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-14 (last updated: 18:13 IST)
+
+## 📅 2026-08-14 (last updated: 23:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-13 17:37:35 IST | f394fa6b407a | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-14 18:13:13 IST | c8268cc522b0 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-14 11:47:19 IST | cbf5994925a9 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-14 23:34:06 IST | 1e44512fef94 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-14 23:34:05 IST | 58399b935066 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** (HTML) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow  
-  ⭐ 2,855 stars today
-- **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** (Python) — Graph-Native Infrastructure for Context and Accountable AI Systems  
-  ⭐ 845 stars today
-- **[anthropics/skills](https://github.com/anthropics/skills)** (Python) — Public repository for Agent Skills  
-  ⭐ 569 stars today
+  ⭐ 3,651 stars today
 - **[cactus-compute/needle](https://github.com/cactus-compute/needle)** (Python) — 14MB foundation model for tiny devices; phones, wearables, smart home, and robot  
-  ⭐ 315 stars today
-- **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** (Swift) — Fastest and only macOS Dictation app with on-device STT and custom trained AI en  
-  ⭐ 83 stars today
+  ⭐ 661 stars today
+- **[megadose/holehe](https://github.com/megadose/holehe)** (Python) — holehe allows you to check if the mail is used on different sites like twitter,   
+  ⭐ 427 stars today
+- **[macro-inc/macro](https://github.com/macro-inc/macro)** (Rust) — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,  
+  ⭐ 435 stars today
+- **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** (Python) — SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa  
+  ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) — Score: 642
-- [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) — Score: 83
-- [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) — Score: 19
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) — Score: 887
-- [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/) — Score: 49
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 338
+- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) — Score: 154
+- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) — Score: 91
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) — Score: 69
+- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) — Score: 459
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,277.0 🔴 -0.78%
-- Ethereum: $1,880.59 🔴 -0.62%
-- Solana: $75.78 🔴 -0.82%
-- Bnb: $609.35 🔴 -0.58%
+- Bitcoin: $62,946.0 🔴 -0.33%
+- Ethereum: $1,875.61 🔴 -0.06%
+- Solana: $75.16 🔴 -0.79%
+- Bnb: $605.44 🔴 -0.36%
 
 ---
 ## 📅 2026-08-13 (last updated: 23:09 IST)

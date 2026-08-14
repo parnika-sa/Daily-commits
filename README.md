@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-14 12:43:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-14 18:04:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,277.0** ↓ (-0.78%)
-- HN top story: **GLM-5.3: Frontier coding with emergent cyber capabilities**
+- BTC: **$62,946.0** ↓ (-0.33%)
+- HN top story: **Qwen 3.8 27B**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-13 12:07:35 UTC | `f394fa6b407a` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-14 12:43:13 UTC | `c8268cc522b0` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-14 06:17:19 UTC | `cbf5994925a9` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-08-14 18:04:05 UTC | `d48f73b66ac1` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-14 18:04:06 UTC | `1e44512fef94` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-14 18:04:05 UTC | `58399b935066` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-14` |
-| Commits Today | `21` / `100` |
-| Remaining Today | `79` |
-| Progress | `████░░░░░░░░░░░░░░░░` 21% |
+| Commits Today | `22` / `100` |
+| Remaining Today | `78` |
+| Progress | `████░░░░░░░░░░░░░░░░` 22% |
 | Streak | `77` day(s) |
-| Last Commit (IST) | `2026-08-14 21:33:46 IST` |
+| Last Commit (IST) | `2026-08-14 22:38:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-11 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-08-12 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-08-13 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-08-14 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
+| 2026-08-14 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,277.0 | -0.78% | 🔴 |
-| Ethereum | $1,880.59 | -0.62% | 🔴 |
-| Solana | $75.78 | -0.82% | 🔴 |
-| Bnb | $609.35 | -0.58% | 🔴 |
+| Bitcoin | $62,946.0 | -0.33% | 🔴 |
+| Ethereum | $1,875.61 | -0.06% | 🔴 |
+| Solana | $75.16 | -0.79% | 🔴 |
+| Bnb | $605.44 | -0.36% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,855 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 845 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 569 stars today | Public repository for Agent Skills |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 315 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 83 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 592 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
-| [megadose/holehe](https://github.com/megadose/holehe) | Python | 166 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 3,651 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 661 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
+| [megadose/holehe](https://github.com/megadose/holehe) | Python | 427 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 435 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | 292 stars today | SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa… |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 153 stars today | The fastest browser for AI agents to run browser automation, built for sharing y… |
+| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | TypeScript | 769 stars today | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — … |
+| [github/spec-kit](https://github.com/github/spec-kit) | Python | 1,147 stars today | 💫 Toolkit to help you get started with Spec-Driven Development |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | 642 | 311 |
-| [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | 83 | 36 |
-| [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | 19 | 4 |
-| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | 887 | 451 |
-| [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/) | 49 | 3 |
+| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 338 | 250 |
+| [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) | 154 | 57 |
+| [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) | 91 | 37 |
+| [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | 69 | 22 |
+| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | 459 | 439 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
