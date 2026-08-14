@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-14 00:42:26 UTC",
-    "fetched_at_ist": "2026-08-14 06:12:26 IST",
+    "fetched_at_utc": "2026-08-14 12:43:13 UTC",
+    "fetched_at_ist": "2026-08-14 18:13:13 IST",
     "item_count": 5,
-    "content_hash": "2fdc55c3df4191e045877fe3d9b40967e73bf4e4020f8d6a19c9248fb590da9c",
-    "previous_hash": "536163db5380a5ff4c84a3a12657aa27b1402e08e929e3370671537e4cddacf3",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "c8268cc522b07d1d48afcdffd08d9e98bbe67485e454edf85cfe42f5195f45e3",
+    "previous_hash": "2fdc55c3df4191e045877fe3d9b40967e73bf4e4020f8d6a19c9248fb590da9c",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49293324,
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 23,
-      "comments": 0
+      "id": 49294997,
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 642,
+      "comments": 311
+    },
+    {
+      "id": 49296627,
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "score": 83,
+      "comments": 36
+    },
+    {
+      "id": 49249523,
+      "title": "Don't classify, hallucinate!",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 19,
+      "comments": 4
     },
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 584,
-      "comments": 330
+      "score": 887,
+      "comments": 451
     },
     {
-      "id": 49289844,
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 398,
-      "comments": 168
-    },
-    {
-      "id": 49291268,
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 128,
-      "comments": 74
-    },
-    {
-      "id": 49290299,
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 182,
-      "comments": 94
+      "id": 49231490,
+      "title": "Differential Heuristics",
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "score": 49,
+      "comments": 3
     }
   ]
 }
