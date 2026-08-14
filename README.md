@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-14 00:42:26 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-14 06:17:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,369.0** ↓ (-0.03%)
+- BTC: **$63,277.0** ↓ (-0.78%)
 - HN top story: **Bluesky Protocol Services**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-13 12:07:35 UTC | `f394fa6b407a` | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-14 00:42:26 UTC | `2fdc55c3df41` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-13 20:19:42 UTC | `07aebc007f98` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-14 06:17:19 UTC | `cbf5994925a9` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-14` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `78` day(s) |
-| Last Commit (IST) | `2026-08-14 08:41:42 IST` |
+| Last Commit (IST) | `2026-08-14 10:30:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-11 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-08-12 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-08-13 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-08-14 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-08-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,369.0 | -0.03% | 🔴 |
-| Ethereum | $1,885.73 | +0.33% | 🟢 |
-| Solana | $76.13 | +0.53% | 🟢 |
-| Bnb | $609.97 | -0.01% | 🔴 |
+| Bitcoin | $63,277.0 | -0.78% | 🔴 |
+| Ethereum | $1,880.59 | -0.62% | 🔴 |
+| Solana | $75.78 | -0.82% | 🔴 |
+| Bnb | $609.35 | -0.58% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
