@@ -35,18 +35,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 16:08 IST)
+
+## 📅 2026-08-15 (last updated: 17:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-15 16:08:26 IST | 3d144bb2355b | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-15 17:04:34 IST | a8d86c93ac87 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-15 14:46:58 IST | 37b61a92039b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -62,11 +63,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 166
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 1153
-- [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/) — Score: 15
-- [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) — Score: 11
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 350
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 207
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 1181
+- [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) — Score: 25
+- [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/) — Score: 18
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 357
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,896.0 🟢 +0.14%
