@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-15 20:37:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-15 21:17:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,043.0** ↑ (+0.11%)
+- BTC: **$63,046.0** ↑ (+0.31%)
 - HN top story: **Semaglutide linked to 26% lower 5-year predicted dementia risk**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 18:04:05 UTC | `d48f73b66ac1` | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-15 20:37:06 UTC | `53e331d78935` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-15 18:15:23 UTC | `f41ded9031f5` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-08-15 21:17:06 UTC | `9438bb0c3e52` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-16` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| Streak | `73` day(s) |
-| Last Commit (IST) | `2026-08-16 02:07:06 IST` |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Streak | `72` day(s) |
+| Last Commit (IST) | `2026-08-16 02:27:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-13 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-08-14 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-15 | 50 | `██████████░░░░░░░░░░` 50% |
-| 2026-08-16 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-08-16 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,043.0 | +0.11% | 🟢 |
-| Ethereum | $1,883.56 | +0.44% | 🟢 |
-| Solana | $75.56 | +0.69% | 🟢 |
-| Bnb | $610.33 | +0.84% | 🟢 |
+| Bitcoin | $63,046.0 | +0.31% | 🟢 |
+| Ethereum | $1,882.23 | +0.28% | 🟢 |
+| Solana | $75.52 | +0.57% | 🟢 |
+| Bnb | $610.16 | +0.67% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
