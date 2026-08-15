@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 15:42:16 UTC",
-    "fetched_at_ist": "2026-08-15 21:12:16 IST",
+    "fetched_at_utc": "2026-08-15 17:34:10 UTC",
+    "fetched_at_ist": "2026-08-15 23:04:10 IST",
     "item_count": 5,
-    "content_hash": "793bfe9a4798a907fa929efe8a760d2143c3debb372a57c656efb9fbd2645dd2",
-    "previous_hash": "41a7aa9aaa98b8fab10aae76b8641aa8d65ad007d38aa18c4c26d1bd01f38d18",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "0765cd3d083ba489427f71db94f7c7f6fecd931b0d96a5363c4e5519eb2c2e04",
+    "previous_hash": "793bfe9a4798a907fa929efe8a760d2143c3debb372a57c656efb9fbd2645dd2",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49309549,
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "score": 189,
-      "comments": 51
+      "id": 49311651,
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 55,
+      "comments": 17
     },
     {
       "id": 49310682,
       "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 20,
-      "comments": 1
+      "score": 98,
+      "comments": 36
     },
     {
-      "id": 49310623,
-      "title": "Writergate: Zig I/O Interface Overhaul",
-      "url": "https://alexrios.me/blog/writergate/",
-      "score": 30,
-      "comments": 9
+      "id": 49309549,
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 259,
+      "comments": 73
     },
     {
-      "id": 49307592,
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "score": 297,
-      "comments": 144
+      "id": 49298035,
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "score": 52,
+      "comments": 208
     },
     {
-      "id": 49309451,
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 83,
-      "comments": 66
+      "id": 49312008,
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "score": 45,
+      "comments": 3
     }
   ]
 }

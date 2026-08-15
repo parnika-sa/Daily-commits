@@ -50,18 +50,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 21:46 IST)
+
+## 📅 2026-08-15 (last updated: 23:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-15 21:12:16 IST | 793bfe9a4798 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-15 23:04:10 IST | 0765cd3d083b | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-15 21:46:10 IST | 724e9acbe671 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -77,11 +78,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) — Score: 189
-- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) — Score: 20
-- [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/) — Score: 30
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 297
-- [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/) — Score: 83
+- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) — Score: 55
+- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) — Score: 98
+- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) — Score: 259
+- [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) — Score: 52
+- [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) — Score: 45
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,028.0 🟢 +0.09%
