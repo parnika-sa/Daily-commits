@@ -37,19 +37,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 17:04 IST)
+
+## 📅 2026-08-15 (last updated: 17:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-15 17:04:34 IST | a8d86c93ac87 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-08-15 14:46:58 IST | 37b61a92039b | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-15 17:49:16 IST | 90f44ea656fb | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** (HTML) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow  
@@ -71,10 +72,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 357
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,896.0 🟢 +0.14%
-- Ethereum: $1,875.73 🟢 +0.08%
-- Solana: $75.06 🔴 -0.90%
-- Bnb: $609.92 🟢 +0.36%
+- Bitcoin: $62,927.0 🟢 +0.24%
+- Ethereum: $1,876.9 🟢 +0.15%
+- Solana: $75.17 🔴 -0.27%
+- Bnb: $611.66 🟢 +1.20%
 
 ---
 ## 📅 2026-08-14 (last updated: 23:34 IST)
