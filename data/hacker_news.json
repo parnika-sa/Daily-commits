@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 11:34:34 UTC",
-    "fetched_at_ist": "2026-08-15 17:04:34 IST",
+    "fetched_at_utc": "2026-08-15 13:41:04 UTC",
+    "fetched_at_ist": "2026-08-15 19:11:04 IST",
     "item_count": 5,
-    "content_hash": "a8d86c93ac875bde193a256c43711449ead6d7a6967a479b454c5d67a22b7532",
-    "previous_hash": "3d144bb2355b613929b1e3d22df34aeefe1f818744496f4d35cdeadcc518f751",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "39f6851d1f7d930bb30430e047a96541d077d6a27992529d3696c57928ee4104",
+    "previous_hash": "a8d86c93ac875bde193a256c43711449ead6d7a6967a479b454c5d67a22b7532",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49307592,
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "score": 207,
-      "comments": 102
+      "id": 49309549,
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 91,
+      "comments": 31
+    },
+    {
+      "id": 49310291,
+      "title": "Brazilian election filter in X For You timeline",
+      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+      "score": 12,
+      "comments": 4
+    },
+    {
+      "id": 49310177,
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "score": 8,
+      "comments": 1
+    },
+    {
+      "id": 49310170,
+      "title": "Strait of Hormuz Live Traffic Tracking",
+      "url": "https://hormuz.now/",
+      "score": 10,
+      "comments": 6
     },
     {
       "id": 49299605,
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1181,
-      "comments": 706
-    },
-    {
-      "id": 49308685,
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "score": 25,
-      "comments": 1
-    },
-    {
-      "id": 49237183,
-      "title": "The mathematical beauty of hyperbezier curves",
-      "url": "https://linebender.org/blog/hyperbezier/",
-      "score": 18,
-      "comments": 0
-    },
-    {
-      "id": 49304447,
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "score": 357,
-      "comments": 159
+      "score": 1227,
+      "comments": 725
     }
   ]
 }
