@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 20:37:06 UTC",
-    "fetched_at_ist": "2026-08-16 02:07:06 IST",
+    "fetched_at_utc": "2026-08-15 21:42:26 UTC",
+    "fetched_at_ist": "2026-08-16 03:12:26 IST",
     "item_count": 5,
-    "content_hash": "53e331d789353093b154378e98d2d7031f7dfbe1b27ad2631c3a30b7c2e4bebf",
-    "previous_hash": "7e52d5228ed4c96a285e2f7af1e2378f80839e911b59840e2cafb2cabbdb8ceb",
+    "content_hash": "3f5a4326ac967c4e7d3eb5b63ecd8569f2bf41387943dad85ae07b0d30fbc4ff",
+    "previous_hash": "53e331d789353093b154378e98d2d7031f7dfbe1b27ad2631c3a30b7c2e4bebf",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49311651,
-      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 236,
-      "comments": 158
+      "score": 272,
+      "comments": 184
     },
     {
       "id": 49312845,
       "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 236,
-      "comments": 202
+      "score": 298,
+      "comments": 259
+    },
+    {
+      "id": 49314235,
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 15,
+      "comments": 3
     },
     {
       "id": 49310682,
-      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 162,
-      "comments": 55
-    },
-    {
-      "id": 49309549,
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "score": 330,
-      "comments": 82
+      "score": 179,
+      "comments": 59
     },
     {
       "id": 49298035,
       "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 150,
-      "comments": 261
+      "score": 181,
+      "comments": 275
     }
   ]
 }
