@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 22:36:45 UTC",
-    "fetched_at_ist": "2026-08-16 04:06:45 IST",
+    "fetched_at_utc": "2026-08-15 23:34:10 UTC",
+    "fetched_at_ist": "2026-08-16 05:04:10 IST",
     "item_count": 5,
-    "content_hash": "fe76f1b660d45206f607204de9f0025184a6d8a285ea413a91346de1ab499a1b",
-    "previous_hash": "3f5a4326ac967c4e7d3eb5b63ecd8569f2bf41387943dad85ae07b0d30fbc4ff",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "435c7d2ae218e267065f2f0536986a0f998a8c07c0247565461fee7eb87ce5c3",
+    "previous_hash": "fe76f1b660d45206f607204de9f0025184a6d8a285ea413a91346de1ab499a1b",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49311651,
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 300,
-      "comments": 201
+      "id": 49314744,
+      "title": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "score": 84,
+      "comments": 36
     },
     {
       "id": 49314403,
       "title": "Abdominal fat predicts heart disease risk better than BMI",
       "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "score": 28,
-      "comments": 16
+      "score": 82,
+      "comments": 53
     },
     {
       "id": 49314615,
       "title": "Bede Liu, a digital signal processing pioneer, has died",
       "url": "https://spectrum.ieee.org/digital-signal-processing",
-      "score": 16,
+      "score": 30,
       "comments": 1
+    },
+    {
+      "id": 49311651,
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 314,
+      "comments": 216
     },
     {
       "id": 49314235,
       "title": "Cultivating a state of mind where new ideas are born (2023)",
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 38,
-      "comments": 10
-    },
-    {
-      "id": 49314744,
-      "title": "Engineers will do anything to avoid learning from history",
-      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
-      "score": 9,
-      "comments": 5
+      "score": 52,
+      "comments": 17
     }
   ]
 }
