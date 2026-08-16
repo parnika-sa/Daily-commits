@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 01:03 IST)
+
+## 📅 2026-08-17 (last updated: 02:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 01:03:43 IST | 0743d8a53877 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-17 02:05:56 IST | aab812b5c835 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-16 23:45:26 IST | 08512223d4b2 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 145
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 394
-- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) — Score: 164
-- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) — Score: 103
-- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers) — Score: 76
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 190
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 420
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) — Score: 114
+- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 36
+- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) — Score: 176
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,075.0 🟢 +0.05%
