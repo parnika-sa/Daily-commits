@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 04:04 IST)
+
+## 📅 2026-08-17 (last updated: 05:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 04:04:56 IST | 0a5e31a8cb53 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-17 05:02:35 IST | 10659f1f0b5a | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-16 23:45:26 IST | 08512223d4b2 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 268
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 464
-- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 78
-- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 41
-- [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) — Score: 45
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 310
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 492
+- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 94
+- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 53
+- [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,075.0 🟢 +0.05%
