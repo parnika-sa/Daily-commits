@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 06:44:18 UTC",
-    "fetched_at_ist": "2026-08-16 12:14:18 IST",
+    "fetched_at_utc": "2026-08-16 10:40:07 UTC",
+    "fetched_at_ist": "2026-08-16 16:10:07 IST",
     "item_count": 5,
-    "content_hash": "3785064ce29a8dfd78134a9187a6e4d96eaf35dee1338c0c6610e7a00006a1b4",
-    "previous_hash": "fc99727d72a611d41cacdd3144a41bf1777d99a095e4f8e2404ec3fa748c0d30",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "629faeeb9b2876b91cbb84abd0065c0ae75fd74ddaee0391bcdede17f26e9c1b",
+    "previous_hash": "3785064ce29a8dfd78134a9187a6e4d96eaf35dee1338c0c6610e7a00006a1b4",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49268580,
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 288,
-      "comments": 160
+      "score": 409,
+      "comments": 267
+    },
+    {
+      "id": 49277153,
+      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+      "url": "https://www.nature.com/articles/s41586-026-10857-1",
+      "score": 7,
+      "comments": 1
     },
     {
       "id": 49243061,
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 115,
-      "comments": 8
-    },
-    {
-      "id": 49316888,
-      "title": "The quirky personal homepages of programming language creators",
-      "url": "https://breck.lol/plMakers.html",
-      "score": 58,
-      "comments": 16
-    },
-    {
-      "id": 49311651,
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 402,
-      "comments": 280
+      "score": 166,
+      "comments": 19
     },
     {
       "id": 49316271,
       "title": "Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems",
-      "score": 44,
-      "comments": 13
+      "score": 94,
+      "comments": 41
+    },
+    {
+      "id": 49314902,
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "score": 154,
+      "comments": 93
     }
   ]
 }
