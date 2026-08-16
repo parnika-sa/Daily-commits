@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 16:42:05 UTC",
-    "fetched_at_ist": "2026-08-16 22:12:05 IST",
+    "fetched_at_utc": "2026-08-16 17:41:30 UTC",
+    "fetched_at_ist": "2026-08-16 23:11:30 IST",
     "item_count": 5,
-    "content_hash": "d0802525b1372d4f07eca98cbe0a6b5ca6e34e0d39e6ca73c26c8be61cef6eef",
-    "previous_hash": "8c60d93a7917f9447220beaf38e47fb7c11200d6ba2873e65da0346eb5cbde74",
+    "content_hash": "a9a832cf7716f9cfc5756a23936861008b4997e723ce579a8aeeb283370d3094",
+    "previous_hash": "d0802525b1372d4f07eca98cbe0a6b5ca6e34e0d39e6ca73c26c8be61cef6eef",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49319556,
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 251,
-      "comments": 126
+      "score": 322,
+      "comments": 138
     },
     {
       "id": 49320611,
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 83,
-      "comments": 24
+      "score": 115,
+      "comments": 45
+    },
+    {
+      "id": 49321353,
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "score": 25,
+      "comments": 3
     },
     {
       "id": 49320856,
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "score": 40,
-      "comments": 15
+      "score": 68,
+      "comments": 37
     },
     {
-      "id": 49319633,
-      "title": "Firefox for iOS now has a native adblocker",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 222,
-      "comments": 87
-    },
-    {
-      "id": 49320673,
-      "title": "GPS and the Lost Art of Getting Lost",
-      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-      "score": 13,
-      "comments": 8
+      "id": 49306021,
+      "title": "Anton Chekhov played at love most of his life",
+      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+      "score": 17,
+      "comments": 1
     }
   ]
 }
