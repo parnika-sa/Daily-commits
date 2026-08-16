@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 15:34:42 UTC",
-    "fetched_at_ist": "2026-08-16 21:04:42 IST",
+    "fetched_at_utc": "2026-08-16 16:42:05 UTC",
+    "fetched_at_ist": "2026-08-16 22:12:05 IST",
     "item_count": 5,
-    "content_hash": "8c60d93a7917f9447220beaf38e47fb7c11200d6ba2873e65da0346eb5cbde74",
-    "previous_hash": "b1c605c7ea62da430495ca6e9e715d16fbad3b3f430ed5119beae15080cb358e",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "d0802525b1372d4f07eca98cbe0a6b5ca6e34e0d39e6ca73c26c8be61cef6eef",
+    "previous_hash": "8c60d93a7917f9447220beaf38e47fb7c11200d6ba2873e65da0346eb5cbde74",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49319556,
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 178,
-      "comments": 76
+      "score": 251,
+      "comments": 126
     },
     {
       "id": 49320611,
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 41,
-      "comments": 9
+      "score": 83,
+      "comments": 24
+    },
+    {
+      "id": 49320856,
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "score": 40,
+      "comments": 15
     },
     {
       "id": 49319633,
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 145,
-      "comments": 48
+      "score": 222,
+      "comments": 87
     },
     {
-      "id": 49319349,
-      "title": "A True Telnet BBS on a Casio Calculator",
-      "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-      "score": 26,
-      "comments": 2
-    },
-    {
-      "id": 49277952,
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "score": 77,
-      "comments": 38
+      "id": 49320673,
+      "title": "GPS and the Lost Art of Getting Lost",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+      "score": 13,
+      "comments": 8
     }
   ]
 }
