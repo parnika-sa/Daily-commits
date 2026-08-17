@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 22:41:33 UTC",
-    "fetched_at_ist": "2026-08-18 04:11:33 IST",
+    "fetched_at_utc": "2026-08-17 23:43:45 UTC",
+    "fetched_at_ist": "2026-08-18 05:13:45 IST",
     "item_count": 5,
-    "content_hash": "e3c55f2da06bca027ab7bce2e4a05f326832fc974663dc5fefb43bfc362d4412",
-    "previous_hash": "1863706c39e4c0e684e308928d6b61964d5ad15ff6f61ae1559cd1991af2ae53",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "d57148318c52eadfa2940740c555236a76650e379a44dd82eb5b86b0abc492e1",
+    "previous_hash": "e3c55f2da06bca027ab7bce2e4a05f326832fc974663dc5fefb43bfc362d4412",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49338459,
-      "title": "Bluesky draws its logo on screenshots",
+      "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 28,
-      "comments": 9
+      "score": 109,
+      "comments": 84
+    },
+    {
+      "id": 49338328,
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 74,
+      "comments": 30
     },
     {
       "id": 49334991,
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 127,
-      "comments": 25
+      "score": 144,
+      "comments": 30
+    },
+    {
+      "id": 49338285,
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 45,
+      "comments": 11
     },
     {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 491,
-      "comments": 85
-    },
-    {
-      "id": 49331423,
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 290,
-      "comments": 120
-    },
-    {
-      "id": 49330597,
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 476,
-      "comments": 854
+      "score": 505,
+      "comments": 88
     }
   ]
 }

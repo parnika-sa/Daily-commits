@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-18 (last updated: 04:52 IST)
+
+## 📅 2026-08-18 (last updated: 05:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-18 04:11:33 IST | e3c55f2da06b | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-18 05:13:45 IST | d57148318c52 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-18 04:52:50 IST | f7427033b4b3 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 28
-- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) — Score: 127
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 491
-- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) — Score: 290
-- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) — Score: 476
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 109
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) — Score: 74
+- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) — Score: 144
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) — Score: 45
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 505
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,335.0 🟢 +2.38%
