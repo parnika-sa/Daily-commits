@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 19:38:44 UTC",
-    "fetched_at_ist": "2026-08-18 01:08:44 IST",
+    "fetched_at_utc": "2026-08-17 22:41:33 UTC",
+    "fetched_at_ist": "2026-08-18 04:11:33 IST",
     "item_count": 5,
-    "content_hash": "1863706c39e4c0e684e308928d6b61964d5ad15ff6f61ae1559cd1991af2ae53",
-    "previous_hash": "0bc881200375901199d4f7533a91cd193209720c9efd56dcfb1bf198a8728bf8",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e3c55f2da06bca027ab7bce2e4a05f326832fc974663dc5fefb43bfc362d4412",
+    "previous_hash": "1863706c39e4c0e684e308928d6b61964d5ad15ff6f61ae1559cd1991af2ae53",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49330781,
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 393,
-      "comments": 62
-    },
-    {
-      "id": 49331423,
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 219,
-      "comments": 103
+      "id": 49338459,
+      "title": "Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 28,
+      "comments": 9
     },
     {
       "id": 49334991,
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 23,
-      "comments": 4
+      "score": 127,
+      "comments": 25
+    },
+    {
+      "id": 49330781,
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 491,
+      "comments": 85
+    },
+    {
+      "id": 49331423,
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 290,
+      "comments": 120
     },
     {
       "id": 49330597,
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 344,
-      "comments": 768
-    },
-    {
-      "id": 49331220,
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "score": 181,
-      "comments": 83
+      "score": 476,
+      "comments": 854
     }
   ]
 }
