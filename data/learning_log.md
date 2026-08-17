@@ -27,18 +27,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 10:51 IST)
+
+## 📅 2026-08-17 (last updated: 13:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 23:34:05 IST | d48f73b66ac1 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 06:13:11 IST | fd50ab12ae95 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-17 13:13:54 IST | 0bc881200375 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-17 10:51:30 IST | f59aa14f8c15 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -54,11 +55,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 292 stars today
 
 ### 📰 Hacker News Stories
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 351
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 523
-- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 64
-- [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) — Score: 85
-- [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) — Score: 35
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — Score: 366
+- [Linear Algebra Done Right – Sheldon Axler](https://linear.axler.net/) — Score: 37
+- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/) — Score: 64
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) — Score: 182
+- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) — Score: 476
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,503.0 🟢 +0.77%
