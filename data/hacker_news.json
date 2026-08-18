@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 21:44:42 UTC",
-    "fetched_at_ist": "2026-08-19 03:14:42 IST",
+    "fetched_at_utc": "2026-08-18 23:35:10 UTC",
+    "fetched_at_ist": "2026-08-19 05:05:10 IST",
     "item_count": 5,
-    "content_hash": "e8da8138ce5a74d4e1d625c06acab0e71fac4a113605d50d6ca2762e896cb7f1",
-    "previous_hash": "3c2377f81769fafcef4ffce626efc23d2f366288e27cc92343ab657539f5dccd",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "0af7ed5b6ec6e17c125c0b9feea4052d598ed459f02646e0dd02fa21dc341223",
+    "previous_hash": "e8da8138ce5a74d4e1d625c06acab0e71fac4a113605d50d6ca2762e896cb7f1",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49351324,
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 311,
-      "comments": 48
+      "id": 49353221,
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 63,
+      "comments": 12
     },
     {
-      "id": 49352806,
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "score": 26,
-      "comments": 9
-    },
-    {
-      "id": 49349898,
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 164,
-      "comments": 20
+      "id": 49321298,
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 157,
+      "comments": 73
     },
     {
       "id": 49345263,
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 742,
-      "comments": 465
+      "score": 835,
+      "comments": 507
     },
     {
-      "id": 49344825,
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "score": 363,
-      "comments": 57
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 43,
+      "comments": 22
+    },
+    {
+      "id": 49349984,
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 196,
+      "comments": 125
     }
   ]
 }
