@@ -2,116 +2,80 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-14 18:04:05 UTC",
-    "fetched_at_ist": "2026-08-14 23:34:05 IST",
-    "item_count": 17,
-    "content_hash": "d48f73b66ac17093fdaa274694defee53a2eacad5996d8b31f4f4bec94f4c552",
-    "previous_hash": "f394fa6b407af828d70345290340108fc09051988602c5373a2b4fdf95bc5682",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-08-18 06:01:05 UTC",
+    "fetched_at_ist": "2026-08-18 11:31:05 IST",
+    "item_count": 11,
+    "content_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
+    "previous_hash": "d48f73b66ac17093fdaa274694defee53a2eacad5996d8b31f4f4bec94f4c552",
+    "new_repos_vs_previous": 11,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars_today": "3,651 stars today"
-    },
-    {
-      "name": "cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "661 stars today"
+      "stars_today": "1,189 stars today"
     },
     {
-      "name": "megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "427 stars today"
+      "stars_today": "598 stars today"
     },
     {
-      "name": "macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars_today": "435 stars today"
+      "stars_today": "120 stars today"
     },
     {
-      "name": "smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "language": "Python",
-      "stars_today": "292 stars today"
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_today": "153 stars today"
-    },
-    {
-      "name": "holaboss-ai/holaOS",
-      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "language": "TypeScript",
-      "stars_today": "769 stars today"
-    },
-    {
-      "name": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "stars_today": "1,147 stars today"
-    },
-    {
-      "name": "lightningpixel/modly",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "language": "TypeScript",
-      "stars_today": "580 stars today"
-    },
-    {
-      "name": "infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "stars_today": "474 stars today"
-    },
-    {
-      "name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars_today": "69 stars today"
-    },
-    {
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "description": "No description",
-      "language": "Unknown",
-      "stars_today": "203 stars today"
-    },
-    {
-      "name": "semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "stars_today": "1,183 stars today"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "182 stars today"
+      "stars_today": "207 stars today"
     },
     {
-      "name": "OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_today": "238 stars today"
-    },
-    {
-      "name": "unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "502 stars today"
+      "stars_today": "198 stars today"
     },
     {
-      "name": "ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "name": "AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "198 stars today"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
-      "stars_today": "115 stars today"
+      "stars_today": "218 stars today"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "78 stars today"
+    },
+    {
+      "name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "175 stars today"
+    },
+    {
+      "name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars_today": "957 stars today"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars_today": "344 stars today"
     }
   ]
 }

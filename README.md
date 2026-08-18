@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-18 05:42:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-18 06:01:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$64,125.0** ↑ (+1.73%)
+- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
+- BTC: **$64,164.0** ↑ (+1.10%)
 - HN top story: **How Bluesky draws its logo on screenshots**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-14 18:04:05 UTC | `d48f73b66ac1` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-18 05:42:47 UTC | `24fcb9ef09e6` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-08-18 02:19:58 UTC | `40a262908de5` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-08-18 06:01:05 UTC | `61da12acc0b5` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-18 06:01:06 UTC | `a0cfd60aa6dd` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-18 06:01:05 UTC | `5f2d2b47ca7d` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-18` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `63` day(s) |
-| Last Commit (IST) | `2026-08-18 10:36:18 IST` |
+| Last Commit (IST) | `2026-08-18 11:12:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-15 | 50 | `██████████░░░░░░░░░░` 50% |
 | 2026-08-16 | 53 | `██████████░░░░░░░░░░` 53% |
 | 2026-08-17 | 44 | `████████░░░░░░░░░░░░` 44% |
-| 2026-08-18 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-08-18 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,125.0 | +1.73% | 🟢 |
-| Ethereum | $1,897.85 | +0.53% | 🟢 |
-| Solana | $75.41 | +0.51% | 🟢 |
-| Bnb | $602.48 | +0.10% | 🟢 |
+| Bitcoin | $64,164.0 | +1.10% | 🟢 |
+| Ethereum | $1,894.0 | -0.22% | 🔴 |
+| Solana | $75.69 | +0.45% | 🟢 |
+| Bnb | $603.02 | -0.35% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 3,651 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 661 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
-| [megadose/holehe](https://github.com/megadose/holehe) | Python | 427 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 435 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | 292 stars today | SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa… |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 153 stars today | The fastest browser for AI agents to run browser automation, built for sharing y… |
-| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | TypeScript | 769 stars today | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — … |
-| [github/spec-kit](https://github.com/github/spec-kit) | Python | 1,147 stars today | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,189 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 598 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 120 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 207 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 198 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 198 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 218 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 78 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 366 | 243 |
-| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 295 | 150 |
-| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 246 | 109 |
-| [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet) | 37 | 22 |
-| [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) | 41 | 2 |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 377 | 252 |
+| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 304 | 157 |
+| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 255 | 111 |
+| [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet) | 40 | 25 |
+| [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) | 43 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
