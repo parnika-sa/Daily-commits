@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 19:37:48 UTC",
-    "fetched_at_ist": "2026-08-19 01:07:48 IST",
+    "fetched_at_utc": "2026-08-18 20:40:23 UTC",
+    "fetched_at_ist": "2026-08-19 02:10:23 IST",
     "item_count": 5,
-    "content_hash": "1ec03bcc717404e99f96763df00dfd35ec3ea7e093b0d0226076633049eea9c7",
-    "previous_hash": "a0cfd60aa6ddb54ee1e30cb01db5b468864f6dd86c880343052d969aaeb11d40",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3c2377f81769fafcef4ffce626efc23d2f366288e27cc92343ab657539f5dccd",
+    "previous_hash": "1ec03bcc717404e99f96763df00dfd35ec3ea7e093b0d0226076633049eea9c7",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49351324,
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "score": 126,
+      "comments": 23
+    },
+    {
       "id": 49349898,
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 79,
-      "comments": 10
-    },
-    {
-      "id": 49351330,
-      "title": "Norway Should Buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "score": 13,
-      "comments": 5
-    },
-    {
-      "id": 49344825,
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "score": 317,
-      "comments": 52
+      "score": 126,
+      "comments": 15
     },
     {
       "id": 49345263,
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 604,
-      "comments": 415
+      "score": 671,
+      "comments": 442
+    },
+    {
+      "id": 49344825,
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 333,
+      "comments": 53
     },
     {
       "id": 49345220,
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 269,
-      "comments": 177
+      "score": 290,
+      "comments": 192
     }
   ]
 }
