@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 23:43:45 UTC",
-    "fetched_at_ist": "2026-08-18 05:13:45 IST",
+    "fetched_at_utc": "2026-08-18 04:32:51 UTC",
+    "fetched_at_ist": "2026-08-18 10:02:51 IST",
     "item_count": 5,
-    "content_hash": "d57148318c52eadfa2940740c555236a76650e379a44dd82eb5b86b0abc492e1",
-    "previous_hash": "e3c55f2da06bca027ab7bce2e4a05f326832fc974663dc5fefb43bfc362d4412",
+    "content_hash": "ab0629c6480cae316620ae360ddc2c52b6239b23e360d27248c46401c51262ef",
+    "previous_hash": "d57148318c52eadfa2940740c555236a76650e379a44dd82eb5b86b0abc492e1",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49338459,
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 109,
-      "comments": 84
+      "score": 315,
+      "comments": 232
     },
     {
       "id": 49338328,
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 74,
-      "comments": 30
+      "score": 217,
+      "comments": 96
     },
     {
-      "id": 49334991,
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 144,
-      "comments": 30
+      "id": 49337602,
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 236,
+      "comments": 132
     },
     {
-      "id": 49338285,
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 45,
+      "id": 49285139,
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "score": 30,
       "comments": 11
     },
     {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 505,
-      "comments": 88
+      "score": 576,
+      "comments": 104
     }
   ]
 }
