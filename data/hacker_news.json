@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 22:42:41 UTC",
-    "fetched_at_ist": "2026-08-20 04:12:41 IST",
+    "fetched_at_utc": "2026-08-19 23:33:59 UTC",
+    "fetched_at_ist": "2026-08-20 05:03:59 IST",
     "item_count": 5,
-    "content_hash": "b563b4b1835c5181e24485520c3070f05eee37557276b4d2fdb66d727a4239c4",
-    "previous_hash": "9cfc0cdcd5d30d29fe015c9de612d57730f9469c835daed3cba9422ece70b42d",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "e7a59f6192e8a79d0646e476eea349ccf8bed0c8e386bbd14874559a1a772b02",
+    "previous_hash": "b563b4b1835c5181e24485520c3070f05eee37557276b4d2fdb66d727a4239c4",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49364559,
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 499,
-      "comments": 279
+      "score": 544,
+      "comments": 300
     },
     {
       "id": 49365405,
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 363,
-      "comments": 78
-    },
-    {
-      "id": 49365443,
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 143,
-      "comments": 43
-    },
-    {
-      "id": 49365841,
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 92,
-      "comments": 22
+      "score": 391,
+      "comments": 88
     },
     {
       "id": 49364745,
       "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 191,
-      "comments": 58
+      "score": 233,
+      "comments": 83
+    },
+    {
+      "id": 49365443,
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 160,
+      "comments": 54
+    },
+    {
+      "id": 49365841,
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 107,
+      "comments": 31
     }
   ]
 }
