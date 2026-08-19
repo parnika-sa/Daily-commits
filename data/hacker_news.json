@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 23:35:10 UTC",
-    "fetched_at_ist": "2026-08-19 05:05:10 IST",
+    "fetched_at_utc": "2026-08-19 04:30:23 UTC",
+    "fetched_at_ist": "2026-08-19 10:00:23 IST",
     "item_count": 5,
-    "content_hash": "0af7ed5b6ec6e17c125c0b9feea4052d598ed459f02646e0dd02fa21dc341223",
-    "previous_hash": "e8da8138ce5a74d4e1d625c06acab0e71fac4a113605d50d6ca2762e896cb7f1",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "cdf636dae55f3ca5373ca0470b21a5cf685b793f5ba35f0d40a572007cd6f670",
+    "previous_hash": "0af7ed5b6ec6e17c125c0b9feea4052d598ed459f02646e0dd02fa21dc341223",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49353221,
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 63,
-      "comments": 12
+      "id": 49355142,
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "score": 309,
+      "comments": 163
     },
     {
-      "id": 49321298,
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 157,
-      "comments": 73
+      "id": 49355825,
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "score": 84,
+      "comments": 57
     },
     {
-      "id": 49345263,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 835,
-      "comments": 507
+      "id": 49355606,
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 110,
+      "comments": 28
     },
     {
-      "id": 49353339,
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 43,
-      "comments": 22
+      "id": 49354949,
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "score": 143,
+      "comments": 92
     },
     {
-      "id": 49349984,
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 196,
-      "comments": 125
+      "id": 49355968,
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "score": 28,
+      "comments": 3
     }
   ]
 }

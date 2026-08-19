@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-19 (last updated: 05:05 IST)
+
+## 📅 2026-08-19 (last updated: 10:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-08-18 11:31:05 IST | 61da12acc0b5 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-19 05:05:10 IST | 0af7ed5b6ec6 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-19 10:00:23 IST | cdf636dae55f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-19 03:52:06 IST | 71eaf9a649be | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 198 stars today
 
 ### 📰 Hacker News Stories
-- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) — Score: 63
-- [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) — Score: 157
-- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) — Score: 835
-- [fx :Tiny, open, native coding agent.](https://fx.sh) — Score: 43
-- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) — Score: 196
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) — Score: 309
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) — Score: 84
+- [OpenLogi](https://openlogi.org/en) — Score: 110
+- [Cerebras CS-4](https://www.cerebras.ai/cs4) — Score: 143
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) — Score: 28
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,542.0 🟢 +0.47%
