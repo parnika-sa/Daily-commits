@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 06:02:44 UTC",
-    "fetched_at_ist": "2026-08-19 11:32:44 IST",
+    "fetched_at_utc": "2026-08-19 22:42:41 UTC",
+    "fetched_at_ist": "2026-08-20 04:12:41 IST",
     "item_count": 5,
-    "content_hash": "9cfc0cdcd5d30d29fe015c9de612d57730f9469c835daed3cba9422ece70b42d",
-    "previous_hash": "b6aed03e67185b1a88e54e48c67ed3bba23e7a8d7e05157dbd136b7a31849406",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "b563b4b1835c5181e24485520c3070f05eee37557276b4d2fdb66d727a4239c4",
+    "previous_hash": "9cfc0cdcd5d30d29fe015c9de612d57730f9469c835daed3cba9422ece70b42d",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49355825,
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 159,
-      "comments": 110
+      "id": 49364559,
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 499,
+      "comments": 279
     },
     {
-      "id": 49355606,
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 243,
-      "comments": 46
+      "id": 49365405,
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 363,
+      "comments": 78
     },
     {
-      "id": 49306207,
-      "title": "Supersonic Trebuchet [video]",
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 37,
-      "comments": 3
+      "id": 49365443,
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 143,
+      "comments": 43
     },
     {
-      "id": 49355968,
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 57,
-      "comments": 7
+      "id": 49365841,
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 92,
+      "comments": 22
     },
     {
-      "id": 49353221,
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 227,
-      "comments": 73
+      "id": 49364745,
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 191,
+      "comments": 58
     }
   ]
 }
