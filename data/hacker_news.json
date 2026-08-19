@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 05:43:57 UTC",
-    "fetched_at_ist": "2026-08-19 11:13:57 IST",
+    "fetched_at_utc": "2026-08-19 06:02:44 UTC",
+    "fetched_at_ist": "2026-08-19 11:32:44 IST",
     "item_count": 5,
-    "content_hash": "b6aed03e67185b1a88e54e48c67ed3bba23e7a8d7e05157dbd136b7a31849406",
-    "previous_hash": "cdf636dae55f3ca5373ca0470b21a5cf685b793f5ba35f0d40a572007cd6f670",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "9cfc0cdcd5d30d29fe015c9de612d57730f9469c835daed3cba9422ece70b42d",
+    "previous_hash": "b6aed03e67185b1a88e54e48c67ed3bba23e7a8d7e05157dbd136b7a31849406",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49355825,
       "title": "Meta's blockbuster trial draws parallels to big tobacco",
       "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 143,
-      "comments": 106
+      "score": 159,
+      "comments": 110
     },
     {
       "id": 49355606,
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 223,
-      "comments": 43
-    },
-    {
-      "id": 49355968,
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 54,
-      "comments": 6
+      "score": 243,
+      "comments": 46
     },
     {
       "id": 49306207,
       "title": "Supersonic Trebuchet [video]",
       "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 32,
-      "comments": 2
+      "score": 37,
+      "comments": 3
+    },
+    {
+      "id": 49355968,
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "score": 57,
+      "comments": 7
     },
     {
       "id": 49353221,
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 221,
-      "comments": 68
+      "score": 227,
+      "comments": 73
     }
   ]
 }

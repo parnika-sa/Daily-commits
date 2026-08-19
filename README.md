@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-19 05:43:57 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-19 06:02:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$64,542.0** ↑ (+0.47%)
+- BTC: **$64,201.0** ↑ (+0.08%)
 - HN top story: **Meta's blockbuster trial draws parallels to big tobacco**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-08-18 06:01:05 UTC | `61da12acc0b5` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-19 05:43:57 UTC | `b6aed03e6718` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-18 22:22:06 UTC | `71eaf9a649be` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-08-19 06:02:44 UTC | `4488260285f2` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-19 06:02:44 UTC | `9cfc0cdcd5d3` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-19 06:02:44 UTC | `bd768d4fda3a` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-19` |
-| Commits Today | `21` / `100` |
-| Remaining Today | `79` |
-| Progress | `████░░░░░░░░░░░░░░░░` 21% |
+| Commits Today | `22` / `100` |
+| Remaining Today | `78` |
+| Progress | `████░░░░░░░░░░░░░░░░` 22% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-08-19 10:36:36 IST` |
+| Last Commit (IST) | `2026-08-19 11:13:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-16 | 53 | `██████████░░░░░░░░░░` 53% |
 | 2026-08-17 | 44 | `████████░░░░░░░░░░░░` 44% |
 | 2026-08-18 | 41 | `████████░░░░░░░░░░░░` 41% |
-| 2026-08-19 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
+| 2026-08-19 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,542.0 | +0.47% | 🟢 |
-| Ethereum | $1,913.29 | +0.57% | 🟢 |
-| Solana | $77.05 | +1.70% | 🟢 |
-| Bnb | $602.74 | -0.26% | 🔴 |
+| Bitcoin | $64,201.0 | +0.08% | 🟢 |
+| Ethereum | $1,909.11 | +0.83% | 🟢 |
+| Solana | $76.76 | +1.47% | 🟢 |
+| Bnb | $601.08 | -0.32% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,189 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 598 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 120 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 207 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 198 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 198 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 218 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 78 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,304 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 306 stars today | local multi-agent harness |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 648 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 213 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 730 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 1,005 stars today | A collective list of free APIs |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 356 stars today | Beautiful, Modern & Opinionated Linux |
+| [agalwood/Motrix](https://github.com/agalwood/Motrix) | TypeScript | 609 stars today | A full-featured download manager. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) | 143 | 106 |
-| [OpenLogi](https://openlogi.org/en) | 223 | 43 |
-| [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | 54 | 6 |
-| [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) | 32 | 2 |
-| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | 221 | 68 |
+| [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) | 159 | 110 |
+| [OpenLogi](https://openlogi.org/en) | 243 | 46 |
+| [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) | 37 | 3 |
+| [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | 57 | 7 |
+| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | 227 | 73 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

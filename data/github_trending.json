@@ -2,80 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-18 06:01:05 UTC",
-    "fetched_at_ist": "2026-08-18 11:31:05 IST",
-    "item_count": 11,
-    "content_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
-    "previous_hash": "d48f73b66ac17093fdaa274694defee53a2eacad5996d8b31f4f4bec94f4c552",
-    "new_repos_vs_previous": 11,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-08-19 06:02:44 UTC",
+    "fetched_at_ist": "2026-08-19 11:32:44 IST",
+    "item_count": 12,
+    "content_hash": "4488260285f229ada4aa9ec94b4b3bbc558c19d1b128e483b951270acdbe265d",
+    "previous_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
+    "new_repos_vs_previous": 7,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "1,189 stars today"
+      "stars_today": "2,304 stars today"
     },
     {
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "598 stars today"
-    },
-    {
-      "name": "nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "stars_today": "120 stars today"
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "306 stars today"
     },
     {
       "name": "akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "207 stars today"
+      "stars_today": "648 stars today"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": "213 stars today"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "198 stars today"
+      "stars_today": "730 stars today"
     },
     {
-      "name": "AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "198 stars today"
-    },
-    {
-      "name": "santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "218 stars today"
-    },
-    {
-      "name": "jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "78 stars today"
+      "stars_today": "1,005 stars today"
     },
     {
-      "name": "immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_today": "175 stars today"
-    },
-    {
-      "name": "cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars_today": "957 stars today"
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": "356 stars today"
     },
     {
       "name": "agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_today": "344 stars today"
+      "stars_today": "609 stars today"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_today": "192 stars today"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "370 stars today"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "535 stars today"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "192 stars today"
     }
   ]
 }
