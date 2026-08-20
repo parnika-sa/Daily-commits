@@ -19,14 +19,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-20 (last updated: 05:03 IST)
+
+## 📅 2026-08-20 (last updated: 09:59 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-19 11:32:44 IST | 4488260285f2 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-20 05:03:59 IST | e7a59f6192e8 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-08-20 02:46:57 IST | a8a0c10d28a0 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-20 09:59:43 IST | 97f98bbb024c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -53,10 +54,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) — Score: 107
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $69,386.0 🟢 +7.43%
-- Ethereum: $2,263.26 🟢 +18.32%
-- Solana: $86.19 🟢 +11.97%
-- Bnb: $628.09 🟢 +4.22%
+- Bitcoin: $69,320.0 🟢 +7.77%
+- Ethereum: $2,253.69 🟢 +17.93%
+- Solana: $84.57 🟢 +9.75%
+- Bnb: $625.83 🟢 +3.96%
 
 ---
 ## 📅 2026-08-19 (last updated: 23:50 IST)
