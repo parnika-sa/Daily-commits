@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 17:30:21 UTC",
-    "fetched_at_ist": "2026-08-20 23:00:21 IST",
+    "fetched_at_utc": "2026-08-20 18:00:16 UTC",
+    "fetched_at_ist": "2026-08-20 23:30:16 IST",
     "item_count": 5,
-    "content_hash": "26d68ff0bbe5b8867c1b639de29d5bd214579892bac0a9da0682e8c61fd48f0c",
-    "previous_hash": "1e12d10657cc4e308faf6b0d8437b21fcfe9f055849359a8eda8273adab85763",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "fba1cada39f7c45429577a2e17a4822fa700c626087ccbd39c2ddcd3f67363fd",
+    "previous_hash": "26d68ff0bbe5b8867c1b639de29d5bd214579892bac0a9da0682e8c61fd48f0c",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49347543,
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 215,
-      "comments": 72
+      "score": 267,
+      "comments": 99
     },
     {
       "id": 49372583,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 632,
-      "comments": 214
+      "score": 664,
+      "comments": 220
     },
     {
       "id": 49362689,
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 243,
-      "comments": 58
+      "score": 280,
+      "comments": 78
     },
     {
       "id": 49373456,
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 340,
-      "comments": 80
+      "score": 355,
+      "comments": 85
     },
     {
       "id": 49368886,
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "score": 156,
-      "comments": 79
+      "score": 175,
+      "comments": 95
     }
   ]
 }

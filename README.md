@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-20 17:30:21 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-20 18:00:16 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$72,284.0** ↑ (+5.20%)
+- Top GitHub repo: **modular/modular**
+- BTC: **$72,853.0** ↑ (+6.86%)
 - HN top story: **I like 'em thick: an apology to my English teachers**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-08-20 06:03:16 UTC | `a260b9d2d4a8` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 17:30:21 UTC | `26d68ff0bbe5` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-20 16:25:59 UTC | `f1c9f2eca201` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-20 18:00:15 UTC | `927aa5f3a6aa` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-20 18:00:16 UTC | `fba1cada39f7` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-20 18:00:15 UTC | `403ac39d1548` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-20` |
-| Commits Today | `38` / `100` |
-| Remaining Today | `62` |
-| Progress | `███████░░░░░░░░░░░░░` 38% |
+| Commits Today | `39` / `100` |
+| Remaining Today | `61` |
+| Progress | `███████░░░░░░░░░░░░░` 39% |
 | Streak | `55` day(s) |
-| Last Commit (IST) | `2026-08-20 22:29:14 IST` |
+| Last Commit (IST) | `2026-08-20 23:00:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-17 | 44 | `████████░░░░░░░░░░░░` 44% |
 | 2026-08-18 | 41 | `████████░░░░░░░░░░░░` 41% |
 | 2026-08-19 | 42 | `████████░░░░░░░░░░░░` 42% |
-| 2026-08-20 | 38 | `███████░░░░░░░░░░░░░` 38% |
+| 2026-08-20 | 39 | `███████░░░░░░░░░░░░░` 39% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,284.0 | +5.20% | 🟢 |
-| Ethereum | $2,319.73 | +10.64% | 🟢 |
-| Solana | $86.96 | +6.19% | 🟢 |
-| Bnb | $648.03 | +4.64% | 🟢 |
+| Bitcoin | $72,853.0 | +6.86% | 🟢 |
+| Ethereum | $2,346.78 | +12.26% | 🟢 |
+| Solana | $87.67 | +7.40% | 🟢 |
+| Bnb | $653.5 | +5.92% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,221 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 804 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 795 stars today | local multi-agent harness |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 766 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 80 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,894 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 557 stars today | An agentic skills framework & software development methodology that works. |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 472 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [modular/modular](https://github.com/modular/modular) | Mojo | 340 stars today | The Modular Platform (includes MAX & Mojo) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,267 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,540 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 749 stars today | An agentic skills framework & software development methodology that works. |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 473 stars today | Cursor plugin specification and official plugins |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 855 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 335 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,774 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 215 | 72 |
-| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 632 | 214 |
-| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 243 | 58 |
-| [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) | 340 | 80 |
-| [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | 156 | 79 |
+| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 267 | 99 |
+| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 664 | 220 |
+| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 280 | 78 |
+| [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) | 355 | 85 |
+| [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | 175 | 95 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
