@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 23:33:59 UTC",
-    "fetched_at_ist": "2026-08-20 05:03:59 IST",
+    "fetched_at_utc": "2026-08-20 05:44:19 UTC",
+    "fetched_at_ist": "2026-08-20 11:14:19 IST",
     "item_count": 5,
-    "content_hash": "e7a59f6192e8a79d0646e476eea349ccf8bed0c8e386bbd14874559a1a772b02",
-    "previous_hash": "b563b4b1835c5181e24485520c3070f05eee37557276b4d2fdb66d727a4239c4",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "80ee6638056b92ed5661f8c6cf58f90915ab6396d560a699da9eb906d5b90c12",
+    "previous_hash": "e7a59f6192e8a79d0646e476eea349ccf8bed0c8e386bbd14874559a1a772b02",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49364559,
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 544,
-      "comments": 300
+      "score": 761,
+      "comments": 378
+    },
+    {
+      "id": 49369408,
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 100,
+      "comments": 46
     },
     {
       "id": 49365405,
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 391,
-      "comments": 88
+      "score": 551,
+      "comments": 139
     },
     {
-      "id": 49364745,
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 233,
-      "comments": 83
+      "id": 49294441,
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "score": 96,
+      "comments": 75
     },
     {
-      "id": 49365443,
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 160,
-      "comments": 54
-    },
-    {
-      "id": 49365841,
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 107,
-      "comments": 31
+      "id": 49323795,
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 75,
+      "comments": 9
     }
   ]
 }
