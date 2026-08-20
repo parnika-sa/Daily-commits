@@ -40,18 +40,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-20 (last updated: 21:55 IST)
+
+## 📅 2026-08-20 (last updated: 23:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-08-20 11:33:16 IST | a260b9d2d4a8 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 11:33:17 IST | 1e12d10657cc | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-20 23:00:21 IST | 26d68ff0bbe5 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-20 21:55:59 IST | f1c9f2eca201 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -67,11 +68,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 80 stars today
 
 ### 📰 Hacker News Stories
-- [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) — Score: 125
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 770
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) — Score: 109
-- [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) — Score: 15
-- [Go 1.27](https://go.dev/blog/go1.27) — Score: 557
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 215
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 632
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 243
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) — Score: 340
+- [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) — Score: 156
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,284.0 🟢 +5.20%
