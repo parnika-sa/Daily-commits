@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-20 10:20:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-20 11:18:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$72,198.0** ↑ (+12.22%)
+- BTC: **$71,886.0** ↑ (+11.56%)
 - HN top story: **Error by AI scribe during medical appointment leaves patient devastated**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-08-20 06:03:16 UTC | `a260b9d2d4a8` | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-20 06:03:17 UTC | `1e12d10657cc` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-20 10:20:13 UTC | `97a292feaff4` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-20 11:18:17 UTC | `83aef9777c3c` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-20` |
-| Commits Today | `27` / `100` |
-| Remaining Today | `73` |
-| Progress | `█████░░░░░░░░░░░░░░░` 27% |
-| Streak | `56` day(s) |
-| Last Commit (IST) | `2026-08-20 15:50:13 IST` |
+| Commits Today | `28` / `100` |
+| Remaining Today | `72` |
+| Progress | `█████░░░░░░░░░░░░░░░` 28% |
+| Streak | `55` day(s) |
+| Last Commit (IST) | `2026-08-20 16:24:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-17 | 44 | `████████░░░░░░░░░░░░` 44% |
 | 2026-08-18 | 41 | `████████░░░░░░░░░░░░` 41% |
 | 2026-08-19 | 42 | `████████░░░░░░░░░░░░` 42% |
-| 2026-08-20 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
+| 2026-08-20 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,198.0 | +12.22% | 🟢 |
-| Ethereum | $2,286.63 | +19.26% | 🟢 |
-| Solana | $87.51 | +13.30% | 🟢 |
-| Bnb | $643.86 | +6.92% | 🟢 |
+| Bitcoin | $71,886.0 | +11.56% | 🟢 |
+| Ethereum | $2,285.16 | +18.96% | 🟢 |
+| Solana | $87.08 | +12.43% | 🟢 |
+| Bnb | $642.56 | +6.73% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
