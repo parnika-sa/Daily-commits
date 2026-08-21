@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 18:00:16 UTC",
-    "fetched_at_ist": "2026-08-20 23:30:16 IST",
+    "fetched_at_utc": "2026-08-21 06:30:12 UTC",
+    "fetched_at_ist": "2026-08-21 12:00:12 IST",
     "item_count": 5,
-    "content_hash": "fba1cada39f7c45429577a2e17a4822fa700c626087ccbd39c2ddcd3f67363fd",
-    "previous_hash": "26d68ff0bbe5b8867c1b639de29d5bd214579892bac0a9da0682e8c61fd48f0c",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "407568037bb1cb54148f4292f734c323178c328736c225cec302cc55a90a2b12",
+    "previous_hash": "fba1cada39f7c45429577a2e17a4822fa700c626087ccbd39c2ddcd3f67363fd",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49383326,
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "score": 88,
+      "comments": 26
+    },
+    {
+      "id": 49378957,
+      "title": "The August 17 outage",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 442,
+      "comments": 507
+    },
+    {
+      "id": 49384224,
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "score": 7,
+      "comments": 0
+    },
     {
       "id": 49347543,
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 267,
-      "comments": 99
-    },
-    {
-      "id": 49372583,
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 664,
-      "comments": 220
+      "score": 663,
+      "comments": 277
     },
     {
       "id": 49362689,
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 280,
-      "comments": 78
-    },
-    {
-      "id": 49373456,
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 355,
-      "comments": 85
-    },
-    {
-      "id": 49368886,
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "score": 175,
-      "comments": 95
+      "score": 692,
+      "comments": 176
     }
   ]
 }
