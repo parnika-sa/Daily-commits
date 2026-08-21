@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 10:32:21 UTC",
-    "fetched_at_ist": "2026-08-21 16:02:21 IST",
+    "fetched_at_utc": "2026-08-21 11:37:35 UTC",
+    "fetched_at_ist": "2026-08-21 17:07:35 IST",
     "item_count": 5,
-    "content_hash": "86698c17d1c26fd50fbd54b6f1f260b2fbaa6784f5d95f4b1d0382cd92862712",
-    "previous_hash": "407568037bb1cb54148f4292f734c323178c328736c225cec302cc55a90a2b12",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9b835deb0bfc1d1a9abf2163e60b97cf3d1d514d67f82485960c486b752aef3f",
+    "previous_hash": "86698c17d1c26fd50fbd54b6f1f260b2fbaa6784f5d95f4b1d0382cd92862712",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49386163,
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 99,
+      "comments": 15
+    },
+    {
       "id": 49384896,
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "score": 92,
-      "comments": 34
-    },
-    {
-      "id": 49384716,
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "score": 76,
-      "comments": 38
+      "score": 116,
+      "comments": 53
     },
     {
       "id": 49385860,
       "title": "Small, native web tricks worth remembering",
       "url": "https://htmlcat.net/",
-      "score": 18,
-      "comments": 2
+      "score": 47,
+      "comments": 12
+    },
+    {
+      "id": 49384716,
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "score": 91,
+      "comments": 43
     },
     {
       "id": 49378957,
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 536,
-      "comments": 595
-    },
-    {
-      "id": 49320866,
-      "title": "The case against a C alternative (2022)",
-      "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "score": 32,
-      "comments": 23
+      "score": 557,
+      "comments": 609
     }
   ]
 }
