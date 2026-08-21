@@ -32,18 +32,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-21 (last updated: 17:07 IST)
+
+## 📅 2026-08-21 (last updated: 19:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-21 17:07:35 IST | 9b835deb0bfc | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-21 19:07:38 IST | 72576d0dabda | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-21 14:56:41 IST | a9a438847c3e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -59,11 +60,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) — Score: 99
-- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) — Score: 116
-- [Small, native web tricks worth remembering](https://htmlcat.net/) — Score: 47
-- [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon) — Score: 91
-- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 557
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) — Score: 225
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) — Score: 239
+- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) — Score: 57
+- [Small, native web tricks worth remembering](https://htmlcat.net/) — Score: 125
+- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) — Score: 165
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,645.0 🟢 +7.95%

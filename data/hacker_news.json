@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 11:37:35 UTC",
-    "fetched_at_ist": "2026-08-21 17:07:35 IST",
+    "fetched_at_utc": "2026-08-21 13:37:38 UTC",
+    "fetched_at_ist": "2026-08-21 19:07:38 IST",
     "item_count": 5,
-    "content_hash": "9b835deb0bfc1d1a9abf2163e60b97cf3d1d514d67f82485960c486b752aef3f",
-    "previous_hash": "86698c17d1c26fd50fbd54b6f1f260b2fbaa6784f5d95f4b1d0382cd92862712",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "72576d0dabda2bda3e0c6823b0867d84010a3825b38865323695d177a85143d1",
+    "previous_hash": "9b835deb0bfc1d1a9abf2163e60b97cf3d1d514d67f82485960c486b752aef3f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49386163,
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 99,
-      "comments": 15
+      "score": 225,
+      "comments": 54
     },
     {
-      "id": 49384896,
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "score": 116,
-      "comments": 53
+      "id": 49385994,
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 239,
+      "comments": 162
+    },
+    {
+      "id": 49386659,
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "score": 57,
+      "comments": 22
     },
     {
       "id": 49385860,
       "title": "Small, native web tricks worth remembering",
       "url": "https://htmlcat.net/",
-      "score": 47,
-      "comments": 12
+      "score": 125,
+      "comments": 26
     },
     {
-      "id": 49384716,
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "score": 91,
-      "comments": 43
-    },
-    {
-      "id": 49378957,
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 557,
-      "comments": 609
+      "id": 49384896,
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "score": 165,
+      "comments": 94
     }
   ]
 }
