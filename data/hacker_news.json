@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 06:30:12 UTC",
-    "fetched_at_ist": "2026-08-21 12:00:12 IST",
+    "fetched_at_utc": "2026-08-21 10:32:21 UTC",
+    "fetched_at_ist": "2026-08-21 16:02:21 IST",
     "item_count": 5,
-    "content_hash": "407568037bb1cb54148f4292f734c323178c328736c225cec302cc55a90a2b12",
-    "previous_hash": "fba1cada39f7c45429577a2e17a4822fa700c626087ccbd39c2ddcd3f67363fd",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "86698c17d1c26fd50fbd54b6f1f260b2fbaa6784f5d95f4b1d0382cd92862712",
+    "previous_hash": "407568037bb1cb54148f4292f734c323178c328736c225cec302cc55a90a2b12",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49383326,
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "score": 88,
-      "comments": 26
+      "id": 49384896,
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "score": 92,
+      "comments": 34
+    },
+    {
+      "id": 49384716,
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "score": 76,
+      "comments": 38
+    },
+    {
+      "id": 49385860,
+      "title": "Small, native web tricks worth remembering",
+      "url": "https://htmlcat.net/",
+      "score": 18,
+      "comments": 2
     },
     {
       "id": 49378957,
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 442,
-      "comments": 507
+      "score": 536,
+      "comments": 595
     },
     {
-      "id": 49384224,
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "score": 7,
-      "comments": 0
-    },
-    {
-      "id": 49347543,
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 663,
-      "comments": 277
-    },
-    {
-      "id": 49362689,
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 692,
-      "comments": 176
+      "id": 49320866,
+      "title": "The case against a C alternative (2022)",
+      "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "score": 32,
+      "comments": 23
     }
   ]
 }
