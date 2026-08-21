@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 13:37:38 UTC",
-    "fetched_at_ist": "2026-08-21 19:07:38 IST",
+    "fetched_at_utc": "2026-08-21 19:34:58 UTC",
+    "fetched_at_ist": "2026-08-22 01:04:58 IST",
     "item_count": 5,
-    "content_hash": "72576d0dabda2bda3e0c6823b0867d84010a3825b38865323695d177a85143d1",
-    "previous_hash": "9b835deb0bfc1d1a9abf2163e60b97cf3d1d514d67f82485960c486b752aef3f",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "c80c6f5e70265731e1c2146a0a1fc3e6db5bcdc3f7c99f2d0c3d362fb5d82c53",
+    "previous_hash": "72576d0dabda2bda3e0c6823b0867d84010a3825b38865323695d177a85143d1",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49386163,
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 225,
-      "comments": 54
+      "id": 49390427,
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 194,
+      "comments": 78
     },
     {
-      "id": 49385994,
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "score": 239,
-      "comments": 162
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 232,
+      "comments": 107
     },
     {
-      "id": 49386659,
-      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-      "score": 57,
-      "comments": 22
+      "id": 49388154,
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 816,
+      "comments": 283
     },
     {
-      "id": 49385860,
-      "title": "Small, native web tricks worth remembering",
-      "url": "https://htmlcat.net/",
-      "score": 125,
-      "comments": 26
+      "id": 49392200,
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 28,
+      "comments": 4
     },
     {
-      "id": 49384896,
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "score": 165,
-      "comments": 94
+      "id": 49357530,
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "score": 103,
+      "comments": 159
     }
   ]
 }

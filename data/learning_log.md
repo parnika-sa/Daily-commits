@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-08-22 (last updated: 23:56 IST)
+
+## 📅 2026-08-22 (last updated: 01:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-21 19:07:38 IST | 72576d0dabda | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-22 01:04:58 IST | c80c6f5e7026 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-21 23:56:22 IST | be5df2895a72 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) — Score: 225
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) — Score: 239
-- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) — Score: 57
-- [Small, native web tricks worth remembering](https://htmlcat.net/) — Score: 125
-- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) — Score: 165
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) — Score: 194
+- [Felony Bench](https://www.felonybench.com/) — Score: 232
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) — Score: 816
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) — Score: 28
+- [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning) — Score: 103
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,419.0 🟢 +6.49%
@@ -44,43 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $679.32 🟢 +4.47%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-08-21 (last updated: 23:56 IST)
 
 ### 🧪 Source Integrity Snapshot
