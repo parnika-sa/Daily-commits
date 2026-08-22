@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 00:42:16 UTC",
-    "fetched_at_ist": "2026-08-22 06:12:16 IST",
+    "fetched_at_utc": "2026-08-22 07:43:31 UTC",
+    "fetched_at_ist": "2026-08-22 13:13:31 IST",
     "item_count": 5,
-    "content_hash": "c7ad6f7435af3fbeb19cc0ec62d558ccda8b0ef00ecceb2f0d51ab0bc87f4caf",
-    "previous_hash": "183e1b98589adb7ba83c55e7607bad678b028222af5f66c14cdf8dbaae8f1e16",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "03c0b0cecf9c8ad6c0a7b8c4298856042de1542c42b3387916620058386ae42d",
+    "previous_hash": "c7ad6f7435af3fbeb19cc0ec62d558ccda8b0ef00ecceb2f0d51ab0bc87f4caf",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49395040,
-      "title": "Paul Atkins Misreads Adam Smith and the American Founding",
-      "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-      "score": 47,
-      "comments": 0
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 662,
+      "comments": 263
+    },
+    {
+      "id": 49393052,
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 134,
+      "comments": 33
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 407,
-      "comments": 138
+      "score": 512,
+      "comments": 179
     },
     {
-      "id": 49389430,
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 494,
-      "comments": 221
+      "id": 49395628,
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 339,
+      "comments": 247
     },
     {
-      "id": 49386895,
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 521,
-      "comments": 708
-    },
-    {
-      "id": 49392200,
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 138,
-      "comments": 44
+      "id": 49391661,
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "score": 15,
+      "comments": 0
     }
   ]
 }
