@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 13:42:37 UTC",
-    "fetched_at_ist": "2026-08-22 19:12:37 IST",
+    "fetched_at_utc": "2026-08-22 14:44:30 UTC",
+    "fetched_at_ist": "2026-08-22 20:14:30 IST",
     "item_count": 5,
-    "content_hash": "6d862118c8aae89eb6adec8f9d426c5a98250162537053eafc1110ff51c31883",
-    "previous_hash": "84802ae54bb656fffc15ee6e12e09f7856c0d6f0edebb832088170c06fb0b8f9",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "92eb46ccec91b5cf13d9c48f56764e4851ce7ee1e165b08241e4cd12073d3ca4",
+    "previous_hash": "6d862118c8aae89eb6adec8f9d426c5a98250162537053eafc1110ff51c31883",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49398152,
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 86,
-      "comments": 30
-    },
-    {
-      "id": 49398158,
-      "title": "Z80–The 1970s Microprocessor Still Alive",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "score": 49,
-      "comments": 21
-    },
-    {
       "id": 49399524,
       "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
       "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "score": 5,
-      "comments": 0
+      "score": 64,
+      "comments": 12
     },
     {
-      "id": 49398304,
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "score": 454,
-      "comments": 354
+      "id": 49398152,
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 130,
+      "comments": 46
+    },
+    {
+      "id": 49399591,
+      "title": "The New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 20,
+      "comments": 10
+    },
+    {
+      "id": 49398158,
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 62,
+      "comments": 28
     },
     {
       "id": 49398904,
       "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
       "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "score": 62,
-      "comments": 4
+      "score": 100,
+      "comments": 32
     }
   ]
 }
