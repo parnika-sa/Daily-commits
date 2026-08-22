@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-23 (last updated: 02:49 IST)
+
+## 📅 2026-08-23 (last updated: 03:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-23 02:10:06 IST | 883ab3509fbe | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-23 03:12:55 IST | 1dcc121fb413 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-23 02:49:28 IST | 713bfeead7de | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) — Score: 74
-- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 115
-- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) — Score: 41
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 236
-- [Hister – A private, full content search index that you control](https://hister.org/) — Score: 124
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) — Score: 109
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 163
+- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) — Score: 62
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 263
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) — Score: 58
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,119.0 🔴 -0.68%
