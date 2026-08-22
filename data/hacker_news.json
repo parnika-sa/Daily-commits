@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 21:42:55 UTC",
-    "fetched_at_ist": "2026-08-23 03:12:55 IST",
+    "fetched_at_utc": "2026-08-22 22:44:47 UTC",
+    "fetched_at_ist": "2026-08-23 04:14:47 IST",
     "item_count": 5,
-    "content_hash": "1dcc121fb41312391c03237640f2344ac01a37d373bcdbb1f474f34074b3bc6a",
-    "previous_hash": "883ab3509fbed14646159078bb2a5732e172ee8a547f2b428119a304da272c81",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "ac9174c59702ad7b672f0017d4d61dd4a36b2902194b44e81c09723d657236dd",
+    "previous_hash": "1dcc121fb41312391c03237640f2344ac01a37d373bcdbb1f474f34074b3bc6a",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49402741,
       "title": "hdiutil is deprecated in macOS 27 Golden Gate",
       "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 109,
-      "comments": 33
+      "score": 143,
+      "comments": 49
     },
     {
       "id": 49402189,
       "title": "Scrap",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 163,
-      "comments": 67
-    },
-    {
-      "id": 49402781,
-      "title": "NetBSD and My Life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 62,
-      "comments": 14
-    },
-    {
-      "id": 49400408,
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 263,
-      "comments": 87
+      "score": 200,
+      "comments": 82
     },
     {
       "id": 49402232,
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 58,
-      "comments": 15
+      "score": 110,
+      "comments": 31
+    },
+    {
+      "id": 49402781,
+      "title": "NetBSD and My Life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 70,
+      "comments": 19
+    },
+    {
+      "id": 49400408,
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 273,
+      "comments": 89
     }
   ]
 }
