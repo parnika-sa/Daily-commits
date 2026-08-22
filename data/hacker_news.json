@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 08:44:57 UTC",
-    "fetched_at_ist": "2026-08-22 14:14:57 IST",
+    "fetched_at_utc": "2026-08-22 09:38:58 UTC",
+    "fetched_at_ist": "2026-08-22 15:08:58 IST",
     "item_count": 5,
-    "content_hash": "20af7e73a25c439c0360a74f80da2e70d2f328e1658e2b23085996b3a059061a",
-    "previous_hash": "03c0b0cecf9c8ad6c0a7b8c4298856042de1542c42b3387916620058386ae42d",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "454e391f4658095b480035b2d3ebc6006ef0afc6541198a00f95c14e53bc296b",
+    "previous_hash": "20af7e73a25c439c0360a74f80da2e70d2f328e1658e2b23085996b3a059061a",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 174,
-      "comments": 36
+      "score": 207,
+      "comments": 46
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 686,
-      "comments": 276
+      "score": 701,
+      "comments": 278
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 533,
-      "comments": 186
+      "score": 543,
+      "comments": 188
     },
     {
       "id": 49395628,
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 373,
-      "comments": 270
+      "score": 398,
+      "comments": 287
     },
     {
       "id": 49386895,
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 761,
-      "comments": 887
+      "score": 783,
+      "comments": 913
     }
   ]
 }
