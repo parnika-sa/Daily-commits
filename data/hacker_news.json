@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 07:43:31 UTC",
-    "fetched_at_ist": "2026-08-22 13:13:31 IST",
+    "fetched_at_utc": "2026-08-22 08:44:57 UTC",
+    "fetched_at_ist": "2026-08-22 14:14:57 IST",
     "item_count": 5,
-    "content_hash": "03c0b0cecf9c8ad6c0a7b8c4298856042de1542c42b3387916620058386ae42d",
-    "previous_hash": "c7ad6f7435af3fbeb19cc0ec62d558ccda8b0ef00ecceb2f0d51ab0bc87f4caf",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "20af7e73a25c439c0360a74f80da2e70d2f328e1658e2b23085996b3a059061a",
+    "previous_hash": "03c0b0cecf9c8ad6c0a7b8c4298856042de1542c42b3387916620058386ae42d",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49389430,
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 662,
-      "comments": 263
-    },
-    {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 134,
-      "comments": 33
+      "score": 174,
+      "comments": 36
+    },
+    {
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 686,
+      "comments": 276
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 512,
-      "comments": 179
+      "score": 533,
+      "comments": 186
     },
     {
       "id": 49395628,
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 339,
-      "comments": 247
+      "score": 373,
+      "comments": 270
     },
     {
-      "id": 49391661,
-      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "score": 15,
-      "comments": 0
+      "id": 49386895,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 761,
+      "comments": 887
     }
   ]
 }
