@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 19:43:04 UTC",
-    "fetched_at_ist": "2026-08-23 01:13:04 IST",
+    "fetched_at_utc": "2026-08-22 20:40:06 UTC",
+    "fetched_at_ist": "2026-08-23 02:10:06 IST",
     "item_count": 5,
-    "content_hash": "64ca845791e2c8817607477436cea53fefea57f317c17c62aa9aa9234b029e2d",
-    "previous_hash": "a2ba085d2c7ecbef169549e2d4bcca03ca323a931ae25bb4b10a91d51034a5a2",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "883ab3509fbed14646159078bb2a5732e172ee8a547f2b428119a304da272c81",
+    "previous_hash": "64ca845791e2c8817607477436cea53fefea57f317c17c62aa9aa9234b029e2d",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49402741,
       "title": "hdiutil is deprecated in macOS 27 Golden Gate",
       "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 41,
-      "comments": 3
-    },
-    {
-      "id": 49400408,
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 201,
-      "comments": 69
+      "score": 74,
+      "comments": 21
     },
     {
       "id": 49402189,
       "title": "Scrap",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 59,
-      "comments": 11
+      "score": 115,
+      "comments": 40
     },
     {
       "id": 49402781,
       "title": "NetBSD and My Life (2005)",
       "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 9,
-      "comments": 0
+      "score": 41,
+      "comments": 7
+    },
+    {
+      "id": 49400408,
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 236,
+      "comments": 79
     },
     {
       "id": 49351802,
       "title": "Hister – A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 85,
-      "comments": 22
+      "score": 124,
+      "comments": 42
     }
   ]
 }
