@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 22:44:47 UTC",
-    "fetched_at_ist": "2026-08-23 04:14:47 IST",
+    "fetched_at_utc": "2026-08-22 23:41:55 UTC",
+    "fetched_at_ist": "2026-08-23 05:11:55 IST",
     "item_count": 5,
-    "content_hash": "ac9174c59702ad7b672f0017d4d61dd4a36b2902194b44e81c09723d657236dd",
-    "previous_hash": "1dcc121fb41312391c03237640f2344ac01a37d373bcdbb1f474f34074b3bc6a",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "5df6a9c9923e3dc352137c06a161b743e4dad81504988b98f21cd3bb0851cfa5",
+    "previous_hash": "ac9174c59702ad7b672f0017d4d61dd4a36b2902194b44e81c09723d657236dd",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49402741,
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 143,
-      "comments": 49
-    },
     {
       "id": 49402189,
       "title": "Scrap",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 200,
-      "comments": 82
+      "score": 250,
+      "comments": 100
     },
     {
       "id": 49402232,
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 110,
-      "comments": 31
+      "score": 147,
+      "comments": 37
     },
     {
       "id": 49402781,
-      "title": "NetBSD and My Life (2005)",
+      "title": "NetBSD and my life (2005)",
       "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 70,
-      "comments": 19
+      "score": 84,
+      "comments": 21
     },
     {
       "id": 49400408,
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 273,
-      "comments": 89
+      "score": 283,
+      "comments": 92
+    },
+    {
+      "id": 49351802,
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 200,
+      "comments": 62
     }
   ]
 }

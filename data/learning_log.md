@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-23 (last updated: 04:51 IST)
+
+## 📅 2026-08-23 (last updated: 05:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-23 04:14:47 IST | ac9174c59702 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-23 05:11:55 IST | 5df6a9c9923e | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-23 04:51:42 IST | abe558d6dd9b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) — Score: 143
-- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 200
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) — Score: 110
-- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) — Score: 70
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 273
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 250
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) — Score: 147
+- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) — Score: 84
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 283
+- [Hister – A private, full content search index that you control](https://hister.org/) — Score: 200
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,993.0 🔴 -2.10%
