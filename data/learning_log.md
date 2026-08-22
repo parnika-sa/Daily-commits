@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-22 (last updated: 04:56 IST)
+
+## 📅 2026-08-22 (last updated: 06:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-22 04:11:34 IST | 183e1b98589a | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-22 06:12:16 IST | c7ad6f7435af | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-22 04:56:03 IST | e59e9f9ddba0 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) — Score: 350
-- [Felony Bench](https://www.felonybench.com/) — Score: 423
-- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) — Score: 396
-- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) — Score: 106
-- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) — Score: 931
+- [Paul Atkins Misreads Adam Smith and the American Founding](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/) — Score: 47
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) — Score: 407
+- [Felony Bench](https://www.felonybench.com/) — Score: 494
+- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) — Score: 521
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) — Score: 138
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,641.0 🟢 +7.58%
