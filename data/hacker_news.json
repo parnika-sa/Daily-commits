@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 09:38:58 UTC",
-    "fetched_at_ist": "2026-08-22 15:08:58 IST",
+    "fetched_at_utc": "2026-08-22 11:34:13 UTC",
+    "fetched_at_ist": "2026-08-22 17:04:13 IST",
     "item_count": 5,
-    "content_hash": "454e391f4658095b480035b2d3ebc6006ef0afc6541198a00f95c14e53bc296b",
-    "previous_hash": "20af7e73a25c439c0360a74f80da2e70d2f328e1658e2b23085996b3a059061a",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "84802ae54bb656fffc15ee6e12e09f7856c0d6f0edebb832088170c06fb0b8f9",
+    "previous_hash": "454e391f4658095b480035b2d3ebc6006ef0afc6541198a00f95c14e53bc296b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49398304,
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "score": 145,
+      "comments": 65
+    },
+    {
+      "id": 49398158,
+      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 15,
+      "comments": 8
+    },
+    {
+      "id": 49398152,
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 20,
+      "comments": 2
+    },
     {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 207,
-      "comments": 46
+      "score": 274,
+      "comments": 55
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 701,
-      "comments": 278
-    },
-    {
-      "id": 49390427,
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 543,
-      "comments": 188
-    },
-    {
-      "id": 49395628,
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "score": 398,
-      "comments": 287
-    },
-    {
-      "id": 49386895,
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 783,
-      "comments": 913
+      "score": 734,
+      "comments": 280
     }
   ]
 }
