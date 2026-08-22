@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-08-23 (last updated: 00:46 IST)
+
+## 📅 2026-08-23 (last updated: 01:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-22 23:04:53 IST | a2ba085d2c7e | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-23 01:13:04 IST | 64ca845791e2 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-23 00:46:19 IST | 34541dbef99a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 98
-- [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) — Score: 158
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) — Score: 52
-- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) — Score: 118
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) — Score: 186
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) — Score: 41
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 201
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 59
+- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) — Score: 9
+- [Hister – A private, full content search index that you control](https://hister.org/) — Score: 85
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,306.0 🟢 +0.28%

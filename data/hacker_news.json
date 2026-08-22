@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 17:34:53 UTC",
-    "fetched_at_ist": "2026-08-22 23:04:53 IST",
+    "fetched_at_utc": "2026-08-22 19:43:04 UTC",
+    "fetched_at_ist": "2026-08-23 01:13:04 IST",
     "item_count": 5,
-    "content_hash": "a2ba085d2c7ecbef169549e2d4bcca03ca323a931ae25bb4b10a91d51034a5a2",
-    "previous_hash": "f7e386f8d994d456851cad4e344ac9d6f8b50b5e53487ef7117242809a9707fd",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "64ca845791e2c8817607477436cea53fefea57f317c17c62aa9aa9234b029e2d",
+    "previous_hash": "a2ba085d2c7ecbef169549e2d4bcca03ca323a931ae25bb4b10a91d51034a5a2",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49402741,
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "score": 41,
+      "comments": 3
+    },
+    {
       "id": 49400408,
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 98,
-      "comments": 30
+      "score": 201,
+      "comments": 69
     },
     {
-      "id": 49399524,
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "score": 158,
-      "comments": 70
-    },
-    {
-      "id": 49399898,
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 52,
+      "id": 49402189,
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 59,
       "comments": 11
     },
     {
-      "id": 49399591,
-      "title": "The New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 118,
-      "comments": 92
+      "id": 49402781,
+      "title": "NetBSD and My Life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 9,
+      "comments": 0
     },
     {
-      "id": 49398152,
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 186,
-      "comments": 78
+      "id": 49351802,
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 85,
+      "comments": 22
     }
   ]
 }
