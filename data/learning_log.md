@@ -50,18 +50,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-22 (last updated: 21:46 IST)
+
+## 📅 2026-08-22 (last updated: 23:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-22 21:12:34 IST | f7e386f8d994 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-22 23:04:53 IST | a2ba085d2c7e | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-22 21:46:06 IST | 5011eb8d406f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -77,11 +78,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) — Score: 97
-- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) — Score: 62
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) — Score: 23
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) — Score: 165
-- [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) — Score: 70
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 98
+- [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) — Score: 158
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) — Score: 52
+- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) — Score: 118
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) — Score: 186
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,972.0 🟢 +0.13%
