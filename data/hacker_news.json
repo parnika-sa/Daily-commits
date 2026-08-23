@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 07:44:59 UTC",
-    "fetched_at_ist": "2026-08-23 13:14:59 IST",
+    "fetched_at_utc": "2026-08-23 10:41:32 UTC",
+    "fetched_at_ist": "2026-08-23 16:11:32 IST",
     "item_count": 5,
-    "content_hash": "c603cd62607e15f836e7b5fa3e3f3a4c83680d9a74b852ffa11259307032b410",
-    "previous_hash": "e0682da5fc66efe53aac9e58e4375c3e3140f9c28d68ba5fb407c91dcc36411a",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "f3b465f1a8ea8633968e1c2262cab4d0bc42f0c9f8c0bd4cea961d8a83bfc59b",
+    "previous_hash": "c603cd62607e15f836e7b5fa3e3f3a4c83680d9a74b852ffa11259307032b410",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49406333,
       "title": "The End of an Athlon",
       "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 41,
-      "comments": 5
+      "score": 99,
+      "comments": 25
+    },
+    {
+      "id": 49405870,
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 161,
+      "comments": 106
     },
     {
       "id": 49406387,
       "title": "JIT Compiling Code in 5μs",
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 32,
-      "comments": 0
+      "score": 70,
+      "comments": 31
     },
     {
       "id": 49405816,
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "url": "https://martypc.net/",
-      "score": 87,
-      "comments": 22
+      "score": 119,
+      "comments": 39
     },
     {
-      "id": 49405870,
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 80,
-      "comments": 47
-    },
-    {
-      "id": 49405682,
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "score": 53,
-      "comments": 22
+      "id": 49406285,
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "score": 34,
+      "comments": 6
     }
   ]
 }
