@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 15:43:40 UTC",
-    "fetched_at_ist": "2026-08-23 21:13:40 IST",
+    "fetched_at_utc": "2026-08-23 17:33:30 UTC",
+    "fetched_at_ist": "2026-08-23 23:03:30 IST",
     "item_count": 5,
-    "content_hash": "fcfe2f7cb3a375fb23a916ce45b911cc515cc044094c7e1cb18a53aa2f2f8c05",
-    "previous_hash": "9da3a8686fe8759e23855123762d82f76b4bf5375c54cc25335039d3b160c8cd",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "8dd8a5f3f52ae97725370d2b983f075a9d3afe7f0c4aff5c4f5b38389f01545f",
+    "previous_hash": "fcfe2f7cb3a375fb23a916ce45b911cc515cc044094c7e1cb18a53aa2f2f8c05",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49410097,
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "score": 104,
+      "comments": 39
+    },
+    {
+      "id": 49409073,
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "score": 219,
+      "comments": 78
+    },
+    {
+      "id": 49409473,
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 90,
+      "comments": 14
+    },
     {
       "id": 49408550,
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 112,
-      "comments": 48
+      "score": 151,
+      "comments": 65
     },
     {
-      "id": 49409092,
-      "title": "What Is a Harness?",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 54,
-      "comments": 38
-    },
-    {
-      "id": 49408858,
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 58,
-      "comments": 20
-    },
-    {
-      "id": 49409200,
-      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "score": 63,
-      "comments": 16
-    },
-    {
-      "id": 49402491,
-      "title": "Things I want in a modern relational query language",
-      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "score": 25,
-      "comments": 14
+      "id": 49410362,
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 17,
+      "comments": 2
     }
   ]
 }
