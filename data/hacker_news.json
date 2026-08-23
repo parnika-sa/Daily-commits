@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 22:44:52 UTC",
-    "fetched_at_ist": "2026-08-24 04:14:52 IST",
+    "fetched_at_utc": "2026-08-23 23:42:03 UTC",
+    "fetched_at_ist": "2026-08-24 05:12:03 IST",
     "item_count": 5,
-    "content_hash": "0de95a580d0bcccd4387b62db41f136dccf4bb320f48a55355d21e9e89728abf",
-    "previous_hash": "986b0c824c6f4fa67d36839f5a1e2accc8654571fcf7bff75d1ae216ebfd755e",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "4ad1ab58b1452d8dba20368230c5709ac16667efdfc00dd829fbf73abde39178",
+    "previous_hash": "0de95a580d0bcccd4387b62db41f136dccf4bb320f48a55355d21e9e89728abf",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49413320,
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 74,
+      "comments": 19
+    },
     {
       "id": 49411643,
       "title": "How I find problems to solve as a staff engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 184,
-      "comments": 66
+      "score": 221,
+      "comments": 81
     },
     {
       "id": 49411717,
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 83,
-      "comments": 22
+      "score": 123,
+      "comments": 32
     },
     {
       "id": 49411102,
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 66,
-      "comments": 55
-    },
-    {
-      "id": 49409473,
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 210,
-      "comments": 58
+      "score": 103,
+      "comments": 89
     },
     {
       "id": 49410932,
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 97,
-      "comments": 41
+      "score": 115,
+      "comments": 55
     }
   ]
 }

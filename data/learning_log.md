@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-24 (last updated: 04:51 IST)
+
+## 📅 2026-08-24 (last updated: 05:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-24 04:14:52 IST | 0de95a580d0b | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-24 05:12:03 IST | 4ad1ab58b145 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-24 04:51:10 IST | 68e923121985 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 184
-- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) — Score: 83
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) — Score: 66
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 210
-- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) — Score: 97
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) — Score: 74
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 221
+- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) — Score: 123
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) — Score: 103
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) — Score: 115
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,581.0 🟢 +0.75%
