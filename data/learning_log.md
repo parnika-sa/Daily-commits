@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-24 (last updated: 01:12 IST)
+
+## 📅 2026-08-24 (last updated: 02:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-24 01:12:30 IST | a23f9a2719fa | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-24 02:07:16 IST | 26bcb4b40951 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-24 00:45:37 IST | 6798a97b1c72 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) — Score: 467
-- [A website for debloated open source alternatives](https://debloat.dev/) — Score: 101
-- [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) — Score: 68
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 148
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 174
+- [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 62
+- [A website for debloated open source alternatives](https://debloat.dev/) — Score: 157
+- [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html) — Score: 41
+- [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/) — Score: 28
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 165
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,261.0 🔴 -0.06%

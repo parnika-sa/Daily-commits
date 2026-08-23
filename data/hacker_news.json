@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 19:42:30 UTC",
-    "fetched_at_ist": "2026-08-24 01:12:30 IST",
+    "fetched_at_utc": "2026-08-23 20:37:16 UTC",
+    "fetched_at_ist": "2026-08-24 02:07:16 IST",
     "item_count": 5,
-    "content_hash": "a23f9a2719fa466afdf3c06867376932fcb8669e9fcdc1d09c556d1b5db8025a",
-    "previous_hash": "8dd8a5f3f52ae97725370d2b983f075a9d3afe7f0c4aff5c4f5b38389f01545f",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "26bcb4b40951544f54fddc6a615ae672e2a13c78655815f3e07f7c19f4f1aca0",
+    "previous_hash": "a23f9a2719fa466afdf3c06867376932fcb8669e9fcdc1d09c556d1b5db8025a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49409073,
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "score": 467,
-      "comments": 209
+      "id": 49411643,
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 62,
+      "comments": 25
     },
     {
       "id": 49410362,
       "title": "A website for debloated open source alternatives",
       "url": "https://debloat.dev/",
-      "score": 101,
-      "comments": 47
+      "score": 157,
+      "comments": 63
     },
     {
-      "id": 49409862,
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "score": 68,
-      "comments": 38
+      "id": 49411468,
+      "title": "Fable and the End of the Free Lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "score": 41,
+      "comments": 24
+    },
+    {
+      "id": 49411199,
+      "title": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "score": 28,
+      "comments": 9
     },
     {
       "id": 49409473,
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
-      "score": 148,
-      "comments": 39
-    },
-    {
-      "id": 49408550,
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 174,
-      "comments": 83
+      "score": 165,
+      "comments": 46
     }
   ]
 }
