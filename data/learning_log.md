@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-24 (last updated: 03:45 IST)
+
+## 📅 2026-08-24 (last updated: 04:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-24 03:12:38 IST | 986b0c824c6f | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-24 04:14:52 IST | 0de95a580d0b | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-08-24 03:45:55 IST | 0ef38dda7538 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 138
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 181
-- [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/) — Score: 57
-- [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) — Score: 99
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 191
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 184
+- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) — Score: 83
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) — Score: 66
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 210
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) — Score: 97
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,694.0 🟢 +0.80%
