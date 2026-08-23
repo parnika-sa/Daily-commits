@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 10:41:32 UTC",
-    "fetched_at_ist": "2026-08-23 16:11:32 IST",
+    "fetched_at_utc": "2026-08-23 11:42:29 UTC",
+    "fetched_at_ist": "2026-08-23 17:12:29 IST",
     "item_count": 5,
-    "content_hash": "f3b465f1a8ea8633968e1c2262cab4d0bc42f0c9f8c0bd4cea961d8a83bfc59b",
-    "previous_hash": "c603cd62607e15f836e7b5fa3e3f3a4c83680d9a74b852ffa11259307032b410",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "e623120dfcd5032e3d9a04b1a8771b0d4a707be2f2812b038d7be08b7c03874b",
+    "previous_hash": "f3b465f1a8ea8633968e1c2262cab4d0bc42f0c9f8c0bd4cea961d8a83bfc59b",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49406333,
       "title": "The End of an Athlon",
       "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 99,
-      "comments": 25
+      "score": 116,
+      "comments": 34
     },
     {
       "id": 49405870,
       "title": "To become a better writer, read as much as you can",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 161,
-      "comments": 106
+      "score": 200,
+      "comments": 128
     },
     {
       "id": 49406387,
       "title": "JIT Compiling Code in 5μs",
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 70,
-      "comments": 31
+      "score": 79,
+      "comments": 44
     },
     {
       "id": 49405816,
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "url": "https://martypc.net/",
-      "score": 119,
-      "comments": 39
+      "score": 125,
+      "comments": 42
     },
     {
       "id": 49406285,
       "title": "Fast and Hard Code",
       "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "score": 34,
-      "comments": 6
+      "score": 47,
+      "comments": 11
     }
   ]
 }
