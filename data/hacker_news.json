@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 14:40:55 UTC",
-    "fetched_at_ist": "2026-08-23 20:10:55 IST",
+    "fetched_at_utc": "2026-08-23 15:43:40 UTC",
+    "fetched_at_ist": "2026-08-23 21:13:40 IST",
     "item_count": 5,
-    "content_hash": "9da3a8686fe8759e23855123762d82f76b4bf5375c54cc25335039d3b160c8cd",
-    "previous_hash": "521bdec27704f22d792943add3035171bc6dfb805d6335e0aeb527a2629288f2",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "fcfe2f7cb3a375fb23a916ce45b911cc515cc044094c7e1cb18a53aa2f2f8c05",
+    "previous_hash": "9da3a8686fe8759e23855123762d82f76b4bf5375c54cc25335039d3b160c8cd",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49408550,
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 74,
-      "comments": 25
+      "score": 112,
+      "comments": 48
+    },
+    {
+      "id": 49409092,
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "score": 54,
+      "comments": 38
     },
     {
       "id": 49408858,
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 20,
-      "comments": 1
+      "score": 58,
+      "comments": 20
     },
     {
-      "id": 49407576,
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "score": 78,
-      "comments": 49
+      "id": 49409200,
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "score": 63,
+      "comments": 16
     },
     {
-      "id": 49405870,
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 295,
-      "comments": 193
-    },
-    {
-      "id": 49406333,
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 139,
-      "comments": 53
+      "id": 49402491,
+      "title": "Things I want in a modern relational query language",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "score": 25,
+      "comments": 14
     }
   ]
 }

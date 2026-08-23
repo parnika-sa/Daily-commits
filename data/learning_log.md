@@ -46,18 +46,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-23 (last updated: 20:52 IST)
+
+## 📅 2026-08-23 (last updated: 21:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-23 20:10:55 IST | 9da3a8686fe8 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-23 21:13:40 IST | fcfe2f7cb3a3 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-08-23 20:52:23 IST | 31b5f3fe0f68 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -73,11 +74,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 74
-- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) — Score: 20
-- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) — Score: 78
-- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) — Score: 295
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) — Score: 139
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 112
+- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) — Score: 54
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) — Score: 58
+- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/) — Score: 63
+- [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) — Score: 25
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,002.0 🟢 +0.07%
