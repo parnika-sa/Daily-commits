@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 12:31:57 UTC",
-    "fetched_at_ist": "2026-08-23 18:01:57 IST",
+    "fetched_at_utc": "2026-08-23 14:40:55 UTC",
+    "fetched_at_ist": "2026-08-23 20:10:55 IST",
     "item_count": 5,
-    "content_hash": "521bdec27704f22d792943add3035171bc6dfb805d6335e0aeb527a2629288f2",
-    "previous_hash": "e623120dfcd5032e3d9a04b1a8771b0d4a707be2f2812b038d7be08b7c03874b",
+    "content_hash": "9da3a8686fe8759e23855123762d82f76b4bf5375c54cc25335039d3b160c8cd",
+    "previous_hash": "521bdec27704f22d792943add3035171bc6dfb805d6335e0aeb527a2629288f2",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49406333,
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 124,
-      "comments": 39
+      "id": 49408550,
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 74,
+      "comments": 25
     },
     {
-      "id": 49405870,
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 227,
-      "comments": 148
+      "id": 49408858,
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 20,
+      "comments": 1
     },
     {
       "id": 49407576,
       "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
       "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "score": 20,
-      "comments": 5
+      "score": 78,
+      "comments": 49
     },
     {
-      "id": 49407309,
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "url": "https://skylens.yantraai.app/",
-      "score": 19,
-      "comments": 0
+      "id": 49405870,
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 295,
+      "comments": 193
     },
     {
-      "id": 49406387,
-      "title": "JIT Compiling Code in 5μs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 88,
-      "comments": 50
+      "id": 49406333,
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 139,
+      "comments": 53
     }
   ]
 }

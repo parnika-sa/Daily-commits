@@ -43,18 +43,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-23 (last updated: 18:48 IST)
+
+## 📅 2026-08-23 (last updated: 20:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 23:30:15 IST | 927aa5f3a6aa | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-23 18:01:57 IST | 521bdec27704 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-23 20:10:55 IST | 9da3a8686fe8 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-23 18:48:25 IST | d7afa79a9948 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -70,11 +71,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) — Score: 124
-- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) — Score: 227
-- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) — Score: 20
-- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) — Score: 19
-- [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) — Score: 88
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 74
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) — Score: 20
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) — Score: 78
+- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) — Score: 295
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) — Score: 139
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,321.0 🟢 +0.19%
