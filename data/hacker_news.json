@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-24 17:44:01 UTC",
-    "fetched_at_ist": "2026-08-24 23:14:01 IST",
+    "fetched_at_utc": "2026-08-24 18:04:03 UTC",
+    "fetched_at_ist": "2026-08-24 23:34:03 IST",
     "item_count": 5,
-    "content_hash": "14eda7d3fb12d4e1a8e4662e39afb556e2f3fef4e7b1f6429cef625d19012469",
-    "previous_hash": "2b2f5489e323bb7248cbe8e6f615c4e97e89c0d430111cf956d722366b1024d7",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "6c07f88e846857eec93570147e87abe3e8a90c24af9089c77a3eddcfe35239bc",
+    "previous_hash": "14eda7d3fb12d4e1a8e4662e39afb556e2f3fef4e7b1f6429cef625d19012469",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 353,
-      "comments": 201
+      "score": 384,
+      "comments": 223
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 199,
-      "comments": 83
+      "score": 216,
+      "comments": 95
     },
     {
       "id": 49421489,
       "title": "IPFS Maintainers Winding Down",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 128,
-      "comments": 46
+      "score": 145,
+      "comments": 57
     },
     {
-      "id": 49422204,
-      "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-      "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-      "score": 57,
-      "comments": 18
+      "id": 49422800,
+      "title": "Where Did All the Public Bathrooms Go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "score": 36,
+      "comments": 25
     },
     {
-      "id": 49419237,
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 683,
-      "comments": 457
+      "id": 49422784,
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 47,
+      "comments": 13
     }
   ]
 }

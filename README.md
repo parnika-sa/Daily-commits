@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-24 17:44:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-24 18:04:03 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **modular/modular**
-- BTC: **$79,758.0** ↑ (+3.25%)
+- Top GitHub repo: **Alishahryar1/free-claude-code**
+- BTC: **$78,776.0** ↑ (+2.06%)
 - HN top story: **Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-20 18:00:15 UTC | `927aa5f3a6aa` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-24 17:44:01 UTC | `14eda7d3fb12` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-24 16:24:24 UTC | `3faf5c36964b` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-08-24 18:04:02 UTC | `137a878815ab` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-24 18:04:03 UTC | `6c07f88e8468` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-08-24 18:04:02 UTC | `f3377bd2c692` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-24` |
-| Commits Today | `38` / `100` |
-| Remaining Today | `62` |
-| Progress | `███████░░░░░░░░░░░░░` 38% |
+| Commits Today | `39` / `100` |
+| Remaining Today | `61` |
+| Progress | `███████░░░░░░░░░░░░░` 39% |
 | Streak | `44` day(s) |
-| Last Commit (IST) | `2026-08-24 22:32:41 IST` |
+| Last Commit (IST) | `2026-08-24 23:14:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-21 | 38 | `███████░░░░░░░░░░░░░` 38% |
 | 2026-08-22 | 50 | `██████████░░░░░░░░░░` 50% |
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
-| 2026-08-24 | 38 | `███████░░░░░░░░░░░░░` 38% |
+| 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,758.0 | +3.25% | 🟢 |
-| Ethereum | $2,500.78 | +2.31% | 🟢 |
-| Solana | $97.41 | +2.16% | 🟢 |
-| Bnb | $711.52 | +2.24% | 🟢 |
+| Bitcoin | $78,776.0 | +2.06% | 🟢 |
+| Ethereum | $2,469.52 | +1.23% | 🟢 |
+| Solana | $95.43 | +0.38% | 🟢 |
+| Bnb | $702.96 | +0.84% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [modular/modular](https://github.com/modular/modular) | Mojo | 340 stars today | The Modular Platform (includes MAX & Mojo) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,267 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,540 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 749 stars today | An agentic skills framework & software development methodology that works. |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 473 stars today | Cursor plugin specification and official plugins |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 855 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 335 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,774 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 889 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
+| [openai/codex](https://github.com/openai/codex) | Rust | 1,990 stars today | Lightweight coding agent that runs in your terminal |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 378 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 491 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | 268 stars today | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 899 stars today | The agent that grows with you |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 490 stars today | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror… |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,102 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | 353 | 201 |
-| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | 199 | 83 |
-| [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) | 128 | 46 |
-| [A Blackstone real estate company exposed SSN digits, DOBs, addresses and more](https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure) | 57 | 18 |
-| [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) | 683 | 457 |
+| [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | 384 | 223 |
+| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | 216 | 95 |
+| [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) | 145 | 57 |
+| [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) | 36 | 25 |
+| [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | 47 | 13 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
