@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 23:42:03 UTC",
-    "fetched_at_ist": "2026-08-24 05:12:03 IST",
+    "fetched_at_utc": "2026-08-24 06:37:38 UTC",
+    "fetched_at_ist": "2026-08-24 12:07:38 IST",
     "item_count": 5,
-    "content_hash": "4ad1ab58b1452d8dba20368230c5709ac16667efdfc00dd829fbf73abde39178",
-    "previous_hash": "0de95a580d0bcccd4387b62db41f136dccf4bb320f48a55355d21e9e89728abf",
+    "content_hash": "29427852593d579ff9c1f65300a03f3f0842cc5c9ee3265114b413c6b90b82b6",
+    "previous_hash": "4ad1ab58b1452d8dba20368230c5709ac16667efdfc00dd829fbf73abde39178",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49413320,
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "score": 74,
-      "comments": 19
-    },
-    {
-      "id": 49411643,
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 221,
-      "comments": 81
-    },
-    {
-      "id": 49411717,
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 123,
-      "comments": 32
+      "score": 611,
+      "comments": 190
     },
     {
       "id": 49411102,
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 103,
-      "comments": 89
+      "score": 418,
+      "comments": 363
+    },
+    {
+      "id": 49411643,
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 371,
+      "comments": 123
+    },
+    {
+      "id": 49412396,
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "score": 4,
+      "comments": 4
     },
     {
       "id": 49410932,
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 115,
-      "comments": 55
+      "score": 277,
+      "comments": 108
     }
   ]
 }
