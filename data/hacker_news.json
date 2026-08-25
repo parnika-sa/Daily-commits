@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 09:31:04 UTC",
-    "fetched_at_ist": "2026-08-25 15:01:04 IST",
+    "fetched_at_utc": "2026-08-25 16:32:08 UTC",
+    "fetched_at_ist": "2026-08-25 22:02:08 IST",
     "item_count": 5,
-    "content_hash": "9a2d77ab70fac22d6609dc6d24162adb6399e5f120ea03b76f0a790959cac9df",
-    "previous_hash": "7cdddf6304578df2b87241dcdbea01448937bea88812a9df92d4ca498aa1ef97",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "5bd748965a106ae7472402569d8888a019a42c3e17fca78b186105862e08dcef",
+    "previous_hash": "9a2d77ab70fac22d6609dc6d24162adb6399e5f120ea03b76f0a790959cac9df",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49426564,
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 458,
-      "comments": 127
+      "id": 49433292,
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 467,
+      "comments": 386
     },
     {
-      "id": 49420873,
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 858,
-      "comments": 615
+      "id": 49433316,
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 435,
+      "comments": 282
     },
     {
-      "id": 49421158,
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 707,
-      "comments": 309
+      "id": 49433450,
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 206,
+      "comments": 115
     },
     {
-      "id": 49428121,
-      "title": "How Universities Should Prepare Founders",
-      "url": "https://paulgraham.com/prepare.html",
-      "score": 122,
-      "comments": 146
+      "id": 49432317,
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 192,
+      "comments": 82
     },
     {
-      "id": 49428638,
-      "title": "SiFive's First Server Platform",
-      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "score": 51,
-      "comments": 9
+      "id": 49434820,
+      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 91,
+      "comments": 70
     }
   ]
 }
