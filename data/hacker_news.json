@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 06:30:13 UTC",
-    "fetched_at_ist": "2026-08-25 12:00:13 IST",
+    "fetched_at_utc": "2026-08-25 09:31:04 UTC",
+    "fetched_at_ist": "2026-08-25 15:01:04 IST",
     "item_count": 5,
-    "content_hash": "7cdddf6304578df2b87241dcdbea01448937bea88812a9df92d4ca498aa1ef97",
-    "previous_hash": "0123876b398469344ad3a3962f157cca815523deff93cfa865674d0e71e829d2",
+    "content_hash": "9a2d77ab70fac22d6609dc6d24162adb6399e5f120ea03b76f0a790959cac9df",
+    "previous_hash": "7cdddf6304578df2b87241dcdbea01448937bea88812a9df92d4ca498aa1ef97",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49426564,
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 376,
-      "comments": 97
+      "score": 458,
+      "comments": 127
     },
     {
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 807,
-      "comments": 566
+      "score": 858,
+      "comments": 615
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 654,
-      "comments": 262
-    },
-    {
-      "id": 49399722,
-      "title": "Nostr is an inclusive communication commons",
-      "url": "https://nostr.org/",
-      "score": 83,
-      "comments": 28
+      "score": 707,
+      "comments": 309
     },
     {
       "id": 49428121,
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "score": 81,
-      "comments": 76
+      "score": 122,
+      "comments": 146
+    },
+    {
+      "id": 49428638,
+      "title": "SiFive's First Server Platform",
+      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "score": 51,
+      "comments": 9
     }
   ]
 }
