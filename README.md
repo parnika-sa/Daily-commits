@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-25 18:13:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-25 19:25:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **freestylefly/awesome-gpt-image-2**
-- BTC: **$79,234.0** ↑ (+0.41%)
+- BTC: **$79,144.0** ↑ (+0.48%)
 - HN top story: **Apple introduces M6 and M5 Ultra**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-08-25 18:13:32 UTC | `ad39bf39fe46` | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-25 18:13:33 UTC | `d162cd772286` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-25 18:13:32 UTC | `d31298d7a644` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-25 19:25:30 UTC | `77ba67abb6fd` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-26` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-08-25 23:43:34 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `43` day(s) |
+| Last Commit (IST) | `2026-08-26 00:26:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
 | 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
-| 2026-08-26 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-08-26 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,234.0 | +0.41% | 🟢 |
-| Ethereum | $2,471.9 | -0.26% | 🔴 |
-| Solana | $98.32 | +2.53% | 🟢 |
-| Bnb | $699.9 | -0.54% | 🔴 |
+| Bitcoin | $79,144.0 | +0.48% | 🟢 |
+| Ethereum | $2,467.22 | +0.10% | 🟢 |
+| Solana | $98.41 | +2.95% | 🟢 |
+| Bnb | $699.29 | -0.28% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
