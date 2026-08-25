@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 16:32:08 UTC",
-    "fetched_at_ist": "2026-08-25 22:02:08 IST",
+    "fetched_at_utc": "2026-08-25 18:13:33 UTC",
+    "fetched_at_ist": "2026-08-25 23:43:33 IST",
     "item_count": 5,
-    "content_hash": "5bd748965a106ae7472402569d8888a019a42c3e17fca78b186105862e08dcef",
-    "previous_hash": "9a2d77ab70fac22d6609dc6d24162adb6399e5f120ea03b76f0a790959cac9df",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "d162cd772286231d2ec975cc305ccece4c9f466bd8feb775cc751c483d08d24e",
+    "previous_hash": "5bd748965a106ae7472402569d8888a019a42c3e17fca78b186105862e08dcef",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49433292,
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 467,
-      "comments": 386
+      "score": 655,
+      "comments": 526
     },
     {
       "id": 49433316,
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 435,
-      "comments": 282
+      "score": 538,
+      "comments": 322
+    },
+    {
+      "id": 49437283,
+      "title": "Nitter project received cease and desist",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "score": 146,
+      "comments": 81
+    },
+    {
+      "id": 49437210,
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "score": 34,
+      "comments": 13
     },
     {
       "id": 49433450,
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 206,
-      "comments": 115
-    },
-    {
-      "id": 49432317,
-      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-      "score": 192,
-      "comments": 82
-    },
-    {
-      "id": 49434820,
-      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 91,
-      "comments": 70
+      "score": 296,
+      "comments": 155
     }
   ]
 }

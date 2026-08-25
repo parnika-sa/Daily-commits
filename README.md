@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-25 16:32:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-25 18:13:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Alishahryar1/free-claude-code**
-- BTC: **$78,738.0** ↓ (-0.31%)
-- HN top story: **Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute**
+- Top GitHub repo: **freestylefly/awesome-gpt-image-2**
+- BTC: **$79,234.0** ↑ (+0.41%)
+- HN top story: **Apple introduces M6 and M5 Ultra**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-08-24 18:04:02 UTC | `137a878815ab` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-25 16:32:08 UTC | `5bd748965a10` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-25 13:28:42 UTC | `574a06a69f7a` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-08-25 18:13:32 UTC | `ad39bf39fe46` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-25 18:13:33 UTC | `d162cd772286` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-08-25 18:13:32 UTC | `d31298d7a644` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-25` |
-| Commits Today | `36` / `100` |
-| Remaining Today | `64` |
-| Progress | `███████░░░░░░░░░░░░░` 36% |
+| Commits Today | `37` / `100` |
+| Remaining Today | `63` |
+| Progress | `███████░░░░░░░░░░░░░` 37% |
 | Streak | `43` day(s) |
-| Last Commit (IST) | `2026-08-25 22:44:09 IST` |
+| Last Commit (IST) | `2026-08-25 23:15:11 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-22 | 50 | `██████████░░░░░░░░░░` 50% |
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
 | 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
-| 2026-08-25 | 36 | `███████░░░░░░░░░░░░░` 36% |
+| 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,738.0 | -0.31% | 🔴 |
-| Ethereum | $2,459.81 | -1.88% | 🔴 |
-| Solana | $97.65 | +1.62% | 🟢 |
-| Bnb | $694.6 | -1.44% | 🔴 |
+| Bitcoin | $79,234.0 | +0.41% | 🟢 |
+| Ethereum | $2,471.9 | -0.26% | 🔴 |
+| Solana | $98.32 | +2.53% | 🟢 |
+| Bnb | $699.9 | -0.54% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 889 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
-| [openai/codex](https://github.com/openai/codex) | Rust | 1,990 stars today | Lightweight coding agent that runs in your terminal |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 378 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 491 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | 268 stars today | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 899 stars today | The agent that grows with you |
-| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 490 stars today | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror… |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,102 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 1,698 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 350 stars today | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror… |
+| [apache/maka](https://github.com/apache/maka) | TypeScript | 538 stars today | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 191 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 810 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 572 stars today | Learn it. Build it. Ship it for others. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 541 stars today | Your Personal AI super intelligence. A brain that builds a local-first memory of… |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,080 stars today | Beautiful, Modern & Opinionated Linux |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | 467 | 386 |
-| [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | 435 | 282 |
-| [New Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/) | 206 | 115 |
-| [Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)](https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next) | 192 | 82 |
-| [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs) | 91 | 70 |
+| [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | 655 | 526 |
+| [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | 538 | 322 |
+| [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442) | 146 | 81 |
+| [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | 34 | 13 |
+| [New Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/) | 296 | 155 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
