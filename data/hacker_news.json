@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-26 11:30:32 UTC",
-    "fetched_at_ist": "2026-08-26 17:00:32 IST",
+    "fetched_at_utc": "2026-08-26 12:00:58 UTC",
+    "fetched_at_ist": "2026-08-26 17:30:58 IST",
     "item_count": 5,
-    "content_hash": "9b6587dbd642181e92f06026afb26ca224dfbb050a11f25ffbc12efefc9fe3fb",
-    "previous_hash": "7a61d2bafd1c74c880666281342e22483ff913a27f83a8f4aa24558667d434fd",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "6d9556c816012a6ba7e5e216862ee084c85853dbe7341b64690e6a252d23a4df",
+    "previous_hash": "9b6587dbd642181e92f06026afb26ca224dfbb050a11f25ffbc12efefc9fe3fb",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49445873,
-      "title": "Oldinsurancemaps.net is now a Charter Project",
-      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "score": 63,
-      "comments": 8
-    },
-    {
       "id": 49445727,
       "title": "RAG Is Simpler Than You Think",
       "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "score": 88,
-      "comments": 44
+      "score": 129,
+      "comments": 51
+    },
+    {
+      "id": 49445873,
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "score": 73,
+      "comments": 11
     },
     {
       "id": 49446422,
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "score": 93,
-      "comments": 27
+      "score": 134,
+      "comments": 49
+    },
+    {
+      "id": 49445884,
+      "title": "Value Classes Still Need Compiler Sympathy",
+      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+      "score": 40,
+      "comments": 15
     },
     {
       "id": 49445286,
       "title": "Show HN: Buslens – where can I get to by bus? (UK)",
       "url": "https://rupertlinacre.com/buslens/",
-      "score": 41,
-      "comments": 30
-    },
-    {
-      "id": 49433292,
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1175,
-      "comments": 1146
+      "score": 51,
+      "comments": 33
     }
   ]
 }

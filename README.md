@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-26 11:30:32 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-26 12:00:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **freestylefly/awesome-gpt-image-2**
-- BTC: **$78,517.0** ↓ (-1.02%)
-- HN top story: **Oldinsurancemaps.net is now a Charter Project**
+- Top GitHub repo: **tt-a1i/archify**
+- BTC: **$78,499.0** ↓ (-0.78%)
+- HN top story: **RAG Is Simpler Than You Think**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-08-25 18:13:32 UTC | `ad39bf39fe46` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-26 11:30:32 UTC | `9b6587dbd642` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-26 10:25:11 UTC | `071ae0ea04f9` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-08-26 12:00:57 UTC | `26edb565b9cd` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-26 12:00:58 UTC | `6d9556c81601` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-26 12:00:57 UTC | `af3d0e51314b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-26` |
-| Commits Today | `26` / `100` |
-| Remaining Today | `74` |
-| Progress | `█████░░░░░░░░░░░░░░░` 26% |
+| Commits Today | `27` / `100` |
+| Remaining Today | `73` |
+| Progress | `█████░░░░░░░░░░░░░░░` 27% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-08-26 16:28:57 IST` |
+| Last Commit (IST) | `2026-08-26 17:00:33 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
 | 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
-| 2026-08-26 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
+| 2026-08-26 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,517.0 | -1.02% | 🔴 |
-| Ethereum | $2,450.13 | -1.10% | 🔴 |
-| Solana | $96.47 | -3.15% | 🔴 |
-| Bnb | $696.96 | -0.34% | 🔴 |
+| Bitcoin | $78,499.0 | -0.78% | 🔴 |
+| Ethereum | $2,465.69 | -0.52% | 🔴 |
+| Solana | $97.06 | -1.55% | 🔴 |
+| Bnb | $702.34 | +0.80% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | HTML | 1,002 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 1,698 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
-| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | 350 stars today | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror… |
-| [apache/maka](https://github.com/apache/maka) | TypeScript | 538 stars today | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to… |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 191 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 810 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 572 stars today | Learn it. Build it. Ship it for others. |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 541 stars today | Your Personal AI super intelligence. A brain that builds a local-first memory of… |
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,080 stars today | Beautiful, Modern & Opinionated Linux |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 55 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,047 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,265 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 813 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,083 stars today | Beautiful, Modern & Opinionated Linux |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 569 stars today | Learn it. Build it. Ship it for others. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/) | 63 | 8 |
-| [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) | 88 | 44 |
-| [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) | 93 | 27 |
-| [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/) | 41 | 30 |
-| [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | 1175 | 1146 |
+| [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) | 129 | 51 |
+| [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/) | 73 | 11 |
+| [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) | 134 | 49 |
+| [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/) | 40 | 15 |
+| [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/) | 51 | 33 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
