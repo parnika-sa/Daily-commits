@@ -22,13 +22,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-26 (last updated: 12:11 IST)
+
+## 📅 2026-08-26 (last updated: 13:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-08-25 23:43:32 IST | ad39bf39fe46 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-26 12:11:18 IST | a265c8755c12 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-26 13:01:02 IST | 7a61d2bafd1c | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-26 10:54:58 IST | 98939f0fa2a6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 810 stars today
 
 ### 📰 Hacker News Stories
-- [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding) — Score: 19
-- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) — Score: 1070
-- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) — Score: 350
-- [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) — Score: 422
-- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) — Score: 104
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) — Score: 1089
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) — Score: 362
+- [Secret Cold War IBM Supercomputer Was Built for One Job](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm) — Score: 18
+- [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0) — Score: 53
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) — Score: 132
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,834.0 🔴 -2.11%
