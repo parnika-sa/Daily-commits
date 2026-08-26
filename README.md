@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-26 16:20:59 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-26 18:09:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tt-a1i/archify**
-- BTC: **$78,042.0** ↓ (-1.51%)
-- HN top story: **RAG Is Simpler Than You Think**
+- BTC: **$78,458.0** ↓ (-0.96%)
+- HN top story: **GLM-5.3-Flash**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-26 12:00:57 UTC | `26edb565b9cd` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-26 12:00:58 UTC | `6d9556c81601` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-26 16:20:59 UTC | `5c4a278a4378` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-08-26 18:09:46 UTC | `330ce01a2958` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-26 18:09:47 UTC | `fc70529888be` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-26 18:09:46 UTC | `e1722cb41163` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-26` |
-| Commits Today | `31` / `100` |
-| Remaining Today | `69` |
-| Progress | `██████░░░░░░░░░░░░░░` 31% |
+| Commits Today | `32` / `100` |
+| Remaining Today | `68` |
+| Progress | `██████░░░░░░░░░░░░░░` 32% |
 | Streak | `41` day(s) |
-| Last Commit (IST) | `2026-08-26 20:30:05 IST` |
+| Last Commit (IST) | `2026-08-26 21:50:59 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
 | 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
-| 2026-08-26 | 31 | `██████░░░░░░░░░░░░░░` 31% |
+| 2026-08-26 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,042.0 | -1.51% | 🔴 |
-| Ethereum | $2,449.74 | -1.05% | 🔴 |
-| Solana | $95.78 | -2.48% | 🔴 |
-| Bnb | $696.86 | -0.22% | 🔴 |
+| Bitcoin | $78,458.0 | -0.96% | 🔴 |
+| Ethereum | $2,462.58 | -0.35% | 🔴 |
+| Solana | $96.83 | -1.35% | 🔴 |
+| Bnb | $698.83 | -0.15% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | HTML | 1,002 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 1,698 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 55 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,047 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,265 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 813 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,083 stars today | Beautiful, Modern & Opinionated Linux |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 569 stars today | Learn it. Build it. Ship it for others. |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 4,044 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 566 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,299 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 812 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,021 stars today | Beautiful, Modern & Opinionated Linux |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 837 stars today | Learn it. Build it. Ship it for others. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) | 129 | 51 |
-| [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/) | 73 | 11 |
-| [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) | 134 | 49 |
-| [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/) | 40 | 15 |
-| [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/) | 51 | 33 |
+| [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | 538 | 249 |
+| [AWS Acquires DuckLabs](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) | 763 | 218 |
+| [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) | 23 | 2 |
+| [France reaches 94.9% fiber coverage in 2026](https://cartefibre.arcep.fr) | 259 | 184 |
+| [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f) | 167 | 95 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
