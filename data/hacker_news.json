@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-27 04:38:44 UTC",
-    "fetched_at_ist": "2026-08-27 10:08:44 IST",
+    "fetched_at_utc": "2026-08-27 15:30:06 UTC",
+    "fetched_at_ist": "2026-08-27 21:00:06 IST",
     "item_count": 5,
-    "content_hash": "e582e6f3c7421891f6998dd67c31f1dcfd9a4398a1440169ec82a012f76893ab",
-    "previous_hash": "fc70529888be018ac3ae1bf4cb408a0613a891c11dc0b4731a0b7e8df542e2ee",
+    "content_hash": "8a2883f8491a8bf4783e4a5a44e8f85a716da0b36cdcd5edf2d09aa4ab4cd69d",
+    "previous_hash": "e582e6f3c7421891f6998dd67c31f1dcfd9a4398a1440169ec82a012f76893ab",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49465169,
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 64,
+      "comments": 3
+    },
+    {
+      "id": 49462763,
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 236,
+      "comments": 86
+    },
+    {
+      "id": 49464543,
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 60,
+      "comments": 18
+    },
+    {
       "id": 49458161,
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 547,
-      "comments": 238
+      "score": 1597,
+      "comments": 728
     },
     {
-      "id": 49458418,
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 215,
-      "comments": 134
-    },
-    {
-      "id": 49457545,
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "score": 211,
-      "comments": 70
-    },
-    {
-      "id": 49458709,
-      "title": "Kusama Yayoi Dies at 97",
-      "url": "https://news.jp/i/1465528042000662661",
-      "score": 82,
-      "comments": 6
-    },
-    {
-      "id": 49449507,
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 934,
-      "comments": 470
+      "id": 49464637,
+      "title": "CoMaps integration with the wider FLOSS ecosystem – CoMaps",
+      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+      "score": 61,
+      "comments": 5
     }
   ]
 }
