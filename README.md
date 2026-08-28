@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-28 00:31:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-28 12:13:02 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tt-a1i/archify**
-- BTC: **$78,824.0** ↑ (+0.19%)
-- HN top story: **Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache**
+- BTC: **$79,573.0** ↑ (+0.08%)
+- HN top story: **Hilariously Fast Volume Computation with the Divergence Theorem**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-26 18:09:46 UTC | `330ce01a2958` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-28 00:31:49 UTC | `825d2e2281a2` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-26 23:29:33 UTC | `1fc34feae4ec` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-08-28 12:13:00 UTC | `0622d2449bfd` | +12 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-28 12:13:02 UTC | `b6689c177152` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-28 12:13:01 UTC | `10ee77849b59` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +12 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-28` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-08-27 21:00:07 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `43` day(s) |
+| Last Commit (IST) | `2026-08-28 06:01:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
 | 2026-08-26 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-08-27 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-08-28 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-08-28 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,824.0 | +0.19% | 🟢 |
-| Ethereum | $2,498.91 | +1.98% | 🟢 |
-| Solana | $100.86 | +3.94% | 🟢 |
-| Bnb | $706.01 | +1.51% | 🟢 |
+| Bitcoin | $79,573.0 | +0.08% | 🟢 |
+| Ethereum | $2,502.47 | -0.09% | 🔴 |
+| Solana | $105.63 | +1.26% | 🟢 |
+| Bnb | $706.01 | -0.16% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | HTML | 1,002 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 4,044 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 566 stars today | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your … |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,299 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | 812 stars today | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and … |
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 1,021 stars today | Beautiful, Modern & Opinionated Linux |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 837 stars today | Learn it. Build it. Ship it for others. |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 4,561 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 720 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 457 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 1,984 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 189 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 574 stars today | Help AI coding agents write modern Go |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 1,144 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | 309 stars today | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | 469 | 131 |
-| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | 422 | 189 |
-| [507 Mechanical Movements](https://507movements.com/) | 448 | 64 |
-| [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) | 40 | 10 |
-| [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) | 132 | 33 |
+| [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) | 101 | 21 |
+| [AI Agent Has Root](https://infernalcode.com/posts/your-ai-agent-has-root/) | 5 | 0 |
+| [Show HN: SubSmith – Turn your own videos into language-learning material](https://subsmith.app) | 11 | 14 |
+| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | 805 | 237 |
+| [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md) | 4 | 1 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

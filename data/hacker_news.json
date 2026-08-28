@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-28 00:31:49 UTC",
-    "fetched_at_ist": "2026-08-28 06:01:49 IST",
+    "fetched_at_utc": "2026-08-28 12:13:02 UTC",
+    "fetched_at_ist": "2026-08-28 17:43:02 IST",
     "item_count": 5,
-    "content_hash": "825d2e2281a2d111ce23ea284312a98161a22d1103341986ae12dd826f045ef1",
-    "previous_hash": "8a2883f8491a8bf4783e4a5a44e8f85a716da0b36cdcd5edf2d09aa4ab4cd69d",
+    "content_hash": "b6689c177152b6d62f0176285828081b44fce082a5f40a9a37fc43eb6f710190",
+    "previous_hash": "825d2e2281a2d111ce23ea284312a98161a22d1103341986ae12dd826f045ef1",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49476143,
+      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "score": 101,
+      "comments": 21
+    },
+    {
+      "id": 49477311,
+      "title": "AI Agent Has Root",
+      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "id": 49476894,
+      "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
+      "url": "https://subsmith.app",
+      "score": 11,
+      "comments": 14
+    },
+    {
       "id": 49468083,
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
       "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 469,
-      "comments": 131
+      "score": 805,
+      "comments": 237
     },
     {
-      "id": 49466917,
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "score": 422,
-      "comments": 189
-    },
-    {
-      "id": 49465169,
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "score": 448,
-      "comments": 64
-    },
-    {
-      "id": 49471965,
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "score": 40,
-      "comments": 10
-    },
-    {
-      "id": 49468818,
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 132,
-      "comments": 33
+      "id": 49477212,
+      "title": "OpenAI: Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "score": 4,
+      "comments": 1
     }
   ]
 }
