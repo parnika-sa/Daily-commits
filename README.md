@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-28 12:13:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-28 22:19:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tt-a1i/archify**
-- BTC: **$79,573.0** ↑ (+0.08%)
+- BTC: **$77,418.0** ↓ (-3.71%)
 - HN top story: **Hilariously Fast Volume Computation with the Divergence Theorem**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 12:13:00 UTC | `0622d2449bfd` | +12 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-28 12:13:02 UTC | `b6689c177152` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-28 12:13:01 UTC | `10ee77849b59` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-28 22:19:34 UTC | `8bb0778f7d0d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-08-28` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
-| Streak | `43` day(s) |
-| Last Commit (IST) | `2026-08-28 06:01:50 IST` |
+| Date (IST) | `2026-08-29` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-08-28 17:43:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-08-22 | 50 | `██████████░░░░░░░░░░` 50% |
 | 2026-08-23 | 51 | `██████████░░░░░░░░░░` 51% |
 | 2026-08-24 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-25 | 37 | `███████░░░░░░░░░░░░░` 37% |
 | 2026-08-26 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-08-27 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-08-28 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-08-29 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,573.0 | +0.08% | 🟢 |
-| Ethereum | $2,502.47 | -0.09% | 🔴 |
-| Solana | $105.63 | +1.26% | 🟢 |
-| Bnb | $706.01 | -0.16% | 🔴 |
+| Bitcoin | $77,418.0 | -3.71% | 🔴 |
+| Ethereum | $2,427.79 | -3.45% | 🔴 |
+| Solana | $103.68 | -5.69% | 🔴 |
+| Bnb | $688.24 | -3.39% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
