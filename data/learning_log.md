@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-08-29 (last updated: 03:49 IST)
+
+## 📅 2026-08-29 (last updated: 16:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 17:43:00 IST | 0622d2449bfd | +12 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-28 17:43:02 IST | b6689c177152 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-29 16:06:03 IST | c8d8a8391718 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-29 03:49:34 IST | 8bb0778f7d0d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 189 stars today
 
 ### 📰 Hacker News Stories
-- [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) — Score: 101
-- [AI Agent Has Root](https://infernalcode.com/posts/your-ai-agent-has-root/) — Score: 5
-- [Show HN: SubSmith – Turn your own videos into language-learning material](https://subsmith.app) — Score: 11
-- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) — Score: 805
-- [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md) — Score: 4
+- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) — Score: 97
+- [Europe's last regular standard-gauge steam passenger service](https://parowozowniawolsztyn.pl/?page_id=2141) — Score: 47
+- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) — Score: 812
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) — Score: 274
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) — Score: 106
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,418.0 🔴 -3.71%

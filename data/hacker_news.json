@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-28 12:13:02 UTC",
-    "fetched_at_ist": "2026-08-28 17:43:02 IST",
+    "fetched_at_utc": "2026-08-29 10:36:03 UTC",
+    "fetched_at_ist": "2026-08-29 16:06:03 IST",
     "item_count": 5,
-    "content_hash": "b6689c177152b6d62f0176285828081b44fce082a5f40a9a37fc43eb6f710190",
-    "previous_hash": "825d2e2281a2d111ce23ea284312a98161a22d1103341986ae12dd826f045ef1",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c8d8a83917189cc49236d0126f4fa6dc4207942ff143de2b2e6d8b204068d886",
+    "previous_hash": "b6689c177152b6d62f0176285828081b44fce082a5f40a9a37fc43eb6f710190",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49476143,
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "score": 101,
-      "comments": 21
+      "id": 49487341,
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 97,
+      "comments": 26
     },
     {
-      "id": 49477311,
-      "title": "AI Agent Has Root",
-      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
-      "score": 5,
-      "comments": 0
+      "id": 49456819,
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "score": 47,
+      "comments": 15
     },
     {
-      "id": 49476894,
-      "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
-      "url": "https://subsmith.app",
-      "score": 11,
-      "comments": 14
+      "id": 49479837,
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 812,
+      "comments": 412
     },
     {
-      "id": 49468083,
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 805,
-      "comments": 237
+      "id": 49485267,
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 274,
+      "comments": 78
     },
     {
-      "id": 49477212,
-      "title": "OpenAI: Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "score": 4,
-      "comments": 1
+      "id": 49486334,
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 106,
+      "comments": 37
     }
   ]
 }
