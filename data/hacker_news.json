@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-29 18:43:18 UTC",
-    "fetched_at_ist": "2026-08-30 00:13:18 IST",
+    "fetched_at_utc": "2026-08-30 12:32:20 UTC",
+    "fetched_at_ist": "2026-08-30 18:02:20 IST",
     "item_count": 5,
-    "content_hash": "61b9f90430cbac9bbac7f99029bc1c5445a8cd6c244151644fa7571ffa47803a",
-    "previous_hash": "c8d8a83917189cc49236d0126f4fa6dc4207942ff143de2b2e6d8b204068d886",
+    "content_hash": "dbecdbc68e4fd203fd77d674cc0c0645c49e87c4d1ec377586484f0c330dea45",
+    "previous_hash": "61b9f90430cbac9bbac7f99029bc1c5445a8cd6c244151644fa7571ffa47803a",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49426995,
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 104,
-      "comments": 18
+      "id": 49496782,
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 99,
+      "comments": 21
     },
     {
-      "id": 49415386,
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 128,
-      "comments": 64
+      "id": 49496918,
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "score": 73,
+      "comments": 30
     },
     {
-      "id": 49491714,
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 11,
-      "comments": 1
+      "id": 49497063,
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "score": 138,
+      "comments": 88
     },
     {
-      "id": 49428756,
-      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
-      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "score": 33,
-      "comments": 1
-    },
-    {
-      "id": 49490138,
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "score": 47,
+      "id": 49497200,
+      "title": "Everyone Should Build Their Own Network Stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "score": 29,
       "comments": 20
+    },
+    {
+      "id": 49497265,
+      "title": "Spark: Sparklines in your shell",
+      "url": "https://git.zx2c4.com/spark/about/",
+      "score": 33,
+      "comments": 7
     }
   ]
 }

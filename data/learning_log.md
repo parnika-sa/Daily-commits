@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-30 (last updated: 06:53 IST)
+
+## 📅 2026-08-30 (last updated: 18:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 17:43:00 IST | 0622d2449bfd | +12 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-30 00:13:18 IST | 61b9f90430cb | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-30 18:02:20 IST | dbecdbc68e4f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-30 06:53:21 IST | 01cb6f222484 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 189 stars today
 
 ### 📰 Hacker News Stories
-- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) — Score: 104
-- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) — Score: 128
-- [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) — Score: 11
-- [Sleepwalker: Passive Backdoor with Its Own Command Language](https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/) — Score: 33
-- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html) — Score: 47
+- [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389) — Score: 99
+- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/) — Score: 73
+- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) — Score: 138
+- [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/) — Score: 29
+- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/) — Score: 33
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,031.0 🟢 +0.42%
