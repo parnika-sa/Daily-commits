@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-30 12:32:20 UTC",
-    "fetched_at_ist": "2026-08-30 18:02:20 IST",
+    "fetched_at_utc": "2026-08-30 19:38:12 UTC",
+    "fetched_at_ist": "2026-08-31 01:08:12 IST",
     "item_count": 5,
-    "content_hash": "dbecdbc68e4fd203fd77d674cc0c0645c49e87c4d1ec377586484f0c330dea45",
-    "previous_hash": "61b9f90430cbac9bbac7f99029bc1c5445a8cd6c244151644fa7571ffa47803a",
+    "content_hash": "a79f03dcdd1287e139f6e0b369865e53709be8040d85fffea66a85d539c03a9d",
+    "previous_hash": "dbecdbc68e4fd203fd77d674cc0c0645c49e87c4d1ec377586484f0c330dea45",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49496782,
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 99,
-      "comments": 21
+      "id": 49491791,
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 512,
+      "comments": 234
     },
     {
-      "id": 49496918,
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 73,
+      "id": 49499867,
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 158,
+      "comments": 43
+    },
+    {
+      "id": 49499891,
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "score": 64,
       "comments": 30
     },
     {
-      "id": 49497063,
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "score": 138,
-      "comments": 88
+      "id": 49498787,
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "score": 111,
+      "comments": 43
     },
     {
-      "id": 49497200,
-      "title": "Everyone Should Build Their Own Network Stack",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "score": 29,
-      "comments": 20
-    },
-    {
-      "id": 49497265,
-      "title": "Spark: Sparklines in your shell",
-      "url": "https://git.zx2c4.com/spark/about/",
-      "score": 33,
+      "id": 49501147,
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "url": "https://openrun.dev/blog/litestream/",
+      "score": 17,
       "comments": 7
     }
   ]
