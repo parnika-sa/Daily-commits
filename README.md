@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-31 00:35:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-31 06:09:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **tt-a1i/archify**
-- BTC: **$78,031.0** ↑ (+0.42%)
+- Top GitHub repo: **THU-MAIC/OpenMAIC**
+- BTC: **$77,940.0** ↓ (-0.23%)
 - HN top story: **“I just chose words carefully”**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-08-28 12:13:00 UTC | `0622d2449bfd` | +12 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-31 00:35:00 UTC | `52cb7f55c9d5` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-30 01:23:21 UTC | `01cb6f222484` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-08-31 06:09:36 UTC | `7a30895e4cb2` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-31 06:09:37 UTC | `634f9e1b8d4a` | +3 new stories, top changed: no |
+| Crypto | 4 | 2026-08-31 06:09:36 UTC | `7789c2a892a6` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-31` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-08-31 03:34:52 IST` |
+| Last Commit (IST) | `2026-08-31 06:05:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-28 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 | 2026-08-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-08-30 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-08-31 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-08-31 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,031.0 | +0.42% | 🟢 |
-| Ethereum | $2,455.58 | +0.57% | 🟢 |
-| Solana | $105.23 | +1.18% | 🟢 |
-| Bnb | $691.14 | +0.05% | 🟢 |
+| Bitcoin | $77,940.0 | -0.23% | 🔴 |
+| Ethereum | $2,433.83 | -0.88% | 🔴 |
+| Solana | $102.51 | -2.42% | 🔴 |
+| Bnb | $686.31 | -1.09% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 4,561 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 720 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 457 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 1,984 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 189 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 574 stars today | Help AI coding agents write modern Go |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 1,144 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
-| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | 309 stars today | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 1,370 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,114 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | 361 stars today | No description |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 3,722 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 369 stars today | Fully automatic censorship removal for language models |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 221 stars today | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join … |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 230 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [majd/ipatool](https://github.com/majd/ipatool) | Go | 58 stars today | Command-line tool that allows searching and downloading app packages (known as i… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | 160 | 39 |
-| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | 893 | 409 |
-| [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | 241 | 74 |
-| [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) | 64 | 11 |
-| [Thoughts on Pope Leo XIV's Magnifica Humanitas](https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/) | 44 | 33 |
+| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | 534 | 134 |
+| [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) | 50 | 23 |
+| [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally) | 28 | 15 |
+| [My hobby of building miniatures and taking pretty pictures](https://sandyuraz.com/blogs/tiny-cafe/) | 39 | 4 |
+| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | 1036 | 516 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

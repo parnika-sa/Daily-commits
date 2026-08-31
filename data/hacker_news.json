@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-31 00:35:00 UTC",
-    "fetched_at_ist": "2026-08-31 06:05:00 IST",
+    "fetched_at_utc": "2026-08-31 06:09:37 UTC",
+    "fetched_at_ist": "2026-08-31 11:39:37 IST",
     "item_count": 5,
-    "content_hash": "52cb7f55c9d5c87f203257dfa46e9e8d200dd8f14c072ba25f3637a8b99f44e7",
-    "previous_hash": "a79f03dcdd1287e139f6e0b369865e53709be8040d85fffea66a85d539c03a9d",
+    "content_hash": "634f9e1b8d4a1ce032afe96e380f62fd1d41e570ca4f55f10735ac39e27172e3",
+    "previous_hash": "52cb7f55c9d5c87f203257dfa46e9e8d200dd8f14c072ba25f3637a8b99f44e7",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49503601,
       "title": "“I just chose words carefully”",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 160,
-      "comments": 39
+      "score": 534,
+      "comments": 134
+    },
+    {
+      "id": 49505219,
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 50,
+      "comments": 23
+    },
+    {
+      "id": 49505310,
+      "title": "OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "score": 28,
+      "comments": 15
+    },
+    {
+      "id": 49481141,
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "score": 39,
+      "comments": 4
     },
     {
       "id": 49491791,
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 893,
-      "comments": 409
-    },
-    {
-      "id": 49499867,
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 241,
-      "comments": 74
-    },
-    {
-      "id": 49502214,
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 64,
-      "comments": 11
-    },
-    {
-      "id": 49503587,
-      "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-      "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-      "score": 44,
-      "comments": 33
+      "score": 1036,
+      "comments": 516
     }
   ]
 }
