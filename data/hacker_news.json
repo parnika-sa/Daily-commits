@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-31 06:09:37 UTC",
-    "fetched_at_ist": "2026-08-31 11:39:37 IST",
+    "fetched_at_utc": "2026-08-31 13:41:35 UTC",
+    "fetched_at_ist": "2026-08-31 19:11:35 IST",
     "item_count": 5,
-    "content_hash": "634f9e1b8d4a1ce032afe96e380f62fd1d41e570ca4f55f10735ac39e27172e3",
-    "previous_hash": "52cb7f55c9d5c87f203257dfa46e9e8d200dd8f14c072ba25f3637a8b99f44e7",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "9b26b47ab3974e14db27688c1a50ee081b700fdefdf1c527dc4362253e1945ea",
+    "previous_hash": "634f9e1b8d4a1ce032afe96e380f62fd1d41e570ca4f55f10735ac39e27172e3",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49507822,
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "score": 233,
+      "comments": 62
+    },
     {
       "id": 49503601,
       "title": "“I just chose words carefully”",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 534,
-      "comments": 134
+      "score": 977,
+      "comments": 257
     },
     {
-      "id": 49505219,
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 50,
-      "comments": 23
+      "id": 49506819,
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "score": 178,
+      "comments": 56
     },
     {
-      "id": 49505310,
-      "title": "OpenClaw 2.0, Accidentally",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "score": 28,
-      "comments": 15
+      "id": 49508317,
+      "title": "Agent Memory as a File Format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "score": 40,
+      "comments": 35
     },
     {
-      "id": 49481141,
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 39,
-      "comments": 4
-    },
-    {
-      "id": 49491791,
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1036,
-      "comments": 516
+      "id": 49508059,
+      "title": "Malleable software = solid bases and custom code",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "score": 25,
+      "comments": 6
     }
   ]
 }
