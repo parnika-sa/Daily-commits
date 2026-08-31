@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-31 13:41:35 UTC",
-    "fetched_at_ist": "2026-08-31 19:11:35 IST",
+    "fetched_at_utc": "2026-08-31 19:40:42 UTC",
+    "fetched_at_ist": "2026-09-01 01:10:42 IST",
     "item_count": 5,
-    "content_hash": "9b26b47ab3974e14db27688c1a50ee081b700fdefdf1c527dc4362253e1945ea",
-    "previous_hash": "634f9e1b8d4a1ce032afe96e380f62fd1d41e570ca4f55f10735ac39e27172e3",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "54d7d4ab52609aa847cd8fb7fc138fa339a993ec7d259af2b1e197c67b132c66",
+    "previous_hash": "9b26b47ab3974e14db27688c1a50ee081b700fdefdf1c527dc4362253e1945ea",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49507822,
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 233,
-      "comments": 62
+      "id": 49511856,
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 186,
+      "comments": 59
     },
     {
-      "id": 49503601,
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 977,
-      "comments": 257
+      "id": 49510514,
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 330,
+      "comments": 141
     },
     {
-      "id": 49506819,
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 178,
-      "comments": 56
+      "id": 49512975,
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 58,
+      "comments": 10
     },
     {
-      "id": 49508317,
-      "title": "Agent Memory as a File Format",
-      "url": "https://calpaterson.com/memoryfields.html",
-      "score": 40,
-      "comments": 35
+      "id": 49489376,
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 37,
+      "comments": 11
     },
     {
-      "id": 49508059,
-      "title": "Malleable software = solid bases and custom code",
-      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-      "score": 25,
-      "comments": 6
+      "id": 49510000,
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 132,
+      "comments": 45
     }
   ]
 }
