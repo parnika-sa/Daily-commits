@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-01 12:32:30 UTC",
-    "fetched_at_ist": "2026-09-01 18:02:30 IST",
+    "fetched_at_utc": "2026-09-01 19:41:37 UTC",
+    "fetched_at_ist": "2026-09-02 01:11:37 IST",
     "item_count": 5,
-    "content_hash": "240252b7a25127702f77742be4f75bccf247b2d7c48ce978b760c1fbb85a6ee1",
-    "previous_hash": "54d7d4ab52609aa847cd8fb7fc138fa339a993ec7d259af2b1e197c67b132c66",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e32e78cf47b82794d5d3d28a2dc93969611c69a9e0a1dd1b21ba1cbbeb8ff151",
+    "previous_hash": "240252b7a25127702f77742be4f75bccf247b2d7c48ce978b760c1fbb85a6ee1",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49525378,
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 467,
+      "comments": 428
+    },
+    {
+      "id": 49523754,
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "score": 343,
+      "comments": 129
+    },
+    {
+      "id": 49525153,
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "score": 62,
+      "comments": 16
+    },
+    {
       "id": 49520022,
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "score": 245,
-      "comments": 40
+      "score": 729,
+      "comments": 206
     },
     {
-      "id": 49519939,
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "score": 111,
-      "comments": 32
-    },
-    {
-      "id": 49517448,
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "score": 504,
-      "comments": 296
-    },
-    {
-      "id": 49493468,
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "score": 108,
-      "comments": 38
-    },
-    {
-      "id": 49520896,
-      "title": "Tim Cook Sold Out Steve Jobs",
-      "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
-      "score": 17,
-      "comments": 0
+      "id": 49524447,
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "score": 74,
+      "comments": 52
     }
   ]
 }
