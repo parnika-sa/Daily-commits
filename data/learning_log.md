@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-02 (last updated: 01:11 IST)
+
+## 📅 2026-09-02 (last updated: 05:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-08-31 11:39:36 IST | 7a30895e4cb2 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-02 01:11:37 IST | e32e78cf47b8 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-01 04:53:21 IST | 5957b436c90f | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-09-02 05:39:23 IST | 0c9c029387dc | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-02 05:39:24 IST | 6668accb4310 | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-09-02 05:39:23 IST | 7afa97876aab | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** (TypeScript) — runs anywhere. uses anything  
+  ⭐ 80 stars today
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** (Python) — Academic Research Skills for Claude Code: research → write → review → revise → f  
+  ⭐ 193 stars today
 - **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** (TypeScript) — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning   
-  ⭐ 1,370 stars today
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** (Python) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,  
-  ⭐ 1,114 stars today
-- **[Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)** (Swift) — No description  
-  ⭐ 361 stars today
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** (JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo  
-  ⭐ 3,722 stars today
-- **[p-e-w/heretic](https://github.com/p-e-w/heretic)** (Python) — Fully automatic censorship removal for language models  
-  ⭐ 369 stars today
+  ⭐ 3,128 stars today
+- **[iv-org/invidious](https://github.com/iv-org/invidious)** (Crystal) — Invidious is an alternative front-end to YouTube  
+  ⭐ 577 stars today
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** (Python) — 🧠 Train a 64M-parameter LLM from scratch in just 2h!  
+  ⭐ 1,005 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) — Score: 467
-- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) — Score: 343
-- [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) — Score: 62
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) — Score: 729
-- [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) — Score: 74
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) — Score: 864
+- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) — Score: 264
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) — Score: 347
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) — Score: 35
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) — Score: 29
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,529.0 🟢 +0.22%
-- Ethereum: $2,464.84 🟢 +0.23%
-- Solana: $103.11 🔴 -0.21%
-- Bnb: $690.65 🔴 -0.25%
+- Bitcoin: $77,388.0 🔴 -1.56%
+- Ethereum: $2,417.6 🔴 -2.01%
+- Solana: $99.98 🔴 -2.98%
+- Bnb: $683.4 🔴 -1.16%
 
 ---
 ## 📅 2026-09-01 (last updated: 18:02 IST)

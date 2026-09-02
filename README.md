@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-01 19:41:37 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-02 00:09:24 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **THU-MAIC/OpenMAIC**
-- BTC: **$78,529.0** ↑ (+0.22%)
+- Top GitHub repo: **Gitlawb/openclaude**
+- BTC: **$77,388.0** ↓ (-1.56%)
 - HN top story: **Claude Fable 5.1 and Claude Mythos 5.1**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-08-31 06:09:36 UTC | `7a30895e4cb2` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-01 19:41:37 UTC | `e32e78cf47b8` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-31 23:23:21 UTC | `5957b436c90f` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-09-02 00:09:23 UTC | `0c9c029387dc` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-02 00:09:24 UTC | `6668accb4310` | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-09-02 00:09:23 UTC | `7afa97876aab` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-02` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `47` day(s) |
-| Last Commit (IST) | `2026-09-02 01:11:37 IST` |
+| Last Commit (IST) | `2026-09-02 03:31:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-30 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-08-31 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-09-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-02 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-02 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,529.0 | +0.22% | 🟢 |
-| Ethereum | $2,464.84 | +0.23% | 🟢 |
-| Solana | $103.11 | -0.21% | 🔴 |
-| Bnb | $690.65 | -0.25% | 🔴 |
+| Bitcoin | $77,388.0 | -1.56% | 🔴 |
+| Ethereum | $2,417.6 | -2.01% | 🔴 |
+| Solana | $99.98 | -2.98% | 🔴 |
+| Bnb | $683.4 | -1.16% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 1,370 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,114 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | 361 stars today | No description |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 3,722 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 369 stars today | Fully automatic censorship removal for language models |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | 221 stars today | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join … |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 230 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [majd/ipatool](https://github.com/majd/ipatool) | Go | 58 stars today | Command-line tool that allows searching and downloading app packages (known as i… |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | 80 stars today | runs anywhere. uses anything |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 193 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 3,128 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 577 stars today | Invidious is an alternative front-end to YouTube |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 1,005 stars today | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [3b1b/manim](https://github.com/3b1b/manim) | Python | 86 stars today | Animation engine for explanatory math videos |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 541 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 472 stars today | Edit videos with coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | 467 | 428 |
-| [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) | 343 | 129 |
-| [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | 62 | 16 |
-| [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | 729 | 206 |
-| [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) | 74 | 52 |
+| [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | 864 | 814 |
+| [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) | 264 | 145 |
+| [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | 347 | 411 |
+| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | 35 | 11 |
+| [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) | 29 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
