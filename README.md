@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-02 04:27:16 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-03 00:13:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Gitlawb/openclaude**
-- BTC: **$77,386.0** ↓ (-1.85%)
-- HN top story: **Claude Fable 5.1 and Claude Mythos 5.1**
+- Top GitHub repo: **fmtlib/fmt**
+- BTC: **$77,181.0** ↓ (-0.22%)
+- HN top story: **Muse Spark 1.3**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-09-02 00:09:23 UTC | `0c9c029387dc` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-02 00:09:24 UTC | `6668accb4310` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-09-02 04:27:16 UTC | `1e2f1459909c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-09-03 00:12:59 UTC | `a41a2b1f6b30` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-03 00:13:00 UTC | `39c5307f5bd0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-03 00:12:59 UTC | `ab1166a3011c` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-03` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `47` day(s) |
-| Last Commit (IST) | `2026-09-03 01:16:03 IST` |
+| Last Commit (IST) | `2026-09-03 03:40:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-31 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-09-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-03 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-03 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,386.0 | -1.85% | 🔴 |
-| Ethereum | $2,410.56 | -2.65% | 🔴 |
-| Solana | $99.91 | -3.94% | 🔴 |
-| Bnb | $686.37 | -1.04% | 🔴 |
+| Bitcoin | $77,181.0 | -0.22% | 🔴 |
+| Ethereum | $2,388.16 | -1.24% | 🔴 |
+| Solana | $100.08 | +0.06% | 🟢 |
+| Bnb | $688.01 | +0.30% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | 80 stars today | runs anywhere. uses anything |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 193 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 3,128 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
-| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 577 stars today | Invidious is an alternative front-end to YouTube |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 1,005 stars today | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| [3b1b/manim](https://github.com/3b1b/manim) | Python | 86 stars today | Animation engine for explanatory math videos |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 541 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 472 stars today | Edit videos with coding agents |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 14 stars today | A modern formatting library |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 343 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,354 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 832 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | 63 stars today | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 148 stars today | Chrome DevTools for coding agents |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 533 stars today | The agent that grows with you |
+| [superlinked/sie](https://github.com/superlinked/sie) | Python | 60 stars today | Open-source inference server and production cluster for all the models your agen… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | 864 | 814 |
-| [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) | 264 | 145 |
-| [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | 347 | 411 |
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | 35 | 11 |
-| [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) | 29 | 4 |
+| [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | 341 | 238 |
+| [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident) | 52 | 28 |
+| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | 795 | 473 |
+| [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | 234 | 142 |
+| [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o) | 62 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
