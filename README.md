@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-03 13:33:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-04 00:02:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **fmtlib/fmt**
-- BTC: **$77,181.0** ↓ (-0.22%)
-- HN top story: **Audacity 4.0**
+- BTC: **$81,265.0** ↑ (+5.13%)
+- HN top story: **GPT-6 Astra**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-09-03 00:12:59 UTC | `a41a2b1f6b30` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-03 13:33:39 UTC | `1dc5ad07ce9b` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-03 00:12:59 UTC | `ab1166a3011c` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 19 | 2026-09-04 00:02:47 UTC | `8a9276aafc32` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-09-04 00:02:48 UTC | `85f423df5909` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-04 00:02:47 UTC | `2d3ab51665f9` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
+- GitHub: +8 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-04` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `48` day(s) |
-| Last Commit (IST) | `2026-09-04 01:20:03 IST` |
+| Last Commit (IST) | `2026-09-04 03:32:07 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-03 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-04 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-04 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,181.0 | -0.22% | 🔴 |
-| Ethereum | $2,388.16 | -1.24% | 🔴 |
-| Solana | $100.08 | +0.06% | 🟢 |
-| Bnb | $688.01 | +0.30% | 🟢 |
+| Bitcoin | $81,265.0 | +5.13% | 🟢 |
+| Ethereum | $2,507.65 | +4.90% | 🟢 |
+| Solana | $103.96 | +3.58% | 🟢 |
+| Bnb | $725.08 | +5.32% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 14 stars today | A modern formatting library |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 343 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,354 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 832 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | 63 stars today | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 148 stars today | Chrome DevTools for coding agents |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 533 stars today | The agent that grows with you |
-| [superlinked/sie](https://github.com/superlinked/sie) | Python | 60 stars today | Open-source inference server and production cluster for all the models your agen… |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 963 stars today | A modern formatting library |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,601 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 774 stars today | The agent that grows with you |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 2,128 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 281 stars today | Public repository for Agent Skills |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 751 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 543 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
+| [blader/humanizer](https://github.com/blader/humanizer) | Python | 1,208 stars today | Agent skill that removes signs of AI-generated writing from text |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) | 333 | 75 |
-| [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/) | 263 | 75 |
-| [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/) | 208 | 63 |
-| [Invisible Companies](https://colossus.com/article/invisible-companies/) | 45 | 11 |
-| [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026) | 96 | 5 |
+| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | 1183 | 919 |
+| [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | 412 | 125 |
+| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | 1259 | 360 |
+| [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) | 28 | 14 |
+| [Protecting Engineers' Skills in the AI Era](https://spectrum.ieee.org/ai-engineer-skills) | 22 | 12 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

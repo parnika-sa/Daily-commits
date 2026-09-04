@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-03 13:33:39 UTC",
-    "fetched_at_ist": "2026-09-03 19:03:39 IST",
+    "fetched_at_utc": "2026-09-04 00:02:48 UTC",
+    "fetched_at_ist": "2026-09-04 05:32:48 IST",
     "item_count": 5,
-    "content_hash": "1dc5ad07ce9bb47e6735192e4190a283e59cfbd992b0f3ad801786ceb04e75e1",
-    "previous_hash": "d565c67f74ed3caff081329771ce179639d5303cdc1771b7ffb2d91338b7a617",
+    "content_hash": "85f423df59095770e7247dbc825d781f5f756eb87dc67d2dfdc3a84108c58f91",
+    "previous_hash": "1dc5ad07ce9bb47e6735192e4190a283e59cfbd992b0f3ad801786ceb04e75e1",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49548395,
-      "title": "Audacity 4.0",
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "score": 333,
-      "comments": 75
+      "id": 49554643,
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 1183,
+      "comments": 919
     },
     {
-      "id": 49546753,
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 263,
-      "comments": 75
+      "id": 49554520,
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 412,
+      "comments": 125
     },
     {
-      "id": 49522137,
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "score": 208,
-      "comments": 63
+      "id": 49550772,
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 1259,
+      "comments": 360
     },
     {
-      "id": 49521264,
-      "title": "Invisible Companies",
-      "url": "https://colossus.com/article/invisible-companies/",
-      "score": 45,
-      "comments": 11
+      "id": 49558086,
+      "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "score": 28,
+      "comments": 14
     },
     {
-      "id": 49492796,
-      "title": "What I Learned from My Mom (1941-2026)",
-      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "score": 96,
-      "comments": 5
+      "id": 49558302,
+      "title": "Protecting Engineers' Skills in the AI Era",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "score": 22,
+      "comments": 12
     }
   ]
 }

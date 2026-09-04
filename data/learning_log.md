@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-04 (last updated: 19:03 IST)
+
+## 📅 2026-09-04 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-09-03 05:42:59 IST | a41a2b1f6b30 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-03 19:03:39 IST | 1dc5ad07ce9b | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-03 05:42:59 IST | ab1166a3011c | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 19 | 2026-09-04 05:32:47 IST | 8a9276aafc32 | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-09-04 05:32:48 IST | 85f423df5909 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-04 05:32:47 IST | 2d3ab51665f9 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +15 new repos, top changed: yes
+- GitHub: +8 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[fmtlib/fmt](https://github.com/fmtlib/fmt)** (C++) — A modern formatting library  
-  ⭐ 14 stars today
-- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 343 stars today
+  ⭐ 963 stars today
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .agents directory.  
+  ⭐ 1,601 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 774 stars today
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (JavaScript) — Makes your AI agent think like the laziest senior dev in the room. The best code  
-  ⭐ 1,354 stars today
-- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** (Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni  
-  ⭐ 832 stars today
-- **[sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)** (Python) — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书  
-  ⭐ 63 stars today
+  ⭐ 2,128 stars today
+- **[anthropics/skills](https://github.com/anthropics/skills)** (Python) — Public repository for Agent Skills  
+  ⭐ 281 stars today
 
 ### 📰 Hacker News Stories
-- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) — Score: 333
-- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/) — Score: 263
-- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/) — Score: 208
-- [Invisible Companies](https://colossus.com/article/invisible-companies/) — Score: 45
-- [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026) — Score: 96
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) — Score: 1183
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) — Score: 412
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/) — Score: 1259
+- [GLP-1s Are Being Linked to Fewer Serious Infections, Including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) — Score: 28
+- [Protecting Engineers' Skills in the AI Era](https://spectrum.ieee.org/ai-engineer-skills) — Score: 22
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,181.0 🔴 -0.22%
-- Ethereum: $2,388.16 🔴 -1.24%
-- Solana: $100.08 🟢 +0.06%
-- Bnb: $688.01 🟢 +0.30%
+- Bitcoin: $81,265.0 🟢 +5.13%
+- Ethereum: $2,507.65 🟢 +4.90%
+- Solana: $103.96 🟢 +3.58%
+- Bnb: $725.08 🟢 +5.32%
 
 ---
 ## 📅 2026-09-03 (last updated: 19:03 IST)
