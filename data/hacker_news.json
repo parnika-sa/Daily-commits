@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-05 21:31:30 UTC",
-    "fetched_at_ist": "2026-09-06 03:01:30 IST",
+    "fetched_at_utc": "2026-09-06 20:37:07 UTC",
+    "fetched_at_ist": "2026-09-07 02:07:07 IST",
     "item_count": 5,
-    "content_hash": "4f4dbcb51973f88d50af0499e4c44e7e3665a881b314a9dd09dceec6197012f8",
-    "previous_hash": "602b315d27c671eca6504f4ce9890135802eefc0716d27fc3e2beb5f095344ea",
+    "content_hash": "cb4952e22ec14bdd83fded39b150b6d308aacbc4cd0afa1eed88539e2caada92",
+    "previous_hash": "4f4dbcb51973f88d50af0499e4c44e7e3665a881b314a9dd09dceec6197012f8",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49578866,
-      "title": "The Real Luxuries In Life",
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "score": 310,
-      "comments": 123
+      "id": 49588988,
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "score": 250,
+      "comments": 86
     },
     {
-      "id": 49580164,
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "score": 53,
-      "comments": 10
+      "id": 49590225,
+      "title": "The car industry A/B tested selling a car with and without CarPlay",
+      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+      "score": 41,
+      "comments": 18
     },
     {
-      "id": 49580369,
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 120,
-      "comments": 30
+      "id": 49585644,
+      "title": "Your intellectual fly is open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 395,
+      "comments": 260
     },
     {
-      "id": 49580329,
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "score": 28,
-      "comments": 8
+      "id": 49587636,
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "score": 85,
+      "comments": 4
     },
     {
-      "id": 49578280,
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 112,
-      "comments": 43
+      "id": 49588080,
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 229,
+      "comments": 160
     }
   ]
 }
