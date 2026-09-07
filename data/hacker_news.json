@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-07 04:33:26 UTC",
-    "fetched_at_ist": "2026-09-07 10:03:26 IST",
+    "fetched_at_utc": "2026-09-07 09:42:46 UTC",
+    "fetched_at_ist": "2026-09-07 15:12:46 IST",
     "item_count": 5,
-    "content_hash": "99fb8d63cccf3f6e28618c4ccd8a589613002126fe41863f32c6064727f14a95",
-    "previous_hash": "8bb5ca8a0347d451d5ffcf4a2aacdc80655e88cadb15b9dee31ee28644a47311",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "6388794cd711eddcfa74e28a35114737fd338f659cc58b98c52be7d68aab3d93",
+    "previous_hash": "99fb8d63cccf3f6e28618c4ccd8a589613002126fe41863f32c6064727f14a95",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49593563,
-      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+      "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 75,
-      "comments": 21
+      "score": 435,
+      "comments": 99
+    },
+    {
+      "id": 49595360,
+      "title": "Programming is Art",
+      "url": "https://orchidfiles.com/programming-is-art/",
+      "score": 44,
+      "comments": 30
     },
     {
       "id": 49591876,
       "title": "Making a Python interpreter in 1024 bytes",
       "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 142,
-      "comments": 56
+      "score": 233,
+      "comments": 83
     },
     {
-      "id": 49564609,
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "score": 40,
-      "comments": 28
-    },
-    {
-      "id": 49590611,
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 184,
-      "comments": 102
-    },
-    {
-      "id": 49550276,
-      "title": "I'm a seeing-eye dog for a computer",
-      "url": "https://claytonwramsey.com/blog/seeing-eye/",
-      "score": 9,
+      "id": 49595865,
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "score": 3,
       "comments": 0
+    },
+    {
+      "id": 49589914,
+      "title": "Ask HN: How do you manage skills files?",
+      "url": "https://news.ycombinator.com/item?id=49589914",
+      "score": 128,
+      "comments": 110
     }
   ]
 }
