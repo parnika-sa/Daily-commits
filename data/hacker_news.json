@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-06 20:37:07 UTC",
-    "fetched_at_ist": "2026-09-07 02:07:07 IST",
+    "fetched_at_utc": "2026-09-07 00:06:39 UTC",
+    "fetched_at_ist": "2026-09-07 05:36:39 IST",
     "item_count": 5,
-    "content_hash": "cb4952e22ec14bdd83fded39b150b6d308aacbc4cd0afa1eed88539e2caada92",
-    "previous_hash": "4f4dbcb51973f88d50af0499e4c44e7e3665a881b314a9dd09dceec6197012f8",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "8bb5ca8a0347d451d5ffcf4a2aacdc80655e88cadb15b9dee31ee28644a47311",
+    "previous_hash": "cb4952e22ec14bdd83fded39b150b6d308aacbc4cd0afa1eed88539e2caada92",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49588988,
-      "title": "Nitter is unarchived and will continue",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 250,
-      "comments": 86
+      "id": 49590512,
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "score": 151,
+      "comments": 67
     },
     {
-      "id": 49590225,
-      "title": "The car industry A/B tested selling a car with and without CarPlay",
-      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-      "score": 41,
-      "comments": 18
+      "id": 49592094,
+      "title": "Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
+      "url": "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html",
+      "score": 19,
+      "comments": 11
+    },
+    {
+      "id": 49591876,
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 33,
+      "comments": 8
+    },
+    {
+      "id": 49590738,
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "score": 58,
+      "comments": 21
     },
     {
       "id": 49585644,
       "title": "Your intellectual fly is open (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 395,
-      "comments": 260
-    },
-    {
-      "id": 49587636,
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "score": 85,
-      "comments": 4
-    },
-    {
-      "id": 49588080,
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 229,
-      "comments": 160
+      "score": 486,
+      "comments": 316
     }
   ]
 }
