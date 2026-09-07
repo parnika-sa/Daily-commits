@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-07 00:06:39 UTC",
-    "fetched_at_ist": "2026-09-07 05:36:39 IST",
+    "fetched_at_utc": "2026-09-07 04:33:26 UTC",
+    "fetched_at_ist": "2026-09-07 10:03:26 IST",
     "item_count": 5,
-    "content_hash": "8bb5ca8a0347d451d5ffcf4a2aacdc80655e88cadb15b9dee31ee28644a47311",
-    "previous_hash": "cb4952e22ec14bdd83fded39b150b6d308aacbc4cd0afa1eed88539e2caada92",
+    "content_hash": "99fb8d63cccf3f6e28618c4ccd8a589613002126fe41863f32c6064727f14a95",
+    "previous_hash": "8bb5ca8a0347d451d5ffcf4a2aacdc80655e88cadb15b9dee31ee28644a47311",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49590512,
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 151,
-      "comments": 67
-    },
-    {
-      "id": 49592094,
-      "title": "Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
-      "url": "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html",
-      "score": 19,
-      "comments": 11
+      "id": 49593563,
+      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "score": 75,
+      "comments": 21
     },
     {
       "id": 49591876,
       "title": "Making a Python interpreter in 1024 bytes",
       "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 33,
-      "comments": 8
+      "score": 142,
+      "comments": 56
     },
     {
-      "id": 49590738,
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "score": 58,
-      "comments": 21
+      "id": 49564609,
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "score": 40,
+      "comments": 28
     },
     {
-      "id": 49585644,
-      "title": "Your intellectual fly is open (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 486,
-      "comments": 316
+      "id": 49590611,
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 184,
+      "comments": 102
+    },
+    {
+      "id": 49550276,
+      "title": "I'm a seeing-eye dog for a computer",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "score": 9,
+      "comments": 0
     }
   ]
 }
