@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-08 13:43:50 UTC",
-    "fetched_at_ist": "2026-09-08 19:13:50 IST",
+    "fetched_at_utc": "2026-09-08 17:31:05 UTC",
+    "fetched_at_ist": "2026-09-08 23:01:05 IST",
     "item_count": 5,
-    "content_hash": "6b3a072b4498eb402d5a6971c93016ea4a9f4301deafc5c70da63852ee56762e",
-    "previous_hash": "6388794cd711eddcfa74e28a35114737fd338f659cc58b98c52be7d68aab3d93",
+    "content_hash": "571196e60992796c8212ce32910f032596a0cf5f607c4f8605e80f77e3b2bf9c",
+    "previous_hash": "6b3a072b4498eb402d5a6971c93016ea4a9f4301deafc5c70da63852ee56762e",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49607443,
-      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-      "score": 262,
-      "comments": 213
+      "id": 49613262,
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 83,
+      "comments": 25
     },
     {
-      "id": 49607991,
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "url": "https://vale.rocks/posts/html-relics",
-      "score": 114,
-      "comments": 37
+      "id": 49611251,
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 215,
+      "comments": 44
     },
     {
-      "id": 49608023,
-      "title": "Why getting your hands dirty is good for you",
-      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "score": 108,
-      "comments": 75
+      "id": 49610181,
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 225,
+      "comments": 93
     },
     {
-      "id": 49604637,
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 407,
-      "comments": 82
+      "id": 49611128,
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 82,
+      "comments": 43
     },
     {
-      "id": 49604870,
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "score": 305,
-      "comments": 110
+      "id": 49612818,
+      "title": "Connecting the Machines",
+      "url": "https://herdr.dev/blog/connecting-the-machines/",
+      "score": 17,
+      "comments": 3
     }
   ]
 }
