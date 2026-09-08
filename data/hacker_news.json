@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-07 09:42:46 UTC",
-    "fetched_at_ist": "2026-09-07 15:12:46 IST",
+    "fetched_at_utc": "2026-09-08 13:43:50 UTC",
+    "fetched_at_ist": "2026-09-08 19:13:50 IST",
     "item_count": 5,
-    "content_hash": "6388794cd711eddcfa74e28a35114737fd338f659cc58b98c52be7d68aab3d93",
-    "previous_hash": "99fb8d63cccf3f6e28618c4ccd8a589613002126fe41863f32c6064727f14a95",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "6b3a072b4498eb402d5a6971c93016ea4a9f4301deafc5c70da63852ee56762e",
+    "previous_hash": "6388794cd711eddcfa74e28a35114737fd338f659cc58b98c52be7d68aab3d93",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49593563,
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 435,
-      "comments": 99
+      "id": 49607443,
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "score": 262,
+      "comments": 213
     },
     {
-      "id": 49595360,
-      "title": "Programming is Art",
-      "url": "https://orchidfiles.com/programming-is-art/",
-      "score": 44,
-      "comments": 30
+      "id": 49607991,
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "score": 114,
+      "comments": 37
     },
     {
-      "id": 49591876,
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 233,
-      "comments": 83
+      "id": 49608023,
+      "title": "Why getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "score": 108,
+      "comments": 75
     },
     {
-      "id": 49595865,
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "score": 3,
-      "comments": 0
+      "id": 49604637,
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 407,
+      "comments": 82
     },
     {
-      "id": 49589914,
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "score": 128,
+      "id": 49604870,
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "score": 305,
       "comments": 110
     }
   ]
