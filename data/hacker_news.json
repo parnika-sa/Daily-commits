@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 14:32:29 UTC",
-    "fetched_at_ist": "2026-09-09 20:02:29 IST",
+    "fetched_at_utc": "2026-09-09 20:32:52 UTC",
+    "fetched_at_ist": "2026-09-10 02:02:52 IST",
     "item_count": 5,
-    "content_hash": "c53ff3cf3ea8d08e42e8eebb426312cdf21bb42a3a3d1aa7b7d879f8388d6271",
-    "previous_hash": "13d3827f3f929419a13bc398c1b0f4955a8453a07b5086659c1cfeea9c7cc2f3",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "b09cd28b048a3cbf3ce3b7c54af2b033ece9684785ca5fe887f7367336adc5c9",
+    "previous_hash": "c53ff3cf3ea8d08e42e8eebb426312cdf21bb42a3a3d1aa7b7d879f8388d6271",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49630931,
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 471,
+      "comments": 1067
+    },
+    {
+      "id": 49630253,
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 218,
+      "comments": 180
+    },
+    {
       "id": 49626190,
-      "title": "Tailwind Labs is joining Shopify",
+      "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 206,
-      "comments": 75
+      "score": 717,
+      "comments": 298
     },
     {
-      "id": 49624394,
-      "title": "Flock Wants a Closely Surveilled World with No Exit",
-      "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
-      "score": 447,
-      "comments": 352
+      "id": 49614280,
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 189,
+      "comments": 101
     },
     {
-      "id": 49624823,
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "score": 157,
-      "comments": 39
-    },
-    {
-      "id": 49624856,
-      "title": "I advertise malicious software on Google Ads",
-      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "score": 177,
-      "comments": 81
-    },
-    {
-      "id": 49626373,
-      "title": "What will our economic future look like?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "score": 23,
-      "comments": 11
+      "id": 49630566,
+      "title": "Apple Watch Series 12",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "score": 135,
+      "comments": 132
     }
   ]
 }
