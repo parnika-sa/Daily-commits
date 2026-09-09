@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 20:32:52 UTC",
-    "fetched_at_ist": "2026-09-10 02:02:52 IST",
+    "fetched_at_utc": "2026-09-09 22:44:34 UTC",
+    "fetched_at_ist": "2026-09-10 04:14:34 IST",
     "item_count": 5,
-    "content_hash": "b09cd28b048a3cbf3ce3b7c54af2b033ece9684785ca5fe887f7367336adc5c9",
-    "previous_hash": "c53ff3cf3ea8d08e42e8eebb426312cdf21bb42a3a3d1aa7b7d879f8388d6271",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "001bad096a2114f5030105eb6e2d263e113f1d271de9e121c7f56d62a43e776f",
+    "previous_hash": "b09cd28b048a3cbf3ce3b7c54af2b033ece9684785ca5fe887f7367336adc5c9",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49630931,
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "score": 471,
-      "comments": 1067
-    },
-    {
-      "id": 49630253,
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 218,
-      "comments": 180
+      "score": 726,
+      "comments": 1463
     },
     {
       "id": 49626190,
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 717,
-      "comments": 298
+      "score": 816,
+      "comments": 326
     },
     {
       "id": 49614280,
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 189,
-      "comments": 101
+      "score": 284,
+      "comments": 176
     },
     {
-      "id": 49630566,
-      "title": "Apple Watch Series 12",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "score": 135,
-      "comments": 132
+      "id": 49630253,
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 327,
+      "comments": 261
+    },
+    {
+      "id": 49630151,
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "score": 225,
+      "comments": 222
     }
   ]
 }
