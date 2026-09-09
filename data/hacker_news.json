@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 05:34:59 UTC",
-    "fetched_at_ist": "2026-09-09 11:04:59 IST",
+    "fetched_at_utc": "2026-09-09 14:32:29 UTC",
+    "fetched_at_ist": "2026-09-09 20:02:29 IST",
     "item_count": 5,
-    "content_hash": "13d3827f3f929419a13bc398c1b0f4955a8453a07b5086659c1cfeea9c7cc2f3",
-    "previous_hash": "571196e60992796c8212ce32910f032596a0cf5f607c4f8605e80f77e3b2bf9c",
+    "content_hash": "c53ff3cf3ea8d08e42e8eebb426312cdf21bb42a3a3d1aa7b7d879f8388d6271",
+    "previous_hash": "13d3827f3f929419a13bc398c1b0f4955a8453a07b5086659c1cfeea9c7cc2f3",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49615537,
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "score": 416,
-      "comments": 440
+      "id": 49626190,
+      "title": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 206,
+      "comments": 75
     },
     {
-      "id": 49546964,
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 77,
-      "comments": 12
+      "id": 49624394,
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "score": 447,
+      "comments": 352
     },
     {
-      "id": 49605915,
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1477,
-      "comments": 629
+      "id": 49624823,
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 157,
+      "comments": 39
     },
     {
-      "id": 49580761,
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "score": 14,
-      "comments": 1
+      "id": 49624856,
+      "title": "I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "score": 177,
+      "comments": 81
     },
     {
-      "id": 49617255,
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 230,
-      "comments": 44
+      "id": 49626373,
+      "title": "What will our economic future look like?",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "score": 23,
+      "comments": 11
     }
   ]
 }
