@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 22:44:34 UTC",
-    "fetched_at_ist": "2026-09-10 04:14:34 IST",
+    "fetched_at_utc": "2026-09-10 00:37:07 UTC",
+    "fetched_at_ist": "2026-09-10 06:07:07 IST",
     "item_count": 5,
-    "content_hash": "001bad096a2114f5030105eb6e2d263e113f1d271de9e121c7f56d62a43e776f",
-    "previous_hash": "b09cd28b048a3cbf3ce3b7c54af2b033ece9684785ca5fe887f7367336adc5c9",
+    "content_hash": "236fd6537ea4c5126a484a5eefa8c94d36ba8b2535f124cae31ecc03acec4f95",
+    "previous_hash": "001bad096a2114f5030105eb6e2d263e113f1d271de9e121c7f56d62a43e776f",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49630931,
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "score": 726,
-      "comments": 1463
+      "score": 828,
+      "comments": 1625
+    },
+    {
+      "id": 49636345,
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "score": 38,
+      "comments": 8
     },
     {
       "id": 49626190,
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 816,
-      "comments": 326
+      "score": 867,
+      "comments": 346
     },
     {
       "id": 49614280,
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 284,
-      "comments": 176
+      "score": 337,
+      "comments": 216
     },
     {
       "id": 49630253,
       "title": "AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 327,
-      "comments": 261
-    },
-    {
-      "id": 49630151,
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "score": 225,
-      "comments": 222
+      "score": 358,
+      "comments": 297
     }
   ]
 }
