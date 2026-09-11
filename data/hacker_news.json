@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-11 04:36:05 UTC",
-    "fetched_at_ist": "2026-09-11 10:06:05 IST",
+    "fetched_at_utc": "2026-09-11 13:31:57 UTC",
+    "fetched_at_ist": "2026-09-11 19:01:57 IST",
     "item_count": 5,
-    "content_hash": "32848d67f106fd70809ad2ae5d34042ada783adfa3d002ba88e7963921781969",
-    "previous_hash": "8734402385d9dab87d6b701c283a98238eea45cea623c5b5f64955697b1f26c9",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "433e7231734011fa0e6cc15bded441d45bb61d8b4199771a48d371911efa97ef",
+    "previous_hash": "32848d67f106fd70809ad2ae5d34042ada783adfa3d002ba88e7963921781969",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49643982,
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 889,
-      "comments": 604
+      "id": 49656496,
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "score": 159,
+      "comments": 105
     },
     {
-      "id": 49639408,
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 750,
-      "comments": 689
+      "id": 49656471,
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "score": 60,
+      "comments": 28
     },
     {
-      "id": 49607944,
-      "title": "Finite time blowup with smooth forcing term for the incompressible porous medium",
-      "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
-      "score": 17,
-      "comments": 0
+      "id": 49657850,
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "score": 113,
+      "comments": 36
     },
     {
-      "id": 49645393,
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 387,
-      "comments": 281
+      "id": 49655286,
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 126,
+      "comments": 72
     },
     {
-      "id": 49649213,
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 184,
-      "comments": 116
+      "id": 49621546,
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "score": 291,
+      "comments": 71
     }
   ]
 }
