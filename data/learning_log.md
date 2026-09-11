@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-11 (last updated: 05:41 IST)
+
+## 📅 2026-09-11 (last updated: 10:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-11 05:41:05 IST | 9523a99c69dd | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-11 05:41:07 IST | 8734402385d9 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-11 10:06:05 IST | 32848d67f106 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-09-11 05:41:06 IST | 6fb2406bbbe8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 841 stars today
 
 ### 📰 Hacker News Stories
-- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) — Score: 718
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) — Score: 599
-- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) — Score: 56
-- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) — Score: 93
-- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) — Score: 341
+- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) — Score: 889
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) — Score: 750
+- [Finite time blowup with smooth forcing term for the incompressible porous medium](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/) — Score: 17
+- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) — Score: 387
+- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) — Score: 184
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,753.0 🔴 -1.97%

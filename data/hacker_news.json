@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-11 00:11:07 UTC",
-    "fetched_at_ist": "2026-09-11 05:41:07 IST",
+    "fetched_at_utc": "2026-09-11 04:36:05 UTC",
+    "fetched_at_ist": "2026-09-11 10:06:05 IST",
     "item_count": 5,
-    "content_hash": "8734402385d9dab87d6b701c283a98238eea45cea623c5b5f64955697b1f26c9",
-    "previous_hash": "236fd6537ea4c5126a484a5eefa8c94d36ba8b2535f124cae31ecc03acec4f95",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "32848d67f106fd70809ad2ae5d34042ada783adfa3d002ba88e7963921781969",
+    "previous_hash": "8734402385d9dab87d6b701c283a98238eea45cea623c5b5f64955697b1f26c9",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49643982,
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "url": "https://shopify.engineering/back-to-native",
-      "score": 718,
-      "comments": 475
+      "score": 889,
+      "comments": 604
     },
     {
       "id": 49639408,
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 599,
-      "comments": 600
+      "score": 750,
+      "comments": 689
     },
     {
-      "id": 49649124,
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 56,
-      "comments": 31
+      "id": 49607944,
+      "title": "Finite time blowup with smooth forcing term for the incompressible porous medium",
+      "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
+      "score": 17,
+      "comments": 0
+    },
+    {
+      "id": 49645393,
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 387,
+      "comments": 281
     },
     {
       "id": 49649213,
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 93,
-      "comments": 64
-    },
-    {
-      "id": 49645443,
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 341,
-      "comments": 140
+      "score": 184,
+      "comments": 116
     }
   ]
 }
