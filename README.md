@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-10 17:29:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-11 00:11:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **affaan-m/ECC**
-- BTC: **$77,251.0** ↓ (-2.02%)
-- HN top story: **iPhone Duo**
+- Top GitHub repo: **ayghri/i-have-adhd**
+- BTC: **$76,753.0** ↓ (-1.97%)
+- HN top story: **Shopify is moving from React Native back to Swift and Kotlin**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-09-07 00:06:38 UTC | `a6c57d09a393` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-10 00:37:07 UTC | `236fd6537ea4` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-09-10 17:29:04 UTC | `69c307cb2146` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 16 | 2026-09-11 00:11:05 UTC | `9523a99c69dd` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-11 00:11:07 UTC | `8734402385d9` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-11 00:11:06 UTC | `6fb2406bbbe8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-11` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `51` day(s) |
-| Last Commit (IST) | `2026-09-11 01:27:19 IST` |
+| Last Commit (IST) | `2026-09-11 03:43:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-08 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-09 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-10 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-11 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-11 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,251.0 | -2.02% | 🔴 |
-| Ethereum | $2,455.68 | -1.64% | 🔴 |
-| Solana | $99.91 | -3.65% | 🔴 |
-| Bnb | $710.7 | -4.18% | 🔴 |
+| Bitcoin | $76,753.0 | -1.97% | 🔴 |
+| Ethereum | $2,446.14 | -0.88% | 🔴 |
+| Solana | $99.3 | -2.12% | 🔴 |
+| Bnb | $711.82 | -1.51% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,485 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,207 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 620 stars today | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 520 stars today | The agent that grows with you |
-| [openai/skills](https://github.com/openai/skills) | Python | 46 stars today | Skills Catalog for Codex |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 551 stars today | The open source coding agent. |
-| [blader/humanizer](https://github.com/blader/humanizer) | Python | 748 stars today | Agent skill that removes signs of AI-generated writing from text |
-| [llvm/llvm-project](https://github.com/llvm/llvm-project) | LLVM | 23 stars today | The LLVM Project is a collection of modular and reusable compiler and toolchain … |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 3,882 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 1,762 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 732 stars today | An agentic skills framework & software development methodology that works. |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 277 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | TypeScript | 841 stars today | Make Every Team AI Native |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 258 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Unknown | 900 stars today | Notes of the book System Desgin Interview - An Insider's Guide |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1,294 stars today | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [iPhone Duo](https://www.apple.com/iphone-duo/) | 828 | 1625 |
-| [Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/) | 38 | 8 |
-| [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | 867 | 346 |
-| [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | 337 | 216 |
-| [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) | 358 | 297 |
+| [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) | 718 | 475 |
+| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | 599 | 600 |
+| [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) | 56 | 31 |
+| [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | 93 | 64 |
+| [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) | 341 | 140 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

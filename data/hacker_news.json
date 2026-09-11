@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-10 00:37:07 UTC",
-    "fetched_at_ist": "2026-09-10 06:07:07 IST",
+    "fetched_at_utc": "2026-09-11 00:11:07 UTC",
+    "fetched_at_ist": "2026-09-11 05:41:07 IST",
     "item_count": 5,
-    "content_hash": "236fd6537ea4c5126a484a5eefa8c94d36ba8b2535f124cae31ecc03acec4f95",
-    "previous_hash": "001bad096a2114f5030105eb6e2d263e113f1d271de9e121c7f56d62a43e776f",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "8734402385d9dab87d6b701c283a98238eea45cea623c5b5f64955697b1f26c9",
+    "previous_hash": "236fd6537ea4c5126a484a5eefa8c94d36ba8b2535f124cae31ecc03acec4f95",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49630931,
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 828,
-      "comments": 1625
+      "id": 49643982,
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 718,
+      "comments": 475
     },
     {
-      "id": 49636345,
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "score": 38,
-      "comments": 8
+      "id": 49639408,
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 599,
+      "comments": 600
     },
     {
-      "id": 49626190,
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 867,
-      "comments": 346
+      "id": 49649124,
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "score": 56,
+      "comments": 31
     },
     {
-      "id": 49614280,
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 337,
-      "comments": 216
+      "id": 49649213,
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 93,
+      "comments": 64
     },
     {
-      "id": 49630253,
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 358,
-      "comments": 297
+      "id": 49645443,
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 341,
+      "comments": 140
     }
   ]
 }
