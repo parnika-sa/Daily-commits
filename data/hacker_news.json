@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-11 13:31:57 UTC",
-    "fetched_at_ist": "2026-09-11 19:01:57 IST",
+    "fetched_at_utc": "2026-09-11 19:42:27 UTC",
+    "fetched_at_ist": "2026-09-12 01:12:27 IST",
     "item_count": 5,
-    "content_hash": "433e7231734011fa0e6cc15bded441d45bb61d8b4199771a48d371911efa97ef",
-    "previous_hash": "32848d67f106fd70809ad2ae5d34042ada783adfa3d002ba88e7963921781969",
+    "content_hash": "ad3097186b24403a816b21b7bad8ea02fa38bf843bcb43585f717c8eab7a59b3",
+    "previous_hash": "433e7231734011fa0e6cc15bded441d45bb61d8b4199771a48d371911efa97ef",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49656496,
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "score": 159,
-      "comments": 105
+      "id": 49662371,
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 143,
+      "comments": 229
     },
     {
-      "id": 49656471,
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "score": 60,
-      "comments": 28
+      "id": 49662214,
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "score": 50,
+      "comments": 26
     },
     {
-      "id": 49657850,
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "score": 113,
-      "comments": 36
+      "id": 49656225,
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 442,
+      "comments": 498
     },
     {
-      "id": 49655286,
-      "title": "Cherenkov Radiation - traveling faster than light",
-      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-      "score": 126,
-      "comments": 72
+      "id": 49662672,
+      "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "score": 127,
+      "comments": 80
     },
     {
-      "id": 49621546,
-      "title": "So you want to use OpenRouter?",
-      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-      "score": 291,
-      "comments": 71
+      "id": 49601138,
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "score": 122,
+      "comments": 44
     }
   ]
 }
