@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-12 11:37:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-12 14:21:28 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **ayghri/i-have-adhd**
-- BTC: **$77,298.0** ↑ (+0.51%)
+- BTC: **$77,353.0** ↓ (-2.20%)
 - HN top story: **IKEA made a mod for Skyrim [video]**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-11 00:11:05 UTC | `9523a99c69dd` | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-09-12 11:37:04 UTC | `ff24e4a662b8` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-12 02:16:54 UTC | `95bb928f1d63` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-09-12 14:21:28 UTC | `b360d729447e` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-12` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `51` day(s) |
-| Last Commit (IST) | `2026-09-12 12:44:54 IST` |
+| Last Commit (IST) | `2026-09-12 17:07:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-09-09 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-10 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-11 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-12 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-09-12 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,298.0 | +0.51% | 🟢 |
-| Ethereum | $2,513.39 | +2.52% | 🟢 |
-| Solana | $101.85 | +2.57% | 🟢 |
-| Bnb | $730.07 | +2.44% | 🟢 |
+| Bitcoin | $77,353.0 | -2.20% | 🔴 |
+| Ethereum | $2,540.46 | -2.81% | 🔴 |
+| Solana | $101.95 | -1.74% | 🔴 |
+| Bnb | $735.98 | +0.33% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
