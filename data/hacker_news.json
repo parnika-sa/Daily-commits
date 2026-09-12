@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-12 19:30:40 UTC",
-    "fetched_at_ist": "2026-09-13 01:00:40 IST",
+    "fetched_at_utc": "2026-09-12 21:38:02 UTC",
+    "fetched_at_ist": "2026-09-13 03:08:02 IST",
     "item_count": 5,
-    "content_hash": "0421b533c258030903b595788c3e5799a5463fd0cfbdcae88436f605400de953",
-    "previous_hash": "ff24e4a662b8f1a56b2ef505571bda785a5561c467f8aeaad8fdf02f1f8fd5ad",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "529995b93722f0bb4fcde30f54498ec9fdc14f3905c0e9c99e20f624c72fc92d",
+    "previous_hash": "0421b533c258030903b595788c3e5799a5463fd0cfbdcae88436f605400de953",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49645480,
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "score": 174,
-      "comments": 187
-    },
-    {
       "id": 49674050,
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 119,
-      "comments": 40
+      "score": 206,
+      "comments": 59
     },
     {
       "id": 49673098,
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 221,
-      "comments": 167
+      "score": 292,
+      "comments": 203
     },
     {
-      "id": 49674498,
-      "title": "Will There Be a 7G?",
-      "url": "https://arxiv.org/abs/2609.01877",
-      "score": 40,
-      "comments": 62
+      "id": 49625056,
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "score": 82,
+      "comments": 9
     },
     {
-      "id": 49639647,
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 480,
-      "comments": 122
+      "id": 49676820,
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 20,
+      "comments": 5
+    },
+    {
+      "id": 49645480,
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 320,
+      "comments": 277
     }
   ]
 }
