@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-12 (last updated: 07:46 IST)
+
+## 📅 2026-09-12 (last updated: 17:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-11 05:41:05 IST | 9523a99c69dd | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-12 01:12:27 IST | ad3097186b24 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-12 17:07:04 IST | ff24e4a662b8 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-12 07:46:54 IST | 95bb928f1d63 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 841 stars today
 
 ### 📰 Hacker News Stories
-- [A misalignment of AI in mathematics](https://mathandai.org/) — Score: 143
-- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) — Score: 50
-- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) — Score: 442
-- [The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution](https://capitalbnews.org/data-centers-permit-rules-epa/) — Score: 127
-- [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse) — Score: 122
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) — Score: 214
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) — Score: 108
+- [A misalignment of AI in mathematics](https://mathandai.org/) — Score: 974
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) — Score: 573
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) — Score: 305
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,298.0 🟢 +0.51%
