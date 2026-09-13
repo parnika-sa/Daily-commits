@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-13 (last updated: 04:50 IST)
+
+## 📅 2026-09-13 (last updated: 11:41 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-11 05:41:05 IST | 9523a99c69dd | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 03:08:02 IST | 529995b93722 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-13 04:50:42 IST | d72472e47c4a | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-13 11:41:55 IST | ed5fb87a94a8 | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-13 11:41:56 IST | ee5a2762ec4f | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-13 11:41:55 IST | 73869b40a03f | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Python) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.  
-  ⭐ 3,882 stars today
 - **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
-  ⭐ 1,762 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 732 stars today
-- **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** (TypeScript) — Open Source AI trading agent that operates autonomously across 1000+ markets - P  
-  ⭐ 277 stars today
-- **[Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)** (TypeScript) — Make Every Team AI Native  
-  ⭐ 841 stars today
+  ⭐ 2,265 stars today
+- **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
+  ⭐ 504 stars today
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig  
+  ⭐ 217 stars today
+- **[nab138/iloader](https://github.com/nab138/iloader)** (TypeScript) — User friendly sideloader  
+  ⭐ 209 stars today
+- **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** (Batchfile) — No description  
+  ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 206
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) — Score: 292
-- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) — Score: 82
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) — Score: 20
-- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) — Score: 320
+- [The Interim Computer Museum](https://icm.museum/) — Score: 68
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 404
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) — Score: 197
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) — Score: 63
+- [I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32](https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77) — Score: 36
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,257.0 🟢 +0.17%
-- Ethereum: $2,523.57 🟢 +0.40%
-- Solana: $101.72 🔴 -0.52%
-- Bnb: $726.96 🟢 +0.24%
+- Bitcoin: $77,293.0 🟢 +0.11%
+- Ethereum: $2,521.83 🟢 +0.44%
+- Solana: $101.75 🟢 +0.21%
+- Bnb: $725.91 🔴 -0.89%
 
 ---
 ## 📅 2026-09-12 (last updated: 22:48 IST)
