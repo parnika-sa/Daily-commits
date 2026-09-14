@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-13 06:11:56 UTC",
-    "fetched_at_ist": "2026-09-13 11:41:56 IST",
+    "fetched_at_utc": "2026-09-14 00:43:34 UTC",
+    "fetched_at_ist": "2026-09-14 06:13:34 IST",
     "item_count": 5,
-    "content_hash": "ee5a2762ec4f09bf25c1f30708e0a0b756d81b8c35c0e3bdfe267fdd6e3d1742",
-    "previous_hash": "529995b93722f0bb4fcde30f54498ec9fdc14f3905c0e9c99e20f624c72fc92d",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "711cfb129c654be4386aaaeaf0598d2384fa203ae0ee20ffab4f494f71b400c0",
+    "previous_hash": "ee5a2762ec4f09bf25c1f30708e0a0b756d81b8c35c0e3bdfe267fdd6e3d1742",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49679459,
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "score": 68,
-      "comments": 7
+      "id": 49688695,
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 381,
+      "comments": 157
     },
     {
-      "id": 49674050,
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 404,
-      "comments": 93
+      "id": 49686445,
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 541,
+      "comments": 259
     },
     {
-      "id": 49676820,
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "score": 197,
-      "comments": 105
+      "id": 49689048,
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "score": 48,
+      "comments": 22
     },
     {
-      "id": 49678969,
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 63,
-      "comments": 61
+      "id": 49642645,
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "score": 143,
+      "comments": 11
     },
     {
-      "id": 49640913,
-      "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "score": 36,
-      "comments": 4
+      "id": 49684393,
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "score": 364,
+      "comments": 173
     }
   ]
 }

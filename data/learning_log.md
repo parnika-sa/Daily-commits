@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-14 (last updated: 23:46 IST)
+
+## 📅 2026-09-14 (last updated: 06:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-13 11:41:55 IST | ed5fb87a94a8 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 11:41:56 IST | ee5a2762ec4f | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-14 06:13:34 IST | 711cfb129c65 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-13 23:46:03 IST | 76610d1d9578 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [The Interim Computer Museum](https://icm.museum/) — Score: 68
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 404
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) — Score: 197
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) — Score: 63
-- [I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32](https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77) — Score: 36
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 381
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) — Score: 541
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 48
+- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) — Score: 143
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 364
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,298.0 🟢 +0.18%
