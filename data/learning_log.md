@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-14 (last updated: 10:57 IST)
+
+## 📅 2026-09-14 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-13 11:41:55 IST | ed5fb87a94a8 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-14 06:13:34 IST | 711cfb129c65 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-14 22:12:12 IST | 78cb7a556e8c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-14 10:57:50 IST | 353e66239eef | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 381
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) — Score: 541
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 48
-- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) — Score: 143
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 364
+- [For AI leaders Doom is a form of hype](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/) — Score: 84
+- [MIT creates method to force AI to comply with safety rules](https://theframenews.org/en/hardflow-safety-critical-ai/) — Score: 16
+- [Distributed Systems Classics](https://nvartolomei.com/dist-sys-classics/) — Score: 16
+- [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/) — Score: 64
+- [Foundation Model Engineering: From Theory to Production](https://sungeuns.github.io/foundation-model-engineering/) — Score: 21
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,495.0 🟢 +0.31%

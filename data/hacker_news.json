@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-14 00:43:34 UTC",
-    "fetched_at_ist": "2026-09-14 06:13:34 IST",
+    "fetched_at_utc": "2026-09-14 16:42:12 UTC",
+    "fetched_at_ist": "2026-09-14 22:12:12 IST",
     "item_count": 5,
-    "content_hash": "711cfb129c654be4386aaaeaf0598d2384fa203ae0ee20ffab4f494f71b400c0",
-    "previous_hash": "ee5a2762ec4f09bf25c1f30708e0a0b756d81b8c35c0e3bdfe267fdd6e3d1742",
+    "content_hash": "78cb7a556e8ca4b9d3fd49be2afc18113e3f2291930885f915db2ad658debd10",
+    "previous_hash": "711cfb129c654be4386aaaeaf0598d2384fa203ae0ee20ffab4f494f71b400c0",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49688695,
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 381,
-      "comments": 157
+      "id": 49699384,
+      "title": "For AI leaders Doom is a form of hype",
+      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+      "score": 84,
+      "comments": 25
     },
     {
-      "id": 49686445,
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 541,
-      "comments": 259
+      "id": 49699434,
+      "title": "MIT creates method to force AI to comply with safety rules",
+      "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+      "score": 16,
+      "comments": 13
     },
     {
-      "id": 49689048,
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 48,
-      "comments": 22
+      "id": 49699158,
+      "title": "Distributed Systems Classics",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 16,
+      "comments": 1
     },
     {
-      "id": 49642645,
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 143,
-      "comments": 11
+      "id": 49697014,
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 64,
+      "comments": 28
     },
     {
-      "id": 49684393,
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 364,
-      "comments": 173
+      "id": 49698603,
+      "title": "Foundation Model Engineering: From Theory to Production",
+      "url": "https://sungeuns.github.io/foundation-model-engineering/",
+      "score": 21,
+      "comments": 2
     }
   ]
 }
