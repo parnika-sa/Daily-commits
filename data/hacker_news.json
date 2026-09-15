@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-15 01:42:58 UTC",
-    "fetched_at_ist": "2026-09-15 07:12:58 IST",
+    "fetched_at_utc": "2026-09-15 06:43:36 UTC",
+    "fetched_at_ist": "2026-09-15 12:13:36 IST",
     "item_count": 5,
-    "content_hash": "36cdc4be4f85846653da82b0d2b67c86534d5a7a6d8f2bf087eefdf84ab07d72",
-    "previous_hash": "3caea222096a2be9c61a103d9c7b7fcc794a2546d81f7c8e1eccfd02d42a7714",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "087729982d97b89652f63bd1065c83db4777d12ad9b547c0bafae26c7d6e4e17",
+    "previous_hash": "36cdc4be4f85846653da82b0d2b67c86534d5a7a6d8f2bf087eefdf84ab07d72",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49701004,
       "title": "iOS 27, iPadOS 27, and macOS 27",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 375,
-      "comments": 424
+      "score": 533,
+      "comments": 579
+    },
+    {
+      "id": 49707627,
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 66,
+      "comments": 24
+    },
+    {
+      "id": 49684289,
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 36,
+      "comments": 5
+    },
+    {
+      "id": 49675817,
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 96,
+      "comments": 19
     },
     {
       "id": 49700477,
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 283,
-      "comments": 308
-    },
-    {
-      "id": 49705442,
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "score": 34,
-      "comments": 3
-    },
-    {
-      "id": 49704246,
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 93,
-      "comments": 28
-    },
-    {
-      "id": 49673689,
-      "title": "Compressing a Flag to 11 Bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "score": 65,
-      "comments": 30
+      "score": 361,
+      "comments": 415
     }
   ]
 }
