@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-15 (last updated: 12:13 IST)
+
+## 📅 2026-09-15 (last updated: 17:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-13 11:41:55 IST | ed5fb87a94a8 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-15 12:13:36 IST | 087729982d97 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-09-15 04:57:49 IST | 00e2e41bfc6e | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-09-15 17:39:08 IST | 1ab633bdbe26 | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-15 17:39:09 IST | cd39dde48b60 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-15 17:39:08 IST | 7e3ef9355a5f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
-  ⭐ 2,265 stars today
-- **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
-  ⭐ 504 stars today
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig  
-  ⭐ 217 stars today
-- **[nab138/iloader](https://github.com/nab138/iloader)** (TypeScript) — User friendly sideloader  
-  ⭐ 209 stars today
-- **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** (Batchfile) — No description  
-  ⭐ 65 stars today
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** (Go) — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi  
+  ⭐ 1,571 stars today
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** (C) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts  
+  ⭐ 2,173 stars today
+- **[ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)** (TypeScript) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://  
+  ⭐ 1,130 stars today
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** (Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni  
+  ⭐ 2,776 stars today
+- **[Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)** (Swift) — 📺 Homebrew's official macOS GUI  
+  ⭐ 388 stars today
 
 ### 📰 Hacker News Stories
-- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) — Score: 533
-- [Linux from Scratch](https://www.linuxfromscratch.org/) — Score: 66
-- [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) — Score: 36
-- [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) — Score: 96
-- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) — Score: 361
+- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) — Score: 342
+- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo) — Score: 166
+- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) — Score: 61
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) — Score: 642
+- [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135) — Score: 49
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,416.0 🟢 +2.23%
-- Ethereum: $2,525.01 🟢 +2.01%
-- Solana: $102.95 🟢 +3.33%
-- Bnb: $722.08 🟢 +0.80%
+- Bitcoin: $76,875.0 🔴 -1.19%
+- Ethereum: $2,476.92 🔴 -1.30%
+- Solana: $100.85 🔴 -0.60%
+- Bnb: $718.45 🔴 -0.45%
 
 ---
 ## 📅 2026-09-14 (last updated: 22:12 IST)

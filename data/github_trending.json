@@ -2,110 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-09-13 06:11:55 UTC",
-    "fetched_at_ist": "2026-09-13 11:41:55 IST",
-    "item_count": 16,
-    "content_hash": "ed5fb87a94a8a05cb59ca575cc5a68aff54947dc86606bc3fb501f992b630c69",
-    "previous_hash": "9523a99c69dd4ada4e08e40f947a4e017e0b3bb368ae0dbcf2e59b80ded89c52",
+    "fetched_at_utc": "2026-09-15 12:09:08 UTC",
+    "fetched_at_ist": "2026-09-15 17:39:08 IST",
+    "item_count": 14,
+    "content_hash": "1ab633bdbe268ca748c3ff46356617f666ea2e61fdd9dbf2eb97f4d495806e42",
+    "previous_hash": "ed5fb87a94a8a05cb59ca575cc5a68aff54947dc86606bc3fb501f992b630c69",
     "new_repos_vs_previous": 13,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_today": "2,265 stars today"
+      "name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "1,571 stars today"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": "2,173 stars today"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": "1,130 stars today"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": "2,776 stars today"
+    },
+    {
+      "name": "Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars_today": "388 stars today"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "504 stars today"
+      "stars_today": "408 stars today"
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "217 stars today"
-    },
-    {
-      "name": "nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "stars_today": "209 stars today"
-    },
-    {
-      "name": "Flowseal/zapret-discord-youtube",
-      "description": "No description",
-      "language": "Batchfile",
-      "stars_today": "65 stars today"
-    },
-    {
-      "name": "jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "stars_today": "262 stars today"
-    },
-    {
-      "name": "Sonarr/Sonarr",
-      "description": "Smart PVR for newsgroup and bittorrent users.",
-      "language": "C#",
-      "stars_today": "227 stars today"
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "stars_today": "376 stars today"
-    },
-    {
-      "name": "yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "stars_today": "136 stars today"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars_today": "230 stars today"
-    },
-    {
-      "name": "p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "stars_today": "355 stars today"
-    },
-    {
-      "name": "armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "stars_today": "237 stars today"
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "stars_today": "113 stars today"
-    },
-    {
-      "name": "multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars_today": "210 stars today"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "name": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "language": "Rust",
-      "stars_today": "54 stars today"
+      "stars_today": "568 stars today"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "189 stars today"
+      "name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_today": "700 stars today"
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars_today": "286 stars today"
+    },
+    {
+      "name": "pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars_today": "1,091 stars today"
+    },
+    {
+      "name": "MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars_today": "122 stars today"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "354 stars today"
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars_today": "1,018 stars today"
+    },
+    {
+      "name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_today": "437 stars today"
     }
   ]
 }

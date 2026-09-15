@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-15 06:43:36 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-15 12:09:09 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bilawalsidhu/gods-eye-view**
-- BTC: **$78,416.0** ↑ (+2.23%)
-- HN top story: **iOS 27, iPadOS 27, and macOS 27**
+- Top GitHub repo: **alibaba/open-code-review**
+- BTC: **$76,875.0** ↓ (-1.19%)
+- HN top story: **I can't stop thinking about Papua New Guinea**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-13 06:11:55 UTC | `ed5fb87a94a8` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-15 06:43:36 UTC | `087729982d97` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-09-14 23:27:49 UTC | `00e2e41bfc6e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-09-15 12:09:08 UTC | `1ab633bdbe26` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-15 12:09:09 UTC | `cd39dde48b60` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-15 12:09:08 UTC | `7e3ef9355a5f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-15` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `53` day(s) |
-| Last Commit (IST) | `2026-09-15 07:12:58 IST` |
+| Last Commit (IST) | `2026-09-15 12:13:37 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-13 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-14 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-15 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-09-15 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,416.0 | +2.23% | 🟢 |
-| Ethereum | $2,525.01 | +2.01% | 🟢 |
-| Solana | $102.95 | +3.33% | 🟢 |
-| Bnb | $722.08 | +0.80% | 🟢 |
+| Bitcoin | $76,875.0 | -1.19% | 🔴 |
+| Ethereum | $2,476.92 | -1.30% | 🔴 |
+| Solana | $100.85 | -0.60% | 🔴 |
+| Bnb | $718.45 | -0.45% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 2,265 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 504 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 217 stars today | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig… |
-| [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 209 stars today | User friendly sideloader |
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 65 stars today | No description |
-| [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | Python | 262 stars today | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat… |
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | 227 stars today | Smart PVR for newsgroup and bittorrent users. |
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 376 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 1,571 stars today | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi… |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 2,173 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, experts… |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | 1,130 stars today | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://… |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 2,776 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | Swift | 388 stars today | 📺 Homebrew's official macOS GUI |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 408 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | 568 stars today | Turn your coding agents into research agents |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 700 stars today | Ghidra is a software reverse engineering (SRE) framework |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | 533 | 579 |
-| [Linux from Scratch](https://www.linuxfromscratch.org/) | 66 | 24 |
-| [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) | 36 | 5 |
-| [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | 96 | 19 |
-| [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | 361 | 415 |
+| [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) | 342 | 121 |
+| [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo) | 166 | 126 |
+| [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) | 61 | 34 |
+| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | 642 | 730 |
+| [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135) | 49 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

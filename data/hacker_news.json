@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-15 06:43:36 UTC",
-    "fetched_at_ist": "2026-09-15 12:13:36 IST",
+    "fetched_at_utc": "2026-09-15 12:09:09 UTC",
+    "fetched_at_ist": "2026-09-15 17:39:09 IST",
     "item_count": 5,
-    "content_hash": "087729982d97b89652f63bd1065c83db4777d12ad9b547c0bafae26c7d6e4e17",
-    "previous_hash": "36cdc4be4f85846653da82b0d2b67c86534d5a7a6d8f2bf087eefdf84ab07d72",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "cd39dde48b60ac1a3d504dd4a804bc94cc6942734a9befe56a7abd571d1dd4fd",
+    "previous_hash": "087729982d97b89652f63bd1065c83db4777d12ad9b547c0bafae26c7d6e4e17",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49708431,
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 342,
+      "comments": 121
+    },
+    {
+      "id": 49710253,
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "score": 166,
+      "comments": 126
+    },
+    {
+      "id": 49709381,
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "score": 61,
+      "comments": 34
+    },
     {
       "id": 49701004,
       "title": "iOS 27, iPadOS 27, and macOS 27",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 533,
-      "comments": 579
+      "score": 642,
+      "comments": 730
     },
     {
-      "id": 49707627,
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
-      "score": 66,
-      "comments": 24
-    },
-    {
-      "id": 49684289,
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "url": "https://github.com/enactic/OpenArm",
-      "score": 36,
-      "comments": 5
-    },
-    {
-      "id": 49675817,
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "score": 96,
-      "comments": 19
-    },
-    {
-      "id": 49700477,
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 361,
-      "comments": 415
+      "id": 49708993,
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "score": 49,
+      "comments": 6
     }
   ]
 }
