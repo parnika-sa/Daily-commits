@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-15 12:09:09 UTC",
-    "fetched_at_ist": "2026-09-15 17:39:09 IST",
+    "fetched_at_utc": "2026-09-15 22:35:38 UTC",
+    "fetched_at_ist": "2026-09-16 04:05:38 IST",
     "item_count": 5,
-    "content_hash": "cd39dde48b60ac1a3d504dd4a804bc94cc6942734a9befe56a7abd571d1dd4fd",
-    "previous_hash": "087729982d97b89652f63bd1065c83db4777d12ad9b547c0bafae26c7d6e4e17",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "b746b403b84674ca5661d0aee7b05d17e797e0efc3cc27b003059e6ee5911255",
+    "previous_hash": "cd39dde48b60ac1a3d504dd4a804bc94cc6942734a9befe56a7abd571d1dd4fd",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49708431,
-      "title": "I can't stop thinking about Papua New Guinea",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "score": 342,
-      "comments": 121
+      "id": 49717558,
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 498,
+      "comments": 173
     },
     {
-      "id": 49710253,
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 166,
-      "comments": 126
+      "id": 49711544,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 1169,
+      "comments": 157
     },
     {
-      "id": 49709381,
-      "title": "Alternatives to MinIO for single-node local S3",
-      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "score": 61,
-      "comments": 34
+      "id": 49718928,
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "score": 74,
+      "comments": 11
     },
     {
-      "id": 49701004,
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 642,
-      "comments": 730
+      "id": 49716176,
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "score": 294,
+      "comments": 159
     },
     {
-      "id": 49708993,
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "score": 49,
-      "comments": 6
+      "id": 49718822,
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "score": 59,
+      "comments": 9
     }
   ]
 }
