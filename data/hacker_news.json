@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-16 05:30:12 UTC",
-    "fetched_at_ist": "2026-09-16 11:00:12 IST",
+    "fetched_at_utc": "2026-09-16 18:41:42 UTC",
+    "fetched_at_ist": "2026-09-17 00:11:42 IST",
     "item_count": 5,
-    "content_hash": "97a99d91ae3b9973a055b80c4af0faf0364337a3e15609796330d4041c088a25",
-    "previous_hash": "b746b403b84674ca5661d0aee7b05d17e797e0efc3cc27b003059e6ee5911255",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "70a9ad9944f3c9552e1b9bcd03aa6eda24c1cbcd9a5ffd65f27949e7e48931ef",
+    "previous_hash": "97a99d91ae3b9973a055b80c4af0faf0364337a3e15609796330d4041c088a25",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49717558,
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1031,
-      "comments": 321
+      "id": 49729000,
+      "title": "Small Programming Tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 165,
+      "comments": 98
     },
     {
-      "id": 49721322,
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "score": 107,
-      "comments": 63
+      "id": 49726955,
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "score": 125,
+      "comments": 38
+    },
+    {
+      "id": 49723408,
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "score": 422,
+      "comments": 155
+    },
+    {
+      "id": 49710903,
+      "title": "Tell the speakers that you liked their talks",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "score": 161,
+      "comments": 42
     },
     {
       "id": 49711544,
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1458,
-      "comments": 190
-    },
-    {
-      "id": 49721548,
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "score": 53,
-      "comments": 16
-    },
-    {
-      "id": 49693971,
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "score": 73,
-      "comments": 29
+      "score": 1913,
+      "comments": 225
     }
   ]
 }
