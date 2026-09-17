@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-17 (last updated: 03:12 IST)
+
+## 📅 2026-09-17 (last updated: 08:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-09-15 17:39:08 IST | 1ab633bdbe26 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-17 03:12:57 IST | 35f5140b2a08 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-17 08:04:35 IST | edd56f84792a | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-15 17:39:08 IST | 7e3ef9355a5f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 388 stars today
 
 ### 📰 Hacker News Stories
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) — Score: 230
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) — Score: 110
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) — Score: 31
-- [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/) — Score: 56
-- [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) — Score: 301
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) — Score: 329
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) — Score: 417
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) — Score: 278
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) — Score: 148
+- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) — Score: 101
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,875.0 🔴 -1.19%
