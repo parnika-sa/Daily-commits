@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-17 (last updated: 08:04 IST)
+
+## 📅 2026-09-17 (last updated: 23:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-09-15 17:39:08 IST | 1ab633bdbe26 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-17 08:04:35 IST | edd56f84792a | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-17 23:06:50 IST | e73f1e85d407 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-15 17:39:08 IST | 7e3ef9355a5f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 388 stars today
 
 ### 📰 Hacker News Stories
-- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) — Score: 329
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) — Score: 417
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) — Score: 278
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) — Score: 148
-- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) — Score: 101
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) — Score: 323
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/) — Score: 65
+- [Whoisinspace.com/](https://whoisinspace.com) — Score: 65
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) — Score: 39
+- [hister](https://github.com/asciimoo/hister) — Score: 39
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,875.0 🔴 -1.19%
