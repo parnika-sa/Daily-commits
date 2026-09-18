@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-18 06:09:42 UTC",
-    "fetched_at_ist": "2026-09-18 11:39:42 IST",
+    "fetched_at_utc": "2026-09-18 18:04:19 UTC",
+    "fetched_at_ist": "2026-09-18 23:34:19 IST",
     "item_count": 5,
-    "content_hash": "7be765c2b641fd9de9ebd27b0aa15a2a7778fe024f1016d6d83234a6fb75105d",
-    "previous_hash": "6161dd8a5d253d41be990a11d112a42f57dec8612e6e768ac8c46fba61a0aea2",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "108bb062d545e4fbdad274962d7072facf551aad5242f74beac711ece998f259",
+    "previous_hash": "7be765c2b641fd9de9ebd27b0aa15a2a7778fe024f1016d6d83234a6fb75105d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49749656,
-      "title": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "score": 209,
-      "comments": 58
+      "id": 49757178,
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "score": 116,
+      "comments": 75
     },
     {
-      "id": 49749981,
-      "title": "Waymo in Singapore",
-      "url": "https://waymo.com/waymo-in-singapore/",
-      "score": 73,
-      "comments": 42
+      "id": 49754785,
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 263,
+      "comments": 131
     },
     {
-      "id": 49745940,
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "score": 426,
-      "comments": 456
+      "id": 49757050,
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 35,
+      "comments": 7
     },
     {
-      "id": 49746618,
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 351,
-      "comments": 113
+      "id": 49755160,
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "score": 104,
+      "comments": 78
     },
     {
-      "id": 49750152,
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "score": 18,
-      "comments": 4
+      "id": 49753878,
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "score": 180,
+      "comments": 41
     }
   ]
 }

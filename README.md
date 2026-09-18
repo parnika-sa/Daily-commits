@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-18 06:09:42 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-18 18:04:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **alibaba/open-code-review**
-- BTC: **$77,490.0** ↑ (+1.52%)
-- HN top story: **Hacking OpenAI**
+- Top GitHub repo: **cloudflare/security-audit-skill**
+- BTC: **$80,936.0** ↑ (+5.65%)
+- HN top story: **There's no point at which turning your brain off will work**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 20 | 2026-09-18 06:09:39 UTC | `9222bf76304b` | +14 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-18 06:09:42 UTC | `7be765c2b641` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-18 06:09:39 UTC | `5e7c0666dc26` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-09-18 18:04:18 UTC | `79ebf9fd506d` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-18 18:04:19 UTC | `108bb062d545` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-18 18:04:18 UTC | `59e6493c6a1f` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-18` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `55` day(s) |
-| Last Commit (IST) | `2026-09-18 16:38:46 IST` |
+| Last Commit (IST) | `2026-09-18 20:27:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-18 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-09-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,490.0 | +1.52% | 🟢 |
-| Ethereum | $2,483.69 | +1.89% | 🟢 |
-| Solana | $105.42 | +5.97% | 🟢 |
-| Bnb | $753.8 | +3.95% | 🟢 |
+| Bitcoin | $80,936.0 | +5.65% | 🟢 |
+| Ethereum | $2,604.24 | +5.88% | 🟢 |
+| Solana | $112.39 | +10.84% | 🟢 |
+| Bnb | $761.35 | +4.51% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 3,286 stars today | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi… |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,607 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 680 stars today | Production-grade engineering skills for AI coding agents. |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | 1,302 stars today | Let AI agents use your real, logged-in browser without interrupting your work. C… |
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | 939 stars today | Turn your coding agents into research agents |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 538 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 912 stars today | Ghidra is a software reverse engineering (SRE) framework |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 287 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,019 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 442 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 2,724 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 965 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | 1,319 stars today | Let AI agents use your real, logged-in browser without interrupting your work. C… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 677 stars today | Production-grade engineering skills for AI coding agents. |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | 571 stars today | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | TypeScript | 298 stars today | Spec-driven development (SDD) for AI coding assistants. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) | 209 | 58 |
-| [Waymo in Singapore](https://waymo.com/waymo-in-singapore/) | 73 | 42 |
-| [Astra for Law](https://openai.com/index/astra-for-law/) | 426 | 456 |
-| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | 351 | 113 |
-| [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) | 18 | 4 |
+| [There's no point at which turning your brain off will work](https://danluu.com/brain-off/) | 116 | 75 |
+| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | 263 | 131 |
+| [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) | 35 | 7 |
+| [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) | 104 | 78 |
+| [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) | 180 | 41 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
