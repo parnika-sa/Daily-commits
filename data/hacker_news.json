@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-17 20:33:33 UTC",
-    "fetched_at_ist": "2026-09-18 02:03:33 IST",
+    "fetched_at_utc": "2026-09-18 06:09:42 UTC",
+    "fetched_at_ist": "2026-09-18 11:39:42 IST",
     "item_count": 5,
-    "content_hash": "6161dd8a5d253d41be990a11d112a42f57dec8612e6e768ac8c46fba61a0aea2",
-    "previous_hash": "e73f1e85d407ca5d00e592d84d91619d6b9195185427216d3a58a842d10a1b91",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "7be765c2b641fd9de9ebd27b0aa15a2a7778fe024f1016d6d83234a6fb75105d",
+    "previous_hash": "6161dd8a5d253d41be990a11d112a42f57dec8612e6e768ac8c46fba61a0aea2",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49743097,
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "score": 292,
-      "comments": 94
+      "id": 49749656,
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "score": 209,
+      "comments": 58
+    },
+    {
+      "id": 49749981,
+      "title": "Waymo in Singapore",
+      "url": "https://waymo.com/waymo-in-singapore/",
+      "score": 73,
+      "comments": 42
     },
     {
       "id": 49745940,
       "title": "Astra for Law",
       "url": "https://openai.com/index/astra-for-law/",
-      "score": 22,
-      "comments": 10
+      "score": 426,
+      "comments": 456
     },
     {
-      "id": 49715813,
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "score": 438,
-      "comments": 159
+      "id": 49746618,
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 351,
+      "comments": 113
     },
     {
-      "id": 49726007,
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "score": 76,
-      "comments": 13
-    },
-    {
-      "id": 49745570,
-      "title": "Everybody's Lost Their Minds",
-      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "score": 20,
-      "comments": 5
+      "id": 49750152,
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "score": 18,
+      "comments": 4
     }
   ]
 }

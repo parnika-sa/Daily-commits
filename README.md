@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-18 01:15:59 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-18 06:09:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **alibaba/open-code-review**
-- BTC: **$76,556.0** ↑ (+0.42%)
-- HN top story: **Hister: A private search engine for the pages you visit and the files you keep**
+- BTC: **$77,490.0** ↑ (+1.52%)
+- HN top story: **Hacking OpenAI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-09-15 12:09:08 UTC | `1ab633bdbe26` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-17 20:33:33 UTC | `6161dd8a5d25` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-18 01:15:59 UTC | `8d9540c0dfb2` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 20 | 2026-09-18 06:09:39 UTC | `9222bf76304b` | +14 new repos, top changed: no |
+| Hacker News | 5 | 2026-09-18 06:09:42 UTC | `7be765c2b641` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-18 06:09:39 UTC | `5e7c0666dc26` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +14 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-18` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `55` day(s) |
-| Last Commit (IST) | `2026-09-18 04:35:28 IST` |
+| Last Commit (IST) | `2026-09-18 06:46:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-18 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-09-18 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,556.0 | +0.42% | 🟢 |
-| Ethereum | $2,448.76 | +1.33% | 🟢 |
-| Solana | $101.49 | +2.92% | 🟢 |
-| Bnb | $740.09 | +2.18% | 🟢 |
+| Bitcoin | $77,490.0 | +1.52% | 🟢 |
+| Ethereum | $2,483.69 | +1.89% | 🟢 |
+| Solana | $105.42 | +5.97% | 🟢 |
+| Bnb | $753.8 | +3.95% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 1,571 stars today | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi… |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 2,173 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, experts… |
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | 1,130 stars today | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://… |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 2,776 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | Swift | 388 stars today | 📺 Homebrew's official macOS GUI |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 408 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | 568 stars today | Turn your coding agents into research agents |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 700 stars today | Ghidra is a software reverse engineering (SRE) framework |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 3,286 stars today | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi… |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,607 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 680 stars today | Production-grade engineering skills for AI coding agents. |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | 1,302 stars today | Let AI agents use your real, logged-in browser without interrupting your work. C… |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | 939 stars today | Turn your coding agents into research agents |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 538 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 912 stars today | Ghidra is a software reverse engineering (SRE) framework |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 287 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | 292 | 94 |
-| [Astra for Law](https://openai.com/index/astra-for-law/) | 22 | 10 |
-| [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) | 438 | 159 |
-| [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) | 76 | 13 |
-| [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html) | 20 | 5 |
+| [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) | 209 | 58 |
+| [Waymo in Singapore](https://waymo.com/waymo-in-singapore/) | 73 | 42 |
+| [Astra for Law](https://openai.com/index/astra-for-law/) | 426 | 456 |
+| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | 351 | 113 |
+| [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) | 18 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
