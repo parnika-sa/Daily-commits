@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-18 18:04:19 UTC",
-    "fetched_at_ist": "2026-09-18 23:34:19 IST",
+    "fetched_at_utc": "2026-09-19 09:37:59 UTC",
+    "fetched_at_ist": "2026-09-19 15:07:59 IST",
     "item_count": 5,
-    "content_hash": "108bb062d545e4fbdad274962d7072facf551aad5242f74beac711ece998f259",
-    "previous_hash": "7be765c2b641fd9de9ebd27b0aa15a2a7778fe024f1016d6d83234a6fb75105d",
+    "content_hash": "2c1ecca35b786c5dfaa48cfab3d7c980900c9351104dce2afc0c91fbb04372ff",
+    "previous_hash": "108bb062d545e4fbdad274962d7072facf551aad5242f74beac711ece998f259",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49757178,
-      "title": "There's no point at which turning your brain off will work",
-      "url": "https://danluu.com/brain-off/",
-      "score": 116,
-      "comments": 75
+      "id": 49763697,
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 204,
+      "comments": 88
     },
     {
-      "id": 49754785,
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 263,
-      "comments": 131
+      "id": 49763928,
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 83,
+      "comments": 44
     },
     {
-      "id": 49757050,
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "score": 35,
-      "comments": 7
+      "id": 49763987,
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 102,
+      "comments": 45
     },
     {
-      "id": 49755160,
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "score": 104,
-      "comments": 78
+      "id": 49763296,
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 184,
+      "comments": 65
     },
     {
-      "id": 49753878,
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804",
-      "score": 180,
-      "comments": 41
+      "id": 49758736,
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 828,
+      "comments": 406
     }
   ]
 }
