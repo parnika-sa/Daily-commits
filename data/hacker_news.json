@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-19 09:37:59 UTC",
-    "fetched_at_ist": "2026-09-19 15:07:59 IST",
+    "fetched_at_utc": "2026-09-19 16:37:06 UTC",
+    "fetched_at_ist": "2026-09-19 22:07:06 IST",
     "item_count": 5,
-    "content_hash": "2c1ecca35b786c5dfaa48cfab3d7c980900c9351104dce2afc0c91fbb04372ff",
-    "previous_hash": "108bb062d545e4fbdad274962d7072facf551aad5242f74beac711ece998f259",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "631ac43de400b380a5bf87a514563a3f559dd8d5b78dd555f6d621ba522204fa",
+    "previous_hash": "2c1ecca35b786c5dfaa48cfab3d7c980900c9351104dce2afc0c91fbb04372ff",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49765348,
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 509,
+      "comments": 126
+    },
+    {
+      "id": 49766676,
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "score": 60,
+      "comments": 40
+    },
+    {
+      "id": 49766611,
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "score": 78,
+      "comments": 29
+    },
+    {
+      "id": 49764791,
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 721,
+      "comments": 433
+    },
+    {
       "id": 49763697,
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 204,
-      "comments": 88
-    },
-    {
-      "id": 49763928,
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 83,
-      "comments": 44
-    },
-    {
-      "id": 49763987,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 102,
-      "comments": 45
-    },
-    {
-      "id": 49763296,
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 184,
-      "comments": 65
-    },
-    {
-      "id": 49758736,
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 828,
-      "comments": 406
+      "score": 475,
+      "comments": 176
     }
   ]
 }

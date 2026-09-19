@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-19 (last updated: 18:53 IST)
+
+## 📅 2026-09-19 (last updated: 22:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-18 23:34:18 IST | 79ebf9fd506d | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-19 15:07:59 IST | 2c1ecca35b78 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-19 22:07:06 IST | 631ac43de400 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-19 18:53:45 IST | 04104b95784d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,319 stars today
 
 ### 📰 Hacker News Stories
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 204
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/) — Score: 83
-- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) — Score: 102
-- [San Francisco Onion Futures Company](https://onionfutures.com/) — Score: 184
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) — Score: 828
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) — Score: 509
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) — Score: 60
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) — Score: 78
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) — Score: 721
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 475
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,247.0 🟢 +4.07%
