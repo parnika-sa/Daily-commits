@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-21 20:35:15 UTC",
-    "fetched_at_ist": "2026-09-22 02:05:15 IST",
+    "fetched_at_utc": "2026-09-21 23:36:29 UTC",
+    "fetched_at_ist": "2026-09-22 05:06:29 IST",
     "item_count": 5,
-    "content_hash": "abdf4b7dcf8e6a47125c37945db0724f722471cf4eb2d651ac1e39f71b9329bf",
-    "previous_hash": "fa985e1e952806822c0894f5a6d10bb015b3e2439c83131f8e58f24cd3ad7f77",
+    "content_hash": "04cdf1370a0a859e6a951dfcfefa915b368f75d453378bdffeb1e61a979bf333",
+    "previous_hash": "abdf4b7dcf8e6a47125c37945db0724f722471cf4eb2d651ac1e39f71b9329bf",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49791939,
-      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 124,
-      "comments": 67
-    },
-    {
       "id": 49792730,
       "title": "Xiaomi MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 64,
-      "comments": 9
+      "score": 415,
+      "comments": 205
     },
     {
-      "id": 49787436,
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 405,
-      "comments": 224
+      "id": 49794354,
+      "title": "Data Protection Commission fines Google €403M over processing of location data",
+      "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+      "score": 37,
+      "comments": 4
     },
     {
-      "id": 49787726,
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 423,
-      "comments": 126
+      "id": 49793322,
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "url": "https://www.personalimportation.org/advocacy",
+      "score": 103,
+      "comments": 57
     },
     {
-      "id": 49791378,
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "score": 71,
-      "comments": 16
+      "id": 49791939,
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 260,
+      "comments": 194
+    },
+    {
+      "id": 49792342,
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 143,
+      "comments": 23
     }
   ]
 }
