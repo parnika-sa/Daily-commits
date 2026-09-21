@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-21 10:40:46 UTC",
-    "fetched_at_ist": "2026-09-21 16:10:46 IST",
+    "fetched_at_utc": "2026-09-21 16:35:30 UTC",
+    "fetched_at_ist": "2026-09-21 22:05:30 IST",
     "item_count": 5,
-    "content_hash": "dd73001bab85f3c0cffd9679a88701331996acb044d9c015641691307a513267",
-    "previous_hash": "750a6bf221776cfd6267b7a37494128a4be60956827a55e90132a86838337e8b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "fa985e1e952806822c0894f5a6d10bb015b3e2439c83131f8e58f24cd3ad7f77",
+    "previous_hash": "dd73001bab85f3c0cffd9679a88701331996acb044d9c015641691307a513267",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49787436,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 225,
+      "comments": 100
+    },
+    {
+      "id": 49787726,
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 98,
+      "comments": 8
+    },
+    {
+      "id": 49787523,
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "score": 132,
+      "comments": 104
+    },
+    {
       "id": 49783999,
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 100,
-      "comments": 50
+      "score": 287,
+      "comments": 133
     },
     {
-      "id": 49783495,
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 199,
-      "comments": 41
-    },
-    {
-      "id": 49784706,
-      "title": "Jev-Leftpad",
-      "url": "https://github.com/f/jev-leftpad",
-      "score": 47,
-      "comments": 24
-    },
-    {
-      "id": 49780797,
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 507,
-      "comments": 222
-    },
-    {
-      "id": 49778029,
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 480,
-      "comments": 335
+      "id": 49788592,
+      "title": "Good people refuse to do bad things",
+      "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
+      "score": 80,
+      "comments": 53
     }
   ]
 }

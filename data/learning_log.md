@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-21 (last updated: 16:10 IST)
+
+## 📅 2026-09-21 (last updated: 22:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-09-20 11:41:35 IST | c231035a5679 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-21 16:10:46 IST | dd73001bab85 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-21 22:05:30 IST | fa985e1e9528 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-21 05:50:33 IST | bb72a241cde4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 483 stars today
 
 ### 📰 Hacker News Stories
-- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main) — Score: 100
-- [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) — Score: 199
-- [Jev-Leftpad](https://github.com/f/jev-leftpad) — Score: 47
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) — Score: 507
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) — Score: 480
+- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) — Score: 225
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention) — Score: 98
+- [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death) — Score: 132
+- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main) — Score: 287
+- [Good people refuse to do bad things](https://carette.xyz/posts/good_people_refuse_to_do_bad_things/) — Score: 80
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,576.0 🟢 +0.41%
