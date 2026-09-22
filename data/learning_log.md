@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-22 (last updated: 05:06 IST)
+
+## 📅 2026-09-22 (last updated: 18:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-09-20 11:41:35 IST | c231035a5679 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-22 05:06:29 IST | 04cdf1370a0a | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-22 18:04:38 IST | c49ae3c49470 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-21 05:50:33 IST | bb72a241cde4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 483 stars today
 
 ### 📰 Hacker News Stories
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) — Score: 415
-- [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location) — Score: 37
-- [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy) — Score: 103
-- [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) — Score: 260
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) — Score: 143
+- [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/) — Score: 16
+- [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261) — Score: 122
+- [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html) — Score: 21
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/) — Score: 208
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) — Score: 949
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,576.0 🟢 +0.41%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-21 23:36:29 UTC",
-    "fetched_at_ist": "2026-09-22 05:06:29 IST",
+    "fetched_at_utc": "2026-09-22 12:34:38 UTC",
+    "fetched_at_ist": "2026-09-22 18:04:38 IST",
     "item_count": 5,
-    "content_hash": "04cdf1370a0a859e6a951dfcfefa915b368f75d453378bdffeb1e61a979bf333",
-    "previous_hash": "abdf4b7dcf8e6a47125c37945db0724f722471cf4eb2d651ac1e39f71b9329bf",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "c49ae3c49470d59f7d5e92a4fd62bf7fa7a94c0954f88826f0420719d60bc0b8",
+    "previous_hash": "04cdf1370a0a859e6a951dfcfefa915b368f75d453378bdffeb1e61a979bf333",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49799965,
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "score": 16,
+      "comments": 2
+    },
+    {
+      "id": 49798204,
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "score": 122,
+      "comments": 67
+    },
+    {
+      "id": 49799577,
+      "title": "Type Punning in C and C++",
+      "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+      "score": 21,
+      "comments": 5
+    },
+    {
+      "id": 49797323,
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 208,
+      "comments": 79
+    },
+    {
       "id": 49792730,
-      "title": "Xiaomi MiMo v2.6",
+      "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 415,
-      "comments": 205
-    },
-    {
-      "id": 49794354,
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "score": 37,
-      "comments": 4
-    },
-    {
-      "id": 49793322,
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "url": "https://www.personalimportation.org/advocacy",
-      "score": 103,
-      "comments": 57
-    },
-    {
-      "id": 49791939,
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "score": 260,
-      "comments": 194
-    },
-    {
-      "id": 49792342,
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 143,
-      "comments": 23
+      "score": 949,
+      "comments": 427
     }
   ]
 }
