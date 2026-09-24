@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-22 12:34:38 UTC",
-    "fetched_at_ist": "2026-09-22 18:04:38 IST",
+    "fetched_at_utc": "2026-09-24 00:38:48 UTC",
+    "fetched_at_ist": "2026-09-24 06:08:48 IST",
     "item_count": 5,
-    "content_hash": "c49ae3c49470d59f7d5e92a4fd62bf7fa7a94c0954f88826f0420719d60bc0b8",
-    "previous_hash": "04cdf1370a0a859e6a951dfcfefa915b368f75d453378bdffeb1e61a979bf333",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "09a43a8774379fd955dbaa1a5e580f5d6e8e6063ea427443fd7b09afc50d1f95",
+    "previous_hash": "c49ae3c49470d59f7d5e92a4fd62bf7fa7a94c0954f88826f0420719d60bc0b8",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49799965,
-      "title": "AI Has No Wisdom and Neither Will You",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-      "score": 16,
+      "id": 49824268,
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "score": 112,
+      "comments": 59
+    },
+    {
+      "id": 49823582,
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "score": 96,
+      "comments": 41
+    },
+    {
+      "id": 49820134,
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 457,
+      "comments": 504
+    },
+    {
+      "id": 49822555,
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 106,
+      "comments": 71
+    },
+    {
+      "id": 49823664,
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 36,
       "comments": 2
-    },
-    {
-      "id": 49798204,
-      "title": "AMD's random number generator can't generate a 0?",
-      "url": "https://board.flatassembler.net/topic.php?t=24261",
-      "score": 122,
-      "comments": 67
-    },
-    {
-      "id": 49799577,
-      "title": "Type Punning in C and C++",
-      "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
-      "score": 21,
-      "comments": 5
-    },
-    {
-      "id": 49797323,
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "score": 208,
-      "comments": 79
-    },
-    {
-      "id": 49792730,
-      "title": "MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 949,
-      "comments": 427
     }
   ]
 }
