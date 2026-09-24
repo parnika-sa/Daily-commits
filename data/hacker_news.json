@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-24 00:38:48 UTC",
-    "fetched_at_ist": "2026-09-24 06:08:48 IST",
+    "fetched_at_utc": "2026-09-24 22:35:02 UTC",
+    "fetched_at_ist": "2026-09-25 04:05:02 IST",
     "item_count": 5,
-    "content_hash": "09a43a8774379fd955dbaa1a5e580f5d6e8e6063ea427443fd7b09afc50d1f95",
-    "previous_hash": "c49ae3c49470d59f7d5e92a4fd62bf7fa7a94c0954f88826f0420719d60bc0b8",
+    "content_hash": "8c5059a75cbcb246082ed050ee8df6bc667345d86332d3c4ad9f643ca465fd5e",
+    "previous_hash": "09a43a8774379fd955dbaa1a5e580f5d6e8e6063ea427443fd7b09afc50d1f95",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49824268,
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 112,
-      "comments": 59
+      "id": 49831968,
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 816,
+      "comments": 228
     },
     {
-      "id": 49823582,
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 96,
-      "comments": 41
+      "id": 49823738,
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 356,
+      "comments": 52
     },
     {
-      "id": 49820134,
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 457,
-      "comments": 504
+      "id": 49837006,
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "score": 40,
+      "comments": 4
     },
     {
-      "id": 49822555,
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 106,
-      "comments": 71
+      "id": 49833867,
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 153,
+      "comments": 66
     },
     {
-      "id": 49823664,
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 36,
-      "comments": 2
+      "id": 49836419,
+      "title": "California is chasing wealth that has feet",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "score": 41,
+      "comments": 108
     }
   ]
 }
