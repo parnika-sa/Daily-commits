@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-25 15:33:02 UTC",
-    "fetched_at_ist": "2026-09-25 21:03:02 IST",
+    "fetched_at_utc": "2026-09-25 19:32:42 UTC",
+    "fetched_at_ist": "2026-09-26 01:02:42 IST",
     "item_count": 5,
-    "content_hash": "72f1e48864cf824c01d8e0dab9386f86c963557b8b3f3ca187dbe9943662a5fa",
-    "previous_hash": "95df78580db994738b66dcd2eb57a7b32b77e94df108ef6a7788928079ff1c64",
+    "content_hash": "e91f784e2b595dd4c20dea6b47937c44d5ce4bfe7fedb403fecf3300546755e8",
+    "previous_hash": "72f1e48864cf824c01d8e0dab9386f86c963557b8b3f3ca187dbe9943662a5fa",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49844786,
-      "title": "Allow Carriers on Planes",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-      "score": 94,
-      "comments": 73
+      "id": 49848269,
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 63,
+      "comments": 25
+    },
+    {
+      "id": 49848295,
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 42,
+      "comments": 6
     },
     {
       "id": 49843269,
-      "title": "Platform-Independent SIMD in Go",
+      "title": "Platform-independent SIMD in Go",
       "url": "https://go.dev/blog/simd-experiment",
-      "score": 134,
-      "comments": 34
+      "score": 291,
+      "comments": 110
     },
     {
       "id": 49843174,
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
       "url": "https://github.com/git-bug/git-bug",
-      "score": 129,
-      "comments": 30
+      "score": 235,
+      "comments": 82
     },
     {
-      "id": 49841285,
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 169,
-      "comments": 72
-    },
-    {
-      "id": 49842270,
-      "title": "Ink and Switch Interactive Homepage",
-      "url": "https://www.inkandswitch.com/",
-      "score": 116,
-      "comments": 17
+      "id": 49845977,
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 245,
+      "comments": 371
     }
   ]
 }
