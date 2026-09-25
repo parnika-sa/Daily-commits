@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-25 (last updated: 11:07 IST)
+
+## 📅 2026-09-25 (last updated: 16:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-09-20 11:41:35 IST | c231035a5679 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-25 11:07:55 IST | 6a7cf4153ce5 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-09-25 16:02:56 IST | 95df78580db9 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-25 00:50:47 IST | 609c6828c206 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 483 stars today
 
 ### 📰 Hacker News Stories
-- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 1078
-- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) — Score: 567
-- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) — Score: 251
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) — Score: 338
-- [2DWillNeverDie](https://2dwillneverdie.com/) — Score: 176
+- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/) — Score: 189
+- [Tech Needs Humanists More](https://passo.uno/tech-needs-humanists-more-than-ever/) — Score: 44
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation) — Score: 66
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 1259
+- [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,563.0 🟢 +0.30%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-25 05:37:55 UTC",
-    "fetched_at_ist": "2026-09-25 11:07:55 IST",
+    "fetched_at_utc": "2026-09-25 10:32:56 UTC",
+    "fetched_at_ist": "2026-09-25 16:02:56 IST",
     "item_count": 5,
-    "content_hash": "6a7cf4153ce573c5e12479ec2ef8ed73cd1dd4f33d65c8034a11e9843c306338",
-    "previous_hash": "8c5059a75cbcb246082ed050ee8df6bc667345d86332d3c4ad9f643ca465fd5e",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "95df78580db994738b66dcd2eb57a7b32b77e94df108ef6a7788928079ff1c64",
+    "previous_hash": "6a7cf4153ce573c5e12479ec2ef8ed73cd1dd4f33d65c8034a11e9843c306338",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49841563,
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "score": 189,
+      "comments": 80
+    },
+    {
+      "id": 49842127,
+      "title": "Tech Needs Humanists More",
+      "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+      "score": 44,
+      "comments": 29
+    },
+    {
+      "id": 49841285,
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 66,
+      "comments": 22
+    },
     {
       "id": 49831968,
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1078,
-      "comments": 288
+      "score": 1259,
+      "comments": 362
     },
     {
-      "id": 49823738,
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 567,
-      "comments": 80
-    },
-    {
-      "id": 49833867,
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 251,
-      "comments": 94
-    },
-    {
-      "id": 49832938,
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 338,
-      "comments": 176
-    },
-    {
-      "id": 49801436,
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 176,
-      "comments": 23
+      "id": 49842270,
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
+      "score": 13,
+      "comments": 1
     }
   ]
 }
