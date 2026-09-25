@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-25 10:32:56 UTC",
-    "fetched_at_ist": "2026-09-25 16:02:56 IST",
+    "fetched_at_utc": "2026-09-25 15:33:02 UTC",
+    "fetched_at_ist": "2026-09-25 21:03:02 IST",
     "item_count": 5,
-    "content_hash": "95df78580db994738b66dcd2eb57a7b32b77e94df108ef6a7788928079ff1c64",
-    "previous_hash": "6a7cf4153ce573c5e12479ec2ef8ed73cd1dd4f33d65c8034a11e9843c306338",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "72f1e48864cf824c01d8e0dab9386f86c963557b8b3f3ca187dbe9943662a5fa",
+    "previous_hash": "95df78580db994738b66dcd2eb57a7b32b77e94df108ef6a7788928079ff1c64",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49841563,
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "url": "https://www.dawo.community/en/",
-      "score": 189,
-      "comments": 80
+      "id": 49844786,
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "score": 94,
+      "comments": 73
     },
     {
-      "id": 49842127,
-      "title": "Tech Needs Humanists More",
-      "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
-      "score": 44,
-      "comments": 29
+      "id": 49843269,
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 134,
+      "comments": 34
+    },
+    {
+      "id": 49843174,
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "score": 129,
+      "comments": 30
     },
     {
       "id": 49841285,
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 66,
-      "comments": 22
-    },
-    {
-      "id": 49831968,
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1259,
-      "comments": 362
+      "score": 169,
+      "comments": 72
     },
     {
       "id": 49842270,
       "title": "Ink and Switch Interactive Homepage",
       "url": "https://www.inkandswitch.com/",
-      "score": 13,
-      "comments": 1
+      "score": 116,
+      "comments": 17
     }
   ]
 }
