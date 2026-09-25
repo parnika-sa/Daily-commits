@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-25 (last updated: 04:05 IST)
+
+## 📅 2026-09-25 (last updated: 11:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-09-20 11:41:35 IST | c231035a5679 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-25 04:05:02 IST | 8c5059a75cbc | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-25 11:07:55 IST | 6a7cf4153ce5 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-09-25 00:50:47 IST | 609c6828c206 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 483 stars today
 
 ### 📰 Hacker News Stories
-- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 816
-- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) — Score: 356
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) — Score: 40
-- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) — Score: 153
-- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that) — Score: 41
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 1078
+- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) — Score: 567
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) — Score: 251
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) — Score: 338
+- [2DWillNeverDie](https://2dwillneverdie.com/) — Score: 176
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,563.0 🟢 +0.30%
