@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-26 (last updated: 01:02 IST)
+
+## 📅 2026-09-26 (last updated: 11:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-09-20 11:41:35 IST | c231035a5679 | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-26 01:02:42 IST | e91f784e2b59 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-25 00:50:47 IST | 609c6828c206 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-26 11:38:05 IST | 36e7be1f5e8b | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-26 11:38:06 IST | 48413995f34e | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-26 11:38:05 IST | 93c76163ea71 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** (JavaScript) — A coding-agent skill for multi-phase security audits with independently verified  
-  ⭐ 3,155 stars today
-- **[trycua/cua](https://github.com/trycua/cua)** (HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks  
-  ⭐ 859 stars today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (JavaScript) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 556 stars today
-- **[coder/coder](https://github.com/coder/coder)** (Go) — Secure environments for developers and their agents  
-  ⭐ 402 stars today
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (TypeScript) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
-  ⭐ 483 stars today
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** (TypeScript) — The open-source app everyone uses to manage agents at work  
+  ⭐ 2,109 stars today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 83 stars today
+- **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** (Python) — Hindsight: Agent Memory That Learns  
+  ⭐ 1,653 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 468 stars today
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .agents directory.  
+  ⭐ 583 stars today
 
 ### 📰 Hacker News Stories
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) — Score: 63
-- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk) — Score: 42
-- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) — Score: 291
-- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) — Score: 235
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) — Score: 245
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) — Score: 365
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) — Score: 23
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) — Score: 219
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) — Score: 395
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) — Score: 182
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $84,563.0 🟢 +0.30%
-- Ethereum: $2,692.41 🟢 +0.92%
-- Solana: $117.52 🟢 +2.88%
-- Bnb: $780.7 🟢 +1.88%
+- Bitcoin: $83,918.0 🔴 -0.33%
+- Ethereum: $2,685.36 🟢 +0.26%
+- Solana: $120.44 🟢 +3.48%
+- Bnb: $772.58 🔴 -0.34%
 
 ---
 ## 📅 2026-09-25 (last updated: 21:03 IST)

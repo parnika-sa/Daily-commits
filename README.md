@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-25 19:32:42 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-26 06:08:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **cloudflare/security-audit-skill**
-- BTC: **$84,563.0** ↑ (+0.30%)
-- HN top story: **Ollaya – Ollama for open-source, Jev-style decision models**
+- Top GitHub repo: **paperclipai/paperclip**
+- BTC: **$83,918.0** ↓ (-0.33%)
+- HN top story: **Revealing the details of how OpenAI agents hacked Hugging Face**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-09-20 06:11:35 UTC | `c231035a5679` | +9 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-25 19:32:42 UTC | `e91f784e2b59` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-24 19:20:47 UTC | `609c6828c206` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-26 06:08:05 UTC | `36e7be1f5e8b` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-26 06:08:06 UTC | `48413995f34e` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-26 06:08:05 UTC | `93c76163ea71` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-26` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-09-26 04:18:00 IST` |
+| Last Commit (IST) | `2026-09-26 06:34:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-23 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-24 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-26 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-09-26 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $84,563.0 | +0.30% | 🟢 |
-| Ethereum | $2,692.41 | +0.92% | 🟢 |
-| Solana | $117.52 | +2.88% | 🟢 |
-| Bnb | $780.7 | +1.88% | 🟢 |
+| Bitcoin | $83,918.0 | -0.33% | 🔴 |
+| Ethereum | $2,685.36 | +0.26% | 🟢 |
+| Solana | $120.44 | +3.48% | 🟢 |
+| Bnb | $772.58 | -0.34% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3,155 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [trycua/cua](https://github.com/trycua/cua) | HTML | 859 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 556 stars today | Production-grade engineering skills for AI coding agents. |
-| [coder/coder](https://github.com/coder/coder) | Go | 402 stars today | Secure environments for developers and their agents |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | 483 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 472 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
-| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | 196 stars today | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framew… |
-| [docling-project/docling](https://github.com/docling-project/docling) | Python | 129 stars today | Get your documents ready for gen AI |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 2,109 stars today | The open-source app everyone uses to manage agents at work |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 83 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 1,653 stars today | Hindsight: Agent Memory That Learns |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 468 stars today | An agentic skills framework & software development methodology that works. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 583 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,050 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 189 stars today | Public repository for Agent Skills |
+| [androoAGI/starnet](https://github.com/androoAGI/starnet) | JavaScript | 93 stars today | A living pixel-art station where real AI agents do real work. Local-first deskto… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | 63 | 25 |
-| [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk) | 42 | 6 |
-| [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment) | 291 | 110 |
-| [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) | 235 | 82 |
-| [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) | 245 | 371 |
+| [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | 365 | 220 |
+| [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | 23 | 1 |
+| [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) | 219 | 199 |
+| [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | 395 | 108 |
+| [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) | 182 | 77 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
