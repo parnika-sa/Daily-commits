@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 08:33:11 UTC",
-    "fetched_at_ist": "2026-09-27 14:03:11 IST",
+    "fetched_at_utc": "2026-09-27 18:33:14 UTC",
+    "fetched_at_ist": "2026-09-28 00:03:14 IST",
     "item_count": 5,
-    "content_hash": "e92fe43d2d3062c63a998ed13ab80b9670b5a6ca43044c63d89ecc6bfd4ace74",
-    "previous_hash": "4777ecf0c27b537d584871ee2dce5cefe478344e1e09766b93bc075da5ec7484",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "615ee22da6ca0ee4b48731320869d20bf077917dbff2392a7d697ae2794dea37",
+    "previous_hash": "e92fe43d2d3062c63a998ed13ab80b9670b5a6ca43044c63d89ecc6bfd4ace74",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49863864,
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 44,
-      "comments": 5
+      "id": 49868830,
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 54,
+      "comments": 18
     },
     {
-      "id": 49844657,
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "score": 313,
-      "comments": 222
+      "id": 49866951,
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 116,
+      "comments": 44
     },
     {
-      "id": 49854219,
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "score": 49,
-      "comments": 6
+      "id": 49849409,
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 96,
+      "comments": 38
     },
     {
-      "id": 49856988,
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 203,
-      "comments": 63
+      "id": 49866515,
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 87,
+      "comments": 41
     },
     {
-      "id": 49842764,
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 405,
-      "comments": 219
+      "id": 49868083,
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "score": 171,
+      "comments": 111
     }
   ]
 }
