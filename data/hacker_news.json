@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 18:33:14 UTC",
-    "fetched_at_ist": "2026-09-28 00:03:14 IST",
+    "fetched_at_utc": "2026-09-27 21:36:09 UTC",
+    "fetched_at_ist": "2026-09-28 03:06:09 IST",
     "item_count": 5,
-    "content_hash": "615ee22da6ca0ee4b48731320869d20bf077917dbff2392a7d697ae2794dea37",
-    "previous_hash": "e92fe43d2d3062c63a998ed13ab80b9670b5a6ca43044c63d89ecc6bfd4ace74",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "0d058e4dd69e91c800b18bc394c5f11ceb3a5cc4d91f263adfacad0fa8f4c04c",
+    "previous_hash": "615ee22da6ca0ee4b48731320869d20bf077917dbff2392a7d697ae2794dea37",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49870367,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 256,
+      "comments": 144
+    },
+    {
       "id": 49868830,
       "title": "Ember-1",
       "url": "https://fireworks.ai/blog/ember-1",
-      "score": 54,
-      "comments": 18
+      "score": 236,
+      "comments": 132
     },
     {
-      "id": 49866951,
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 116,
-      "comments": 44
+      "id": 49870070,
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "score": 38,
+      "comments": 16
     },
     {
-      "id": 49849409,
-      "title": "Writing Efficient C++ Code",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 96,
-      "comments": 38
+      "id": 49869574,
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 98,
+      "comments": 33
     },
     {
-      "id": 49866515,
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 87,
-      "comments": 41
-    },
-    {
-      "id": 49868083,
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "score": 171,
-      "comments": 111
+      "id": 49870837,
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "score": 9,
+      "comments": 0
     }
   ]
 }
