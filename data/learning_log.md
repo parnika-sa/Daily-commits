@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-27 (last updated: 03:03 IST)
+
+## 📅 2026-09-27 (last updated: 08:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-26 11:38:05 IST | 36e7be1f5e8b | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-27 03:03:25 IST | 699117de21cd | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-27 08:10:42 IST | 4777ecf0c27b | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-26 16:49:05 IST | c3c7e2888842 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 583 stars today
 
 ### 📰 Hacker News Stories
-- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) — Score: 250
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) — Score: 92
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) — Score: 54
-- [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/) — Score: 68
-- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) — Score: 80
+- [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) — Score: 153
+- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) — Score: 326
+- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) — Score: 166
+- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) — Score: 48
+- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) — Score: 198
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,172.0 🔴 -1.15%

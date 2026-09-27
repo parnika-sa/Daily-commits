@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-26 21:33:25 UTC",
-    "fetched_at_ist": "2026-09-27 03:03:25 IST",
+    "fetched_at_utc": "2026-09-27 02:40:42 UTC",
+    "fetched_at_ist": "2026-09-27 08:10:42 IST",
     "item_count": 5,
-    "content_hash": "699117de21cd60033022fc7f3b2ef4f109779ab952c935a3ad51a4ea762b4513",
-    "previous_hash": "f8dc5b89b6bdc77f21f101d5c1c2fcf7c8906e0ffa80c06e1262fddddc05edf3",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "4777ecf0c27b537d584871ee2dce5cefe478344e1e09766b93bc075da5ec7484",
+    "previous_hash": "699117de21cd60033022fc7f3b2ef4f109779ab952c935a3ad51a4ea762b4513",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49844657,
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 153,
+      "comments": 88
+    },
+    {
       "id": 49842764,
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 250,
-      "comments": 131
-    },
-    {
-      "id": 49858513,
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "score": 92,
-      "comments": 26
+      "score": 326,
+      "comments": 184
     },
     {
       "id": 49859112,
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
-      "score": 54,
-      "comments": 12
+      "score": 166,
+      "comments": 52
     },
     {
-      "id": 49832768,
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "score": 68,
-      "comments": 13
+      "id": 49856988,
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 48,
+      "comments": 9
     },
     {
-      "id": 49857729,
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "score": 80,
-      "comments": 26
+      "id": 49858513,
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 198,
+      "comments": 57
     }
   ]
 }
