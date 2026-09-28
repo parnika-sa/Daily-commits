@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-28 (last updated: 03:06 IST)
+
+## 📅 2026-09-28 (last updated: 09:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-26 11:38:05 IST | 36e7be1f5e8b | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-28 03:06:09 IST | 0d058e4dd69e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-28 09:03:34 IST | 89ac684afb92 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-27 19:47:07 IST | 27c4ccab5da9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 583 stars today
 
 ### 📰 Hacker News Stories
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) — Score: 256
-- [Ember-1](https://fireworks.ai/blog/ember-1) — Score: 236
-- [Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) — Score: 38
-- [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/) — Score: 98
-- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html) — Score: 9
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) — Score: 145
+- [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) — Score: 46
+- [Ember-1](https://fireworks.ai/blog/ember-1) — Score: 381
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) — Score: 898
+- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,982.0 🟢 +1.23%

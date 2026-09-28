@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 21:36:09 UTC",
-    "fetched_at_ist": "2026-09-28 03:06:09 IST",
+    "fetched_at_utc": "2026-09-28 03:33:34 UTC",
+    "fetched_at_ist": "2026-09-28 09:03:34 IST",
     "item_count": 5,
-    "content_hash": "0d058e4dd69e91c800b18bc394c5f11ceb3a5cc4d91f263adfacad0fa8f4c04c",
-    "previous_hash": "615ee22da6ca0ee4b48731320869d20bf077917dbff2392a7d697ae2794dea37",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "89ac684afb9297553a7079003eb83bffffee1ac4f7f165feff919c447038f481",
+    "previous_hash": "0d058e4dd69e91c800b18bc394c5f11ceb3a5cc4d91f263adfacad0fa8f4c04c",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49870367,
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 256,
-      "comments": 144
+      "id": 49872723,
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "score": 145,
+      "comments": 59
+    },
+    {
+      "id": 49872472,
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "score": 46,
+      "comments": 5
     },
     {
       "id": 49868830,
       "title": "Ember-1",
       "url": "https://fireworks.ai/blog/ember-1",
-      "score": 236,
-      "comments": 132
+      "score": 381,
+      "comments": 191
     },
     {
-      "id": 49870070,
-      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 38,
-      "comments": 16
+      "id": 49870367,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 898,
+      "comments": 475
     },
     {
-      "id": 49869574,
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "score": 98,
-      "comments": 33
-    },
-    {
-      "id": 49870837,
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "score": 9,
-      "comments": 0
+      "id": 49872883,
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "score": 8,
+      "comments": 6
     }
   ]
 }
