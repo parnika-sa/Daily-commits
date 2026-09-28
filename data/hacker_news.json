@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-28 03:33:34 UTC",
-    "fetched_at_ist": "2026-09-28 09:03:34 IST",
+    "fetched_at_utc": "2026-09-28 18:08:49 UTC",
+    "fetched_at_ist": "2026-09-28 23:38:49 IST",
     "item_count": 5,
-    "content_hash": "89ac684afb9297553a7079003eb83bffffee1ac4f7f165feff919c447038f481",
-    "previous_hash": "0d058e4dd69e91c800b18bc394c5f11ceb3a5cc4d91f263adfacad0fa8f4c04c",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "0e7e3b1284c4370170b805cf2422d3c10a637c471f6ee2cf901d0aa013e7df37",
+    "previous_hash": "89ac684afb9297553a7079003eb83bffffee1ac4f7f165feff919c447038f481",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49872723,
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "score": 145,
-      "comments": 59
+      "id": 49880036,
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 135,
+      "comments": 30
     },
     {
-      "id": 49872472,
-      "title": "Self-parking car using genetic algorithm (2021)",
-      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "score": 46,
-      "comments": 5
+      "id": 49881850,
+      "title": "Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "score": 21,
+      "comments": 4
     },
     {
-      "id": 49868830,
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 381,
-      "comments": 191
+      "id": 49879702,
+      "title": "Hijacking the PS5's RTMP Stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "score": 71,
+      "comments": 9
     },
     {
-      "id": 49870367,
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 898,
-      "comments": 475
+      "id": 49881747,
+      "title": "Definitely not Windows (Win 11 parody)",
+      "url": "https://definitelynotwindows.com/",
+      "score": 6,
+      "comments": 0
     },
     {
-      "id": 49872883,
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "score": 8,
-      "comments": 6
+      "id": 49879401,
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "score": 42,
+      "comments": 12
     }
   ]
 }

@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-28 (last updated: 09:03 IST)
+
+## 📅 2026-09-28 (last updated: 23:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-26 11:38:05 IST | 36e7be1f5e8b | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-28 09:03:34 IST | 89ac684afb92 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-27 19:47:07 IST | 27c4ccab5da9 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-09-28 23:38:47 IST | 7e24d2858012 | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-28 23:38:49 IST | 0e7e3b1284c4 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-28 23:38:47 IST | 59b7ef76ecf8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** (Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni  
+  ⭐ 3,274 stars today
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** (TypeScript) — The open-source app everyone uses to manage agents at work  
-  ⭐ 2,109 stars today
-- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 83 stars today
+  ⭐ 3,185 stars today
 - **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** (Python) — Hindsight: Agent Memory That Learns  
-  ⭐ 1,653 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 468 stars today
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .agents directory.  
-  ⭐ 583 stars today
+  ⭐ 4,413 stars today
+- **[NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** (PLSQL) — Open-source, low-cost 10.5 GHz PLFM phased array RADAR system  
+  ⭐ 145 stars today
+- **[cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)** (TeX) — Open Source Introductory Systems Programming Textbook for the University of Illi  
+  ⭐ 316 stars today
 
 ### 📰 Hacker News Stories
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) — Score: 145
-- [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) — Score: 46
-- [Ember-1](https://fireworks.ai/blog/ember-1) — Score: 381
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) — Score: 898
-- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) — Score: 8
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) — Score: 135
+- [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) — Score: 21
+- [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) — Score: 71
+- [Definitely not Windows (Win 11 parody)](https://definitelynotwindows.com/) — Score: 6
+- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) — Score: 42
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $84,982.0 🟢 +1.23%
-- Ethereum: $2,706.18 🟢 +0.70%
-- Solana: $122.98 🟢 +1.66%
-- Bnb: $780.17 🟢 +0.94%
+- Bitcoin: $83,897.0 🔴 -0.78%
+- Ethereum: $2,695.07 🟢 +0.20%
+- Solana: $119.75 🔴 -1.86%
+- Bnb: $769.82 🔴 -0.96%
 
 ---
 ## 📅 2026-09-27 (last updated: 19:47 IST)

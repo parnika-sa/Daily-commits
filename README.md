@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-28 03:33:34 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-28 18:08:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **paperclipai/paperclip**
-- BTC: **$84,982.0** ↑ (+1.23%)
-- HN top story: **Owed a billion dollars in Nvidia stock**
+- Top GitHub repo: **debpalash/VoiceStudio**
+- BTC: **$83,897.0** ↓ (-0.78%)
+- HN top story: **Pirating the Pirates**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-26 06:08:05 UTC | `36e7be1f5e8b` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-28 03:33:34 UTC | `89ac684afb92` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-27 14:17:07 UTC | `27c4ccab5da9` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-09-28 18:08:47 UTC | `7e24d2858012` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-28 18:08:49 UTC | `0e7e3b1284c4` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-28 18:08:47 UTC | `59b7ef76ecf8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-28` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-09-28 09:03:34 IST` |
+| Last Commit (IST) | `2026-09-28 15:39:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-26 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-27 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-28 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-09-28 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $84,982.0 | +1.23% | 🟢 |
-| Ethereum | $2,706.18 | +0.70% | 🟢 |
-| Solana | $122.98 | +1.66% | 🟢 |
-| Bnb | $780.17 | +0.94% | 🟢 |
+| Bitcoin | $83,897.0 | -0.78% | 🔴 |
+| Ethereum | $2,695.07 | +0.20% | 🟢 |
+| Solana | $119.75 | -1.86% | 🔴 |
+| Bnb | $769.82 | -0.96% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 2,109 stars today | The open-source app everyone uses to manage agents at work |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 83 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 1,653 stars today | Hindsight: Agent Memory That Learns |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 468 stars today | An agentic skills framework & software development methodology that works. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 583 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,050 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 189 stars today | Public repository for Agent Skills |
-| [androoAGI/starnet](https://github.com/androoAGI/starnet) | JavaScript | 93 stars today | A living pixel-art station where real AI agents do real work. Local-first deskto… |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,274 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 3,185 stars today | The open-source app everyone uses to manage agents at work |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 4,413 stars today | Hindsight: Agent Memory That Learns |
+| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 145 stars today | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 316 stars today | Open Source Introductory Systems Programming Textbook for the University of Illi… |
+| [byoungd/up](https://github.com/byoungd/up) | JavaScript | 310 stars today | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶… |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 781 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,105 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | 145 | 59 |
-| [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) | 46 | 5 |
-| [Ember-1](https://fireworks.ai/blog/ember-1) | 381 | 191 |
-| [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) | 898 | 475 |
-| [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) | 8 | 6 |
+| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | 135 | 30 |
+| [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) | 21 | 4 |
+| [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | 71 | 9 |
+| [Definitely not Windows (Win 11 parody)](https://definitelynotwindows.com/) | 6 | 0 |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | 42 | 12 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
