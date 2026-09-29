@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-09-29 (last updated: 23:38 IST)
+
+## 📅 2026-09-29 (last updated: 08:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-09-28 23:38:47 IST | 7e24d2858012 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-28 23:38:49 IST | 0e7e3b1284c4 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-29 08:04:25 IST | eb22b30d4f1b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-28 23:38:47 IST | 59b7ef76ecf8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 316 stars today
 
 ### 📰 Hacker News Stories
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) — Score: 135
-- [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) — Score: 21
-- [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) — Score: 71
-- [Definitely not Windows (Win 11 parody)](https://definitelynotwindows.com/) — Score: 6
-- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) — Score: 42
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) — Score: 300
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) — Score: 426
+- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) — Score: 85
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) — Score: 139
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) — Score: 25
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,897.0 🔴 -0.78%
@@ -44,11 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $769.82 🔴 -0.96%
 
 ---
-
-
-
-
-
 ## 📅 2026-09-28 (last updated: 23:38 IST)
 
 ### 🧪 Source Integrity Snapshot
