@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-30 (last updated: 08:04 IST)
+
+## 📅 2026-09-30 (last updated: 15:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-09-28 23:38:47 IST | 7e24d2858012 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-29 08:04:25 IST | eb22b30d4f1b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-30 15:07:11 IST | 284212f16778 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-28 23:38:47 IST | 59b7ef76ecf8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 316 stars today
 
 ### 📰 Hacker News Stories
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) — Score: 300
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) — Score: 426
-- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) — Score: 85
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) — Score: 139
-- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) — Score: 25
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) — Score: 173
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) — Score: 606
+- [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/) — Score: 63
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/) — Score: 615
+- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms) — Score: 196
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,897.0 🔴 -0.78%
