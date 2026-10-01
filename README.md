@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-01 00:16:45 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-01 06:14:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **debpalash/VoiceStudio**
-- BTC: **$83,464.0** ↓ (-0.05%)
-- HN top story: **September 2026: The world today, as seen by one Polish guy**
+- Top GitHub repo: **NVIDIA/OpenShell**
+- BTC: **$84,327.0** ↑ (+1.38%)
+- HN top story: **Gemini 4 Argon**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 8 | 2026-09-28 18:08:47 UTC | `7e24d2858012` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-30 09:37:11 UTC | `284212f16778` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-01 00:16:45 UTC | `950ac4722f26` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-10-01 06:14:43 UTC | `f8a4b271bed8` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-01 06:14:44 UTC | `751c33480fe1` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-01 06:14:43 UTC | `9c2be92ca825` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
+- GitHub: +13 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-01` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `62` day(s) |
-| Last Commit (IST) | `2026-10-01 02:17:11 IST` |
+| Last Commit (IST) | `2026-10-01 05:46:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-28 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-09-30 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-10-01 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-10-01 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $83,464.0 | -0.05% | 🔴 |
-| Ethereum | $2,681.3 | +0.38% | 🟢 |
-| Solana | $117.98 | -0.69% | 🔴 |
-| Bnb | $768.36 | +1.41% | 🟢 |
+| Bitcoin | $84,327.0 | +1.38% | 🟢 |
+| Ethereum | $2,717.53 | +1.87% | 🟢 |
+| Solana | $119.53 | +0.77% | 🟢 |
+| Bnb | $771.4 | +1.32% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,274 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 3,185 stars today | The open-source app everyone uses to manage agents at work |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 4,413 stars today | Hindsight: Agent Memory That Learns |
-| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 145 stars today | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
-| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 316 stars today | Open Source Introductory Systems Programming Textbook for the University of Illi… |
-| [byoungd/up](https://github.com/byoungd/up) | JavaScript | 310 stars today | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶… |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 781 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
-| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,105 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 1,281 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,483 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 624 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 90 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 743 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 431 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 136 stars today | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 123 stars today | A curated list of awesome Claude Skills, resources, and tools for customizing Cl… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) | 173 | 70 |
-| [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | 606 | 247 |
-| [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/) | 63 | 22 |
-| [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | 615 | 477 |
-| [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms) | 196 | 155 |
+| [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | 1239 | 794 |
+| [Suits Are Better Tech Than Modern Clothes](https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/) | 12 | 3 |
+| [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) | 188 | 83 |
+| [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | 164 | 83 |
+| [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | 161 | 53 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

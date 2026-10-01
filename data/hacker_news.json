@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-30 09:37:11 UTC",
-    "fetched_at_ist": "2026-09-30 15:07:11 IST",
+    "fetched_at_utc": "2026-10-01 06:14:44 UTC",
+    "fetched_at_ist": "2026-10-01 11:44:44 IST",
     "item_count": 5,
-    "content_hash": "284212f1677812da8020478b534d70f141c3d24b092255098042d780c3fd7ccf",
-    "previous_hash": "eb22b30d4f1bf9e46f5874eff7529c6ea4d9565f71ec8aab8d1026d057480e1a",
+    "content_hash": "751c33480fe12a358c88dcaf5b344e0a55ff734bb6074ad16761bf236106d7a9",
+    "previous_hash": "284212f1677812da8020478b534d70f141c3d24b092255098042d780c3fd7ccf",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49905487,
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "score": 173,
-      "comments": 70
+      "id": 49913571,
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1239,
+      "comments": 794
     },
     {
-      "id": 49901736,
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 606,
-      "comments": 247
+      "id": 49918161,
+      "title": "Suits Are Better Tech Than Modern Clothes",
+      "url": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
+      "score": 12,
+      "comments": 3
     },
     {
-      "id": 49887343,
-      "title": "Solving Factorio Quality",
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "score": 63,
-      "comments": 22
+      "id": 49915082,
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 188,
+      "comments": 83
     },
     {
-      "id": 49896604,
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "score": 615,
-      "comments": 477
+      "id": 49890732,
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 164,
+      "comments": 83
     },
     {
-      "id": 49897993,
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "score": 196,
-      "comments": 155
+      "id": 49912955,
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 161,
+      "comments": 53
     }
   ]
 }
