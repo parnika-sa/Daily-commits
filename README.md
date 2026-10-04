@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-04 14:21:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-04 18:14:35 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **NVIDIA/OpenShell**
-- BTC: **$85,170.0** ↑ (+0.44%)
-- HN top story: **Why don't more developers “use the platform”?**
+- Top GitHub repo: **tester-army/e2e**
+- BTC: **$85,302.0** ↑ (+0.38%)
+- HN top story: **Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-10-01 06:14:43 UTC | `f8a4b271bed8` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-04 08:39:02 UTC | `9aca51776a7f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-04 14:21:24 UTC | `bc3f483b0b2a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-10-04 18:14:34 UTC | `dc5a6ed94edf` | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-04 18:14:35 UTC | `471a705ee859` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-04 18:14:34 UTC | `e359783196a1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
+- GitHub: +14 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-04` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `64` day(s) |
-| Last Commit (IST) | `2026-10-04 14:09:02 IST` |
+| Last Commit (IST) | `2026-10-04 19:51:24 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-01 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-02 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-04 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-10-04 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $85,170.0 | +0.44% | 🟢 |
-| Ethereum | $2,695.05 | +0.56% | 🟢 |
-| Solana | $121.39 | +1.78% | 🟢 |
-| Bnb | $786.38 | +1.51% | 🟢 |
+| Bitcoin | $85,302.0 | +0.38% | 🟢 |
+| Ethereum | $2,700.69 | +0.54% | 🟢 |
+| Solana | $121.34 | +1.21% | 🟢 |
+| Bnb | $788.48 | +0.03% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 1,281 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,483 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 624 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 90 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 743 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 431 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 136 stars today | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 123 stars today | A curated list of awesome Claude Skills, resources, and tools for customizing Cl… |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 344 stars today | Next generation e2e testing framework for web and mobile apps. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,170 stars today | The design language that makes your AI harness better at design. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 270 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,894 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 75 stars today | Give your agent CAD superpowers. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 979 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 152 stars today | Developer-first error tracking and performance monitoring |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 361 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) | 109 | 76 |
-| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | 395 | 79 |
-| [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | 192 | 127 |
-| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | 260 | 38 |
-| [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) | 179 | 83 |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 355 | 188 |
+| [A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world) | 63 | 34 |
+| [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/) | 165 | 81 |
+| [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and) | 21 | 12 |
+| [Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN](https://awesomedataviz.com/) | 4 | 0 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
