@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-04 (last updated: 07:57 IST)
+
+## 📅 2026-10-04 (last updated: 14:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-10-01 11:44:43 IST | f8a4b271bed8 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-03 01:10:46 IST | fc75b4733b1d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-04 14:09:02 IST | 9aca51776a7f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-04 07:57:17 IST | d233292a898d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 743 stars today
 
 ### 📰 Hacker News Stories
-- [Apple Pass Designer](https://developer.apple.com/pass-designer/) — Score: 70
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) — Score: 276
-- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) — Score: 63
-- [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) — Score: 38
-- [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) — Score: 53
+- [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) — Score: 109
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) — Score: 395
+- [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) — Score: 192
+- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) — Score: 260
+- [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) — Score: 179
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,825.0 🟢 +0.21%
