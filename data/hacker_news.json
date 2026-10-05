@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-05 05:32:27 UTC",
-    "fetched_at_ist": "2026-10-05 11:02:27 IST",
+    "fetched_at_utc": "2026-10-05 12:37:30 UTC",
+    "fetched_at_ist": "2026-10-05 18:07:30 IST",
     "item_count": 5,
-    "content_hash": "c2028de0fa29ec83db1e495597364348ff9a0bae89e27aadecca7febd9089cf4",
-    "previous_hash": "0f0154ed1229733824e0b9ea5fe9ebdf291d94f93f3416ffe9c530466d1e5fcd",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "30bd055aa9026fd1b9bf5eb06ce0c88900befa2b9b9b400c8c5586a97dc6dba7",
+    "previous_hash": "c2028de0fa29ec83db1e495597364348ff9a0bae89e27aadecca7febd9089cf4",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49953495,
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 683,
-      "comments": 313
+      "id": 49963366,
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "score": 101,
+      "comments": 50
     },
     {
-      "id": 49957812,
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 81,
-      "comments": 8
+      "id": 49963171,
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 84,
+      "comments": 41
     },
     {
-      "id": 49959654,
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "url": "https://frn.sh/go-gc/",
-      "score": 31,
-      "comments": 7
+      "id": 49962857,
+      "title": "Apple and a Hacker's Future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "score": 70,
+      "comments": 32
     },
     {
-      "id": 49943637,
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 105,
-      "comments": 15
+      "id": 49962012,
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "score": 232,
+      "comments": 182
     },
     {
-      "id": 49956681,
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 146,
-      "comments": 52
+      "id": 49961861,
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "score": 85,
+      "comments": 56
     }
   ]
 }
