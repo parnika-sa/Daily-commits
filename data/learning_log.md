@@ -4,51 +4,47 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-05 (last updated: 02:57 IST)
+
+## 📅 2026-10-05 (last updated: 05:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-10-04 23:44:34 IST | dc5a6ed94edf | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-04 23:44:35 IST | 471a705ee859 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-05 02:57:34 IST | 644dd9180d9f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-10-05 05:33:12 IST | b76af3118530 | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-05 05:33:13 IST | 0f0154ed1229 | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-10-05 05:33:12 IST | c611a85fe789 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +1 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[tester-army/e2e](https://github.com/tester-army/e2e)** (TypeScript) — Next generation e2e testing framework for web and mobile apps.  
-  ⭐ 344 stars today
+  ⭐ 345 stars today
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** (JavaScript) — The design language that makes your AI harness better at design.  
-  ⭐ 1,170 stars today
+  ⭐ 1,171 stars today
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** (JavaScript) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  
-  ⭐ 270 stars today
+  ⭐ 197 stars today
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (JavaScript) — Makes your AI agent think like the laziest senior dev in the room. The best code  
   ⭐ 1,894 stars today
 - **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** (Python) — Give your agent CAD superpowers.  
-  ⭐ 75 stars today
+  ⭐ 83 stars today
 
 ### 📰 Hacker News Stories
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) — Score: 355
-- [A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world) — Score: 63
-- [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/) — Score: 165
-- [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and) — Score: 21
-- [Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN](https://awesomedataviz.com/) — Score: 4
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) — Score: 569
+- [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) — Score: 48
+- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) — Score: 292
+- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) — Score: 27
+- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) — Score: 198
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $85,861.0 🟢 +1.37%
-- Ethereum: $2,704.23 🟢 +0.68%
-- Solana: $121.42 🟢 +1.47%
-- Bnb: $793.21 🟢 +1.03%
+- Bitcoin: $86,383.0 🟢 +1.86%
+- Ethereum: $2,723.86 🟢 +1.36%
+- Solana: $121.46 🟢 +1.48%
+- Bnb: $795.06 🟢 +1.01%
 
 ---
-
-
-
-
-
 ## 📅 2026-10-04 (last updated: 23:44 IST)
 
 ### 🧪 Source Integrity Snapshot

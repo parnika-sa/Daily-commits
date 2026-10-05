@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-04 21:27:34 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-05 00:03:13 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tester-army/e2e**
-- BTC: **$85,861.0** ↑ (+1.37%)
+- BTC: **$86,383.0** ↑ (+1.86%)
 - HN top story: **Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-10-04 18:14:34 UTC | `dc5a6ed94edf` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-04 18:14:35 UTC | `471a705ee859` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-04 21:27:34 UTC | `644dd9180d9f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-10-05 00:03:12 UTC | `b76af3118530` | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-05 00:03:13 UTC | `0f0154ed1229` | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-10-05 00:03:12 UTC | `c611a85fe789` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +1 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-05` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-04 23:44:36 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `65` day(s) |
+| Last Commit (IST) | `2026-10-05 02:57:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-02 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-04 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-05 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-05 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $85,861.0 | +1.37% | 🟢 |
-| Ethereum | $2,704.23 | +0.68% | 🟢 |
-| Solana | $121.42 | +1.47% | 🟢 |
-| Bnb | $793.21 | +1.03% | 🟢 |
+| Bitcoin | $86,383.0 | +1.86% | 🟢 |
+| Ethereum | $2,723.86 | +1.36% | 🟢 |
+| Solana | $121.46 | +1.48% | 🟢 |
+| Bnb | $795.06 | +1.01% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 344 stars today | Next generation e2e testing framework for web and mobile apps. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,170 stars today | The design language that makes your AI harness better at design. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 270 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 345 stars today | Next generation e2e testing framework for web and mobile apps. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,171 stars today | The design language that makes your AI harness better at design. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 197 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,894 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 75 stars today | Give your agent CAD superpowers. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 979 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 83 stars today | Give your agent CAD superpowers. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 980 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
 | [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 152 stars today | Developer-first error tracking and performance monitoring |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 361 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 245 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 355 | 188 |
-| [A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world) | 63 | 34 |
-| [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/) | 165 | 81 |
-| [What I learnt co-leading an AI Safety bootcamp for legal and governance practit](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and) | 21 | 12 |
-| [Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN](https://awesomedataviz.com/) | 4 | 0 |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 569 | 270 |
+| [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) | 48 | 3 |
+| [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) | 292 | 176 |
+| [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) | 27 | 5 |
+| [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) | 198 | 290 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
