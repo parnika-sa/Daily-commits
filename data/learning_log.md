@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-05 (last updated: 05:33 IST)
+
+## 📅 2026-10-05 (last updated: 11:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-10-05 05:33:12 IST | b76af3118530 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-05 05:33:13 IST | 0f0154ed1229 | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-10-05 11:02:27 IST | c2028de0fa29 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-10-05 05:33:12 IST | c611a85fe789 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 83 stars today
 
 ### 📰 Hacker News Stories
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) — Score: 569
-- [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) — Score: 48
-- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) — Score: 292
-- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) — Score: 27
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) — Score: 198
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) — Score: 683
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) — Score: 81
+- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/) — Score: 31
+- [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) — Score: 105
+- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) — Score: 146
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $86,383.0 🟢 +1.86%

@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-05 00:03:13 UTC",
-    "fetched_at_ist": "2026-10-05 05:33:13 IST",
+    "fetched_at_utc": "2026-10-05 05:32:27 UTC",
+    "fetched_at_ist": "2026-10-05 11:02:27 IST",
     "item_count": 5,
-    "content_hash": "0f0154ed1229733824e0b9ea5fe9ebdf291d94f93f3416ffe9c530466d1e5fcd",
-    "previous_hash": "471a705ee859da65eb2103b94f895a62bec5b75d94a84d7858692db3c4fe80df",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c2028de0fa29ec83db1e495597364348ff9a0bae89e27aadecca7febd9089cf4",
+    "previous_hash": "0f0154ed1229733824e0b9ea5fe9ebdf291d94f93f3416ffe9c530466d1e5fcd",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49953495,
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
-      "score": 569,
-      "comments": 270
+      "score": 683,
+      "comments": 313
+    },
+    {
+      "id": 49957812,
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "score": 81,
+      "comments": 8
+    },
+    {
+      "id": 49959654,
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
+      "score": 31,
+      "comments": 7
     },
     {
       "id": 49943637,
       "title": "Infidel goes wild",
       "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 48,
-      "comments": 3
+      "score": 105,
+      "comments": 15
     },
     {
-      "id": 49957116,
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 292,
-      "comments": 176
-    },
-    {
-      "id": 49958569,
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "score": 27,
-      "comments": 5
-    },
-    {
-      "id": 49957068,
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 198,
-      "comments": 290
+      "id": 49956681,
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "score": 146,
+      "comments": 52
     }
   ]
 }
