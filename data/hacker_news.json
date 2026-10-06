@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-05 12:37:30 UTC",
-    "fetched_at_ist": "2026-10-05 18:07:30 IST",
+    "fetched_at_utc": "2026-10-06 14:43:10 UTC",
+    "fetched_at_ist": "2026-10-06 20:13:10 IST",
     "item_count": 5,
-    "content_hash": "30bd055aa9026fd1b9bf5eb06ce0c88900befa2b9b9b400c8c5586a97dc6dba7",
-    "previous_hash": "c2028de0fa29ec83db1e495597364348ff9a0bae89e27aadecca7febd9089cf4",
+    "content_hash": "d1211fcc673e38e2ccc3491e85ce4572282704b97d29776e964b336fa725ecc0",
+    "previous_hash": "30bd055aa9026fd1b9bf5eb06ce0c88900befa2b9b9b400c8c5586a97dc6dba7",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49963366,
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "score": 101,
-      "comments": 50
+      "id": 49977979,
+      "title": "Mistral Large 4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "score": 479,
+      "comments": 250
     },
     {
-      "id": 49963171,
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 84,
-      "comments": 41
+      "id": 49978116,
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "score": 213,
+      "comments": 25
     },
     {
-      "id": 49962857,
-      "title": "Apple and a Hacker's Future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 70,
-      "comments": 32
+      "id": 49977177,
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "score": 148,
+      "comments": 22
     },
     {
-      "id": 49962012,
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 232,
-      "comments": 182
+      "id": 49976265,
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 277,
+      "comments": 79
     },
     {
-      "id": 49961861,
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "score": 85,
-      "comments": 56
+      "id": 49978563,
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "score": 25,
+      "comments": 3
     }
   ]
 }
