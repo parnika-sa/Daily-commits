@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-07 02:34:29 UTC",
-    "fetched_at_ist": "2026-10-07 08:04:29 IST",
+    "fetched_at_utc": "2026-10-08 14:44:01 UTC",
+    "fetched_at_ist": "2026-10-08 20:14:01 IST",
     "item_count": 5,
-    "content_hash": "eb08659ca729ad27b2bf364c635d5fe6ba8d331602a57c300c0843fd41d395d4",
-    "previous_hash": "d1211fcc673e38e2ccc3491e85ce4572282704b97d29776e964b336fa725ecc0",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "ff50d0ededd7aa0350b0cf66cac715f21d48dfdb0a79183c698a271c773be90b",
+    "previous_hash": "eb08659ca729ad27b2bf364c635d5fe6ba8d331602a57c300c0843fd41d395d4",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49984923,
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 471,
-      "comments": 398
+      "id": 50005527,
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "score": 57,
+      "comments": 29
     },
     {
-      "id": 49977979,
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1607,
-      "comments": 969
+      "id": 50002008,
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 465,
+      "comments": 447
     },
     {
-      "id": 49984025,
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 159,
-      "comments": 62
+      "id": 49980346,
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "score": 111,
+      "comments": 30
     },
     {
-      "id": 49984716,
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 78,
-      "comments": 32
+      "id": 50005017,
+      "title": "Telnet BBS Guide",
+      "url": "https://www.telnetbbsguide.com/",
+      "score": 44,
+      "comments": 19
     },
     {
-      "id": 49987076,
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 6,
-      "comments": 0
+      "id": 50003107,
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "score": 244,
+      "comments": 189
     }
   ]
 }
