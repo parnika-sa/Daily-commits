@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-11 18:41:04 UTC",
-    "fetched_at_ist": "2026-10-12 00:11:04 IST",
+    "fetched_at_utc": "2026-10-12 01:32:06 UTC",
+    "fetched_at_ist": "2026-10-12 07:02:06 IST",
     "item_count": 5,
-    "content_hash": "5f10fc69914e61f56c05f930216924629423d3f8ab74ba5c8d05491993aa32fb",
-    "previous_hash": "ad585f0ee0f7b408169984cb324e7a7ead5ee49f384b437ced71369debe9b815",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f45d547a525a653a120ea009821d25eabd435ee7c71ffebffc3a7be38166b9f7",
+    "previous_hash": "5f10fc69914e61f56c05f930216924629423d3f8ab74ba5c8d05491993aa32fb",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50049411,
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 54,
+      "comments": 17
+    },
+    {
       "id": 50045984,
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
-      "score": 23,
-      "comments": 5
+      "score": 359,
+      "comments": 150
     },
     {
-      "id": 50043026,
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 156,
-      "comments": 192
+      "id": 50048642,
+      "title": "Fingerprints Are the New Cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 73,
+      "comments": 27
     },
     {
-      "id": 50044715,
-      "title": "How to Build Wealth as a Career Person",
-      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
-      "score": 39,
-      "comments": 28
+      "id": 50047091,
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 179,
+      "comments": 31
     },
     {
-      "id": 50045273,
-      "title": "apsw: Another Python SQLite Wrapper",
-      "url": "https://github.com/rogerbinns/apsw",
-      "score": 19,
-      "comments": 5
-    },
-    {
-      "id": 50042425,
-      "title": "The tilde in your PATH may not be your HOME",
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "score": 160,
-      "comments": 95
+      "id": 50048522,
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "score": 55,
+      "comments": 22
     }
   ]
 }
