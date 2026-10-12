@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-12 01:32:06 UTC",
-    "fetched_at_ist": "2026-10-12 07:02:06 IST",
+    "fetched_at_utc": "2026-10-12 23:40:28 UTC",
+    "fetched_at_ist": "2026-10-13 05:10:28 IST",
     "item_count": 5,
-    "content_hash": "f45d547a525a653a120ea009821d25eabd435ee7c71ffebffc3a7be38166b9f7",
-    "previous_hash": "5f10fc69914e61f56c05f930216924629423d3f8ab74ba5c8d05491993aa32fb",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "36d4717e35b4ceb651926bfc16b1cca296fc338d31b35aa36b4faefa98582a22",
+    "previous_hash": "f45d547a525a653a120ea009821d25eabd435ee7c71ffebffc3a7be38166b9f7",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50049411,
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 54,
-      "comments": 17
+      "id": 50058507,
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 391,
+      "comments": 222
     },
     {
-      "id": 50045984,
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 359,
-      "comments": 150
+      "id": 50063138,
+      "title": "Who Is Vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 71,
+      "comments": 2
     },
     {
-      "id": 50048642,
-      "title": "Fingerprints Are the New Cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 73,
-      "comments": 27
+      "id": 50058528,
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 350,
+      "comments": 153
     },
     {
-      "id": 50047091,
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 179,
-      "comments": 31
+      "id": 50063417,
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://phreak.ing/",
+      "score": 37,
+      "comments": 5
     },
     {
-      "id": 50048522,
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "score": 55,
-      "comments": 22
+      "id": 50055304,
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 378,
+      "comments": 599
     }
   ]
 }
