@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-12 23:40:28 UTC",
-    "fetched_at_ist": "2026-10-13 05:10:28 IST",
+    "fetched_at_utc": "2026-10-14 01:35:54 UTC",
+    "fetched_at_ist": "2026-10-14 07:05:54 IST",
     "item_count": 5,
-    "content_hash": "36d4717e35b4ceb651926bfc16b1cca296fc338d31b35aa36b4faefa98582a22",
-    "previous_hash": "f45d547a525a653a120ea009821d25eabd435ee7c71ffebffc3a7be38166b9f7",
+    "content_hash": "0e9a865c6eba671f223c9ae7d86056f6618cd3c1846c9c2a5763e9498925200f",
+    "previous_hash": "36d4717e35b4ceb651926bfc16b1cca296fc338d31b35aa36b4faefa98582a22",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50058507,
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 391,
-      "comments": 222
+      "id": 50073879,
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 987,
+      "comments": 752
     },
     {
-      "id": 50063138,
-      "title": "Who Is Vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "score": 71,
-      "comments": 2
+      "id": 50077020,
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 262,
+      "comments": 81
     },
     {
-      "id": 50058528,
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 350,
-      "comments": 153
+      "id": 50054092,
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 433,
+      "comments": 319
     },
     {
-      "id": 50063417,
-      "title": "Phreak.ing – Internet Phone Switch",
-      "url": "https://phreak.ing/",
-      "score": 37,
-      "comments": 5
+      "id": 50080275,
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 44,
+      "comments": 27
     },
     {
-      "id": 50055304,
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 378,
-      "comments": 599
+      "id": 50073633,
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 540,
+      "comments": 523
     }
   ]
 }
