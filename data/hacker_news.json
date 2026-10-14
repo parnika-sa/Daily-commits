@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-14 01:35:54 UTC",
-    "fetched_at_ist": "2026-10-14 07:05:54 IST",
+    "fetched_at_utc": "2026-10-14 06:41:18 UTC",
+    "fetched_at_ist": "2026-10-14 12:11:18 IST",
     "item_count": 5,
-    "content_hash": "0e9a865c6eba671f223c9ae7d86056f6618cd3c1846c9c2a5763e9498925200f",
-    "previous_hash": "36d4717e35b4ceb651926bfc16b1cca296fc338d31b35aa36b4faefa98582a22",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "8bbebcfd05e3a928826779acf910ac8461f1a310042d2719fa6663f494ab7ec1",
+    "previous_hash": "0e9a865c6eba671f223c9ae7d86056f6618cd3c1846c9c2a5763e9498925200f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50082470,
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 102,
+      "comments": 32
+    },
+    {
       "id": 50073879,
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "score": 987,
-      "comments": 752
+      "score": 1201,
+      "comments": 849
     },
     {
-      "id": 50077020,
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 262,
-      "comments": 81
+      "id": 50045147,
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 70,
+      "comments": 9
     },
     {
       "id": 50054092,
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 433,
-      "comments": 319
+      "score": 607,
+      "comments": 401
     },
     {
-      "id": 50080275,
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "score": 44,
-      "comments": 27
-    },
-    {
-      "id": 50073633,
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 540,
-      "comments": 523
+      "id": 50077020,
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 383,
+      "comments": 100
     }
   ]
 }
