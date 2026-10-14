@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-14 06:41:18 UTC",
-    "fetched_at_ist": "2026-10-14 12:11:18 IST",
+    "fetched_at_utc": "2026-10-14 23:33:17 UTC",
+    "fetched_at_ist": "2026-10-15 05:03:17 IST",
     "item_count": 5,
-    "content_hash": "8bbebcfd05e3a928826779acf910ac8461f1a310042d2719fa6663f494ab7ec1",
-    "previous_hash": "0e9a865c6eba671f223c9ae7d86056f6618cd3c1846c9c2a5763e9498925200f",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "16b7cfce6bc769f45fcab88bbc2a8f8121e9a07218967cb16c4dd04688f3fe87",
+    "previous_hash": "8bbebcfd05e3a928826779acf910ac8461f1a310042d2719fa6663f494ab7ec1",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50082470,
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 102,
-      "comments": 32
+      "id": 50093568,
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 603,
+      "comments": 158
     },
     {
-      "id": 50073879,
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1201,
-      "comments": 849
+      "id": 50094994,
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 201,
+      "comments": 74
     },
     {
-      "id": 50045147,
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 70,
-      "comments": 9
+      "id": 50095353,
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "score": 128,
+      "comments": 49
     },
     {
-      "id": 50054092,
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 607,
-      "comments": 401
+      "id": 50096142,
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "score": 60,
+      "comments": 8
     },
     {
-      "id": 50077020,
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 383,
-      "comments": 100
+      "id": 50088935,
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "score": 416,
+      "comments": 594
     }
   ]
 }
