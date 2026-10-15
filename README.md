@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-14 23:33:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-15 12:09:13 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **tester-army/e2e**
-- BTC: **$81,854.0** ↓ (-1.58%)
-- HN top story: **Things to know when you get cancer – 2026 Edition**
+- Top GitHub repo: **morluto/rea**
+- BTC: **$80,829.0** ↓ (-3.31%)
+- HN top story: **Things to know when you get cancer**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-10-05 00:03:12 UTC | `b76af3118530` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-14 23:33:17 UTC | `16b7cfce6bc7` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-14 17:24:21 UTC | `99628daf1620` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-10-15 12:09:12 UTC | `8eda1c00e696` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-15 12:09:13 UTC | `e650915c23a4` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-10-15 12:09:12 UTC | `875bbe2c3f1b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-15` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `71` day(s) |
-| Last Commit (IST) | `2026-10-15 07:19:39 IST` |
+| Last Commit (IST) | `2026-10-15 12:15:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-12 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-13 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-10-15 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-15 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,854.0 | -1.58% | 🔴 |
-| Ethereum | $2,442.03 | -2.55% | 🔴 |
-| Solana | $104.9 | -2.26% | 🔴 |
-| Bnb | $730.67 | -1.54% | 🔴 |
+| Bitcoin | $80,829.0 | -3.31% | 🔴 |
+| Ethereum | $2,360.07 | -5.92% | 🔴 |
+| Solana | $102.0 | -5.07% | 🔴 |
+| Bnb | $719.8 | -3.13% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 345 stars today | Next generation e2e testing framework for web and mobile apps. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,171 stars today | The design language that makes your AI harness better at design. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 197 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,894 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 83 stars today | Give your agent CAD superpowers. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 980 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 152 stars today | Developer-first error tracking and performance monitoring |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 245 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 32,282 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 181 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,091 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 398 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding age… |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,027 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 534 stars today | An agentic skills framework & software development methodology that works. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 146 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 902 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 603 | 158 |
-| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 201 | 74 |
-| [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) | 128 | 49 |
-| [Tiny Little Office](https://tinylittleoffice.com/) | 60 | 8 |
-| [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/) | 416 | 594 |
+| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 1513 | 366 |
+| [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 157 | 81 |
+| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 673 | 268 |
+| [Tiny Little Office](https://tinylittleoffice.com/) | 481 | 95 |
+| [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network) | 45 | 16 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
