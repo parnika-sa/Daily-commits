@@ -2,26 +2,26 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-10-15 12:09:12 UTC",
-    "fetched_at_ist": "2026-10-15 17:39:12 IST",
-    "item_count": 12,
-    "content_hash": "8eda1c00e696ad20759e0090d0a6065c0dfbabbb8a0320f441ff6339cd6c2e3c",
-    "previous_hash": "b76af31185309cc4e4c8c22a1f0201325fe27bfa511f85e27d47849bc1f5773d",
-    "new_repos_vs_previous": 12,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-10-16 06:01:02 UTC",
+    "fetched_at_ist": "2026-10-16 11:31:02 IST",
+    "item_count": 13,
+    "content_hash": "850ccf73f0c43553fa6a236e8ef177a6b339459fa2ed7441479c4d3b77fa69ec",
+    "previous_hash": "8eda1c00e696ad20759e0090d0a6065c0dfbabbb8a0320f441ff6339cd6c2e3c",
+    "new_repos_vs_previous": 1,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": "32,282 stars today"
+      "stars_today": "32,314 stars today"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "181 stars today"
+      "stars_today": "307 stars today"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -33,55 +33,61 @@
       "name": "JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_today": "398 stars today"
+      "stars_today": "433 stars today"
     },
     {
       "name": "debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": "3,027 stars today"
+      "stars_today": "3,024 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "534 stars today"
+      "stars_today": "582 stars today"
     },
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars_today": "146 stars today"
+      "stars_today": "147 stars today"
     },
     {
       "name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": "902 stars today"
+      "stars_today": "904 stars today"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_today": "1,366 stars today"
+      "stars_today": "1,369 stars today"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,015 stars today"
+      "stars_today": "1,013 stars today"
     },
     {
       "name": "lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "language": "Python",
-      "stars_today": "25 stars today"
+      "stars_today": "30 stars today"
     },
     {
       "name": "xerj-org/xerj",
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "language": "Rust",
-      "stars_today": "725 stars today"
+      "stars_today": "715 stars today"
+    },
+    {
+      "name": "LibreSpark/LibreTV",
+      "description": "一分钟搭建影视站，支持Docker等部署方式",
+      "language": "TypeScript",
+      "stars_today": "978 stars today"
     }
   ]
 }

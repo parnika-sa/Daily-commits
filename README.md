@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-16 01:17:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-16 06:01:03 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **morluto/rea**
-- BTC: **$82,339.0** ↑ (+0.94%)
-- HN top story: **Things to know when you get cancer**
+- BTC: **$82,111.0** ↑ (+1.97%)
+- HN top story: **Muse Spark Open**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-10-15 12:09:12 UTC | `8eda1c00e696` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-15 12:09:13 UTC | `e650915c23a4` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-10-16 01:17:50 UTC | `51a3715faf60` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-10-16 06:01:02 UTC | `850ccf73f0c4` | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-16 06:01:03 UTC | `827eda834e2d` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-16 06:01:02 UTC | `693b78ef1ff2` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +1 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-16` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `71` day(s) |
-| Last Commit (IST) | `2026-10-16 04:32:57 IST` |
+| Last Commit (IST) | `2026-10-16 06:47:51 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-13 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-16 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-10-16 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,339.0 | +0.94% | 🟢 |
-| Ethereum | $2,440.7 | +1.09% | 🟢 |
-| Solana | $105.5 | +1.21% | 🟢 |
-| Bnb | $728.79 | -0.02% | 🔴 |
+| Bitcoin | $82,111.0 | +1.97% | 🟢 |
+| Ethereum | $2,445.8 | +4.18% | 🟢 |
+| Solana | $105.9 | +4.43% | 🟢 |
+| Bnb | $730.15 | +2.40% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 32,282 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 181 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 32,314 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,091 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 398 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding age… |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,027 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 534 stars today | An agentic skills framework & software development methodology that works. |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 146 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 902 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 433 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding age… |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,024 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 582 stars today | An agentic skills framework & software development methodology that works. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 147 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 904 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 1513 | 366 |
-| [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/) | 157 | 81 |
-| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 673 | 268 |
-| [Tiny Little Office](https://tinylittleoffice.com/) | 481 | 95 |
-| [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network) | 45 | 16 |
+| [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | 729 | 381 |
+| [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | 148 | 65 |
+| [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) | 105 | 18 |
+| [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | 100 | 28 |
+| ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/) | 67 | 28 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
