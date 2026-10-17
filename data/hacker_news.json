@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-16 06:01:03 UTC",
-    "fetched_at_ist": "2026-10-16 11:31:03 IST",
+    "fetched_at_utc": "2026-10-17 00:03:52 UTC",
+    "fetched_at_ist": "2026-10-17 05:33:52 IST",
     "item_count": 5,
-    "content_hash": "827eda834e2dc050fdd2da418b25a17b26c2f475e407d0f626b3a3d15c2aba38",
-    "previous_hash": "e650915c23a4a38ffc6011372bc9ae21842dfab14b08621267c7c47661f44389",
+    "content_hash": "908264f6f9e5d3e20517e181ac9fe45ebbd55eb1b6f497052c4cd47c0ae76e2a",
+    "previous_hash": "827eda834e2dc050fdd2da418b25a17b26c2f475e407d0f626b3a3d15c2aba38",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50107379,
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 729,
-      "comments": 381
+      "id": 50112657,
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1113,
+      "comments": 2022
     },
     {
-      "id": 50111852,
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 148,
-      "comments": 65
+      "id": 50122800,
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 600,
+      "comments": 251
     },
     {
-      "id": 50112739,
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 105,
-      "comments": 18
+      "id": 50122431,
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 160,
+      "comments": 44
     },
     {
-      "id": 50112330,
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 100,
-      "comments": 28
+      "id": 50123580,
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 90,
+      "comments": 21
     },
     {
-      "id": 50072119,
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "score": 67,
-      "comments": 28
+      "id": 50118981,
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 244,
+      "comments": 347
     }
   ]
 }

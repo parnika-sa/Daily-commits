@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-16 15:24:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-17 00:03:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **morluto/rea**
-- BTC: **$81,508.0** ↓ (-0.87%)
-- HN top story: **Muse Spark Open**
+- Top GitHub repo: **anthropics/claude-plugins-official**
+- BTC: **$81,517.0** ↓ (-0.79%)
+- HN top story: **Tesla Roadster**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-16 06:01:02 UTC | `850ccf73f0c4` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-16 06:01:03 UTC | `827eda834e2d` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-16 15:24:49 UTC | `a9326a95aee2` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-10-17 00:03:51 UTC | `213864538be2` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-17 00:03:52 UTC | `908264f6f9e5` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-17 00:03:51 UTC | `974361922fa6` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-17` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `72` day(s) |
-| Last Commit (IST) | `2026-10-17 00:21:57 IST` |
+| Last Commit (IST) | `2026-10-17 03:20:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-17 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-10-17 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,508.0 | -0.87% | 🔴 |
-| Ethereum | $2,438.6 | +0.68% | 🟢 |
-| Solana | $104.19 | -1.10% | 🔴 |
-| Bnb | $724.28 | -0.87% | 🔴 |
+| Bitcoin | $81,517.0 | -0.79% | 🔴 |
+| Ethereum | $2,419.66 | -0.83% | 🔴 |
+| Solana | $104.29 | -0.98% | 🔴 |
+| Bnb | $720.49 | -1.10% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 32,314 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,091 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 433 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding age… |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 3,024 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 582 stars today | An agentic skills framework & software development methodology that works. |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 147 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 904 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,552 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,158 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,057 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 281 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 449 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 672 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [android/skills](https://github.com/android/skills) | Kotlin | 36 stars today | No description |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 973 stars today | An agentic skills framework & software development methodology that works. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | 729 | 381 |
-| [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | 148 | 65 |
-| [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) | 105 | 18 |
-| [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | 100 | 28 |
-| ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/) | 67 | 28 |
+| [Tesla Roadster](https://www.tesla.com/roadster) | 1113 | 2022 |
+| [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | 600 | 251 |
+| [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | 160 | 44 |
+| [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) | 90 | 21 |
+| [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) | 244 | 347 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
