@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-17 20:32:03 UTC",
-    "fetched_at_ist": "2026-10-18 02:02:03 IST",
+    "fetched_at_utc": "2026-10-17 22:38:59 UTC",
+    "fetched_at_ist": "2026-10-18 04:08:59 IST",
     "item_count": 5,
-    "content_hash": "ea9e85174257a9973bafc4535f07a9a5b599ef006e08e955e0ab11771b7837c0",
-    "previous_hash": "de7ec2813949457ac97d1f8a34b350f55ea8eece5c47d3b2ba2d9ee2fc496524",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "0a4d5bcd6f673b0eefcee186322a7b8c80468884f3c7bcb0728c79744407cc24",
+    "previous_hash": "ea9e85174257a9973bafc4535f07a9a5b599ef006e08e955e0ab11771b7837c0",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50126253,
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 133,
-      "comments": 17
-    },
-    {
-      "id": 50127586,
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "score": 81,
-      "comments": 49
-    },
-    {
-      "id": 50100366,
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 80,
-      "comments": 13
-    },
-    {
-      "id": 50100994,
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 155,
-      "comments": 34
+      "score": 230,
+      "comments": 37
     },
     {
       "id": 50126312,
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 57,
-      "comments": 10
+      "score": 119,
+      "comments": 31
+    },
+    {
+      "id": 50100994,
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 215,
+      "comments": 45
+    },
+    {
+      "id": 50100366,
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 114,
+      "comments": 20
+    },
+    {
+      "id": 50129045,
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 629,
+      "comments": 542
     }
   ]
 }
