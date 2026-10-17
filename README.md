@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-17 12:24:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-17 18:03:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$81,436.0** ↓ (-1.02%)
-- HN top story: **Ultramarine 1 Flash**
+- BTC: **$81,310.0** ↑ (+0.15%)
+- HN top story: **Linux bugs fixed per release over time: >2× rise since 2026-04**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-17 00:03:51 UTC | `213864538be2` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-17 08:41:29 UTC | `90c1dfbb9c94` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-17 12:24:14 UTC | `f4f437c9d0d1` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-10-17 18:03:16 UTC | `64dccb27fbeb` | +4 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-17 18:03:17 UTC | `de7ec2813949` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-17 18:03:16 UTC | `398f7be6e5c5` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +4 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-17` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `72` day(s) |
-| Last Commit (IST) | `2026-10-17 17:54:15 IST` |
+| Last Commit (IST) | `2026-10-17 21:16:09 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-10-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,436.0 | -1.02% | 🔴 |
-| Ethereum | $2,425.64 | -1.81% | 🔴 |
-| Solana | $104.15 | -2.04% | 🔴 |
-| Bnb | $719.21 | -1.41% | 🔴 |
+| Bitcoin | $81,310.0 | +0.15% | 🟢 |
+| Ethereum | $2,410.22 | -0.00% | 🔴 |
+| Solana | $103.39 | -0.32% | 🔴 |
+| Bnb | $714.38 | -0.95% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,552 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,158 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,057 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 281 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 449 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 672 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [android/skills](https://github.com/android/skills) | Kotlin | 36 stars today | No description |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 973 stars today | An agentic skills framework & software development methodology that works. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,383 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,397 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,145 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 580 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 879 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 208 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [android/skills](https://github.com/android/skills) | Kotlin | 368 stars today | No description |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 829 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | 223 | 66 |
-| [Tesla Roadster](https://www.tesla.com/roadster) | 1408 | 2459 |
-| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 52 | 21 |
-| [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | 280 | 69 |
-| [Intuitive concurrent programming in any language](https://www.lf-lang.org/) | 28 | 4 |
+| [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/) | 30 | 5 |
+| [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) | 151 | 46 |
+| [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/) | 56 | 10 |
+| [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 464 | 456 |
+| [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator) | 11 | 1 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
