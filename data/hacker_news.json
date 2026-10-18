@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-17 22:38:59 UTC",
-    "fetched_at_ist": "2026-10-18 04:08:59 IST",
+    "fetched_at_utc": "2026-10-18 16:38:55 UTC",
+    "fetched_at_ist": "2026-10-18 22:08:55 IST",
     "item_count": 5,
-    "content_hash": "0a4d5bcd6f673b0eefcee186322a7b8c80468884f3c7bcb0728c79744407cc24",
-    "previous_hash": "ea9e85174257a9973bafc4535f07a9a5b599ef006e08e955e0ab11771b7837c0",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "3cd4173813495f0968feca02baf47c3690f968555229c2fb3020d8e5afecbad2",
+    "previous_hash": "0a4d5bcd6f673b0eefcee186322a7b8c80468884f3c7bcb0728c79744407cc24",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50126253,
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 230,
-      "comments": 37
+      "id": 50141076,
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 180,
+      "comments": 24
     },
     {
-      "id": 50126312,
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 119,
-      "comments": 31
+      "id": 50141909,
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 78,
+      "comments": 40
     },
     {
-      "id": 50100994,
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 215,
-      "comments": 45
+      "id": 50139692,
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 150,
+      "comments": 39
     },
     {
-      "id": 50100366,
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 114,
-      "comments": 20
+      "id": 50138531,
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 408,
+      "comments": 202
     },
     {
-      "id": 50129045,
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 629,
-      "comments": 542
+      "id": 50141579,
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "score": 22,
+      "comments": 4
     }
   ]
 }
