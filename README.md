@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-18 16:38:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-19 06:11:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$81,822.0** ↑ (+0.53%)
-- HN top story: **RepRapMicron**
+- Top GitHub repo: **MadsLorentzen/ai-job-search**
+- BTC: **$82,724.0** ↑ (+1.29%)
+- HN top story: **Hybrid Reasoning Agents: LLM agents that think in latent space, act through text**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-17 18:03:16 UTC | `64dccb27fbeb` | +4 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-18 16:38:55 UTC | `3cd417381349` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-18 13:18:47 UTC | `4550aefd4ab7` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 13 | 2026-10-19 06:10:59 UTC | `e317dbb2f0a6` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-19 06:11:00 UTC | `8f46f81ceacf` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-19 06:10:59 UTC | `d39db9ef5db0` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: no
+- GitHub: +4 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-19` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-10-19 04:39:41 IST` |
+| Last Commit (IST) | `2026-10-19 06:41:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-10-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-10-19 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-19 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,822.0 | +0.53% | 🟢 |
-| Ethereum | $2,411.53 | -0.35% | 🔴 |
-| Solana | $103.79 | +0.00% | 🟢 |
-| Bnb | $721.9 | +0.47% | 🟢 |
+| Bitcoin | $82,724.0 | +1.29% | 🟢 |
+| Ethereum | $2,430.88 | +0.87% | 🟢 |
+| Solana | $105.7 | +2.08% | 🟢 |
+| Bnb | $726.97 | +1.06% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,383 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,397 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,145 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 580 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 879 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 208 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [android/skills](https://github.com/android/skills) | Kotlin | 368 stars today | No description |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 829 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 2,232 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,175 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 1,414 stars today | The open source coding agent. |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 350 stars today | Cursor plugin specification and official plugins |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 513 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 512 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,146 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 589 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | 180 | 24 |
-| [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) | 78 | 40 |
-| [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) | 150 | 39 |
-| [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | 408 | 202 |
-| [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/) | 22 | 4 |
+| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | 318 | 163 |
+| [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) | 129 | 34 |
+| [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html) | 11 | 0 |
+| [Agent-Skills.market](https://agent-skills.market/) | 3 | 0 |
+| [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | 281 | 337 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
