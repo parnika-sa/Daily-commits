@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-20 12:10:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-20 20:17:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$81,455.0** ↓ (-1.06%)
+- BTC: **$82,552.0** ↑ (+0.75%)
 - HN top story: **DeepSeek just open-sourced its inference engine**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-10-20 12:10:12 UTC | `b0ab274112a3` | +10 new repos, top changed: no |
 | Hacker News | 5 | 2026-10-20 12:10:17 UTC | `649ac992b4c6` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-20 12:10:12 UTC | `881f3f55b77c` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-10-20 20:17:27 UTC | `e12fb8ad4d52` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-10-20` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| Streak | `74` day(s) |
-| Last Commit (IST) | `2026-10-20 17:40:17 IST` |
+| Date (IST) | `2026-10-21` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-10-20 22:28:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-10-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-10-21 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,455.0 | -1.06% | 🔴 |
-| Ethereum | $2,384.31 | -1.49% | 🔴 |
-| Solana | $104.12 | -0.76% | 🔴 |
-| Bnb | $728.3 | +0.36% | 🟢 |
+| Bitcoin | $82,552.0 | +0.75% | 🟢 |
+| Ethereum | $2,436.36 | +1.58% | 🟢 |
+| Solana | $105.99 | +1.44% | 🟢 |
+| Bnb | $738.75 | +1.55% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
