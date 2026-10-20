@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-20 06:35:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-20 12:10:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$81,847.0** ↑ (+0.91%)
-- HN top story: **OpenBSD 8.0**
+- BTC: **$81,455.0** ↓ (-1.06%)
+- HN top story: **DeepSeek just open-sourced its inference engine**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-19 06:10:59 UTC | `e317dbb2f0a6` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-20 06:35:33 UTC | `c9f4947be27b` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-19 19:17:49 UTC | `462c2e84dfd6` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 15 | 2026-10-20 12:10:12 UTC | `b0ab274112a3` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-20 12:10:17 UTC | `649ac992b4c6` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-20 12:10:12 UTC | `881f3f55b77c` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-20` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `74` day(s) |
-| Last Commit (IST) | `2026-10-20 07:05:54 IST` |
+| Last Commit (IST) | `2026-10-20 12:05:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-10-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-20 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-20 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,847.0 | +0.91% | 🟢 |
-| Ethereum | $2,397.47 | +1.29% | 🟢 |
-| Solana | $103.92 | +1.72% | 🟢 |
-| Bnb | $726.2 | +1.97% | 🟢 |
+| Bitcoin | $81,455.0 | -1.06% | 🔴 |
+| Ethereum | $2,384.31 | -1.49% | 🔴 |
+| Solana | $104.12 | -0.76% | 🔴 |
+| Bnb | $728.3 | +0.36% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 2,232 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,175 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 1,414 stars today | The open source coding agent. |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 350 stars today | Cursor plugin specification and official plugins |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 513 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 512 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,146 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 589 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3,890 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 849 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,559 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,007 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 1,201 stars today | The most powerful and modular diffusion model GUI, api and backend with a graph/… |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 683 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 751 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
+| [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | JavaScript | 1,168 stars today | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every mod… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenBSD 8.0](https://www.openbsd.org/80.html) | 180 | 48 |
-| [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 54 | 5 |
-| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 259 | 54 |
-| [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) | 32 | 18 |
-| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | 435 | 189 |
+| [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | 620 | 215 |
+| [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | 331 | 103 |
+| [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | 124 | 8 |
+| [OpenBSD 8.0](https://www.openbsd.org/80.html) | 342 | 108 |
+| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 514 | 148 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
