@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-19 06:11:00 UTC",
-    "fetched_at_ist": "2026-10-19 11:41:00 IST",
+    "fetched_at_utc": "2026-10-20 01:35:54 UTC",
+    "fetched_at_ist": "2026-10-20 07:05:54 IST",
     "item_count": 5,
-    "content_hash": "8f46f81ceacf3969a76e3ca3f24ec657df772867b38d5abe6b0bd8b2b2db0cf8",
-    "previous_hash": "3cd4173813495f0968feca02baf47c3690f968555229c2fb3020d8e5afecbad2",
+    "content_hash": "87713d160216aba7b30d022db125c218f49204d1d30bd89f682fd2e2a527cf65",
+    "previous_hash": "8f46f81ceacf3969a76e3ca3f24ec657df772867b38d5abe6b0bd8b2b2db0cf8",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50145337,
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "score": 318,
+      "id": 50159993,
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "score": 32,
+      "comments": 2
+    },
+    {
+      "id": 50159616,
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "score": 52,
+      "comments": 41
+    },
+    {
+      "id": 50154540,
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 382,
       "comments": 163
     },
     {
-      "id": 50146625,
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "score": 129,
-      "comments": 34
+      "id": 50150089,
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 384,
+      "comments": 81
     },
     {
-      "id": 50131315,
-      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-      "score": 11,
-      "comments": 0
-    },
-    {
-      "id": 50148882,
-      "title": "Agent-Skills.market",
-      "url": "https://agent-skills.market/",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "id": 50136150,
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "score": 281,
-      "comments": 337
+      "id": 50152307,
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 499,
+      "comments": 168
     }
   ]
 }
