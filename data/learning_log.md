@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-20 (last updated: 07:05 IST)
+
+## 📅 2026-10-20 (last updated: 12:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-19 11:40:59 IST | e317dbb2f0a6 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-20 07:05:54 IST | 87713d160216 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-20 12:05:33 IST | c9f4947be27b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-20 00:47:49 IST | 462c2e84dfd6 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 513 stars today
 
 ### 📰 Hacker News Stories
-- [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) — Score: 32
-- [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack) — Score: 52
-- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) — Score: 382
-- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) — Score: 384
-- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) — Score: 499
+- [OpenBSD 8.0](https://www.openbsd.org/80.html) — Score: 180
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) — Score: 54
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) — Score: 259
+- [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) — Score: 32
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) — Score: 435
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,847.0 🟢 +0.91%
