@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-20 12:10:17 UTC",
-    "fetched_at_ist": "2026-10-20 17:40:17 IST",
+    "fetched_at_utc": "2026-10-21 12:35:43 UTC",
+    "fetched_at_ist": "2026-10-21 18:05:43 IST",
     "item_count": 5,
-    "content_hash": "649ac992b4c6f0cd474f8fade440a030c33e31d20bdf77915391368c60ea22d4",
-    "previous_hash": "c9f4947be27b48906d678a34bbe85724273268346727bd03e782c35c7bcab601",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "72f974a95cb637b6a9523cd017160399cfc79a29fbda677967c51b088b30d610",
+    "previous_hash": "649ac992b4c6f0cd474f8fade440a030c33e31d20bdf77915391368c60ea22d4",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50163277,
-      "title": "DeepSeek just open-sourced its inference engine",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 620,
-      "comments": 215
+      "id": 50177916,
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "score": 298,
+      "comments": 122
     },
     {
-      "id": 50141581,
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 331,
-      "comments": 103
+      "id": 50178455,
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "score": 55,
+      "comments": 22
     },
     {
-      "id": 50162177,
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 124,
-      "comments": 8
+      "id": 50175070,
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 434,
+      "comments": 179
     },
     {
-      "id": 50160494,
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "score": 342,
-      "comments": 108
+      "id": 50172041,
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 1165,
+      "comments": 471
     },
     {
-      "id": 50159341,
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 514,
-      "comments": 148
+      "id": 50177911,
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "score": 424,
+      "comments": 466
     }
   ]
 }

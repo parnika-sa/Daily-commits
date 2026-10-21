@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-21 (last updated: 04:45 IST)
+
+## 📅 2026-10-21 (last updated: 18:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-10-20 17:40:12 IST | b0ab274112a3 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-20 17:40:17 IST | 649ac992b4c6 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-21 18:05:43 IST | 72f974a95cb6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-21 04:45:26 IST | d5c8e100d972 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,201 stars today
 
 ### 📰 Hacker News Stories
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) — Score: 620
-- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) — Score: 331
-- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) — Score: 124
-- [OpenBSD 8.0](https://www.openbsd.org/80.html) — Score: 342
-- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) — Score: 514
+- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) — Score: 298
+- [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) — Score: 55
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) — Score: 434
+- [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) — Score: 1165
+- [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) — Score: 424
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,915.0 🟢 +1.17%
