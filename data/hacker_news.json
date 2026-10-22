@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-21 17:38:40 UTC",
-    "fetched_at_ist": "2026-10-21 23:08:40 IST",
+    "fetched_at_utc": "2026-10-22 02:35:18 UTC",
+    "fetched_at_ist": "2026-10-22 08:05:18 IST",
     "item_count": 5,
-    "content_hash": "f7f2d8b6fcfe57712097186c87a11aa0b583adfb35d5c044f92a8dc318dbf3e5",
-    "previous_hash": "72f974a95cb637b6a9523cd017160399cfc79a29fbda677967c51b088b30d610",
+    "content_hash": "62cb03d51679836ad5b8c8026a2d737e14410d7e0b2004a1e38893d35ed7b949",
+    "previous_hash": "f7f2d8b6fcfe57712097186c87a11aa0b583adfb35d5c044f92a8dc318dbf3e5",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50180873,
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 742,
-      "comments": 309
+      "id": 50189232,
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 234,
+      "comments": 63
     },
     {
-      "id": 50182987,
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 199,
-      "comments": 101
+      "id": 50188948,
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 187,
+      "comments": 88
     },
     {
-      "id": 50181114,
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 168,
-      "comments": 68
+      "id": 50188228,
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 328,
+      "comments": 171
     },
     {
-      "id": 50181136,
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 229,
-      "comments": 26
+      "id": 50186010,
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 220,
+      "comments": 121
     },
     {
-      "id": 50183727,
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "url": "https://rustoffrails.org/",
-      "score": 30,
-      "comments": 20
+      "id": 50185869,
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 257,
+      "comments": 64
     }
   ]
 }

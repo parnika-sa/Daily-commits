@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-22 (last updated: 23:08 IST)
+
+## 📅 2026-10-22 (last updated: 08:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-10-20 17:40:12 IST | b0ab274112a3 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-21 23:08:40 IST | f7f2d8b6fcfe | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-22 08:05:18 IST | 62cb03d51679 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-21 04:45:26 IST | d5c8e100d972 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,201 stars today
 
 ### 📰 Hacker News Stories
-- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35) — Score: 742
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) — Score: 199
-- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) — Score: 168
-- [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200) — Score: 229
-- [Rust off Rails: The opinionated web stack for the AI era](https://rustoffrails.org/) — Score: 30
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) — Score: 234
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) — Score: 187
+- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) — Score: 328
+- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) — Score: 220
+- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) — Score: 257
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,915.0 🟢 +1.17%
