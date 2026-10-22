@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-22 (last updated: 18:52 IST)
+
+## 📅 2026-10-22 (last updated: 23:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-10-20 17:40:12 IST | b0ab274112a3 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-22 08:05:18 IST | 62cb03d51679 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-22 18:52:58 IST | d3aa9cc14165 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-10-22 23:34:43 IST | f2eace01700f | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-22 23:34:44 IST | c44458d8f91e | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-22 23:34:43 IST | ed256b40b9c6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: no
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** (Python) — The job search that runs on your machine. AI job application framework built on   
-  ⭐ 3,890 stars today
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** (JavaScript) — A coding-agent skill for multi-phase security audits with independently verified  
-  ⭐ 849 stars today
-- **[stablyai/orca](https://github.com/stablyai/orca)** (TypeScript) — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code  
-  ⭐ 1,559 stars today
+- **[php/php-src](https://github.com/php/php-src)** (C) — The PHP Interpreter  
+  ⭐ 423 stars today
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
+  ⭐ 303 stars today
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (JavaScript) — Makes your AI agent think like the laziest senior dev in the room. The best code  
-  ⭐ 1,007 stars today
-- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** (Python) — The most powerful and modular diffusion model GUI, api and backend with a graph/  
-  ⭐ 1,201 stars today
+  ⭐ 1,949 stars today
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** (JavaScript) — A coding-agent skill for multi-phase security audits with independently verified  
+  ⭐ 2,979 stars today
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** (Python) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab  
+  ⭐ 1,407 stars today
 
 ### 📰 Hacker News Stories
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) — Score: 234
-- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) — Score: 187
-- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) — Score: 328
-- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) — Score: 220
-- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) — Score: 257
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) — Score: 427
+- [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) — Score: 630
+- [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) — Score: 125
+- [What's Getting Pwned](https://pwn.watch/) — Score: 203
+- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) — Score: 53
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $81,675.0 🔴 -2.41%
-- Ethereum: $2,397.66 🔴 -3.33%
-- Solana: $104.24 🔴 -2.83%
-- Bnb: $732.03 🔴 -1.98%
+- Bitcoin: $81,079.0 🔴 -4.23%
+- Ethereum: $2,375.96 🔴 -5.50%
+- Solana: $103.45 🔴 -4.77%
+- Bnb: $727.8 🔴 -3.07%
 
 ---
 ## 📅 2026-10-21 (last updated: 23:08 IST)

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-22 02:35:18 UTC",
-    "fetched_at_ist": "2026-10-22 08:05:18 IST",
+    "fetched_at_utc": "2026-10-22 18:04:44 UTC",
+    "fetched_at_ist": "2026-10-22 23:34:44 IST",
     "item_count": 5,
-    "content_hash": "62cb03d51679836ad5b8c8026a2d737e14410d7e0b2004a1e38893d35ed7b949",
-    "previous_hash": "f7f2d8b6fcfe57712097186c87a11aa0b583adfb35d5c044f92a8dc318dbf3e5",
+    "content_hash": "c44458d8f91ea8e16758bb3bc7883628d1756a8a70959bf14c89981cfa559ec6",
+    "previous_hash": "62cb03d51679836ad5b8c8026a2d737e14410d7e0b2004a1e38893d35ed7b949",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50189232,
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "score": 234,
-      "comments": 63
+      "id": 50195959,
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 427,
+      "comments": 149
     },
     {
-      "id": 50188948,
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 187,
-      "comments": 88
+      "id": 50195110,
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 630,
+      "comments": 466
     },
     {
-      "id": 50188228,
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 328,
-      "comments": 171
+      "id": 50196718,
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 125,
+      "comments": 46
     },
     {
-      "id": 50186010,
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 220,
-      "comments": 121
+      "id": 50195543,
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "score": 203,
+      "comments": 111
     },
     {
-      "id": 50185869,
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 257,
-      "comments": 64
+      "id": 50197404,
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "score": 53,
+      "comments": 21
     }
   ]
 }

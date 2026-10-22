@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-22 13:22:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-22 18:04:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$81,675.0** ↓ (-2.41%)
-- HN top story: **mitmproxy adds --emudhra option**
+- Top GitHub repo: **php/php-src**
+- BTC: **$81,079.0** ↓ (-4.23%)
+- HN top story: **Quad9 (DNS Resolver) to Exit France**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-10-20 12:10:12 UTC | `b0ab274112a3` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-22 02:35:18 UTC | `62cb03d51679` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-22 13:22:58 UTC | `d3aa9cc14165` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-10-22 18:04:43 UTC | `f2eace01700f` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-22 18:04:44 UTC | `c44458d8f91e` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-22 18:04:43 UTC | `ed256b40b9c6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-22` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `76` day(s) |
-| Last Commit (IST) | `2026-10-22 13:26:41 IST` |
+| Last Commit (IST) | `2026-10-22 18:52:58 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-22 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-10-22 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,675.0 | -2.41% | 🔴 |
-| Ethereum | $2,397.66 | -3.33% | 🔴 |
-| Solana | $104.24 | -2.83% | 🔴 |
-| Bnb | $732.03 | -1.98% | 🔴 |
+| Bitcoin | $81,079.0 | -4.23% | 🔴 |
+| Ethereum | $2,375.96 | -5.50% | 🔴 |
+| Solana | $103.45 | -4.77% | 🔴 |
+| Bnb | $727.8 | -3.07% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3,890 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 849 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,559 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,007 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 1,201 stars today | The most powerful and modular diffusion model GUI, api and backend with a graph/… |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 683 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 751 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
-| [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | JavaScript | 1,168 stars today | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every mod… |
+| [php/php-src](https://github.com/php/php-src) | C | 423 stars today | The PHP Interpreter |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 303 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,949 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 2,979 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,407 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
+| [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 683 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres datab… |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 96 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for prod… |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 370 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) | 234 | 63 |
-| [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | 187 | 88 |
-| [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | 328 | 171 |
-| [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) | 220 | 121 |
-| [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) | 257 | 64 |
+| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | 427 | 149 |
+| [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) | 630 | 466 |
+| [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | 125 | 46 |
+| [What's Getting Pwned](https://pwn.watch/) | 203 | 111 |
+| [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | 53 | 21 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

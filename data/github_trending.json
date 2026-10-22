@@ -2,104 +2,68 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-10-20 12:10:12 UTC",
-    "fetched_at_ist": "2026-10-20 17:40:12 IST",
-    "item_count": 15,
-    "content_hash": "b0ab274112a32859d8374d70adc026147d0a3abf4e2a453e2c9526255a63e54f",
-    "previous_hash": "e317dbb2f0a681df8d03c294f7b76b39ca46ea4d09a15ea1ebad0f5ebcee23ea",
-    "new_repos_vs_previous": 10,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-10-22 18:04:43 UTC",
+    "fetched_at_ist": "2026-10-22 23:34:43 IST",
+    "item_count": 9,
+    "content_hash": "f2eace01700f664889c21bcde39933274f6ff0f7e454127edf8fc574e9493ab4",
+    "previous_hash": "b0ab274112a32859d8374d70adc026147d0a3abf4e2a453e2c9526255a63e54f",
+    "new_repos_vs_previous": 5,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars_today": "3,890 stars today"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": "849 stars today"
-    },
-    {
-      "name": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,559 stars today"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars_today": "1,007 stars today"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "stars_today": "1,201 stars today"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "stars_today": "683 stars today"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "stars_today": "751 stars today"
-    },
-    {
-      "name": "YuJunZhiXue/dsh-purge",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-      "language": "JavaScript",
-      "stars_today": "1,168 stars today"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars_today": "1,256 stars today"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "590 stars today"
-    },
-    {
-      "name": "headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "555 stars today"
+      "name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars_today": "423 stars today"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "262 stars today"
+      "stars_today": "303 stars today"
     },
     {
-      "name": "sickn33/agentic-awesome-skills",
-      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-      "language": "Python",
-      "stars_today": "58 stars today"
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,949 stars today"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "719 stars today"
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": "2,979 stars today"
     },
     {
-      "name": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_today": "98 stars today"
+      "stars_today": "1,407 stars today"
+    },
+    {
+      "name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_today": "683 stars today"
+    },
+    {
+      "name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars_today": "96 stars today"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_today": "370 stars today"
+    },
+    {
+      "name": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars_today": "115 stars today"
     }
   ]
 }
