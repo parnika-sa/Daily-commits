@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-22 02:35:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-22 13:22:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$82,915.0** ↑ (+1.17%)
+- BTC: **$81,675.0** ↓ (-2.41%)
 - HN top story: **mitmproxy adds --emudhra option**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-10-20 12:10:12 UTC | `b0ab274112a3` | +10 new repos, top changed: no |
 | Hacker News | 5 | 2026-10-22 02:35:18 UTC | `62cb03d51679` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-20 23:15:26 UTC | `d5c8e100d972` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-10-22 13:22:58 UTC | `d3aa9cc14165` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-22` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `76` day(s) |
-| Last Commit (IST) | `2026-10-22 08:05:18 IST` |
+| Last Commit (IST) | `2026-10-22 13:26:41 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-22 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-22 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,915.0 | +1.17% | 🟢 |
-| Ethereum | $2,447.83 | +1.79% | 🟢 |
-| Solana | $106.45 | +1.35% | 🟢 |
-| Bnb | $740.63 | +1.20% | 🟢 |
+| Bitcoin | $81,675.0 | -2.41% | 🔴 |
+| Ethereum | $2,397.66 | -3.33% | 🔴 |
+| Solana | $104.24 | -2.83% | 🔴 |
+| Bnb | $732.03 | -1.98% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
