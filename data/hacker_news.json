@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-22 18:04:44 UTC",
-    "fetched_at_ist": "2026-10-22 23:34:44 IST",
+    "fetched_at_utc": "2026-10-22 21:31:22 UTC",
+    "fetched_at_ist": "2026-10-23 03:01:22 IST",
     "item_count": 5,
-    "content_hash": "c44458d8f91ea8e16758bb3bc7883628d1756a8a70959bf14c89981cfa559ec6",
-    "previous_hash": "62cb03d51679836ad5b8c8026a2d737e14410d7e0b2004a1e38893d35ed7b949",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "7169029bfc888040f8e07f70f0737363f8373135b4ac90428e7017ab63c06d29",
+    "previous_hash": "c44458d8f91ea8e16758bb3bc7883628d1756a8a70959bf14c89981cfa559ec6",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50195959,
       "title": "Quad9 (DNS Resolver) to Exit France",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 427,
-      "comments": 149
+      "score": 771,
+      "comments": 292
     },
     {
-      "id": 50195110,
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "score": 630,
-      "comments": 466
+      "id": 50198675,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 201,
+      "comments": 104
     },
     {
-      "id": 50196718,
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "score": 125,
-      "comments": 46
-    },
-    {
-      "id": 50195543,
-      "title": "What's Getting Pwned",
-      "url": "https://pwn.watch/",
-      "score": 203,
-      "comments": 111
+      "id": 50200947,
+      "title": "Arc is being sunset on December 22, 2026",
+      "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+      "score": 21,
+      "comments": 10
     },
     {
       "id": 50197404,
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
-      "score": 53,
-      "comments": 21
+      "score": 163,
+      "comments": 56
+    },
+    {
+      "id": 50196718,
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 253,
+      "comments": 84
     }
   ]
 }
