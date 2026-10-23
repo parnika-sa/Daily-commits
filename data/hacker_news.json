@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-23 09:35:16 UTC",
-    "fetched_at_ist": "2026-10-23 15:05:16 IST",
+    "fetched_at_utc": "2026-10-23 18:33:48 UTC",
+    "fetched_at_ist": "2026-10-24 00:03:48 IST",
     "item_count": 5,
-    "content_hash": "1af254e1a87463a6c8b86f6dc27281176f88c5709a93e76a5a15fd9a93dd9d29",
-    "previous_hash": "f948acc52ecd87f4e1bcda4760bd0e7d8bca0b06cf33ad9c260540c8de6cfdc3",
+    "content_hash": "2f83e7fb6e4c0d7107f119044b4f047bb4759d58522af6e73b7c0595419712ca",
+    "previous_hash": "1af254e1a87463a6c8b86f6dc27281176f88c5709a93e76a5a15fd9a93dd9d29",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50212065,
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 269,
+      "comments": 146
+    },
+    {
+      "id": 50211474,
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 406,
+      "comments": 250
+    },
+    {
       "id": 50202285,
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 360,
-      "comments": 89
+      "score": 1003,
+      "comments": 195
     },
     {
-      "id": 50202681,
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "score": 467,
-      "comments": 216
+      "id": 50211746,
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "score": 45,
+      "comments": 17
     },
     {
-      "id": 50201445,
-      "title": "How does Fable 5.1 hide messages in images?",
-      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-      "score": 84,
-      "comments": 23
-    },
-    {
-      "id": 50195002,
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "url": "https://arxiv.org/abs/2603.01092",
-      "score": 55,
-      "comments": 5
-    },
-    {
-      "id": 50203161,
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "score": 170,
-      "comments": 98
+      "id": 50207910,
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 49,
+      "comments": 16
     }
   ]
 }
