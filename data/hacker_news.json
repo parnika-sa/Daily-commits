@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-23 00:09:14 UTC",
-    "fetched_at_ist": "2026-10-23 05:39:14 IST",
+    "fetched_at_utc": "2026-10-23 04:42:59 UTC",
+    "fetched_at_ist": "2026-10-23 10:12:59 IST",
     "item_count": 5,
-    "content_hash": "0d9e88ffb1a39054e45aacee74e94279a4f1b16f9eb8b3e57f4529d02525c93e",
-    "previous_hash": "7169029bfc888040f8e07f70f0737363f8373135b4ac90428e7017ab63c06d29",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "f948acc52ecd87f4e1bcda4760bd0e7d8bca0b06cf33ad9c260540c8de6cfdc3",
+    "previous_hash": "0d9e88ffb1a39054e45aacee74e94279a4f1b16f9eb8b3e57f4529d02525c93e",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 50202681,
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 248,
+      "comments": 127
+    },
+    {
+      "id": 50202217,
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 209,
+      "comments": 117
+    },
     {
       "id": 50195959,
       "title": "Quad9 (DNS Resolver) to Exit France",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 953,
-      "comments": 344
+      "score": 1068,
+      "comments": 381
     },
     {
-      "id": 50198675,
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 277,
-      "comments": 143
+      "id": 50173516,
+      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "score": 50,
+      "comments": 28
     },
     {
-      "id": 50194833,
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "score": 446,
-      "comments": 445
-    },
-    {
-      "id": 50197404,
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "score": 216,
-      "comments": 79
-    },
-    {
-      "id": 50197313,
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "score": 206,
-      "comments": 248
+      "id": 50162431,
+      "title": "The Secret Life of Circuits is now in stock everywhere",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "score": 61,
+      "comments": 14
     }
   ]
 }
