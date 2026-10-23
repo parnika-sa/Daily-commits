@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-23 (last updated: 10:12 IST)
+
+## 📅 2026-10-23 (last updated: 15:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-10-23 05:39:13 IST | 07c8297ead21 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-23 10:12:59 IST | f948acc52ecd | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-23 15:05:16 IST | 1af254e1a874 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-23 05:39:13 IST | d0e9c8c48da7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,408 stars today
 
 ### 📰 Hacker News Stories
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) — Score: 248
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) — Score: 209
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) — Score: 1068
-- [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472) — Score: 50
-- [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now) — Score: 61
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) — Score: 360
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) — Score: 467
+- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) — Score: 84
+- [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) — Score: 55
+- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) — Score: 170
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,233.0 🔴 -3.55%
