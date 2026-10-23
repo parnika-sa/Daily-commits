@@ -2,20 +2,20 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-10-22 18:04:43 UTC",
-    "fetched_at_ist": "2026-10-22 23:34:43 IST",
+    "fetched_at_utc": "2026-10-23 00:09:13 UTC",
+    "fetched_at_ist": "2026-10-23 05:39:13 IST",
     "item_count": 9,
-    "content_hash": "f2eace01700f664889c21bcde39933274f6ff0f7e454127edf8fc574e9493ab4",
-    "previous_hash": "b0ab274112a32859d8374d70adc026147d0a3abf4e2a453e2c9526255a63e54f",
-    "new_repos_vs_previous": 5,
-    "top_repo_changed": true
+    "content_hash": "07c8297ead218d603759771ee0b9d9a6d454b94cd13c693ab772d0ffafc60e2b",
+    "previous_hash": "f2eace01700f664889c21bcde39933274f6ff0f7e454127edf8fc574e9493ab4",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
-      "stars_today": "423 stars today"
+      "stars_today": "287 stars today"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -27,7 +27,7 @@
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": "1,949 stars today"
+      "stars_today": "1,948 stars today"
     },
     {
       "name": "cloudflare/security-audit-skill",
@@ -39,31 +39,31 @@
       "name": "Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_today": "1,407 stars today"
+      "stars_today": "1,408 stars today"
     },
     {
       "name": "supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": "683 stars today"
+      "stars_today": "693 stars today"
     },
     {
       "name": "fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stars_today": "96 stars today"
+      "stars_today": "101 stars today"
     },
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "370 stars today"
+      "stars_today": "177 stars today"
     },
     {
       "name": "Meloong-Git/PCL",
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "language": "Visual Basic .NET",
-      "stars_today": "115 stars today"
+      "stars_today": "119 stars today"
     }
   ]
 }

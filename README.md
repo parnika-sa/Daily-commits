@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-22 21:31:22 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-23 00:09:14 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **php/php-src**
-- BTC: **$81,079.0** ↓ (-4.23%)
+- BTC: **$81,233.0** ↓ (-3.55%)
 - HN top story: **Quad9 (DNS Resolver) to Exit France**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-10-22 18:04:43 UTC | `f2eace01700f` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-22 21:31:22 UTC | `7169029bfc88` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-10-22 18:04:43 UTC | `ed256b40b9c6` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-10-23 00:09:13 UTC | `07c8297ead21` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-23 00:09:14 UTC | `0d9e88ffb1a3` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-10-23 00:09:13 UTC | `d0e9c8c48da7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-23` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-22 23:34:44 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `77` day(s) |
+| Last Commit (IST) | `2026-10-23 03:01:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-22 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-23 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-23 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,079.0 | -4.23% | 🔴 |
-| Ethereum | $2,375.96 | -5.50% | 🔴 |
-| Solana | $103.45 | -4.77% | 🔴 |
-| Bnb | $727.8 | -3.07% | 🔴 |
+| Bitcoin | $81,233.0 | -3.55% | 🔴 |
+| Ethereum | $2,383.89 | -3.82% | 🔴 |
+| Solana | $103.45 | -3.47% | 🔴 |
+| Bnb | $730.02 | -2.46% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [php/php-src](https://github.com/php/php-src) | C | 423 stars today | The PHP Interpreter |
+| [php/php-src](https://github.com/php/php-src) | C | 287 stars today | The PHP Interpreter |
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 303 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,949 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,948 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 2,979 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,407 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
-| [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 683 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres datab… |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 96 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for prod… |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 370 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,408 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
+| [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 693 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres datab… |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 101 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for prod… |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 177 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | 771 | 292 |
-| [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | 201 | 104 |
-| [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes) | 21 | 10 |
-| [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | 163 | 56 |
-| [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | 253 | 84 |
+| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | 953 | 344 |
+| [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | 277 | 143 |
+| [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | 446 | 445 |
+| [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | 216 | 79 |
+| [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 206 | 248 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
