@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-23 21:40:00 UTC",
-    "fetched_at_ist": "2026-10-24 03:10:00 IST",
+    "fetched_at_utc": "2026-10-24 08:36:13 UTC",
+    "fetched_at_ist": "2026-10-24 14:06:13 IST",
     "item_count": 5,
-    "content_hash": "e435f445bfc58e495c0b277f8fedfa4ab69e102688b5f76f7da6df8671cc84c8",
-    "previous_hash": "2f83e7fb6e4c0d7107f119044b4f047bb4759d58522af6e73b7c0595419712ca",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "5497c6cc09c948168fc7c5b901e4213fd5c901cc929538a00dc948fb32675fd6",
+    "previous_hash": "e435f445bfc58e495c0b277f8fedfa4ab69e102688b5f76f7da6df8671cc84c8",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 50218430,
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "score": 100,
+      "comments": 25
+    },
     {
       "id": 50212065,
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 545,
-      "comments": 333
+      "score": 889,
+      "comments": 520
     },
     {
-      "id": 50207910,
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 365,
-      "comments": 134
-    },
-    {
-      "id": 50213925,
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
-      "score": 87,
-      "comments": 26
+      "id": 50217500,
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 179,
+      "comments": 22
     },
     {
       "id": 50211474,
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "score": 615,
-      "comments": 412
+      "score": 860,
+      "comments": 560
     },
     {
-      "id": 50214323,
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "score": 46,
-      "comments": 11
+      "id": 50218195,
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 94,
+      "comments": 7
     }
   ]
 }
