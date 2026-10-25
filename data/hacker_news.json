@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-24 08:36:13 UTC",
-    "fetched_at_ist": "2026-10-24 14:06:13 IST",
+    "fetched_at_utc": "2026-10-25 18:30:12 UTC",
+    "fetched_at_ist": "2026-10-26 00:00:12 IST",
     "item_count": 5,
-    "content_hash": "5497c6cc09c948168fc7c5b901e4213fd5c901cc929538a00dc948fb32675fd6",
-    "previous_hash": "e435f445bfc58e495c0b277f8fedfa4ab69e102688b5f76f7da6df8671cc84c8",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "71d20a5fb3809cd98b0d41d1db534ac3698e687488694f94bb77f9f7db7d5ae0",
+    "previous_hash": "5497c6cc09c948168fc7c5b901e4213fd5c901cc929538a00dc948fb32675fd6",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50218430,
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 100,
-      "comments": 25
+      "id": 50233779,
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 104,
+      "comments": 56
     },
     {
-      "id": 50212065,
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 889,
-      "comments": 520
+      "id": 50233929,
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "score": 102,
+      "comments": 23
     },
     {
-      "id": 50217500,
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 179,
-      "comments": 22
+      "id": 50234232,
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "score": 50,
+      "comments": 3
     },
     {
-      "id": 50211474,
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 860,
-      "comments": 560
+      "id": 50223435,
+      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+      "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+      "score": 19,
+      "comments": 2
     },
     {
-      "id": 50218195,
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 94,
-      "comments": 7
+      "id": 50225695,
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 655,
+      "comments": 624
     }
   ]
 }
