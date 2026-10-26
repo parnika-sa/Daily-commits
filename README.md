@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-25 18:30:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-26 06:07:35 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **php/php-src**
-- BTC: **$80,604.0** ↑ (+1.45%)
-- HN top story: **A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis**
+- Top GitHub repo: **makecindy/cindy**
+- BTC: **$80,117.0** ↓ (-0.47%)
+- HN top story: **Show HN: TitleArt – Make text like it's 1997**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-10-23 00:09:13 UTC | `07c8297ead21` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-25 18:30:12 UTC | `71d20a5fb380` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-25 15:18:05 UTC | `0f1bb1717f08` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 11 | 2026-10-26 06:07:34 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-26 06:07:35 UTC | `d1c4ea1342e9` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-26 06:07:34 UTC | `4ebaa253f5ed` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-26` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-10-26 04:43:13 IST` |
+| Last Commit (IST) | `2026-10-26 06:39:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-23 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-24 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-10-25 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-10-26 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-26 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,604.0 | +1.45% | 🟢 |
-| Ethereum | $2,341.43 | +1.99% | 🟢 |
-| Solana | $101.49 | +2.32% | 🟢 |
-| Bnb | $740.93 | +3.02% | 🟢 |
+| Bitcoin | $80,117.0 | -0.47% | 🔴 |
+| Ethereum | $2,322.58 | -1.05% | 🔴 |
+| Solana | $101.21 | -0.50% | 🔴 |
+| Bnb | $740.79 | -0.23% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [php/php-src](https://github.com/php/php-src) | C | 287 stars today | The PHP Interpreter |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 303 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,948 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 2,979 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,408 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
-| [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 693 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres datab… |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 101 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for prod… |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 177 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 675 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开… |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,317 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 1,592 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 1,092 stars today | The design language that makes your AI harness better at design. |
+| [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 647 stars today | A Tiny biped duck robot 🦆 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 381 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 199 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 51 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around the w… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | 104 | 56 |
-| [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) | 102 | 23 |
-| [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) | 50 | 3 |
-| [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY) | 19 | 2 |
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | 655 | 624 |
+| [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | 81 | 14 |
+| [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | 55 | 9 |
+| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | 485 | 87 |
+| [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | 52 | 18 |
+| [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) | 15 | 0 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
