@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-28 (last updated: 00:10 IST)
+
+## 📅 2026-10-28 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-28 00:10:17 IST | cf177f2ce9b8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-28 04:06:30 IST | 2d8d990299f4 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-10-26 11:37:34 IST | 4ebaa253f5ed | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) — Score: 346
-- [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) — Score: 178
-- [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0) — Score: 209
-- [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/) — Score: 65
-- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) — Score: 336
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) — Score: 610
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) — Score: 591
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) — Score: 127
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) — Score: 109
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) — Score: 40
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,117.0 🔴 -0.47%
@@ -44,10 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $740.79 🔴 -0.23%
 
 ---
-
-
-
-
 ## 📅 2026-10-27 (last updated: 11:37 IST)
 
 ### 🧪 Source Integrity Snapshot
