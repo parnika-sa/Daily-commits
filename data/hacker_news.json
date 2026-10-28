@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-28 01:41:52 UTC",
-    "fetched_at_ist": "2026-10-28 07:11:52 IST",
+    "fetched_at_utc": "2026-10-28 19:33:12 UTC",
+    "fetched_at_ist": "2026-10-29 01:03:12 IST",
     "item_count": 5,
-    "content_hash": "d8e583acfd9b403ff8a95f18b813cc278666d2f1eea4e47c20e9fe4754dbbdda",
-    "previous_hash": "2d8d990299f4a737f3300cb1387c0b6e1d76c0cd265e2fbb851a5145bc4544bd",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "1834338e57751c30bbb587d8bee795cce3229f132568bbe97376eba6d30b2f28",
+    "previous_hash": "d8e583acfd9b403ff8a95f18b813cc278666d2f1eea4e47c20e9fe4754dbbdda",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50261319,
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 729,
-      "comments": 432
+      "id": 50276998,
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 138,
+      "comments": 22
     },
     {
-      "id": 50261998,
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 762,
-      "comments": 228
+      "id": 50276792,
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 490,
+      "comments": 429
     },
     {
-      "id": 50265609,
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 125,
-      "comments": 109
+      "id": 50279308,
+      "title": "Rising rates of colorectal cancer found in nearly all age groups",
+      "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+      "score": 22,
+      "comments": 9
     },
     {
-      "id": 50264857,
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 192,
-      "comments": 102
+      "id": 50274409,
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 288,
+      "comments": 99
     },
     {
-      "id": 50234796,
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "score": 38,
-      "comments": 4
+      "id": 50276940,
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "score": 308,
+      "comments": 493
     }
   ]
 }
