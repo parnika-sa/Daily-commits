@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-29 (last updated: 01:03 IST)
+
+## 📅 2026-10-29 (last updated: 05:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-29 01:03:12 IST | 1834338e5775 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-29 05:01:27 IST | 10c64a765e68 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-10-28 12:54:59 IST | 7f64675b104f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) — Score: 138
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) — Score: 490
-- [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer) — Score: 22
-- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) — Score: 288
-- [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) — Score: 308
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) — Score: 674
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) — Score: 374
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) — Score: 749
+- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) — Score: 55
+- [Why Birds Can Fly over Mount Everest](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864) — Score: 28
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,823.0 🟢 +1.55%
@@ -44,10 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $743.83 🟢 +1.20%
 
 ---
-
-
-
-
 ## 📅 2026-10-28 (last updated: 12:54 IST)
 
 ### 🧪 Source Integrity Snapshot

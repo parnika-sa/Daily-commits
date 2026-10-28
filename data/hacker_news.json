@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-28 19:33:12 UTC",
-    "fetched_at_ist": "2026-10-29 01:03:12 IST",
+    "fetched_at_utc": "2026-10-28 23:31:27 UTC",
+    "fetched_at_ist": "2026-10-29 05:01:27 IST",
     "item_count": 5,
-    "content_hash": "1834338e57751c30bbb587d8bee795cce3229f132568bbe97376eba6d30b2f28",
-    "previous_hash": "d8e583acfd9b403ff8a95f18b813cc278666d2f1eea4e47c20e9fe4754dbbdda",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "10c64a765e68295723b40e48db02d9391786d906ddeed8c4d06b7939e2dc755d",
+    "previous_hash": "1834338e57751c30bbb587d8bee795cce3229f132568bbe97376eba6d30b2f28",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50276998,
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 138,
-      "comments": 22
-    },
-    {
-      "id": 50276792,
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 490,
-      "comments": 429
-    },
-    {
-      "id": 50279308,
-      "title": "Rising rates of colorectal cancer found in nearly all age groups",
-      "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
-      "score": 22,
-      "comments": 9
+      "score": 674,
+      "comments": 152
     },
     {
       "id": 50274409,
       "title": "CNC Stone Carving",
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 288,
-      "comments": 99
+      "score": 374,
+      "comments": 112
     },
     {
-      "id": 50276940,
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 308,
-      "comments": 493
+      "id": 50276792,
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 749,
+      "comments": 608
+    },
+    {
+      "id": 50280722,
+      "title": "The case of the 9 bit AES key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "score": 55,
+      "comments": 26
+    },
+    {
+      "id": 50220975,
+      "title": "Why Birds Can Fly over Mount Everest",
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "score": 28,
+      "comments": 4
     }
   ]
 }
