@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-27 22:36:30 UTC",
-    "fetched_at_ist": "2026-10-28 04:06:30 IST",
+    "fetched_at_utc": "2026-10-28 01:41:52 UTC",
+    "fetched_at_ist": "2026-10-28 07:11:52 IST",
     "item_count": 5,
-    "content_hash": "2d8d990299f4a737f3300cb1387c0b6e1d76c0cd265e2fbb851a5145bc4544bd",
-    "previous_hash": "cf177f2ce9b8d6fb9734a6c9e318601cb59145b9b093050b171e307d6147c8ab",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "d8e583acfd9b403ff8a95f18b813cc278666d2f1eea4e47c20e9fe4754dbbdda",
+    "previous_hash": "2d8d990299f4a737f3300cb1387c0b6e1d76c0cd265e2fbb851a5145bc4544bd",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 50261319,
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 610,
-      "comments": 375
+      "score": 729,
+      "comments": 432
     },
     {
       "id": 50261998,
       "title": "Ghostty 1.4",
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 591,
-      "comments": 179
+      "score": 762,
+      "comments": 228
+    },
+    {
+      "id": 50265609,
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 125,
+      "comments": 109
     },
     {
       "id": 50264857,
       "title": "Tailscale SSH: Investigation and remediation update",
       "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 127,
-      "comments": 75
+      "score": 192,
+      "comments": 102
     },
     {
-      "id": 50264853,
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "score": 109,
-      "comments": 65
-    },
-    {
-      "id": 50265594,
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "score": 40,
-      "comments": 12
+      "id": 50234796,
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "score": 38,
+      "comments": 4
     }
   ]
 }
