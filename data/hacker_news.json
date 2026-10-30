@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-30 06:41:45 UTC",
-    "fetched_at_ist": "2026-10-30 12:11:45 IST",
+    "fetched_at_utc": "2026-10-30 13:34:29 UTC",
+    "fetched_at_ist": "2026-10-30 19:04:29 IST",
     "item_count": 5,
-    "content_hash": "adc781481860cee894595bc03b6e0c86d4b082c3e0358fda1ac3ede2c5ca8040",
-    "previous_hash": "10c64a765e68295723b40e48db02d9391786d906ddeed8c4d06b7939e2dc755d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "859e1b8bb983aa235a5a642dc0822defaff28c580a527d8eb942d2bca643199b",
+    "previous_hash": "adc781481860cee894595bc03b6e0c86d4b082c3e0358fda1ac3ede2c5ca8040",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50301462,
+      "title": "elect.horse",
+      "url": "https://elect.horse/",
+      "score": 254,
+      "comments": 69
+    },
+    {
+      "id": 50302334,
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "score": 450,
+      "comments": 132
+    },
+    {
+      "id": 50301854,
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "score": 87,
+      "comments": 4
+    },
+    {
       "id": 50296470,
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "score": 1090,
-      "comments": 647
+      "score": 1554,
+      "comments": 1024
     },
     {
       "id": 50289418,
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1336,
-      "comments": 363
-    },
-    {
-      "id": 50255343,
-      "title": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
-      "score": 67,
-      "comments": 11
-    },
-    {
-      "id": 50270651,
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "url": "https://github.com/da-luce/astroterm",
-      "score": 69,
-      "comments": 6
-    },
-    {
-      "id": 50273104,
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-      "score": 66,
-      "comments": 6
+      "score": 1573,
+      "comments": 413
     }
   ]
 }

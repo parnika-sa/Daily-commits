@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-30 (last updated: 12:11 IST)
+
+## 📅 2026-10-30 (last updated: 19:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-30 12:11:45 IST | adc781481860 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-30 19:04:29 IST | 859e1b8bb983 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-28 12:54:59 IST | 7f64675b104f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) — Score: 1090
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) — Score: 1336
-- [Cuis: The Modern Smalltalk-80](https://cuis.st/) — Score: 67
-- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) — Score: 69
-- [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) — Score: 66
+- [elect.horse](https://elect.horse/) — Score: 254
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) — Score: 450
+- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) — Score: 87
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) — Score: 1554
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) — Score: 1573
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,823.0 🟢 +1.55%
