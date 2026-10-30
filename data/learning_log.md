@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-30 (last updated: 05:01 IST)
+
+## 📅 2026-10-30 (last updated: 12:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-29 05:01:27 IST | 10c64a765e68 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-10-30 12:11:45 IST | adc781481860 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-28 12:54:59 IST | 7f64675b104f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) — Score: 674
-- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) — Score: 374
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) — Score: 749
-- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) — Score: 55
-- [Why Birds Can Fly over Mount Everest](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864) — Score: 28
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) — Score: 1090
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) — Score: 1336
+- [Cuis: The Modern Smalltalk-80](https://cuis.st/) — Score: 67
+- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) — Score: 69
+- [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) — Score: 66
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,823.0 🟢 +1.55%

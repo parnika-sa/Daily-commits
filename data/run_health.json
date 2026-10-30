@@ -2,16 +2,16 @@
   "schema_version": 2,
   "date_ist": "2026-10-30",
   "target_commits_per_day": 100,
-  "commits_today": 2,
-  "remaining_today": 98,
+  "commits_today": 3,
+  "remaining_today": 97,
   "status": "on-track",
   "streak_days": 82,
   "commit_count_source": "git-history",
   "pending_commit_included": 1,
-  "last_commit_utc": "2026-10-29 21:05:06 UTC",
-  "last_commit_ist": "2026-10-30 02:35:06 IST",
-  "last_data_update_utc": "2026-10-28 23:31:27 UTC",
-  "last_data_update_ist": "2026-10-29 05:01:27 IST",
+  "last_commit_utc": "2026-10-30 00:56:12 UTC",
+  "last_commit_ist": "2026-10-30 06:26:12 IST",
+  "last_data_update_utc": "2026-10-30 06:41:45 UTC",
+  "last_data_update_ist": "2026-10-30 12:11:45 IST",
   "sources": {
     "github": {
       "label": "GitHub Trending",
@@ -26,12 +26,12 @@
     "hacker_news": {
       "label": "Hacker News",
       "item_count": 5,
-      "last_fetch_utc": "2026-10-28 23:31:27 UTC",
-      "last_fetch_ist": "2026-10-29 05:01:27 IST",
-      "content_hash": "10c64a765e68295723b40e48db02d9391786d906ddeed8c4d06b7939e2dc755d",
-      "content_hash_short": "10c64a765e68",
+      "last_fetch_utc": "2026-10-30 06:41:45 UTC",
+      "last_fetch_ist": "2026-10-30 12:11:45 IST",
+      "content_hash": "adc781481860cee894595bc03b6e0c86d4b082c3e0358fda1ac3ede2c5ca8040",
+      "content_hash_short": "adc781481860",
       "change_flag": true,
-      "change_summary": "+2 new stories"
+      "change_summary": "+5 new stories"
     },
     "crypto": {
       "label": "Crypto",
