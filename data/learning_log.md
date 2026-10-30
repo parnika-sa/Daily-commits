@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-31 (last updated: 19:04 IST)
+
+## 📅 2026-10-31 (last updated: 04:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-30 19:04:29 IST | 859e1b8bb983 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-31 04:13:59 IST | 5441802d8e70 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-28 12:54:59 IST | 7f64675b104f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [elect.horse](https://elect.horse/) — Score: 254
-- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) — Score: 450
-- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) — Score: 87
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) — Score: 1554
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) — Score: 1573
+- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm) — Score: 46
+- [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m) — Score: 157
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) — Score: 192
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) — Score: 690
+- [Northflank Breached](https://status.northflank.com) — Score: 318
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,823.0 🟢 +1.55%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $743.83 🟢 +1.20%
 
 ---
-
-
-
 ## 📅 2026-10-30 (last updated: 19:04 IST)
 
 ### 🧪 Source Integrity Snapshot
