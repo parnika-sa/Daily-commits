@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-01 (last updated: 23:59 IST)
+
+## 📅 2026-11-01 (last updated: 06:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-31 04:13:59 IST | 5441802d8e70 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-01 06:04:04 IST | 8fe1556cbb63 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-31 23:59:56 IST | 5aabfeb8d89b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm) — Score: 46
-- [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m) — Score: 157
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) — Score: 192
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) — Score: 690
-- [Northflank Breached](https://status.northflank.com) — Score: 318
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) — Score: 601
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) — Score: 72
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) — Score: 294
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) — Score: 33
+- [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,649.0 🟢 +1.00%
@@ -44,11 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $707.01 🟢 +1.28%
 
 ---
-
-
-
-
-
 ## 📅 2026-10-31 (last updated: 23:59 IST)
 
 ### 🧪 Source Integrity Snapshot

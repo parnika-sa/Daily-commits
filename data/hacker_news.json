@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-30 22:43:59 UTC",
-    "fetched_at_ist": "2026-10-31 04:13:59 IST",
+    "fetched_at_utc": "2026-11-01 00:34:04 UTC",
+    "fetched_at_ist": "2026-11-01 06:04:04 IST",
     "item_count": 5,
-    "content_hash": "5441802d8e703f78ae8d5c3d77906ea724875e1428ecb5e7f4a48182037f546c",
-    "previous_hash": "859e1b8bb983aa235a5a642dc0822defaff28c580a527d8eb942d2bca643199b",
+    "content_hash": "8fe1556cbb6388937ae79c29c3d619fd6b9a8137a44862814c061cfda111a2ca",
+    "previous_hash": "5441802d8e703f78ae8d5c3d77906ea724875e1428ecb5e7f4a48182037f546c",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50310687,
-      "title": "Linode Security Incident",
-      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
-      "score": 46,
-      "comments": 10
+      "id": 50319510,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "score": 601,
+      "comments": 217
     },
     {
-      "id": 50308697,
-      "title": "Bunny CDN Security Incident",
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-      "score": 157,
-      "comments": 34
+      "id": 50320963,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 72,
+      "comments": 28
     },
     {
-      "id": 50307190,
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "score": 192,
-      "comments": 50
+      "id": 50319143,
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 294,
+      "comments": 143
     },
     {
-      "id": 50300683,
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 690,
-      "comments": 435
+      "id": 50320995,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 33,
+      "comments": 12
     },
     {
-      "id": 50305025,
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "score": 318,
-      "comments": 240
+      "id": 50321130,
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "score": 19,
+      "comments": 2
     }
   ]
 }
