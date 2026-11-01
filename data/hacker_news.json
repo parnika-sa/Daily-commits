@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-01 00:34:04 UTC",
-    "fetched_at_ist": "2026-11-01 06:04:04 IST",
+    "fetched_at_utc": "2026-11-01 18:41:31 UTC",
+    "fetched_at_ist": "2026-11-02 00:11:31 IST",
     "item_count": 5,
-    "content_hash": "8fe1556cbb6388937ae79c29c3d619fd6b9a8137a44862814c061cfda111a2ca",
-    "previous_hash": "5441802d8e703f78ae8d5c3d77906ea724875e1428ecb5e7f4a48182037f546c",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "eb02febd05340e942972e23fde5c3c9d551b1b6f81466c229d3e0daf3b3257f1",
+    "previous_hash": "8fe1556cbb6388937ae79c29c3d619fd6b9a8137a44862814c061cfda111a2ca",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50326821,
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "score": 329,
+      "comments": 103
+    },
+    {
       "id": 50319510,
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 601,
-      "comments": 217
+      "score": 1891,
+      "comments": 485
     },
     {
-      "id": 50320963,
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 72,
-      "comments": 28
+      "id": 50327650,
+      "title": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "score": 108,
+      "comments": 62
     },
     {
-      "id": 50319143,
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 294,
-      "comments": 143
+      "id": 50326118,
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "score": 276,
+      "comments": 90
     },
     {
-      "id": 50320995,
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 33,
-      "comments": 12
-    },
-    {
-      "id": 50321130,
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "score": 19,
-      "comments": 2
+      "id": 50327058,
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 81,
+      "comments": 11
     }
   ]
 }
