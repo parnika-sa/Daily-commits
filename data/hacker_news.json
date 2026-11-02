@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-01 18:41:31 UTC",
-    "fetched_at_ist": "2026-11-02 00:11:31 IST",
+    "fetched_at_utc": "2026-11-02 01:39:47 UTC",
+    "fetched_at_ist": "2026-11-02 07:09:47 IST",
     "item_count": 5,
-    "content_hash": "eb02febd05340e942972e23fde5c3c9d551b1b6f81466c229d3e0daf3b3257f1",
-    "previous_hash": "8fe1556cbb6388937ae79c29c3d619fd6b9a8137a44862814c061cfda111a2ca",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "f2e78e34e74643d2d915c2178f9332f2e6ea229d66cf008bf5b748f315b62a4a",
+    "previous_hash": "eb02febd05340e942972e23fde5c3c9d551b1b6f81466c229d3e0daf3b3257f1",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50326821,
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
-      "score": 329,
-      "comments": 103
+      "score": 917,
+      "comments": 178
     },
     {
       "id": 50319510,
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 1891,
-      "comments": 485
+      "score": 2285,
+      "comments": 540
     },
     {
-      "id": 50327650,
-      "title": "Patrick Stewart taught us what good men do with power",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "score": 108,
-      "comments": 62
+      "id": 50299811,
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 94,
+      "comments": 13
     },
     {
-      "id": 50326118,
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "score": 276,
-      "comments": 90
+      "id": 50328896,
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "score": 138,
+      "comments": 249
     },
     {
-      "id": 50327058,
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "score": 81,
-      "comments": 11
+      "id": 50331404,
+      "title": "America on Data Centers: 10k city council comments",
+      "url": "https://www.americansentiment.com/datacenters",
+      "score": 13,
+      "comments": 14
     }
   ]
 }

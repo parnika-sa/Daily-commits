@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-02 (last updated: 03:55 IST)
+
+## 📅 2026-11-02 (last updated: 07:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-02 00:11:31 IST | eb02febd0534 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-02 07:09:47 IST | f2e78e34e746 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-11-02 03:55:49 IST | c0ec17f8a31b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) — Score: 329
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) — Score: 1891
-- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) — Score: 108
-- [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) — Score: 276
-- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml) — Score: 81
+- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) — Score: 917
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) — Score: 2285
+- [Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib) — Score: 94
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) — Score: 138
+- [America on Data Centers: 10k city council comments](https://www.americansentiment.com/datacenters) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,657.0 🟢 +0.17%
