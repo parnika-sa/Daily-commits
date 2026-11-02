@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-02 01:39:47 UTC",
-    "fetched_at_ist": "2026-11-02 07:09:47 IST",
+    "fetched_at_utc": "2026-11-02 18:37:46 UTC",
+    "fetched_at_ist": "2026-11-03 00:07:46 IST",
     "item_count": 5,
-    "content_hash": "f2e78e34e74643d2d915c2178f9332f2e6ea229d66cf008bf5b748f315b62a4a",
-    "previous_hash": "eb02febd05340e942972e23fde5c3c9d551b1b6f81466c229d3e0daf3b3257f1",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "ee2cedeb834b154237cf6424f8c10ad4a19c8d862ce59cd9ceb3dddb81c273c1",
+    "previous_hash": "f2e78e34e74643d2d915c2178f9332f2e6ea229d66cf008bf5b748f315b62a4a",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50326821,
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "score": 917,
-      "comments": 178
+      "id": 50340088,
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://subvocal.company/",
+      "score": 170,
+      "comments": 126
     },
     {
-      "id": 50319510,
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 2285,
-      "comments": 540
+      "id": 50339913,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 54,
+      "comments": 35
     },
     {
-      "id": 50299811,
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "score": 94,
-      "comments": 13
+      "id": 50339397,
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 85,
+      "comments": 55
     },
     {
-      "id": 50328896,
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "score": 138,
-      "comments": 249
+      "id": 50339221,
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "score": 89,
+      "comments": 19
     },
     {
-      "id": 50331404,
-      "title": "America on Data Centers: 10k city council comments",
-      "url": "https://www.americansentiment.com/datacenters",
-      "score": 13,
-      "comments": 14
+      "id": 50338728,
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "score": 100,
+      "comments": 71
     }
   ]
 }
