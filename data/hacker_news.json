@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-02 18:37:46 UTC",
-    "fetched_at_ist": "2026-11-03 00:07:46 IST",
+    "fetched_at_utc": "2026-11-03 21:44:33 UTC",
+    "fetched_at_ist": "2026-11-04 03:14:33 IST",
     "item_count": 5,
-    "content_hash": "ee2cedeb834b154237cf6424f8c10ad4a19c8d862ce59cd9ceb3dddb81c273c1",
-    "previous_hash": "f2e78e34e74643d2d915c2178f9332f2e6ea229d66cf008bf5b748f315b62a4a",
+    "content_hash": "13439cc4e6b298fcf7cab785f2f6d30a1b9159373d1edf2c82c1860b3f18ca5e",
+    "previous_hash": "ee2cedeb834b154237cf6424f8c10ad4a19c8d862ce59cd9ceb3dddb81c273c1",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50340088,
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://subvocal.company/",
-      "score": 170,
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 489,
+      "comments": 192
+    },
+    {
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 208,
+      "comments": 93
+    },
+    {
+      "id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 376,
       "comments": 126
     },
     {
-      "id": 50339913,
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 54,
-      "comments": 35
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 808,
+      "comments": 266
     },
     {
-      "id": 50339397,
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 85,
-      "comments": 55
-    },
-    {
-      "id": 50339221,
-      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 89,
-      "comments": 19
-    },
-    {
-      "id": 50338728,
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "score": 100,
-      "comments": 71
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 324,
+      "comments": 131
     }
   ]
 }
