@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-03 21:44:33 UTC",
-    "fetched_at_ist": "2026-11-04 03:14:33 IST",
+    "fetched_at_utc": "2026-11-04 01:40:27 UTC",
+    "fetched_at_ist": "2026-11-04 07:10:27 IST",
     "item_count": 5,
-    "content_hash": "13439cc4e6b298fcf7cab785f2f6d30a1b9159373d1edf2c82c1860b3f18ca5e",
-    "previous_hash": "ee2cedeb834b154237cf6424f8c10ad4a19c8d862ce59cd9ceb3dddb81c273c1",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c13218fc5a2d56fbbd56972a53320dfde1b23321ce9ccfdf1b098873eb350a67",
+    "previous_hash": "13439cc4e6b298fcf7cab785f2f6d30a1b9159373d1edf2c82c1860b3f18ca5e",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50339288,
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 489,
-      "comments": 192
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 100,
+      "comments": 2
     },
     {
       "id": 50354358,
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "url": "https://neufangled.com/",
-      "score": 208,
-      "comments": 93
+      "score": 377,
+      "comments": 142
     },
     {
-      "id": 50355251,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 376,
-      "comments": 126
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 612,
+      "comments": 245
     },
     {
-      "id": 50354960,
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 808,
-      "comments": 266
+      "id": 50346755,
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 167,
+      "comments": 36
     },
     {
-      "id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 324,
-      "comments": 131
+      "id": 50333131,
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "score": 102,
+      "comments": 19
     }
   ]
 }

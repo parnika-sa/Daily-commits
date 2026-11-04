@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-04 (last updated: 03:14 IST)
+
+## 📅 2026-11-04 (last updated: 07:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-04 03:14:33 IST | 13439cc4e6b2 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-04 07:10:27 IST | c13218fc5a2d | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-03 06:45:53 IST | be5efe7666e6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) — Score: 489
-- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) — Score: 208
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — Score: 376
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) — Score: 808
-- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) — Score: 324
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) — Score: 100
+- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) — Score: 377
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) — Score: 612
+- [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) — Score: 167
+- [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/) — Score: 102
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,135.0 🔴 -1.62%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $699.03 🔴 -2.04%
 
 ---
-
-
-
 ## 📅 2026-11-03 (last updated: 06:45 IST)
 
 ### 🧪 Source Integrity Snapshot
