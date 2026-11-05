@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-04 01:40:27 UTC",
-    "fetched_at_ist": "2026-11-04 07:10:27 IST",
+    "fetched_at_utc": "2026-11-05 22:31:57 UTC",
+    "fetched_at_ist": "2026-11-06 04:01:57 IST",
     "item_count": 5,
-    "content_hash": "c13218fc5a2d56fbbd56972a53320dfde1b23321ce9ccfdf1b098873eb350a67",
-    "previous_hash": "13439cc4e6b298fcf7cab785f2f6d30a1b9159373d1edf2c82c1860b3f18ca5e",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "71e07c1d4f0816ecefb5e0294d1ed976d1b638690adbe2936f728cb095b39353",
+    "previous_hash": "c13218fc5a2d56fbbd56972a53320dfde1b23321ce9ccfdf1b098873eb350a67",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50358702,
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 100,
-      "comments": 2
+      "id": 50383740,
+      "title": "Kagi Search for Everyone",
+      "url": "https://kagi.com/changelog",
+      "score": 257,
+      "comments": 132
     },
     {
-      "id": 50354358,
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 377,
-      "comments": 142
+      "id": 50384233,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 139,
+      "comments": 40
     },
     {
-      "id": 50339288,
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 612,
-      "comments": 245
+      "id": 50378228,
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "score": 2146,
+      "comments": 539
     },
     {
-      "id": 50346755,
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "score": 167,
-      "comments": 36
+      "id": 50379704,
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "score": 521,
+      "comments": 105
     },
     {
-      "id": 50333131,
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "score": 102,
-      "comments": 19
+      "id": 50383057,
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "score": 130,
+      "comments": 44
     }
   ]
 }
