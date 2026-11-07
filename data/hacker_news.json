@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-05 22:31:57 UTC",
-    "fetched_at_ist": "2026-11-06 04:01:57 IST",
+    "fetched_at_utc": "2026-11-07 22:44:48 UTC",
+    "fetched_at_ist": "2026-11-08 04:14:48 IST",
     "item_count": 5,
-    "content_hash": "71e07c1d4f0816ecefb5e0294d1ed976d1b638690adbe2936f728cb095b39353",
-    "previous_hash": "c13218fc5a2d56fbbd56972a53320dfde1b23321ce9ccfdf1b098873eb350a67",
+    "content_hash": "2730441d5c3212c0dc442264f8253bc10c1f4bd56b6450edb593473bd3b05f9b",
+    "previous_hash": "71e07c1d4f0816ecefb5e0294d1ed976d1b638690adbe2936f728cb095b39353",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50383740,
-      "title": "Kagi Search for Everyone",
-      "url": "https://kagi.com/changelog",
-      "score": 257,
-      "comments": 132
+      "id": 50406563,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "score": 283,
+      "comments": 160
     },
     {
-      "id": 50384233,
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "score": 139,
-      "comments": 40
+      "id": 50406670,
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 231,
+      "comments": 52
     },
     {
-      "id": 50378228,
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "score": 2146,
-      "comments": 539
+      "id": 50406111,
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "score": 272,
+      "comments": 181
     },
     {
-      "id": 50379704,
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "score": 521,
-      "comments": 105
+      "id": 50406292,
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "score": 160,
+      "comments": 34
     },
     {
-      "id": 50383057,
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "score": 130,
-      "comments": 44
+      "id": 50406222,
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 144,
+      "comments": 37
     }
   ]
 }
