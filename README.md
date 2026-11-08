@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-08 15:26:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-08 23:18:35 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **makecindy/cindy**
-- BTC: **$75,941.0** ↑ (+0.16%)
+- BTC: **$75,382.0** ↓ (-0.41%)
 - HN top story: **The end of Microsoft Research's AI Frontiers group**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 06:07:34 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-07 22:44:48 UTC | `2730441d5c32` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-08 15:26:50 UTC | `156b93845826` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-11-08 23:18:35 UTC | `fc4374ae7941` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-11-09` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-11-08 20:56:51 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `90` day(s) |
+| Last Commit (IST) | `2026-11-09 01:21:10 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-11-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-11-09 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-11-09 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,941.0 | +0.16% | 🟢 |
-| Ethereum | $2,236.53 | -0.22% | 🔴 |
-| Solana | $89.55 | -0.13% | 🔴 |
-| Bnb | $696.51 | +0.37% | 🟢 |
+| Bitcoin | $75,382.0 | -0.41% | 🔴 |
+| Ethereum | $2,157.69 | -3.33% | 🔴 |
+| Solana | $87.92 | -1.55% | 🔴 |
+| Bnb | $690.68 | -0.52% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
