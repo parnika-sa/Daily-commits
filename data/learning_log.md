@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-09 (last updated: 04:48 IST)
+
+## 📅 2026-11-09 (last updated: 16:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-08 04:14:48 IST | 2730441d5c32 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-09 16:11:56 IST | 9d76cbfad183 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-09 04:48:35 IST | fc4374ae7941 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) — Score: 283
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) — Score: 231
-- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) — Score: 272
-- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe) — Score: 160
-- [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) — Score: 144
+- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162) — Score: 91
+- [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/) — Score: 7
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) — Score: 375
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) — Score: 511
+- [PixelOS](https://pixelos.net/) — Score: 43
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,382.0 🔴 -0.41%
