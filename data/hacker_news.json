@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-10 03:31:00 UTC",
-    "fetched_at_ist": "2026-11-10 09:01:00 IST",
+    "fetched_at_utc": "2026-11-12 22:44:22 UTC",
+    "fetched_at_ist": "2026-11-13 04:14:22 IST",
     "item_count": 5,
-    "content_hash": "f363aad83e7dfb774d2753b6d58f4e38b5fc0188ac3f2f53bc89a535ec4e189b",
-    "previous_hash": "9d76cbfad18327f7ab6580da54d099cc9b65b0b8979186cc815e794395823443",
+    "content_hash": "6b18cf255fdc486d5cd7214677c61e2b5b1caa3e5341c2842e0f1ca413af6b8f",
+    "previous_hash": "f363aad83e7dfb774d2753b6d58f4e38b5fc0188ac3f2f53bc89a535ec4e189b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50429068,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 251,
-      "comments": 626
+      "id": 50467087,
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 2613,
+      "comments": 2513
     },
     {
-      "id": 50431058,
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 516,
-      "comments": 266
+      "id": 50472038,
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 240,
+      "comments": 124
     },
     {
-      "id": 50429734,
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 295,
-      "comments": 22
+      "id": 50472260,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 200,
+      "comments": 47
     },
     {
-      "id": 50427362,
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 482,
-      "comments": 266
+      "id": 50474361,
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "score": 51,
+      "comments": 8
     },
     {
-      "id": 50424581,
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 877,
-      "comments": 141
+      "id": 50472490,
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 146,
+      "comments": 62
     }
   ]
 }
