@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-12 22:44:22 UTC",
-    "fetched_at_ist": "2026-11-13 04:14:22 IST",
+    "fetched_at_utc": "2026-11-14 16:39:41 UTC",
+    "fetched_at_ist": "2026-11-14 22:09:41 IST",
     "item_count": 5,
-    "content_hash": "6b18cf255fdc486d5cd7214677c61e2b5b1caa3e5341c2842e0f1ca413af6b8f",
-    "previous_hash": "f363aad83e7dfb774d2753b6d58f4e38b5fc0188ac3f2f53bc89a535ec4e189b",
+    "content_hash": "6b68846bec5d03510b09c5b1324e64b985cfe08eb5ab5ffaed8e3ef03bf8f385",
+    "previous_hash": "6b18cf255fdc486d5cd7214677c61e2b5b1caa3e5341c2842e0f1ca413af6b8f",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50467087,
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 2613,
-      "comments": 2513
+      "id": 50497892,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 42,
+      "comments": 6
     },
     {
-      "id": 50472038,
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 240,
-      "comments": 124
+      "id": 50496976,
+      "title": "KDE: The Documentary on Free Software [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 94,
+      "comments": 1
     },
     {
-      "id": 50472260,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 200,
-      "comments": 47
+      "id": 50440709,
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 335,
+      "comments": 206
     },
     {
-      "id": 50474361,
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "score": 51,
+      "id": 50496811,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 44,
+      "comments": 12
+    },
+    {
+      "id": 50497132,
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 58,
       "comments": 8
-    },
-    {
-      "id": 50472490,
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "score": 146,
-      "comments": 62
     }
   ]
 }
