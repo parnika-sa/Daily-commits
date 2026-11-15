@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-15 (last updated: 22:09 IST)
+
+## 📅 2026-11-15 (last updated: 06:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-14 22:09:41 IST | 6b68846bec5d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-15 06:05:18 IST | 4d589a1a35ce | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-14 15:45:53 IST | 678472b46a55 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) — Score: 42
-- [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) — Score: 94
-- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) — Score: 335
-- [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) — Score: 44
-- [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory) — Score: 58
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) — Score: 582
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) — Score: 602
+- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) — Score: 59
+- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) — Score: 187
+- [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) — Score: 366
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,213.0 🔴 -3.06%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $617.22 🔴 -3.33%
 
 ---
-
-
-
 ## 📅 2026-11-14 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
