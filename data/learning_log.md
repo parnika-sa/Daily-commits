@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-16 (last updated: 20:13 IST)
+
+## 📅 2026-11-16 (last updated: 05:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-15 20:13:16 IST | 9c8f3b9dfb3f | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-16 05:14:04 IST | 1ad1060cc1ad | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-14 15:45:53 IST | 678472b46a55 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) — Score: 69
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) — Score: 1403
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) — Score: 111
-- [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) — Score: 38
-- [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) — Score: 18
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) — Score: 83
+- [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/) — Score: 16
+- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) — Score: 18
+- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) — Score: 104
+- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) — Score: 145
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,213.0 🔴 -3.06%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $617.22 🔴 -3.33%
 
 ---
-
-
-
 ## 📅 2026-11-15 (last updated: 20:13 IST)
 
 ### 🧪 Source Integrity Snapshot
