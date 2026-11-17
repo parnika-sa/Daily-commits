@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-17 (last updated: 08:57 IST)
+
+## 📅 2026-11-17 (last updated: 17:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-16 05:14:04 IST | 1ad1060cc1ad | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-17 08:57:23 IST | 604298cd3dc5 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-11-17 17:45:45 IST | 88f9e28c8cdb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[makecindy/cindy](https://github.com/makecindy/cindy)** (TypeScript) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) — Score: 145
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,680.0 🔴 -0.65%
-- Ethereum: $1,824.11 🟢 +0.12%
-- Solana: $72.25 🟢 +0.02%
-- Bnb: $592.14 🔴 -0.34%
+- Bitcoin: $64,786.0 🟢 +1.28%
+- Ethereum: $1,811.36 🟢 +0.95%
+- Solana: $73.17 🟢 +3.35%
+- Bnb: $592.69 🟢 +1.07%
 
 ---
 ## 📅 2026-11-16 (last updated: 05:14 IST)
