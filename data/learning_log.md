@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-19 (last updated: 17:45 IST)
+
+## 📅 2026-11-19 (last updated: 14:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-16 05:14:04 IST | 1ad1060cc1ad | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-19 14:14:46 IST | 9b6c7464aa56 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-17 17:45:45 IST | 88f9e28c8cdb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) — Score: 83
-- [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/) — Score: 16
-- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) — Score: 18
-- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) — Score: 104
-- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) — Score: 145
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) — Score: 779
+- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) — Score: 39
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) — Score: 1345
+- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/) — Score: 77
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) — Score: 234
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,786.0 🟢 +1.28%

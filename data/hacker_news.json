@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-15 23:44:04 UTC",
-    "fetched_at_ist": "2026-11-16 05:14:04 IST",
+    "fetched_at_utc": "2026-11-19 08:44:46 UTC",
+    "fetched_at_ist": "2026-11-19 14:14:46 IST",
     "item_count": 5,
-    "content_hash": "1ad1060cc1ad983d9cfc8f9651d21d783a47ea49fd474c7d7e0e864516827e03",
-    "previous_hash": "9c8f3b9dfb3fbd568a0ba51032d9372957967f6f46149b6b90e0ee6dbc8a228d",
+    "content_hash": "9b6c7464aa56b234c726d0251dfac13f39b6c16924d5055572321296179a202f",
+    "previous_hash": "1ad1060cc1ad983d9cfc8f9651d21d783a47ea49fd474c7d7e0e864516827e03",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50511395,
-      "title": "Old Bitly Links Are Being Hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "score": 83,
-      "comments": 43
+      "id": 50552424,
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "score": 779,
+      "comments": 642
     },
     {
-      "id": 50511899,
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-      "score": 16,
-      "comments": 4
+      "id": 50556287,
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 39,
+      "comments": 8
     },
     {
-      "id": 50511806,
-      "title": "Preserving 30 Years of Salon Journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "score": 18,
-      "comments": 4
+      "id": 50547374,
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "score": 1345,
+      "comments": 588
     },
     {
-      "id": 50509837,
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "score": 104,
-      "comments": 29
+      "id": 50556533,
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "score": 77,
+      "comments": 12
     },
     {
-      "id": 50509308,
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "score": 145,
-      "comments": 50
+      "id": 50554038,
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "score": 234,
+      "comments": 77
     }
   ]
 }
