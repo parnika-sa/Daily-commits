@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-21 17:43:16 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-21 22:24:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **makecindy/cindy**
-- BTC: **$57,936.0** ↓ (-6.29%)
+- BTC: **$60,224.0** ↑ (+1.93%)
 - HN top story: **Lean verification of the Riemann Hypothesis**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 06:07:34 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-21 17:43:16 UTC | `e34da61d38e6` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-21 10:28:32 UTC | `0117f0500bb4` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-11-21 22:24:36 UTC | `cd9340059bb7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-11-21` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `100` day(s) |
-| Last Commit (IST) | `2026-11-21 15:58:33 IST` |
+| Date (IST) | `2026-11-22` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-11-21 23:13:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-11-15 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-16 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-17 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-18 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-19 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-20 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-21 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-11-22 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $57,936.0 | -6.29% | 🔴 |
-| Ethereum | $1,637.72 | -6.35% | 🔴 |
-| Solana | $68.19 | -5.19% | 🔴 |
-| Bnb | $524.52 | -8.26% | 🔴 |
+| Bitcoin | $60,224.0 | +1.93% | 🟢 |
+| Ethereum | $1,682.46 | +3.72% | 🟢 |
+| Solana | $70.23 | +1.70% | 🟢 |
+| Bnb | $548.21 | +1.47% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
