@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-21 (last updated: 15:58 IST)
+
+## 📅 2026-11-21 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-21 03:07:51 IST | 31a5307f7d80 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-21 23:13:16 IST | e34da61d38e6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-21 15:58:32 IST | 0117f0500bb4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) — Score: 990
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) — Score: 281
-- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) — Score: 2107
-- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) — Score: 162
-- [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) — Score: 229
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) — Score: 386
+- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) — Score: 310
+- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) — Score: 447
+- [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) — Score: 12
+- [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) — Score: 266
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $57,936.0 🔴 -6.29%
