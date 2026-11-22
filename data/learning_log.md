@@ -4,14 +4,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-22 (last updated: 03:54 IST)
+
+## 📅 2026-11-22 (last updated: 07:55 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-21 23:13:16 IST | e34da61d38e6 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-22 03:54:36 IST | cd9340059bb7 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-11-22 07:55:33 IST | 336bef1d7030 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
@@ -38,15 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) — Score: 266
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $60,224.0 🟢 +1.93%
-- Ethereum: $1,682.46 🟢 +3.72%
-- Solana: $70.23 🟢 +1.70%
-- Bnb: $548.21 🟢 +1.47%
+- Bitcoin: $59,772.0 🟢 +1.55%
+- Ethereum: $1,677.9 🟢 +3.54%
+- Solana: $70.06 🟢 +1.90%
+- Bnb: $545.88 🟢 +1.52%
 
 ---
-
-
-
 ## 📅 2026-11-21 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
