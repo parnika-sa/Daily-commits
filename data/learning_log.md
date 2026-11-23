@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-23 (last updated: 07:55 IST)
+
+## 📅 2026-11-23 (last updated: 09:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-21 23:13:16 IST | e34da61d38e6 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-23 09:04:53 IST | 66432ba8598f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-22 07:55:33 IST | 336bef1d7030 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) — Score: 386
-- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) — Score: 310
-- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) — Score: 447
-- [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/) — Score: 12
-- [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) — Score: 266
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) — Score: 164
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) — Score: 299
+- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) — Score: 83
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) — Score: 390
+- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) — Score: 137
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,772.0 🟢 +1.55%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $545.88 🟢 +1.52%
 
 ---
-
-
-
 ## 📅 2026-11-22 (last updated: 07:55 IST)
 
 ### 🧪 Source Integrity Snapshot
