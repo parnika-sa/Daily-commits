@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-23 13:38:47 UTC",
-    "fetched_at_ist": "2026-11-23 19:08:47 IST",
+    "fetched_at_utc": "2026-11-25 13:44:29 UTC",
+    "fetched_at_ist": "2026-11-25 19:14:29 IST",
     "item_count": 5,
-    "content_hash": "6a8bec760d09359333f3323ff7c63365c9e80d49d70c9cf25bae3f7ef6cb17ab",
-    "previous_hash": "66432ba8598fdbedaa58bda8e0c40e323ebb4e5fe268006ff9501bbe949cc3be",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "3c464a3e57c4d1b707e8a756c659b01a5619b6b8ff24d4d3da9a2d2781cc442d",
+    "previous_hash": "6a8bec760d09359333f3323ff7c63365c9e80d49d70c9cf25bae3f7ef6cb17ab",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50609685,
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "score": 355,
-      "comments": 156
+      "id": 50641171,
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "score": 105,
+      "comments": 52
     },
     {
-      "id": 50610334,
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-      "score": 47,
-      "comments": 25
+      "id": 50638032,
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 530,
+      "comments": 80
     },
     {
-      "id": 50607261,
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 433,
-      "comments": 195
+      "id": 50637220,
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 762,
+      "comments": 432
     },
     {
-      "id": 50606192,
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
-      "score": 653,
-      "comments": 119
+      "id": 50607849,
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "score": 75,
+      "comments": 35
     },
     {
-      "id": 50587750,
-      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-      "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-      "score": 31,
-      "comments": 7
+      "id": 50637686,
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 305,
+      "comments": 132
     }
   ]
 }

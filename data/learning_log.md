@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-25 (last updated: 19:08 IST)
+
+## 📅 2026-11-25 (last updated: 19:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-23 19:08:47 IST | 6a8bec760d09 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-25 19:14:29 IST | 3c464a3e57c4 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-22 07:55:33 IST | 336bef1d7030 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4) — Score: 355
-- [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/) — Score: 47
-- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) — Score: 433
-- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) — Score: 653
-- [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/) — Score: 31
+- [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq) — Score: 105
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) — Score: 530
+- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) — Score: 762
+- [The short age of dragon riders](https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/) — Score: 75
+- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) — Score: 305
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,772.0 🟢 +1.55%
