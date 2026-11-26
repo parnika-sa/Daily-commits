@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-25 13:44:29 UTC",
-    "fetched_at_ist": "2026-11-25 19:14:29 IST",
+    "fetched_at_utc": "2026-11-26 04:36:37 UTC",
+    "fetched_at_ist": "2026-11-26 10:06:37 IST",
     "item_count": 5,
-    "content_hash": "3c464a3e57c4d1b707e8a756c659b01a5619b6b8ff24d4d3da9a2d2781cc442d",
-    "previous_hash": "6a8bec760d09359333f3323ff7c63365c9e80d49d70c9cf25bae3f7ef6cb17ab",
+    "content_hash": "fb22bac9a84be42ab777b8795d9c39f9da4d953d28b053b1dc1a4520fe1e9d44",
+    "previous_hash": "3c464a3e57c4d1b707e8a756c659b01a5619b6b8ff24d4d3da9a2d2781cc442d",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50641171,
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "score": 105,
-      "comments": 52
+      "id": 50646108,
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 1120,
+      "comments": 949
     },
     {
-      "id": 50638032,
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "score": 530,
-      "comments": 80
+      "id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1268,
+      "comments": 532
     },
     {
-      "id": 50637220,
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 762,
-      "comments": 432
+      "id": 50648050,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 345,
+      "comments": 174
     },
     {
-      "id": 50607849,
-      "title": "The short age of dragon riders",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "score": 75,
-      "comments": 35
+      "id": 50598636,
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "score": 21,
+      "comments": 1
     },
     {
-      "id": 50637686,
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "score": 305,
-      "comments": 132
+      "id": 50649864,
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "score": 157,
+      "comments": 71
     }
   ]
 }
