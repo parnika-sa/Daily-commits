@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-26 (last updated: 10:06 IST)
+
+## 📅 2026-11-26 (last updated: 19:56 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-26 10:06:37 IST | fb22bac9a84b | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-22 07:55:33 IST | 336bef1d7030 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-11-26 19:56:53 IST | 5f605b455366 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[makecindy/cindy](https://github.com/makecindy/cindy)** (TypeScript) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) — Score: 157
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,772.0 🟢 +1.55%
-- Ethereum: $1,677.9 🟢 +3.54%
-- Solana: $70.06 🟢 +1.90%
-- Bnb: $545.88 🟢 +1.52%
+- Bitcoin: $60,760.0 🟢 +4.25%
+- Ethereum: $1,701.29 🟢 +3.96%
+- Solana: $71.31 🟢 +6.38%
+- Bnb: $552.35 🟢 +3.29%
 
 ---
 ## 📅 2026-11-25 (last updated: 19:14 IST)
