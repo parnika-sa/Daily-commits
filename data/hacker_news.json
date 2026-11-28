@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-26 04:36:37 UTC",
-    "fetched_at_ist": "2026-11-26 10:06:37 IST",
+    "fetched_at_utc": "2026-11-28 04:42:54 UTC",
+    "fetched_at_ist": "2026-11-28 10:12:54 IST",
     "item_count": 5,
-    "content_hash": "fb22bac9a84be42ab777b8795d9c39f9da4d953d28b053b1dc1a4520fe1e9d44",
-    "previous_hash": "3c464a3e57c4d1b707e8a756c659b01a5619b6b8ff24d4d3da9a2d2781cc442d",
+    "content_hash": "c18692ce2ac497d843403728b66ece4274416164b6fdb78709a697b7c1f4e2b6",
+    "previous_hash": "fb22bac9a84be42ab777b8795d9c39f9da4d953d28b053b1dc1a4520fe1e9d44",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50646108,
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "score": 1120,
-      "comments": 949
+      "id": 50672565,
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "score": 221,
+      "comments": 75
     },
     {
-      "id": 50644817,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1268,
-      "comments": 532
+      "id": 50674218,
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "score": 39,
+      "comments": 4
     },
     {
-      "id": 50648050,
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "score": 345,
-      "comments": 174
+      "id": 50657346,
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "score": 167,
+      "comments": 37
     },
     {
-      "id": 50598636,
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "score": 21,
-      "comments": 1
+      "id": 50643158,
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 375,
+      "comments": 236
     },
     {
-      "id": 50649864,
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "score": 157,
-      "comments": 71
+      "id": 50644213,
+      "title": "Cyberpunk Television Shows",
+      "url": "https://shellzine.net/cyberpunk-television/",
+      "score": 63,
+      "comments": 50
     }
   ]
 }

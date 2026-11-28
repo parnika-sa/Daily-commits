@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-28 (last updated: 19:56 IST)
+
+## 📅 2026-11-28 (last updated: 10:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-26 10:06:37 IST | fb22bac9a84b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-28 10:12:54 IST | c18692ce2ac4 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-26 19:56:53 IST | 5f605b455366 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) — Score: 1120
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) — Score: 1268
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) — Score: 345
-- [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf) — Score: 21
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) — Score: 157
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) — Score: 221
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) — Score: 39
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) — Score: 167
+- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) — Score: 375
+- [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/) — Score: 63
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,760.0 🟢 +4.25%
@@ -44,8 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $552.35 🟢 +3.29%
 
 ---
-
-
 ## 📅 2026-11-27 (last updated: 19:56 IST)
 
 ### 🧪 Source Integrity Snapshot
