@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-28 (last updated: 10:12 IST)
+
+## 📅 2026-11-28 (last updated: 19:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:37:34 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-28 10:12:54 IST | c18692ce2ac4 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-28 19:07:49 IST | 47dc94b1280e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-26 19:56:53 IST | 5f605b455366 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) — Score: 221
-- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) — Score: 39
-- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) — Score: 167
-- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) — Score: 375
-- [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/) — Score: 63
+- [Farewell](https://github.com/p-e-w/heretic/issues/601) — Score: 284
+- [Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/) — Score: 20
+- [Claude Code sabotage: preliminary benchmarking](https://xinyadu.github.io/blog/claude-code-sabotage.html) — Score: 56
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) — Score: 435
+- [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding) — Score: 182
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,760.0 🟢 +4.25%

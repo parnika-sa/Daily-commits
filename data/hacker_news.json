@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-28 04:42:54 UTC",
-    "fetched_at_ist": "2026-11-28 10:12:54 IST",
+    "fetched_at_utc": "2026-11-28 13:37:49 UTC",
+    "fetched_at_ist": "2026-11-28 19:07:49 IST",
     "item_count": 5,
-    "content_hash": "c18692ce2ac497d843403728b66ece4274416164b6fdb78709a697b7c1f4e2b6",
-    "previous_hash": "fb22bac9a84be42ab777b8795d9c39f9da4d953d28b053b1dc1a4520fe1e9d44",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "47dc94b1280ea2025f814365c89411c81c659f28d41d4a02b60b20bb6e6a5af8",
+    "previous_hash": "c18692ce2ac497d843403728b66ece4274416164b6fdb78709a697b7c1f4e2b6",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50672565,
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "score": 221,
-      "comments": 75
+      "id": 50676672,
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "score": 284,
+      "comments": 102
+    },
+    {
+      "id": 50677091,
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "score": 20,
+      "comments": 11
+    },
+    {
+      "id": 50676390,
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "score": 56,
+      "comments": 13
     },
     {
       "id": 50674218,
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "url": "https://unkernel.dev",
-      "score": 39,
-      "comments": 4
+      "score": 435,
+      "comments": 113
     },
     {
-      "id": 50657346,
-      "title": "The Balatro Timeline",
-      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "score": 167,
-      "comments": 37
-    },
-    {
-      "id": 50643158,
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "score": 375,
-      "comments": 236
-    },
-    {
-      "id": 50644213,
-      "title": "Cyberpunk Television Shows",
-      "url": "https://shellzine.net/cyberpunk-television/",
-      "score": 63,
-      "comments": 50
+      "id": 50632052,
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "score": 182,
+      "comments": 23
     }
   ]
 }
